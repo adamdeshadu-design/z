@@ -1,0 +1,540 @@
+.
+Where did Tate pull out two pairs of roller skates?
+I have no idea, but boy are these wacky shoes fun to play tag on.
+Thankfully I convinced Tate to take them off when going to the bathroom at least.
+We end our backroom adventure with a small cup of coffee, just in case we go back and those summoners are still at it with their mediocrity.
+t "Phew, that should be enough to keep me energized throughout this whole ordeal."
+y ec"No kidding, my mind is so clear, I can stuff in ten, no, twenty boring auditions in here."
+t "Thaaat might not be necessary, look."
+The center of the arena is quiet, and not because some first year can't do their weak summons, but because there's nobody there.
+We wait for another minute, still nobody.
+t "You know what that means?"
+y smug"I think I do."
+d "WHAT A...UHMM, INTERESTING AUDITION SESSION PROVIDED BY THE SUMMONERS!"
+d "BOY AM I SAD IT'S ALREADY OVER, ISN'T THAT RIGHT, AIDEN?"
+a "{i}*snooooore*{/i}"
+a "Huh, Wha-"
+a "Are they finally done?"
+a "Good riddance."
+d "MOOOVING ON, IT IS TIME FOR THE SECOND AUDITION SESSION, THIS TIME, FOR THE NEW SORCERERS OF THE YEAR!"
+People all around groan intensely, clearly done with auditions.
+t "Heh, suckers, they don't know this part is actually fun to watch."
+d "THIS YEAR'S TASK WILL BE EXPLAINED BY THE SHARD'S VICE, OLIVER, TO EACH PARTICULAR PARTICIPANT IN PRIVATE BEFORE THEIR MATCH!"
+a "THAT IS A DUMBASS RULE."
+a "{i}Oops, didn't mean to say that to the speaker.{/i}"
+a "WITHOUT FURTHER ADO, LET'S WELCOME OUR FIRST STUDENT IN THE ARENA."
+a"CONNOR."
+y confused"Connor?"
+t "Is that the guy who stole our table in the morning?"
+A German Shepherd wearing a red vest walks casually in the ring.
+y bored"Yep."
+y "The very same."
+a "YOU'RE A BITCH, CONNOR."
+The dog looks up at the announcement tower with a 'are you serious?' expression on his face, along with other confused audience members.
+t "We're not the only ones that recognized him."
+t "Let's see what kind of dummy he'll have to face."
+y confused"Huh, what is she doing there?"
+t "Oh no..."
+t "No no no."
+t "Don't tell me."
+From the other side of the ring, the figure of a tall, gracious white fox comes into view confidently.
+y surprised"He'll have to fight... Merina?"
+What the hell?!
+t "I'm not sure if I should laugh, cry or get mad."
+y awkward"Let's wait and see, maybe she's there to wish him good luck?"
+The bell rings, and I can say for sure now, it is not a good luck encounter.
+I can't quite describe what I'm seeing, since everything is a blur, or more like a blizzard.
+Merina's magic envelops the arena, and she concentrates different attacks, from long range to close, from projectiles to trickery.
+Connor is hanging in pretty strong, using a diverse set of spells as well, but in the end, two minutes is all he could muster.
+Leaving the woman disappointed, but victorious.
+Still, the crowd cheers for him.
+Dallan and Aiden present the next contestant, while Merina resumes her initial position and makes all the extra ice she created in the battle disappear.
+As for me and Tate, we get a little guest waddling over to us.
+y s"Oliver, hey!"
+o "H-hey you two, I'm here to-"
+t "You little double crossing, disloyal little shit!"
+o "Uhm, what?"
+t "You told me it was going to be a hologram of a metal dummy!"
+t "You EVEN told me how to defeat it!"
+o "I-I couldn't tell you the truth!"
+y simple"When did you even get the opportunity to ask?"
+y "He's always around Merina."
+t "I went to his dorm last night."
+o "And he wouldn't leave until I told him something..."
+t "Can't believe you'd betray me like that."
+o "It's against the rules!"
+t "Oh yeah?"
+t "Is this against the rules too?"
+Tate picks the little mouse up with very little effort.
+o "I-I AM PRETTY SURE IT IS!"
+y angry"TATE!"
+y pf"You put your vice leader down or I'm not hanging out with you anymore."
+un suspicious"W-where..."
+un squint"Where are his legs...?"
+un squint"What...?"
+t "..."
+t "{i}*sigh*{/i} I overreacted."
+t "I'm sorry."
+o "I'll forget all about it by next week."
+y simple"So, you came here to explain the rules?"
+o "Y-yes, Tate will be the next one after the guy fighting now."
+t "Neat."
+t "I'm all ears, hurry up."
+o "ermm..."
+o "This needs to be a one on one conversation."
+o "[name], do you mind?"
+t "Yes, he does mind."
+y smug"I'm not going anywhere."
+o "I-I can't-"
+t "Do it or I'll unalphabetize your potion ingredients."
+Oliver visibly cringes and recoils at the thought, and reluctantly starts talking.
+o "Merina will fight you, to test your abilities."
+y simple"That's pretty obvious at this point."
+o "She will be holding back, depending on your abilities."
+o "If you're a close attacker she will use close proximity spells and for range, same principle."
+o "In short, she'll adapt based on her knowledge about your abilities and the way you fight in there."
+y "Seems reasonable enough, at least we won't have to fight a leader at full power."
+t "But how do we win?"
+o "It's not likely you can win against her, but to pass the auditions, you simply have to... not look pathetic, and demonstrate as many abilities as you can."
+t "Great!"
+t "So what technique will she use against me?"
+o "I don't know."
+Tate gives him a sharp stare through squinted eyes.
+o "I-I'm telling the truth! She didn't tell anyone! Not even me!"
+y simple"Is this an unconventional way of conducting the auditions?"
+t "Very."
+y "Then why?"
+o "The Headmaster is watching, as well as the whole academy, so she wanted something a bit more special."
+o "Although, just between us, I believe today first years will have an easier time passing, since she said she will take pity on them."
+o "Mostly because the Headmaster is watching."
+That's reassuring.
+y "Why am I not supposed to know this until my time comes?"
+o "Merina wants students to adapt on the spot, instead of making some kind of plan against her, since, again, you don't have to win, just present your abilities."
+y "Got it, a showcase."
+un squint"But...the legs...where?"
+Tate suddenly grabs my arm and shoulder and shakes me vigorously.
+t "They're done they're done they're done!"
+t "It's my turn!"
+y confused"Huh, what happened to the other guy? I wasn't paying attention?"
+t "I don't know, he probably died, don't care."
+y worried"I care..."
+t "SSSHHHHH!"
+d "I'M SURE HE'LL BE ALRIGHT, NO NEED TO MAKE A FUSS."
+a "STILL, MIGHT HAVE TO ASK FOR SOME PULLED PUNCHES FROM OUR LEADER COLLEAGUE."
+m "Sorry..."
+d "{i}*COUGH COUGH*{/i}"
+d "W-WE'LL CONTINUE WITH THE NEXT FIRST YEAR."
+a "WELCOME OUR LOCAL TROUBLEMAKER, TATE."
+t "Damn it Aiden."
+t "He didn't remember the name I gave him."
+t "No matter, I'll show Merina..."
+y ec"Good luck!"
+pause 1.5
+We watch Tate jump in the arena pit, confidence oozing out of him.
+Before the bell even rings, he starts walking towards Merina, slowly, menacingly.
+Magic particles appearing around him.
+Something about that feels familiar...
+Merina seems to get ready as well, this time, a bit more serious than she was with the previous guys.
+She's not allowed to move until the match officially starts, but nobody seems to have a problem with Tate doing so.
+Probably because Merina can easily fold him like an omelet as soon as the bell rings...
+Does he actually think he can win against a leader?
+un "Absolutely not."
+You're certainly right.
+Although, why are you so confident?
+un "I can feel the magic coming from her, that woman is on a completely different level."
+un "As far as I understand, she's an ice witch, you know how powerful you have to be in a single element to give off that much power?"
+Very?
+un "Very."
+un "Now let's watch the confidence melt away."
+The bell rings.
+Merina doesn't move a muscle still.
+She stands in a proper, innocent position, her hands kept down, only moving to keep her balance.
+Tate on the other hand, wastes no time, instantly teleporting next to her, fingers trying to touch the fox's smooth fur.
+For a moment it looked like it was game over, after all, she doesn't have a teleportation canceling ability, considering she allowed Tate to do it in the first place.
+And all it takes is a touch for her to be thrown out of the arena.
+The winning grin was already on the cat's face.
+How unfortunate he is...
+A small chunk of ice forms between his finger and her fur, millimeters thin, but enough to protect her from his touch.
+The ice gets transported in her stead, falling on Ollie's head, shattering easily on impact.
+o "Ouch."
+That was supposed to be Merina's body if his touch connected...
+You're playing dirty, gatito.
+m "The oldest trick in the book."
+m "You'll have to think of something else."
+Each match has some slightly different rules and limitations for Merina, as Oliver explained.
+Tate teleports away, avoiding an icicle erupting from the ground.
+Seeing how his plan failed, he keeps his distance, and walks in circles around her, trying to find a new idea for attack.
+All the while, more icicles, pillars of ice and snow forms on the ground under his feet, which he has to dodge.
+Since the fight started, Merina has not moved, not her posture, not her hands, only her eyes.
+y simple"I think I understand."
+o "Oh?"
+y "Here, she can only use spells on the ground itself, no projectiles or area of effect, such as blizzards, and she can not move, meaning all her spells are cast with her mind alone."
+o "You caught on very fast."
+o "But you forgot about protection."
+y "Right, she did create that thin barrier."
+y surprised"I wonder if Tate will- !"
+I don't get to finish my words, and the cat takes notice of the same pattern I did, and summons his broom.
+He is now out of harm's way, at least twenty feet off the ground, nice thinking!
+But how will he touch her from all the way over there?
+Another one of my questions was quickly answered by his next move.
+He conjures multiple magic balls, which he carries with him as he flies towards the static fox.
+She blocks each ball with a pillar of ice, she thought that was it, except she forgot about Tate himself...
+The cat, in a drive-by attempt, flies past Merina, extending his arm...
+But he gets engulfed in snow, which slows his momentum before turning into ice.
+The ice shatters a moment later, knocking him to the ground.
+m "Impressive, you were actually pretty close to touching me."
+m "I would be less cautious if I didn't know what that means, so if I were a Nightfallen, victory would already be yours."
+The cat lies on the ground for a moment longer, contemplating whether or not it's worth to continue fighting, but it's clear his hand won't reach her fur, and although he can levitate off the ground and be safe from most of her attacks, in the end it would just waste time.
+t "I ought to take the compliment and leave, right?"
+m "You? Seeing reason and accepting defeat?"
+t "If I understood the rules well enough, this is not a defeat, is it?"
+He gets up with a subtle smile on his face, which Merina matches.
+m "Consider me impressed."
+m "You may go."
+The crowd goes wild as they bow to each other for the last time, and he leaves the ring.
+Maybe he didn't win, but he sure was awesome.
+He runs up to me, toppling a couple of people over in the process... sorry.
+Before he can ask anything, I can tell his toothy smile is just begging for a compliment.
+y ec"You were awesome!"
+t "Yeaaah, I was~"
+y ec"So dynamic, so fast, so smart!"
+t "Stooop, you're making me blush."
+o "It was quite impressive."
+o "I can say right now, you won at least one vote from me."
+t "Heck yeah!"
+t "Hey, [name]?"
+t "Can I ask a favor of you?"
+y s"What is it?"
+t "It's a weird one, but..."
+t "Go easy on Merina, she's obviously holding back, but a recommended student that doesn't know that might go overboard by accident."
+y awkward"O-of course, easy...me... sure."
+t "Thanks."
+I wish was so strong I had to go easy on a leader...
+Dallan's voice cuts our conversation off, time for the next first year.
+d "A SHOW TO REMEMBER, ISN'T THAT RIGHT, MISTER ARGUS?"
+He remains unmoving and emotionless.
+d "RIGHT, AIDEN?"
+a "NEXT ON THE LIST."
+d "SURE, EVERYONE JUST IGNORE ME, I'M OKAY WITH THIS."
+a "WE'RE SKIPPING A FIRST YEAR FOR MEDICAL REASONS, AND JUMP STRAIGHT TO THE NEXT ONE, [NAME] [NAME2]!"
+a "EVERYBODY CHEER."
+a "THIS IS A THREAT."
+I'm glad Aiden goes above and beyond to make me feel good, but God fucking damn it, MEDICAL REASONS?!
+Seriously?
+Why am I not surprised the world fucks me over?
+t "WOOOOOOO!"
+t "GOOD LUCK!"
+y awkward"Thanks..."
+There's no going back, so I jump inside with basically no plans, just as Merina wanted...
+y worried"Oh boy..."
+y "Do I... have a plan?"
+y "Do I have any idea what I'll do?"
+Scribbles...
+Scribbles I'm panicking.
+I'm gonna have a heart attack.
+I only now realize how much trouble I'm in.
+un curious"Why?"
+un "You have one of the most powerful, useful and versatile magic techniques out there!"
+I can't use shit, alright?!
+All I can do is charge my phone, something I haven't even told anyone, since I don't want them to treat me like a living charger.
+And I can make some energy balls.
+Also shock people if I touch them, that's it.
+un squint"Fuuuuuuuck, what did I get myself into..."
+un "I had a feeling you'll end up being a weakling."
+un "The amount of energy in this body is too low to be as powerful as I was hoping..."
+un eyeroll"Fine, I'll make it look like you're doing shit."
+un bored"But I'm not an energy manipulation user, so hopefully nobody realizes I'm actually using lightning."
+Yes, that works!
+un "One condition."
+Anything!
+un "You go there and show me what you can do on your own, when I see you're struggling or embarrassing yourself above the average norm, I'll come in clutch."
+Not a fan of this plan...
+un ang"If you want my help, this is what I'm willing to pitch in."
+un "Now do you accept my offer?"
+un bored"If you don't, I'm not able to cast any spells."
+Yes, yes, fine, as long as I pass.
+I let you cast any spells you want once we start.
+With those final words, the bell rings.
+I was expecting Merina to stand still and wait for me to make the first move, the same way she did with Tate.
+...
+I could not be more wrong.
+In an instant, Merina's smile fades, a powerful explosion erupting around her, creating a field of ice, in the shape of a flower, almost reaching my feet.
+y angry"What the ACTUAL fuck?"
+un tease"Ha haaa, she thinks you're strong, so she needs to be more serious."
+y worried"I hope that's not the case."
+y "First off, I need to find her limitations."
+She creates an ice rapier in her hand, it glows as if imbued with extra magic, a beautiful, yet deadly weapon.
+She dashes towards me, like a graceful skater on ice, except a regular skater doesn't move as fast as a military aircraft.
+un "Let's see you dance, baby boy, the bomb is coming."
+Before I can show off any {i}'dance moves'{/i}, Merina approaches without a notice of slowing down.
+Her sword pointed directly at my chest.
+I already used my speed and strength enchantments, but those are not too useful when I'm struggling not to slip and fall.
+The only thing I manage to do on the now icy ground, is try to fall backwards to avoid the main attack, or try to stop her with my bare hands... but I'm not fast enough even for that.
+I can basically see my life flash before my eyes.
+m "Huh?"
+Her head passes my terrified face, side eyeing my pitiful attempt at blocking, the serious expression turning into worry and confusion on her part.
+Seeing how I'm making no effort on dodging either, she shatters her own sword last second, before the tip touches my skin, continuing her attack with a bare hand.
+Her palm makes contact with my chest, pushing me backwards with the force of a bull, the shockwave from the impact making the snowflakes and sand particles around her dance in the air.
+Thankfully I managed to stop myself right before leaving the ring.
+Merina closes distance again, creating another ice sword in hand, but this time, she's slow enough that I can actually react.
+I dodge down as the blade scrapes the top of my ears.
+I quickly make my way in the center of the arena, just in case she decides to push me again with her unusually high strength.
+She lets me gain the distance I wanted, then turns around and runs again.
+y hurt"Alright, gimmick number one, she uses melee attacks only, so far at least."
+After barely dodging the second attack, I quickly take off my shoes, for extra grip on the ice.
+un simple"Good thinking!"
+un bored"Now your feet can get frostbitten and fall off, making your death much faster!"
+The floor is not changing beside the first layer of ice she created, meaning she has no intention of pinning my feet down with ice, so Scribbles' sarcastic comments are not true.
+This time, I dodge the attack with more impressive acrobatics.
+The adrenaline was enough to make me do my first ever back handspring.
+I hope it looked as impressive as it felt.
+un squint"Are you going to attack sometime today?"
+un "You're supposed to show off your powers."
+I DON'T HAVE ANY USEFUL ONES!
+SO HELP ME ALREADY!
+un eyeroll"Pathetic."
+un "At least I now know you're not completely braindead on top of being weak."
+un bored"Here, when she comes close, just place your hands on the ice."
+I do as he says.
+Merina comes closer at the same alarming speed she did at first, readying her sword.
+An electric current flows through my arms and into the ice below.
+Electric particles can be seen across the whole icy surface the next second, except for right under me.
+A spell like this would obviously be very easy for someone like her to either stop or avoid, but something about the rules of this match make her have to take the whole hit.
+un simple"She probably can't raise her feet off the ice, or create more of it other than physical weapons."
+She falls to one knee.
+Is this my chance? I approach, with my guard still up, ready to touch her to perhaps make her faint with my electricity.
+un bored"{b}MY{/b} electricity."
+Yes... Scribbles' electricity.
+Just ten feet away.
+Suddenly, she raises her hand, creates a spear, and impales me...
+Instead of blood, the tip of the spear shatters on impact, exploding into a wave of ice that covers me whole, the same way it did to Tate earlier.
+un bored"Can't believe you fell for it..."
+un "Luckily, you gave me permission to help you for the whole match, so I can do this!"
+The ice starts to crack, precise electric bolts shooting from my body, setting me free.
+For the audience and my opponent, this process happened in less than a second.
+This time, taken by surprise, Merina didn't have enough time to create a sword, and not enough momentum to swing it as well, so I manage to touch her shoulder.
+Time freezes, everyone, including me, stares in disbelief.
+un "It's not THAT surprising, she was using what? Like, five percent of her power in this match?"
+Still, she gives a light chuckle and makes all the ice evaporate in thin air.
+m "Nicely done, [name]."
+m "If I knew about your electric powers, I might've been inclined to hold back even less."
+y pf"That would not have been preferable."
+m "What are you waiting for?"
+m "Shock me, this way everyone will know for sure you won."
+y simple"No."
+m "Curious decision."
+m "Why so?"
+y s"You spared me earlier too."
+m "Did I?"
+y smug"You stopped your sword before it hit me, if you didn't, it would've been game over from the start."
+y s"My chance of even showing off my powers would've been gone."
+m "Heh, you caught on."
+m "I admit, since I knew almost nothing about you, I decided to go hard from the first start."
+m "I swear I didn't know speed was your weakness."
+y awkward"Yes..speed, speed and only that."
+I take my hand off, and take two steps back.
+We bow to each other, and only then did the crowd dare start making noise, loud resounding cheers.
+I turn back to my seat, a grin across my face, almost as wide as the cat's that was waiting for me.
+Boost of confidence achieved.
+un curious"Why?"
+un ang"You did basically nothing, that was ALL me!"
+You're part of me now, so we're a team!
+un "You do not get to own MY power!"
+t "Holy!"
+t "You were amazing."
+t "You actually did it!"
+t "You got farther than I did!"
+o "That's a recommended student for ya."
+All the sorcerers followed us, including the nerds we made signs earlier, and they were MUCH more powerful than we thought.
+Three of them almost managed to touch Merina.
+Of course, that's not the task that brings you victory, even if Tate and I made it look that way.
+t "Those guys have great tricks up their sleeves..."
+t "Maybe I could take them under my wing and create a nerd elite team..."
+y bored"Doubt that's a good idea."
+t "Don't worry, you'd be their leader!"
+t "And I'd be your king."
+y pf"Tempting, but I must refuse."
+We waited for Aiden and Dallan to present Coal, but his name never came up.
+t "Oh yeah... his device must still be resetting."
+y "Does that mean we have to go to... detention?"
+t "Not if they can't catch us, come on."
+o "Uhm-"
+t "Ollie, if you tell a soul, I'll put powdered milk in your milk."
+o "{i}*gasp*{/i}"
+o "But that would be too much milk per milk!"
+t "Then keep your mouth shut."
+The threat seemed effective, but in the end, futile, since we're met face to face with Dallan and Aiden before we can get out the front gate.
+t "Damn it..."
+a "Where are you going? The practice didn't end."
+y awkward"We just have, uhm, places to be, excuse us-"
+d "Sorry [name], the Headmaster sent us after you as soon as he realized Coal can't participate."
+t "But that's not fair! Coal is awesome!"
+t "If his device was functional right now he'd {i}DEMOLISH{/i} Merina!"
+y simple"I can attest to that."
+a "Until he can ACTUALLY prove it, you two have to be punished, his {i}'holiness'{/i} has spoken."
+y worried"Does that mean Coal won't be accepted if he can't audition?"
+d "Oh no, he'll just have to present his powers in front of the jury after practice, like the good old days."
+y "At least there's that."
+t "Fine, let's go [name]."
+t "I don't have magic to teleport away anyway."
+t "Merina was kind of tough..."
+All the sorcerers followed us, including the nerds we made sign earlier, and they were MUCH more powerful than we thought.
+Three of them almost managed to touch Merina.
+t "Those guys do have great tricks up their sleeves..."
+t "Maybe I could take them under my wing and create a nerd elite team..."
+y pf"Doubt that's a good idea."
+t "Don't worry, you'd be their leader!"
+t "And I'd be your king."
+y bored"Tempting, but I must refuse."
+Finally, Coal is up, we get to see him in action.
+This time, the gimmick was that Merina can only use projectiles to fight, the exact opposite of my match.
+Coal had no problem dodging most attacks.
+At one point, it seemed like he was toying with her.
+The device on his hip starts to glow, brighter and brighter.
+Until a laser beam shoots from it, forcing Merina to use bigger spells to protect herself.
+She throws more icicles, but this time, instead of dodging, Coal creates a barrier around himself, blocking everything.
+He starts making slow steps towards Merina.
+Her limitations of only using ranged attacks, once again, make her very vulnerable.
+After many, many attacks, she manages to crack and ultimately shatters his barrier, a barrage of ice hitting him and throwing him to the ground.
+Instead of getting up, he starts to... turn to dust?
+A moment later, Coal appears next to Merina, hand on her shoulder.
+Nobody was more surprised than her.
+It seems like that device of his is VERY versatile.
+In two minutes he demonstrated high attack power, great protection and utility.
+Everything a sorcerer would ever need.
+t "Nice!"
+t "It seems like everyone that signed my list, managed to show off!"
+y "I doubt the jury will fail them, since they were all awesome."
+t "Not as awesome as us two."
+t "Let's get a move on before anyone changes their mind."
+We say our goodbyes to Oliver and move towards the exit.
+We're met face to face with Dallan and Aiden before we can get out the front gate.
+t "Damn it..."
+a "Where are you going? The practice didn't end."
+y awkward"We just have, uhm, places to be, excuse us-"
+t "You're not here to stop us, are you?"
+d "Nah, we specifically asked the Headmaster if your punishment is officially over, and he said yes!"
+t "Phew."
+y ec"Not getting in detention on the second day of school, big personal achievement."
+t "So then we're officially free men?"
+a "Same as us, since Chelsie took our place."
+a "Thank goodness for that, if I had to listen to the Headmaster's annoyed grunts every time someone failed to win against Merina, I would've gone insane..."
+d "It's probably a long shot to ask this, but would you like to hang with us for the day?"
+d "Aiden is taking me to get a massage."
+d "Never had one of those before, at least not in this town."
+t "You're right, Dallan, it was a long shot, and it missed."
+t "We wouldn't dare disturb your blossoming bromance."
+a "I-it's not like that..."
+y sadsmile"Yeah, sorry, we really need to go."
+a "Are you at least going to tell us what you two keep doing?"
+t "One of these days, probably."
+d "Whatever it is, hope you have fun, and stay out of trouble!"
+y ec"Will do!"
+t "And remember, if you follow me, I will teleport you both to the North Pole and leave you there."
+He said all that with a smile on.
+Scary...
+We leave the guys behind, flying again on Tate's broom, Aiden was shouting profanities after him because of the threat, shaking his fist, but Dallan wouldn't let him take a step towards us.
+y s"How magic consuming is flying for you?"
+t "Almost free."
+t "I charge the broom regularly with magic, so I only need a little bit to actually make it move."
+y "That's handy."
+y simple"Do you think he's hungry again?"
+t "We'll have to check the books to see how often dragons eat."
+y "Wyverns."
+t "I doubt he's up already anyway, we're gonna need to find something to do if he's not."
+y smug"A massage doesn't sound that bad."
+t "I can give you a massage."
+y simple"Do you know how?"
+t "How hard can it be?"
+t "I saw it on TV."
+t "You just rub the other guys back, really well, going further and further down, until you get to the towel."
+t "Then slowly put your hands underneath it, and squeeze gently, then put you fingers in-"
+y simple"I think you watched gay porn."
+t "Yeah... might've been."
+t "It was on Aiden's TV, so I wouldn't be surprised."
+Tate's thrilled expression hints that we're there.
+I can see the vine covered, secret path from here, and even some of the traps we've set.
+The closer we got, the heavier was the feeling that something was wrong...
+We get off the broom and move slowly towards the hidden entrance.
+Small branches and fallen leaves cover the path to the entrance, as well as some tufts of fur, impaled in the few thorns that are only a problem for people who don't know they're there.
+The most appalling fact before our eyes is the disassembled alarm trap we set this morning...
+From inside the hidden clearing, a shout of pain can be heard, in a language we don't recognize, but it's enough to make us act.
+Tate is quick to sprint in action, with me close behind, but a bit reluctant.
+Once the vines are cleared, we come face to face with some masked... people?
+Burglars?
+Nightfallen?
+un "They're Wild Furs you idiot."
+The scream just now was from one of the men, blood gushing out of his arm.
+He was attacked by the wyvern, who's slumber was disturbed.
+These guys are bigger idiots than me...
+But they did manage to restrain it in a net.
+And his {i}'papa'{/i} is not happy.
+t "What the fuck do you think you're doing with him?!"
+wf "Zinvok, hal'gulda, val kharth?"
+wf2 "Khagir, khar'volga! Gath'lok, ulvadar. Zha'mar, mal kara!"
+wf3 "Kha'vath galkasha jor vok!"
+Scribbles! Do you know what they said?!
+un bored"Yeah, they're gonna shoot ya."
+What?
+The next moment, a needle pierces my neck.
+I quickly take it out and throw it to the ground, but it's too late.
+I feel myself become dizzy and lose all power in my limbs.
+y hurt2"T-they...they're in the trees."
+I look over to Tate, he got the same treatment I did, but he is charging at them, instead of... of...{i}*yawn*{/i}
+un simple"Hey!"
+un ang"Hey don't fall asleep!"
+un "I can heal you! I can get the poison out!"
+un "But you have to order me to do it!"
+un "Do you hear me?!"
+y asleep"Scrib..bles... g-goodnight."
+un ang"AGHHH YOU WEAK BITCH!"
+un "These restraints make me weak as well."
+un "Thankfully it's just a sleeping dart, since I don't feel any pain."
+un simple"Now what is that cat doing."
+un "He's very resilient for someone whose magic is at its limits."
+un sidee"Wish I could read his mind..."
+un ang"I can't even hear or see anything, open your damn eyes, mortal!"
+un "Ughh, pathetic..."
+un "I guess I'll just wait until this all ends, hopefully they don't decide to slit your throat while you sleep."
+un "If you die, I'll fucking kill you!"
+wf2 "Gath'lok, ulvadar!"
+ta ang "I have no idea who you are, or why you're here, or HOW you found this place, but I'm not letting you leave with my only real friend in hand."
+There goes another dart in my neck...
+One, two, three, doesn't matter, you can throw everything at me, I'm not going down.
+The strangers are shocked by my resilience, giving me an opportunity to strike.
+No more magic?
+I don't know these words.
+I sprint towards one of the criminals, touch him, and teleport him in the middle of Lake Lacrima, getting right back before I hit the water as well.
+ta ang"Good riddance..."
+ta "Hopefully he'll drown."
+I direct my attention towards the scumbag holding my friend, trying to run towards the trees, he is smaller than the rest.
+Unfortunately, my path is cut by another brute.
+You know what they say when the opponent is much much bigger than you.
+He falls to the ground, clutching his crotch and moaning in agony.
+My mind was racing towards the kidnapper, but my knees were already to the ground.
+In my adrenaline rush, I didn't realize my body was pierced by six other poison darts, after the first two.
+ta "Y-you... you have no..."
+ta "No right."
+ta "GIVE HIM BACK!"
+I watch as the smaller masked man retreats with my friend, keeping him far from his body, to not get even more injured like his partner.
+The last two come out from between the trees to help their partner off the ground, who's still holding his crotch.
+ta cry"please?"
+My vision blurs even more, until it gets dark...
+At least the grass is soft.
+At least I got to feel like the main character of my own story for a minute...
+...
+un simple"..."
+un bored"Hey."
+un ang"HEY!"
+un ang"It's been over an hour already!"
+un "The cat is already up!"
+un "And he got like seven times the amount of sedatives you did!"
+...sleepy.
+un "Then tell me to remove the {i}'sleepy'{/i}!"
+Hghmm...
+Remove... sleep, Scribbles...
+un bored"Finally."
+y surprised"Wha-!"
+In an instant my eyes are wide open and I'm back on my feet.
+Memories of me falling down, and leaving Tate to fend for himself came rushing back.
+I scan the clearing, noticing him standing on his knees

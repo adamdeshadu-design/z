@@ -1,0 +1,579 @@
+?"
+y awkward"M-maybe?"
+t "A... slime?"
+y "...yes..."
+t "You don't seem too sure."
+t "Well, no matter, as long as you have some magic, maybe you can help me out with my little training?"
+y awkward"What kind of training? I'll help with any training!"
+Anything to stop being questioned...
+t "I'm trying to use my magic to teleport things around without touching them."
+y s"That seems pretty useful."
+y "What do you want me to do?"
+t "First off, if I collapse from exhaustion I'll need you to carry me on your back aaaall the way back."
+y bored"Not gonna happen."
+t "Heh, I know, noodle arms, I'm joking."
+He comes closer and starts poking my hands, biceps, armpits and ending with the belly.
+The most vulnerable part... foul play.
+y ec"haha, stop it, stop, T-Tate p-please."
+y angry"I SAID STOP!"
+t "Damn, you're really soft."
+y simple"Thanks?"
+t "But seriously, the thing is, I already have the ability to teleport things at a distance if I hit them with a spell."
+t "Like this."
+He throws a stick up in the air and points his finger at it.
+t "Bang."
+A small ball of light, the size of a marble hits the stick and it disappears-
+Reappearing a couple of feet away.
+y surprised"Woah! That is a super creative usage of your power."
+t "Glad you can see my overwhelming talent."
+t "But I want to do it purely with my MIND!"
+t "I'm not sure what to do exactly to achieve that, and seeing how you're a recommended student-"
+Not this bs again...
+t "I thought you could give me some tips."
+t "That is your role today."
+t "Be my tip guy."
+y awkward"Uhmmm."
+t "Come ooon, give it to me."
+un tease"You heard the guy, give him your tip."
+I don't know any, how could I?
+Please tell me you can help me.
+un curious"You don't know ANY tips?"
+un "Your whole thing revolves around mind magic."
+un ang"The only reason you weren't influenced by MY mind control spell, is because of your supposedly superior mind magic!"
+I didn't ask for an argument, just tell me if you can help or not, I don't want to disappoint him!
+un bored"{i}*sigh*{/i}"
+un "I'm not well versed in transportation spells, but one of the first steps in casting spells with your mind is strong emotions."
+un "At least for beginners."
+un "It would also help to see how much he ACTUALLY knows first."
+y s"Alright, but before that, can you show me how far you've gotten with your efforts until now?"
+t "Certainly, watch this!"
+He picks up some leaves from the ground, takes a deep breath, then throws them in the air.
+As the small, slightly withered leaves descend slowly, he places his fingers on his temples, and directs his bulging eyes towards the falling leaves.
+We both follow them with our gaze...
+t "..."
+y simple"..."
+t "....."
+y bored"So nothing?"
+t "Nothing."
+t "So far!"
+t "But that's why I need your help."
+y simple"Do you even know if mind casting is possible for teleportation?"
+t "Yes, mister Sebil tried to teach me sometime ago, but he gave up fast saying I still need a couple of years of training..."
+t "'Maybe when you're a senior'."
+t "Yeah, sure, like I'm going to wait that long."
+t "Now give me some wisdom, recommended boy!"
+y s"Alright, here is the first share of wisdom."
+y "Strong emotions are a good catalyst for mind spells."
+t "So, I should think of something that evokes strong emotions, huh?"
+y "That's basically it."
+t "Hmm, let me try."
+He does the same thing with the leaves, and the exact same gestures.
+Except that this time, when the leaves fall, he erupts into laughter.
+y simple"What's so funny?"
+y "What were you thinking about?"
+t "AHahaha, s-sorry, hAha."
+t "I was just imagining you naked."
+y blush2"What's so funny about that?"
+t "Oh, you know..."
+y blushmad"Stop saying I know stuff, I literally don't!"
+t "Aww, you're blushing, you're so cute."
+y "..."
+y bored"You're lucky compliments work well on me."
+t "Your tip didn't work, by the way."
+y angry"Well you're not supposed to think of something funny!"
+y simple"I was referring more to anger, sadness, depression, stuff like that."
+t "Hmmm..."
+t "I don't really have things to be unhappy about."
+t "Especially now, since you're here."
+I continue to stay red faced while he winks at me.
+Do you have any other means to help, perhaps?
+Scribbles?
+un bored"Emotional attachment might help, if he tries to teleport something small, with personal value, he might be able to do it."
+y simple"Do you have any small, light object that you care about?"
+t "A lot of things, why?"
+y"Use one of them instead of the leaves, objects with emotional value might be easier to touch with your mind alone."
+t "That makes sense."
+t "Well, let's see..."
+He searches through his pockets, which hold more things than I expected.
+t "I have Merina's hair pin, she gave it to me in my long hair phase."
+y simple"I'd love to see a photo of that."
+t "Aiden's mini dagger's sheath he {i}'lost'{/i} last year."
+y "Hope he doesn't find out you have it."
+t "Dallan's recommendation letter for me."
+y "You just carry that one around?"
+t "Sometimes, because why not?"
+t "Oh, and this."
+He takes out one last item, from an inside pocket in his cropped jacket, a plastic daisy, uncannily perfect, which is exactly what gives away the fact that it's fake.
+t "This was... a gift."
+t "I'll try it with this."
+He ponders throwing it in the air like the leaves, but stops.
+t "Can you..."
+t "Hold this, for a moment."
+y simple"Alright."
+Once again, he takes a deep breath, this time holding it in for longer, with his eyes closed and a serious expression on.
+He concentrates on the daisy in my palms, and it begins to glow a faint light blue shade, rising less than an inch in the air.
+Before disappearing completely, and reappearing in his hands, that are now cupped close to his chest.
+y ec"You did it!"
+It takes a moment for him to realize, but once his eyes lock with the daisy again, he grins.
+t "I did it!"
+y ec"High five!"
+We do a double hand smack as we giggle to the victory.
+t "Mind magic Mind magic Mind magic!"
+y ec"Mind magic Mind magic Mind magic!"
+t "It's probably going to be useless for now, but I'm glad I at least know I can do it."
+t "Might come in clutch at some point."
+t "Thanks for the tips!"
+t "I knew you'd know what to do."
+y s"You're welcome, and hey, it might be useless now, but give it some practice, and maybe you'll be able to teleport other people with your mind!"
+t "Are you sure you'd want that?"
+t "Then my power would be limitless."
+y smug"As long as it makes you happy."
+We sit down on the grass, by the train tracks, as Tate continues to practice teleporting the daisy, the pin, the letter and the dagger sheath from one of my hands to the other, since he's not allowed to touch any of them if we want this to work.
+Every time he does, a laugh crosses his face, a frown or even a tear.
+I suppose Scribbles' emotion tip worked way better than anticipated.
+Although I do wonder what he thinks about every time.
+Minutes pass as we play around and talk about each other's powers.
+Unfortunately my phone charging ability was not as impressive to him as it would've been for almost anyone else, since he doesn't have a phone, and never did.
+Then, his face starts to sour, unexpectedly.
+A bored, melancholic gaze in his eyes.
+t "..."
+t "Sorry I dragged you all the way over here."
+y confused"Huh?"
+y "Why?"
+y "Where is this coming from?"
+t "I don't know..."
+t "Dallan and Aiden were right, I should've played the tour guide more today, since I know so much about the academy from stories and experience, instead of dragging you in the middle of nowhere."
+t "To do whatever we're doing right now."
+t "It's the least I could do after you helped me so much."
+This really took me by surprise.
+I didn't expect this sincerity coming from him.
+He seems genuinely sorry, even if he really shouldn't be.
+un bored"You are very easy to fool, manipulate and gaslight."
+un eyeroll"By anyone but me, apparently."
+un bored"Just you wait until I get my extremely hot body back."
+y sadsmile"I don't think you should've changed anything."
+y "I had fun today, and I learned stuff."
+t "You did?"
+t "Like what?"
+y smug"I know what a Narnian carpenter did in 1994."
+t "Heh, at least I'm not the only one cursed with that useless information now."
+y"I know where I can go if I want to enjoy nature without the worry of Nightfallen creeping in every corner."
+y "Doubt many people beside you know about that."
+t "That's true..."
+t "And I suppose that the test the Headmaster wants us to complete must include some forest ventures, if I know him well enough."
+y ec"So then it's good that I get familiar with it!"
+y smug"Plus, who said I care about all these technicalities."
+y "I much rather work on unlocking new amazing abilities, like you did today."
+y ec"Or soar the skies on a broom."
+t "Can I trust that you're not just saying this?"
+t "Do you mean it?"
+t "I won't be mad if you don't."
+t "I much prefer honesty and loyalty over white lies, even if they might hurt sometimes."
+
+--- CHOICES ---
+→ Do I actually rather have fun and fool around instead of learning about the academy, or am I just trying to make him feel better?
+→ I absolutely mean it. (Truth)
+→ If the sun were to disappear right now from the horizon, I wouldn't know, since it has just risen on Tate's face.
+→ He looks at me with eyes closed and tongue out.
+→ Stop being so goddamn cute...
+→ Spontaneous topic change time.
+→ There might be a lie or two in what I said. (Truth)
+--- END CHOICES ---
+
+y simple"If I may ask, why did you need to get out of detention so desperately?"
+y "It didn't seem like that's your first visit there."
+t "..."
+t "You're right, I'm quite familiar with punishments, but this time, I had reasons to not want to be stuck there for hours."
+y "Such as?"
+t "It's the same reason I teleported away earlier."
+y "Ah, I get it, then I won't press further."
+y "I'm assuming I won't get an answer anyway."
+t "Thanks..."
+t "That reminds me, do you mind if I leave you alone for just a second again?"
+y "If you must, I won't stop you."
+y bored"But if a more adventurous Nightfallen decides to come near the iron-monster's tracks, then my death will be on you."
+t "You're hot enough to attract their dicks, not their claws."
+y "That is sooo reassuring."
+t "Be back in a sec."
+t "Thank you again, [name]."
+un simple"Cool, you have another free minute."
+un "If not a Nightfallen, hopefully no wild animal will come give your face a taste while we're at it either."
+y smug"I only let cute cats taste this face."
+un suspicious"Stop, literally stop."
+un "I wanted to teach you a very useful spell in the meantime, but you're too distracted by your cat addiction to-."
+y surprised"No no no, wait!"
+y "I'm sorry, I want to learn new spells!"
+y "If there are spells I can learn in under a minute then bring them on! That would be awesome!"
+y s"In fact, you should've said something about that earlier!"
+y "Way earlier."
+un bored"I don't feel like sharing all my ancient knowledge with you just yet, so I'm doing this for two reasons."
+un "One, this spell is easy to get anywhere."
+un "With or without me, you might find it sooner or later."
+un "And two, it might be crucial for your survival."
+y simple"That's ominous, what spell is that?"
+un "Teleportation Canceling."
+y "How is that {i}'crucial'{/i}?"
+un "That cat is one hundred percent going to murder you, he's giving off serial killer vibes."
+y bored"That's because you don't know what a 'friend' is."
+un ang"Are you calling me a loser?!"
+y "I'm calling you uninformed."
+y simple"Tate is a little weird and full of energy, but definitely harmless."
+y "Anyway, even if I don't think it's that important, I'd still want to learn it, I want as much magic as possible."
+y s"What do I have to do?"
+un bored"Fine, just disregard my warnings and use me for your own benefit."
+un "I'm used to it."
+y smug"Yeah yeah {i}{b}grandpa{/b}{/i}, can we get on with it?"
+un "{i}*sigh*{/i}."
+un "First off, find a big stick, a branch, if you may."
+y simple"Alright, let's see."
+Surprisingly, there aren't many fallen branches around, most likely a result of the lack of wildlife and Nightfallen around the train tracks.
+y "Where do I-"
+un "Just break one off from a tree, it ain't that deep..."
+y bored"Sure, let me just violate a tree real quick."
+I find a low hanging branch, with the least amount of leaves on it, one that is starting to wither, and break it off.
+y s"Here, now what?"
+un "If you'd allow me, I'd like to use magic to shape it a bit."
+y "Permission granted."
+I feel a tiny bit of magic being drained from me, as the bark starts to crack and fall, leaving the naked wood underneath, then even that gets smoothed out.
+The final product feels almost polished.
+y s"Cool, what now?"
+un simple"Now you take this new and improved branch..."
+un ang"And go fuck yourself with it."
+un "Nobody calls me a grandpa you absolute doorknob."
+y angry"Damn it Scribbles!"
+y "I said I'm sorry!"
+un "No you didn't!"
+un "I would've accepted an apology, but you didn't bother to formulate one!"
+y worried"Then I'm sorry! Ok?"
+y "I got a bit excited about a new spell."
+y simple"You're not a grandpa, you're a sexy, youthful man."
+un sidee"Now call me a dilf."
+y simple"What?"
+y confused"Do you know what that is?"
+un sidee"Your mind mentions this word a lot, so I'm familiar."
+y bored"Are you even a dad?"
+un suspicious"No, but I like the idea and how it sounds, so do it or else no spell for you."
+y "..."
+y pf"You're... a dilf."
+un pride"Why thank you very much for noticing."
+un "Oof, is it hot in here or is that just me?"
+y bored"Can we pleaaase resume our business?"
+un bored"Alright, fine, here is the real deal."
+I throw away the smooth branch that I only now realize looks a lot like a dildo.
+Maybe a bear or something can have fun with it...
+un "You probably remember the spell is done through a snap of fingers."
+un "In order for the snap to take effect, you need to, one:"
+un "Have the person who's magic you cancel in your vision."
+un "And two, you need a secondary soul to play the role of catalyst."
+un "And that secondary person will lose all their magic for the duration."
+un "Otherwise, if you use this spell on your own, you will cancel both the teleportation, and your own magic altogether."
+y "In other words, I can't learn this, who am I gonna use as a catalyst?"
+un "It's me, genius."
+y simple"Oh."
+un "I'm technically another soul inside your body."
+un "You can't be seen using my magic anyway, so if you ever need to cancel teleportation, it wouldn't matter whether or not I can use spells."
+y "Can just anyone learn this then, as long as they have a person as a catalyst?"
+y "That would make Tate's whole thing kind of... useless."
+un "No, not just anyone."
+un "You need a person you trust with your life, and since we share the same body, technically I have no choice but to trust you with my life."
+un "Although it is easy to learn, only those with light, energy or trickery focused abilities can use it."
+un "Like that tiger friend of yours."
+un "Plus, if someone ten times bigger and stronger than the cat cancels his magic without a second soul, it wouldn't matter, since they could just crush the cat with pure strength."
+un "All that matters is to not let your opponent escape."
+y "I see."
+y "I wonder who Aiden's secondary person is..."
+un "So then, are you ready to learn?"
+y "I'm not sure..."
+un simple"W-what?"
+un squint"The fuck do you mean you're {i}'not sure'{/i}?"
+un "Why did I bother explaining everything to you then?"
+y simple"The problem is that I don't know how Tate would react if he knew I suddenly learned a specific spell just to counter him."
+un suspicious"How, in the actual fuck, is he supposed to know you learned the spell in this exact moment, and not like, five years ago?"
+y worried"I don't know, it just feels weird."
+un "Fine, in that case, give me your final answer right now, if it's a no, you'll have to find the final steps on your own someday."
+un "Because I'm already humiliating myself enough to take this audacity from you, I'm not opening my schedule for whenever you change your mind."
+
+--- CHOICES ---
+→ Should I learn a teleportation canceling spell?
+→ Could be handy.
+→ I'd rather not have that knowledge.
+→ I stand there in silen-
+→ ...
+→ As I was saying, I stand there in silence for another minute, pondering my decision.
+--- END CHOICES ---
+
+y s"So how do I activate it?"
+un simple"First off, repeat these words: Inrita fatum, transibit cum illis."
+y simple"Cum?"
+un bored"Not that kind of cum, you slut."
+un "Say that while snapping your fingers."
+un "Usually the activation process goes a bit differently, but that's because you have to touch the catalyst's body to do so and we... well... we can't touch."
+I do as he says, barely remembering the strange words.
+As soon as I snap, my fingers glow brightly for a moment, before turning back to normal.
+un "Done, it's activated."
+un "Whenever you want to use it, just think of me and your other target switching places."
+y "It's a whole lot of trouble just to cancel some mobility spells."
+un "Well, canceling ANY spell is hard work, usually, unless your affinity is specifically spell canceling."
+y "Interesting."
+un "One more thing."
+un "Keep in mind this spell can also cancel someone else's cancellation, it's like a common switch."
+un "Not sure if this will ever be useful, but remember it."
+y "Will do."
+PTSD hits me like a truck as Tate suddenly appears inches from my face, with a smile on.
+A BIG smile on.
+Wherever he went, it left him satisfied.
+y scream"Ah!"
+y worried"Can you stop doing that?"
+t "Why?"
+t "You're cute when you're scared."
+y simple"What are you so excited about?"
+t "Secret, for now."
+t "But I do want to share it with you soon."
+y pf"You're such a tease."
+y "In more ways than one."
+t "I know, but that's what you love about me, right?"
+y bored"You can say that."
+t "The sun is starting to set, come on, we don't want to miss it!"
+y simple"Miss it?"
+t "Hop on!"
+He gets on his broom and gestures for me to join him.
+I almost forgot we flew all the way here, so it makes sense to do the same on the way back.
+The ascension along the forest's tree line made me, once again, a little jumpy.
+Which meant more claws in poor Tate's stomach.
+As soon as my eyes got brave enough to peek, I was stunned by the sky's colors.
+We enjoyed a silent ride for a while, as my eyes jumped from cloud to cloud.
+y smug"I doubt I'll ever get tired of this."
+t "It's a good way to discover new places I can teleport to."
+y s"Ah, so my suspicions were right, you {b}do{/b} have to know a place before teleporting to it."
+t "Obviously, otherwise, I'd be in your mom's bedro-"
+t "Ouch."
+y bored"Keep my mom's name out of your damn mouth, you silly goober."
+t "Your mom's name is {i}'mom'{/i}?"
+y bored"You know what I meant."
+t "Huehueheu, don't read too much into my jokes."
+t "Speaking of names, what do you think of Ray?"
+y simple"Ray?"
+y "Short for {i}'Raymond'{/i}, I presume?"
+y "It's pretty nice."
+t "More like {i}'Rey de la Sombras'...{/i}"
+y confused"Huh?"
+y "Doesn't that mean, {i}'Shadow King'{/i}?"
+t "Damn it, of course you speak Spanish..."
+y simple"Wait, Tate, is this about your nickname game?"
+t "Wouldn't call it a game... but sure."
+t "So what about it?"
+y bored"It's silly."
+t "You just said it's nice!"
+y pf"Not the full nickname."
+y "It just feels a bit over the top."
+y "Like {i}'Tartarus'{/i}, or {i}'Shadow Prince'{/i} or {i}'Phantom'{/i}..."
+t "Purple Demon?"
+y "No..."
+t "Damn it..."
+y simple"I do have to agree with what Aiden said before, seems a bit disrespectful, or at least weird to be looking for a cool new nickname."
+y "Even if it's for a hunter's career."
+y "Your name is fine as it is."
+t "Yeah, just a cool nickname..."
+t "I suppose you might be right."
+Tate ends our conversation there, and we continue the rest of the way in silence.
+Thankfully, it wasn't awkward, since the view was taking our attention away anyway.
+t "Can never get enough of those reds, oranges and yellows."
+t "Some of my favorite colors."
+y s"Not purple?"
+t "Nah, it's just the motif I'm rocking, because let's be honest, I'm slaying it."
+t "Not as much as those piercing pink eyes of yours~"
+y smug"Smooth, but too cheesy."
+y "I prefer sweet over savory."
+t "I HAVE to be cheesy."
+t "Why else did I swoop you off your feet with my broom for?"
+y blush"Stoooop..."
+t "Don't cover your ears, you're gonna fall!"
+y pf"You said it's impossible for me to fall!"
+t "It's impossible to get hurt, but if you break my heart first with your denial, then I won't be able to save you!"
+Y screamblush"Aaaaghh!"
+He continues to make puns, make cheesy remarks and overall make me smile while blushing all the way back.
+It was a bit hard not to jump off sometimes, but as much as my ears were scratched by his words, my brain is waiting impatiently to hear what else he comes up with.
+At last, he lands the broom near the academy's front garden, where we left off.
+We were just in time to catch two tired figures emerging from the front door of the building.
+Beaten up might be a better way to describe them, now that they're closer.
+d "Hey you two."
+d "Hope you didn't get in trouble without us around, haha."
+y simple"Not as much as you did."
+y "What happened?"
+t "Let me guess, Aiden's ex's finally decided to team up?"
+t "Not even the defender's leader can stop a crowd that big."
+a "You're lucky my fists are tired, munchkin."
+t "No thanks, not into fisting."
+y surprised"You have that many failed relationships, Aiden?"
+He looks at me surprised, turning embarrassed.
+a "N-not {i}'failed'{/i}."
+a "We just had... different interests in mind at the time."
+t "His interests were a dickin' while theirs were lovin'."
+a "That's... not entirely false..."
+a "But very broad."
+a "And overly simplified."
+a "I promise I'm not that shallow."
+d "Well, not ex's, but we did have to stop my members from throwing a new summoner student out the window because he accidentally entered our headquarters..."
+a "Then got in a fight with my slayers, but retreated since they had weapons ready."
+y simple"Oh wow."
+t "Where was Haima while this was happening?"
+d "Leading the slayers..."
+t "oh."
+a "We finally managed to calm the waters, after me and Dallan did a fake arm wrestling to see {i}'which Shard is better'{/i}, and we {i}'tied'{/i}."
+d "Haima was a bit furious about that."
+d "Are you going to be able to manage them?"
+a "They'll be fine, there's always Monty to take their anger on."
+t "Monty's resilient."
+d "But enough about our day, what about you, [name]?"
+d "What did you think of your first day here?"
+a "You should probably go take some shots at the nurse's office after spending so much time in close proximity to this cat."
+t "Don't listen to him, [name], he's jealous."
+y simple"Jealous of what exactly?"
+t "Well obviously it's me because we-"
+a "H-heeyy, why don't you respond to Dallan's question while we head to the cafeteria, I think we are all starving, right?"
+d "You can say that twice."
+d "Actually, don't, it will make me starve more."
+t "I can certainly use more than bread in my system right about now."
+We make our way to the cafeteria, the three guys take turns leading the way, since I'm the only one that doesn't know where it is.
+Tate tells Dallan about our forest walk, but he sure as hell likes to exaggerate things.
+t "Then, I make three hoops in the air, while standing up."
+t "[name] stands there, absolutely and utterly safe, while I jump off and call the broom back to me, catching it in mid air and getting back on."
+a "Then everybody clapped..."
+t "Exactly!"
+d "Seems like you had a lot of fun."
+t "And [name] gave me some tips on how to teleport things with my mind."
+a "Is that actually true?"
+y awkward"Yeah, pretty much."
+Tate continues with these stories while I nod along.
+Aiden, unlike Dallan, obviously doesn't buy most of them, but they're harmless, and we both let it slide.
+It's pretty late, which means there are fortunately enough empty seats for us four.
+We are all hungry, so we get multiple trays full of different food for the table.
+Mine in particular, had half a rotissserie chicken, some mashed potatoes and a large, green salad.
+Tate got two burgers with a ton of fries.
+Aiden is a steak kind of guy, with fancy grilled veggies on the side, and Dallan's tray is basically filled with all of our meals combined.
+That man can eat...
+I'm not rushing to be anywhere, and it's a nice, golden, cool evening, so I decide to take it easy on the food and make some conversation with these guys.
+Or at least the ones I interacted with before in a meaningful way.
+After all, can't ask someone a personal question if you didn't win any {b}friendship points{/b} for them before, right? Haha.
+un curious"Why'd you say it like that?"
+menu questionss:
+I'll talk to...
+y s"Hey Aiden, may I ask you something?"
+A "Go ahead."
+y "Earlier today you ran off as soon as the meeting ended."
+y "Do you mind if I ask why?"
+a "Yes."
+y simple"oh."
+t "Don't waste your breath [name], he's a time wizard."
+y surprised"Really?"
+a "I told you a THOUSAND times, I am NOT a time wizard!"
+t "Hmmm, I don't remember it being a thousand, are you sure it's not a different me from another timeline, you slutty time wizard?"
+a "Grrr...yes, I'm sure."
+t "Then why do you always disappear for no reason?"
+d "And have so much free time while completing all your work..."
+a "Not you too..."
+d "I'm JUST saying, I have no other explanations so even that starts to sound plausible."
+y simple"Haima was pretty pissed, as if it happens a lot."
+a "Drop the subject, or I'm getting up right now."
+d "..."
+t "..."
+y "..."
+y "Sorry... didn't mean to pressure you."
+a "It's alright, I understand, but now that YOU understood as well, we can stop thinking about it."
+a "I'm not a time wizard, and my motives don't concern you."
+a "End of story."
+Questions still dangle above my head, but I don't want to play with the bomb that is his temper, so let's see what else is on the menu.
+I don't think I'm good enough friends with him to deserve answers to my personal questions...
+Maybe if I chose his brochure back then, or something.
+I should try somebody else.
+y s"Hey, Tate?"
+t "That's me."
+y simple"So... you're a first year, that means you'll be joining the Sorcery Shard {b}after{/b} the auditions, right?"
+t "Yep."
+y pf"So why do you have a badge?"
+The two guys next to him give him a sour look.
+d "Yeah, tell him why."
+a "I'm sure it will be a completely innocent reason."
+t "I, uhmm."
+t "I stole it."
+y pf"Why?"
+t "I wanted it."
+y simple"You don't usually have stolen goods displayed on your chest like that."
+d "Well we got it back from him, multiple times."
+a "But he always sneaks one out anyway."
+t "So they finally decided to give up."
+t "Smartest decision they ever made."
+t "I've had it since I was thirteen."
+Dallan cringes at the severe rule breaking confession.
+t "The previous leader of the Sorcery Shard thought it was cute that I wanted to be in their Shard so badly, so he didn't try to stop me."
+t "And Merina gave up after my second scavenge."
+y smug"So you're a long lasting, serial troublemaker."
+t "Pleasure to meet you."
+I should change the subject before Dallan manifests the first angry vein in his life.
+I don't think I'm good enough friends with him to deserve answers to my questions...
+Maybe if I chose his brochure back then, or called him cute once, or something.
+I should try somebody else.
+y s"Hey Dallan, mind a question?"
+d "Never, shoot ahead!"
+y "How's life like here as a leader?"
+y "I heard it's hard work."
+d "It is, especially for me."
+y s"I bet, you have a lot of members to take care of."
+d "That, and because of my limitations."
+y "I've seen how people gather around you, so it must be hard getting away from people being so popular, I get you."
+d "Yeah, that, among other limitations..."
+d "But the payoff is great!"
+t "Yeah, lucky... he's rich while still being a student..."
+d "I wouldn't say rich... just enough so I don't have to rely on my family while I'm here."
+a "Money and extra credit is one thing, but having eyes follow you around and heads turning everywhere you go must be exhausting."
+t "Aiden is not talking from experience, I just thought I'd clear that up for ya."
+a "If only there weren't so many witnesses..."
+Even now, just sitting here and enjoying our meal, there are a bunch of students looking our way from time to time, mostly at Dallan.
+y simple"Does that bother you, Dallan?"
+d "I don't see the prying eyes."
+y "Must've taken a while to get that used to it."
+d "Fairly easy actually."
+The first non-humble thing he said so far.
+He has a hard time talking since his mouth is stuffed most of the time, so I'll just talk with someone else.
+I don't think I'm good enough friends with him to deserve answers to my questions...
+Maybe if I chose his brochure back then, or something.
+I should try somebody else.
+Now that he's no longer hungry, Dallan happily gives us some more juicy details about what happened today.
+d"So get this, a summoner entered the defender's headquarters by accident."
+a" Obviously they had to overreact, as always."
+d "But the guy wasn't just SOME guy, he was another recommended student, like you."
+d "Everyone was a little disappointed he didn't become a defender, but we already got one of those, so maybe it's for the best."
+a "Yeah, it is {b}definitely{/b} for the best."
+t "You're just salty that no recommended students chose your shard."
+a "And how many have you got, pipsqueak?"
+t "One."
+t "That Coal guy."
+a "I see... so there is still time..."
+He glances at me for a moment, before returning to his leftovers.
+Tate kept me a secret, probably doesn't want to stir problems, letting others know his Shard got two recommended students.
+un "Or he forgot you're technically a big deal."
+That's another possibility, yes...
+d "Speaking of first years, I heard tomorrow you two will have a little special assignment to do."
+y simple"Special?"
+t "The Sorcery auditions."
+y pf"Oh, right, I forgot about that."
+d "I'm sure you'll do great."
+d "I've known Tate for a long time, so I don't doubt he'll have no problems in there."
+a "And recommended students are impossible to fail."
+d "That's usually how it goes, yes."
+y awkward"Can't waaait..."
+un bored"You don't seem too excited."
+Whaaat?
+Nooo...
+I'm super excited.
+un "Sure, because that wasn't awkward sarcasm in your voice and I'm totally not sensing panic when you hear the words {i}'auditions'{/i}."
+a "Hey, so, uhm, [name]."
+a "Tomorrow, I was thinking maybe you'd want, you know, before practice starts, or your auditions."
+t "The angry cat stands up from his seat."
+a "What?"
+a "Why are you narrating yourself?"
+t "And asks the dumb, annoying tiger."
+t "Are you trying to steal my partner?"
+a "P-partner?"
+He looks at me a little shocked and confused.
+Completely forgetting the {i}'dumb and annoying'{/i} comment, lucky for Tate

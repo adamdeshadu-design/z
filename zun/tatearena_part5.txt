@@ -1,0 +1,551 @@
+
+st "You must be the one that found Ki'vaathi."
+y confused"Ki- what?"
+st "The dragon."
+t "SO HE IS A DRAGON!"
+y pf"Too loud."
+st "Why of course, what else could he be?"
+He bows again.
+st "We are very thankful for the care you provided and your collaboration."
+t "You LITERALLY stole him from me!"
+t "You kidnapped him!"
+t "Why?"
+st "Ki'vaathi is very important for our tribe, you see."
+st "We worship the dragons."
+st "Anything other than complete luxury is a sin."
+st "We wanted to provide that for him."
+st "I'm glad you had the same instincts of protecting him, despite your friend's denial of his nature."
+He glances at me.
+st "After all, it's in our blood, brother."
+y confused"Brother?"
+t "Oh no, I'm not falling for this one again."
+t "We're here to take my friend home, and that's what we'll do."
+He appears panicked.
+st "Please understand that we can not allow you to do that."
+st "The next time our parties go searching for him, I won't be able to convince them not to be violent."
+y angry"Why couldn't you just try to negotiate?"
+st "Do you believe that would have worked?"
+t "..."
+t "No."
+st "We have been expecting your arrival, so that we can explain the situation better."
+st "We do not wish to be enemies, but we do want Ki'vaathi to be safe, and fulfill his destiny."
+y "What... destiny?"
+st "If you wish, we can talk more inside, my father, our Chief, would be happy to see you, both of you."
+t "Is it safe to just walk in?"
+st "Yes, after all, we made sure our guards and scouts know about you."
+st "Otherwise you would've gotten an arrow in the knees and dragged in the camp by force for questioning long ago."
+Y simple"Not a fan of that imagery."
+t "Lead the way then."
+y worried"W-wait we're actually going in?"
+t "He proved a point, we're not in any danger here."
+t "And I want to see my friend closer."
+st "Wonderful, follow me then."
+He walks along the fence, looking back and waiting for us with a smile and nods of encouragement.
+We look at each other and follow.
+st "I realize I didn't introduce myself yet."
+ra "My name is Ragnar, future Chief of the Nightgale tribe."
+ra "You can also call me by my adventurer's name, Bob."
+y simple"Totally different sounding names."
+t "Why two of them?"
+y bored"And why Bob...?"
+ra "Names are precious to us, they are given only after finding our calling or individuality within our tribe."
+ra "Since I was away from my tribe before I got my name, I had to use a replacement."
+ra "Your kind doesn't take {i}'I haven't deserved my name yet'{/i} as a serious answer, so a very nice gentleman picked this one for me."
+ra "So what about you two?"
+y s"My name is [name]."
+ra "Pleased to meet you, [name]."
+ra "And you? The one with the persistent frown?"
+ra "Let me guess, Athan?"
+t "What makes you guess that?"
+ra "As far as the history of your kind goes, that is a name that is associated with {i}'fury'{/i}, and I thought your continuous anger might be part of you enough to get you that name."
+t "We don't choose names based on personality traits."
+t "Maybe I appear angry because I'm being guided by my friend's kidnapper, towards the entrance of the camp full of my friend's kidnappers."
+t "Did you consider that in your naming philosophy?"
+ra "I... have not."
+ra "I'm sorry, may I ask your real name, in that case?"
+t "I'd rather keep that one for myself for now."
+ra "I understand, you must value names as much as we do."
+t "..."
+t "I guess."
+y pf"Why Bob though?"
+ra "Here we are."
+Two people, or... Nightfallen, stand atop two low towers on either side of the main gate, and give a signal for it to open as soon as they spot Ragnar.
+As we step inside, I notice that this whole part of the camp is... very welcoming looking.
+The tall fence is only visible behind me, and the rest is obscured either by trees, huts, or is simply too far away to see, giving the whole place a very open vibe.
+Additionally, the other Nightfallen here either pay us no mind, as if they knew we'll come by, or even approach us happily.
+They exchange some words with Ragnar, before extending their hands for a shake, which we both accept out of politeness.
+Although hand shakes are not the only way they greet, apparently.
+t "Hey, HEY!"
+t "Get your paw off my ass you perv, NO STOP!"
+t "BOB, TELL YOUR CHILD STEALING WEIRDOS TO GET AWAY!"
+ra "Zinvok, halgulda!"
+st "Ah, tula... meghima."
+ra "Forgive us."
+ra "I thought I told them to keep our usual traditions out of your way, but SOME didn't get the memo."
+He squints his eyes at the handsy Nightfallen, which moves back, chuckling awkwardly.
+t "Yeah, ok, can I see my friend now?"
+ra "Ki'vaathi is right this way."
+Not much guidance is needed, since the flowery pillar was always in sight, we just want to keep close to Ragnar.
+For safety reasons at first, but now, I'm just enjoying the view.
+I never knew just how mesmerizing spots can be, and those hip and shoulder movements, paired with the tail swings, contoured muscles and big smile...
+I should try to snap out of it before I drool.
+To be fair, I am in a camp full of sexy monsters that resemble people the most out of any species of Nightfallen out there, so can you blame my lust?
+ra "Here he is."
+ra "Don't get too close now, waking him up would be a big mistake."
+t "Yes, I know, unlike the smartass you sent to get him yesterday."
+ra "If it makes you feel better, he lost two fingers in the process."
+t "It does, just a little bit."
+He gets about ten feet away from the little tent where the wyvern, or dragon, is sleeping, then sits down crisscrossed, watching attentively, not making a sound or movement.
+ra "I think he'll be at it for a while."
+y simple"Can you blame him?"
+He gestures for me to follow him, a little way off, and I do just that.
+I presume it's just so we don't talk about him right in his ear's reach.
+ra "I do feel bad about our approach, I really do."
+ra "But it's one of the things I just had to agree with my father about."
+ra "That your town's people like Nightfallen even less than the towns I've been in."
+ra "So we couldn't just knock on your door and ask for our deity back."
+y simple"How did it end up randomly in the woods anyway?"
+ra "Beats me, the egg was never in our possession, so I can't tell."
+ra "My father had a premonition about him, so he sent in scouts to retrieve him."
+y confused"What kind of {i}'destiny'{/i} were you talking about earlier?"
+ra "It is said that each tribe of the Night will be led someday by a powerful dragon, that will make our lives easier and help us defeat any enemy threatening us."
+ra "At least that's what the Chief says."
+ra "He's been obsessed with the idea of protecting the tribe through whatever means necessary."
+y "You do know that dragons went extinct long ago, right?"
+ra "Isn't your kind worshiping hundreds of different deities you've never seen before and have no proof they ever existed?"
+y simple"..."
+y bored"Yes."
+y "I suppose at least dragons did exist once."
+ra "Exactly, so when there is a chance that the child of a God has been born, you can't take any risks."
+y "I doubt my friend will see it the same way."
+ra "But do {b}you{/b}?"
+y simple"I... I think so."
+ra "I'm glad you're reasonable."
+Soon the cat joins us, with a new smile on his face, rivaling the one Ragnar has.
+t "Alright, I'm done."
+y "Done with what?"
+t "Assessing the situation."
+t "Ki'vaathi, or whatever, looks fine."
+t "He's well fed, breathes normally, and doesn't seem to have any injuries."
+ra "Does that mean-"
+t "Yes, I give you permission to take care of him, under one condition."
+ra "Anything!"
+t "I get to visit him whenever I want."
+ra "Of course!"
+y ec"Does that mean we're celebrating?"
+ra "Absolutely, we're holding a big feast today, and you two HAVE to be our guests of honor."
+ra "Ah, I just knew you had to see it the right way."
+ra "After all, we're like kin, perhaps closer."
+t "What does that mean?"
+ra "Of course, I forgot I'm the only one in our tribe you ever spoke to."
+ra "You, with the hidden name, you do not have parents, correct?"
+t "I-"
+t "What?"
+t "Why do you ask, and why do you know that?"
+ra "In that case, let me present myself again."
+ra "I am Ragnar, son of the Nightgale tribe's Chief, and your older {b}step{/b} brother, nice to meet you."
+My jaw drops, which seemed like the appropriate response to that revelation, but a certain cat didn't think so.
+He gives us both a weird, light smile.
+t "That's pretty cool."
+y confused"I-is that it?"
+y "That's your reaction?"
+t "Yeah, I mean, it sounds awesome, that a tribe of Nightfallen took care of me when I was little, works well with my future hunter career's backstory."
+ra "I'm... a bit confused."
+y simple"You can say that twice."
+ra "Did you know all along?"
+t "Not really."
+ra "Then how come you are not happier?"
+t "Because I don't remember any of this."
+t "No offense, but I have no idea if you're telling the truth, it's not really something I can just take to heart from the start."
+t "My whole life started when Mister Mandrate found me, as far as I'm concerned."
+t "I wouldn't mind hearing more about this, but I'm only going to express my emotions once I know the argument I'm hearing has some weight to it."
+He does have a point, I can't believe I just believed Ragnar's words immediately.
+Not to call him a liar, but information needs to be verified.
+ra "You've grown into a fine, and just man."
+ra "In that case, perhaps you should hear the story from someone that was here at the time, instead of your adventure seeking step brother."
+ra "My father resides in a large hut just further in."
+y surprised"Yes, we should go there right now."
+t "Actually, we're going to be late to our battle if we stay any longer."
+I want to protest, but I don't want to push him further just to fill my own curiosity.
+ra "A battle you say?"
+ra "So you two are noble warriors as well?"
+y awkward"Uhm, something like that."
+ra "You can call upon us any time, we'd be happy to assist defeating any enemy of yours."
+y "We'll keep that in mind."
+ra "You will be back after, yes?"
+I look at my friend before responding.
+t "Yes."
+ra "I'm happy to hear it, I can't wait to introduce you to everyone else."
+ra "They're dying to meet you, but I had to hold them off for our first meeting, they can be a bit much sometimes."
+ra "And [name]."
+y "Y-yes?"
+He takes my hands in his, holding them tight and looking into my eyes.
+ra "Thank you, and good luck."
+The warm and genuine smile is almost too much for me to handle.
+y blush"N-no problem, and thanks to you too."
+t "I should have enough information to teleport us back without having to fly."
+t "Come on lover boy."
+y "Bye Ragnar, see you later!"
+He snatches my hands away and a bright flash takes away my vision the next second.
+Then, the front gate of the arena comes into view.
+Our departure was quick, and maybe even a bit rude, although I'll be honest when I say I can't help but breathe relieved to be back in society, at last.
+The cat radiates dozens of emotions each second, ranging from happy, to angry, to sad, to exasperated.
+y simple"Hey..."
+y "I don't want to make a big deal out of nothing, or the other way around, but..."
+y worried"Are you ok?"
+y "You know you can rely on me."
+y "If you want to talk, or just vent, I'm here."
+t "It's alright."
+t "I appreciate you just being here."
+t "I admit, it was unexpected, and big news, some might say."
+t "But this isn't a telenovela, the story of my life won't be altered forever, because frankly, I don't really care that much about the past."
+t "I do want to know more, I'm just curious, that's why we're definitely going back."
+t "Other than that, as I said before, I don't want pity, not from you, not from myself, not from my possibly lost adoptive family."
+t "Besides, you can't take everything a Nightfallen says at face value."
+y "I understand."
+y s"And you know what?"
+y smug"I think you should write a book."
+t "A book?"
+y "Yeah, an autobiography, your life is proving to be WAY more interesting than I thought."
+y simple"At least compared to my city boy life, the most exciting thing that ever happened was my mom's divorce."
+t "You don't give yourself enough credit."
+t "I bet the custody battle was an interesting season."
+y pf"Nah, it was done in one episode, my dad just kinda gave up from the start."
+t "Ouch... well, speaking of battles."
+y ec"Yeah, it's time to demolish some first years, huh?"
+t "I need an outlet."
+t "I'm almost sorry about how hard we'll beat them."
+As we walk inside, we're met with silence from the crowd, everyone is just too focused on the next battle announcement from Chelsie.
+And who can blame them?
+The contestants are no other than Merina and Coal, teaming up against Oliver and Rose.
+y simple"Can anyone possibly win against Merina?"
+t "Dallan could, for sure."
+y "Then is anyone ever defeating Dallan?"
+t "Haima."
+t "It's kind of like a game of rock, paper, scissors between those three."
+t "Dallan beats Merina, Merina beats Haima and Haima beats Dallan."
+t "But right now, if Oliver has something up his sleeve, or if Merina can't bring herself to hurt him, then she might even lose."
+y s"Should we go register for a battle while they're at it?"
+t "Nah, I told Dallan yesterday to put us as the last pair."
+t "I told you I don't want to miss it."
+t "Now, I wonder how Rose will protect herself from those ice attacks..."
+y simple"I don't think we'll get to focus on that battle, unfortunately."
+t "Hmm? Why do you say tha-"
+t "oh..."
+From between the crowd, two worried and angry figures rush towards us.
+t "What are the chances those frowns are there because they missed us so much?"
+y awkward"Hey guys, how's it hanging?"
+a "Don't try to sway us with your friendly words, you sexy... spotted... dork."
+y simple"What?"
+t "Why so moody this time?"
+t "Didn't get head in a while?"
+a "N-no...yes? Shut up."
+d "Tate, we have problems."
+y worried"What's wrong?"
+d "What's wrong is that you two are very late, everyone wants to see you participate because of what you managed to do at practice."
+t "So?"
+t "Didn't you sign us up for last? You didn't forget, did you?"
+a "No, we didn't, but since you are last, you can't choose your opponents..."
+a "Since there is only one pair remaining as well, obviously."
+t "That was never a problem for us."
+t "Who are the unfortunate suckers?"
+t "Me and [name] are going to demolish anyone!"
+a "..."
+d "..."
+d "It's... me and Aiden."
+y simple"..."
+t "..."
+t "What?"
+a "YOU'RE GONNA HAVE TO FIGHT US, IDIOTS!" with hpunch
+t "Ok, geez we heard you the first time."
+y worried"W-why? Was there nobody else for you to choose from?"
+d "We asked Chelsie to sign us up together to fight first years, so I can show them what defeat means, and teach them that there is always somebody stronger, but they shouldn't give up or feel discouraged to fight on!"
+a "I just wanted to beat the shit out of some first years."
+d "Every pair that was told they have to fight us forfeited before we even began!"
+d "And so we were left for last."
+y bored"And we are the last pair as well..."
+a "Yep."
+d "It's alright [name], we understand if you want to give up."
+d "There is always next year."
+d "We didn't think everyone would just run away like that..."
+a "Yeah, let's just hope that next time we-"
+t "Hey hey hey hey hey!"
+t "Hey."
+t "You don't think we'll back away from a challenge, do you?"
+d "You-"
+d "You're not serious, right?"
+a "You know we won't hold back."
+y smug"We are not asking you to."
+d "[name], you too?"
+Their panicked news were a bit of a surprise, not gonna lie, but seeing the cat's confidence makes me think we won't get completely obliterated.
+We do a one-armed hug and stand our ground with irrational smiles of poise in the face of danger.
+a "We're going in right after this battle ends, do you even have a plan?"
+y "Yeah, the plan is to win."
+t "Hell yeah!"
+d "I suppose Tate's blind optimism rubbed off on you as well, huh?"
+a "More like idiocy."
+t "Call it whatever you want, our magic is just as good as yours, if not better."
+d "Speaking of, I meant to ask this before, but what are your powers, [name]?"
+a "We noticed electricity in your auditions, is it safe to assume you're an elementalist?"
+y ec"Well I-"
+t "SHHH!"
+t "ShshshSHSHSHdhh!"
+He grabs my muzzle with both hands and holds it tightly shut.
+t "Don't tell them!"
+t "That's the only advantage we have on them!"
+d "I mean, we could just ask Merina..."
+t "Ha! Good luck!"
+t "She would not betray me like that."
+a "Then I'll ask Oliver."
+a "He usually cracks if I ask him nicely while looking down at him."
+t "Merina would kill you if you intimidated Oliver again!"
+t "I know because I was there when she told you."
+a "Damn it."
+d "Well then, guess you do have a good advantage after all."
+d "Good luck against...us."
+a "You'll need it."
+For the first time, I don't have to be dragged along into a crazy plan, since I'm in sync with my battle partner on that matter.
+It seems like we are both set on doing our best even if the odds are against us.
+Meanwhile...
+Coal is trying desperately to protect himself from Rose's axe attacks, while Merina creates ice surfaces under Oliver's feet, making him slip and fall, but not attacking much.
+I would've loved to see the end of this battle, but we need to talk tactics in a private place.
+The familiar cold air of the back rooms fills my lungs as we step inside, losing the two men among the crowd outside.
+Soon, after making our way to a more secluded and inviting break room, the cat becomes dead weight behind me.
+Then falls to the floor on his knees, turning his laughter into sobbing.
+y simple"What's wrong?"
+y worried"Why are you crying?"
+t "Because neither of us will be virgins anymore after today!"
+y worried"W-why?"
+t "Because we're going to get {b}FUCKED{/b} by those two!" with hpunch
+y blush2"Do you mean that literally oooor-"
+t "IN THE ASS!"
+t "FUCKED SO HARD!"
+t "WE'LL BOTH BE SLOPPY CUM MESSES ON THE ARENA'S FLOOR!"
+y screamblush"I CAN'T TELL IF YOU'RE BEING LITERAL OR NOT!"
+y "YOU'RE SCARING ME!"
+And exciting me...
+t "Aiden will absolutely not have any mercy, at least not towards me."
+t "WHY DID YOU BRING ME INTO THIS?!"
+y angry"IT WAS YOUR IDEA!"
+y blushmad"AND ARE WE GETTING ACTUALLY FUCKED OR NOT?!"
+t "NO, WE'RE GETTING MURDERED!"
+y angry"THAT IS SO MUCH WORSE!"
+t "I KNOW!"
+y worried"So what's the plan?"
+t "Thankfully those four are not hurrying to end the battle, so we have a little time to discuss..."
+t "But I doubt there is much discussion to be made, we'll just have to accept a beating like the losers we are."
+t "Luck just isn't on my side these days."
+t "Unless you have some kind of ace up your sleeve?"
+t "{i}'Recommended'{/i} student."
+I do, in fact, have one, but a certain demon just refuses to tell me what the hell this ace even does.
+un "You didn't ask."
+I DID, MULTIPLE TIMES!
+un eyeroll"Well, you should've been clearer about your demands."
+Can I know what it does NOW?
+It feels like a good time for an apogee, don't you think?
+un bored"Here's the bottom line."
+un "It's pretty simple really, touching someone while having the medallion on your person will absorb magic from them and any item, spell or summon as well."
+un "You just have to think really hard about sucking them off while doing so."
+Do you mean that-
+un squint"No... I don't mean that literally, you fucking slut."
+un "The reason why I wanted you to have this, even though it is a precious gift given to me long ago, is because it is perfect for energy manipulation."
+un bored"AS you might know, your magic doesn't consume... well, magic, it feeds on energy, which can be hard to acquire on your own."
+un "This little item lets you not only have almost unlimited energy, but also weaken your enemies."
+un "While also having no suspicions cast upon you, since this should already be part of your power kit."
+This is...awesome, actually, it might just be what we need.
+un suspicious"You're welcome, by the way."
+I didn't say thank you.
+un squint"Ungrateful bitch."
+un "I do hope you get literally double penetrated out there."
+Me too...
+un surprised"What?"
+What?
+un bored"..."
+un squint"I'll be away for a while."
+y smug"I might just have something."
+t "That's my partner!"
+t "Whatcha got?"
+t "A gun?"
+y confused "What? No."
+y "How would I even get one of those?"
+t "Chelsie?"
+y bored"That...makes sense."
+y simple"But no."
+y s"You know I have energy manipulation as my ability, right?"
+t "Are you gonna nuke the arena?"
+y bored"No, I'll drain their magic."
+t "Ooooh, that sounds useful."
+t "Those two do have a lot of magic."
+t "How will you do that?"
+y s"If I touch someone, I can suck- I mean, drain their magic, simple as that, which becomes energy for my manipulation ability."
+t "And you kept an ability like THAT from me?"
+y sadsmile"I just didn't have an opportunity to use it, and I don't like showing off."
+t "Whatever, yeah, that will come in handy."
+t "Let's think of other things..."
+He starts pacing the room as I sit down on one of the soft, so very soft, couches.
+After some thinking he becomes more and more irritated.
+t "How is that fair?!"
+T "Aiden can straight up take away my whole deal, by canceling my teleportation, and Dallan is immune to magic all together."
+y simple"Well what else can you do? Let's review it back."
+t "I can shoot teleportation balls, you saw them in practice against Merina, which are actually not canceled by Aiden's spell."
+t "But they're pretty hard to hit on an expecting target..."
+t "And Dallan is, again, immune to them."
+t "I also know how to fight pretty well, even if I might not look like it."
+t "Dallan taught me, actually."
+y "So you know his fighting style?"
+t "Pretty much."
+t "And you can electrocute people and drain magic."
+t "Alright, now who fights who?"
+t "Obviously it's a pair battle, but usually the norm is that you focus on one opponent, then the winner gangs up on the other."
+t "That's not always the case, but Dallan's and Aiden's styles are way too different for them to work together."
+y "I think the obvious choice is that you have to fight Dallan and I'll do Aiden."
+t "Why do I get the strongest one?"
+t "Shouldn't you fight Dallan, since there is a small chance that your draining ability might even work on him?"
+y simple"He might be the strongest and you're right, it might work, but Aiden will be less inclined to hurt me."
+t "Oh."
+t "You're super right..."
+t "Our nurse can mend bones and even reattach limbs, so I don't want Aiden to get any funny ideas..."
+y simple"Yikes..."
+t "Look at you, looking after me and caring about my well being."
+t "Set on being my third adoptive father?"
+y pf"I doubt you want that."
+y "You'll just have to hold your own against Dallan until I get to drain Aiden off, then we gang up on Dallan."
+t "Doubt it's that easy."
+t "If only I could teleport...Aiden would be out in a heartbeat."
+y smug"Actually, I have yet another, perhaps stronger ace in hand."
+t "Ooooh, let's hear it."
+It's my time to test this new spell for the first...well, technically second time.
+I raise my hand and snap my fingers in his face, thinking really hard about Scribbles.
+The sound my fingers made had a loud, unnatural echo to it, as well as a little spark.
+The cat recognized the spell immediately, shooting his ears up.
+t "I remember now! You used this on me yesterday! I still can't believe you know it too."
+t "Ah, right, energy manipulation...I believe canceling magic does fall in your category."
+t "But how would that help us?"
+t "You just made me not able to teleport."
+Oh right, I never explained to him the second part of the spell.
+y "The funny part is that..."
+y ec"It works both ways."
+t "I'm listening..."
+I spend the next minute or so explaining how the spell really works, the cat's smile growing wider and wider.
+t "I wonder who Aiden's anchor is... perhaps his dad? Or an ex?"
+t "In any case, we shouldn't use it inside the arena."
+y "Do you mean-"
+t "Yep."
+With one last grin and a perfect plan in hand, we're ready for our battle announcement.
+y simple"Yeah..."
+un "Imagine if you had some kind of spell that lets you {b}cancel{/b} teleportation cancellation spells."
+un "Wouldn't that be useful?"
+There's nothing we can do about it when the battle starts any minute now.
+There were only three teams remaining ahead of us, which gave us about fifteen minutes of talking.
+In the meantime, we came up with the perfect plan.
+Although what is a plan against what I can only describe as demigods...?
+Still, we'll do our best.
+Chelsie's loud, excited voice can be heard throughout the arena, the backrooms, and perhaps even in the Wild Fur's camp we visited earlier.
+That girl is loud, but it's understandable, since apparently the pair before us did a number on each other, with the winner being Coal.
+No, not Coal and Merina, just Coal, since the fox and mouse couldn't bring themselves to hurt one another.
+Rose put out a great fight, but in the end, magic won.
+The crowd already started to stir again, anticipating the last battle.
+ch "WHAT AN INCREDIBLE FIGHT!"
+ch "IT WAS THE MOST CLIMATIC AND ALSO WHOLESOME FIGHT SO FAR!"
+ch "IT HAD ACTION, IT HAD DRAMA, IT HAD COMEDY, IT HAD LOVE, WHAT ELSE IS THERE TO WANT, OTHER THAN {b}THE NEW XR-98 PROTOTYPE BATTLESUIT GLOVES{/b}, THAT WILL MAKE CUTTING DOWN NIGHTFALLEN A BREEZE, WHILE ALSO PROTECTING YOUR HANDS FROM ANYTHING, FOR ONLY 298.99, YOU CAN ALSO-"
+The whole crowd groaned simultaneously upon hearing the ad break.
+Not even in magic sex schools, can you take a break from the ads.
+Soon the excitement came back alongside the cheers, as Chelsie finally decided to get to the final battle of the day.
+ch "WITHOUT FURTHER ADO, I'M PROUD TO PRESENT TO YOU ALL, THE BEST, MOST HANDSOMEST, SMARTEST, SEXIEST, MOST TALENTED INDIVIDUAL OF THE DAY, DALLAN, LEADER OF THE DEFENDER'S SHARD!"
+If the crowd was loud before, now it goes completely wild.
+ch "ALONGSIDE HIS BATTLE PARTNER, AIDEN, VICE LEADER OF THE SLAYER'S SHARD!"
+Of course Aiden wouldn't get the same treatment as her best friend.
+ch "AGAINST OUR INFAMOUS TROUBLEMAKING FIRST YEARS-"
+I'm already a troublemaker alongside him?
+ch "UHMM..."
+ch "DARKSTAR?..."
+ch "OF THE SORCERY SHARD."
+t "YEEEEEEEEEEEEEEEES, SHE USED ONE OF MY TRIAL NAMES!"
+ch "PARTNERED UP WITH HIS SHARDMATE AND FIRST YEAR, [NAME]!"
+The people cheered for us two almost as hard as for Dallan and Aiden.
+un "Those must be pity cheers, they know you're about to die."
+We all jumped inside the arena as our names were being presented.
+But something is wrong...
+t "Why do they look so angry?"
+y worried"I don't know, and they're coming closer..."
+t "Was my new name that bad?"
+y simple"Yeah, but not bad enough to put a frown on Dallan's face."
+t "I think they're both looking at you, actually."
+y worried"W-what?"
+y "Why?"
+y "That can't be."
+a "[NAME]!"
+d "[NAME]!"
+y pf"Yep, somehow I pissed them off."
+t "The bell didn't ring yet!"
+The cat gets in front of me protectively, extending his arms to block their path.
+y awkward"Can I...help you?"
+a "WHY DIDN'T YOU TELL US?"
+y "Tell you what?"
+d "THAT YOU JOINED THE SORCERY SHARD!"
+Dallan's face turns to disappointment, then sadness, while Aiden stays as red as ever.
+y worried"I'm sorry! I forgot."
+y "Didn't think it was a big deal."
+a "And here I thought I still had a chance..."
+t "A chance at what?"
+a "N-nothing, I mean-"
+a "Getting a recommended student in my shard, that's what I meant, of course."
+d "Now the Sorcery Shard has two..."
+a "At least yours has one..."
+t "I knew you two would get butt-hurt if we told you, so we decided it's best to keep quiet."
+a "Should've known you'd try to keep him all to yourself."
+d "You didn't get scammed a second time, did you, [name]?"
+y bored"You don't give me enough credit..."
+Our arguing is cut short by the resounding ring of a bell.
+a "Looks like we'll solve the rest of this dispute with fists."
+t "What dispute?!"
+t "You created a problem that never existed!"
+We split up, getting about fifty feet away from each other, facing the guys we agreed on.
+As expected, the first thing Aiden does is snap his fingers, leaving my partner useless.
+t "Great."
+t "Time to fight a huge wolf with my bare hands."
+Aiden looks pleasantly surprised to see me approach.
+a "I must admit, I really thought I'd have to fight Tate."
+a "He must really hate getting his powers erased so easily."
+a "Was revenge not on his mind?"
+y "Ha."
+y smug"I know we've only known each other for a couple of days, but I realized pretty fast that it's not wise to match him against you."
+a "True, Dallan can't bring himself to hurt people if he can help it."
+y "Can {b}you{/b}?"
+a "..."
+a "Yes."
+Dozens of bright daggers, made of light, appear around him, shooting at all at once.
+Scribbles?
+un "Yes, I remember the plan."
+I dodge as many as I can, the ones I'm too slow for, Scribbles deflects in a subtle manner, some of them grazing and cutting my clothes.
+It's safe to assume he's not messing around.
+a "You're very flexible."
+y "I get that a lot."
+y "I was the best in my Tango class."
+a "Then let's dance."
+y simple"W-wait I was joking."
+He stops any long range attacks he was about to throw, and gestures for me to get closer, while doing an inviting tango pose.
+He takes a quick look behind him, at the Headmaster, who watches us both like a predator, while Chelsie's focused on the other pair.
+If he wants to engage in hand to hand combat, I will not say no.
+un "Unless you get fatal damage to the brain from a single punch, and fall limp before doing anything."
+The pessimist king...
+The power dynamic in this battle is so one-sided, that nobody questions neither Aiden, nor me, when I follow his lead and approach with my own dance moves.
+A funny move for a joke of a battle.
+In the meantime...
+d "Tate, you can't teleport."
+d "Why are you approaching me, instead of running away?"
+d "All I have to do is trap you in a cage and get you out of the arena."
+d "I don't even have to hurt you."
+t"{i}'Victory is not always about winning the battle but having the courage to fight against all odds.'{/i}"
+d "You...you truly feel that way?"
+t "{i}'Strength does not come from winning. Your struggles develop your strengths. When you go through hardships and decide not to surrender, that is strength.'{/i}"
+d "I-I don't know what to say."
+d "I never knew you were so determined and honorable."
+t"{i}'Never give up on something that you can't go a day without thinking about.'{/i}"
+d "Alright, I made up my mind."
+d "I'm going to fight you with dignity as well."
+d "People like to see others getting dominated in the arena, but I can't refuse your request for an honorarble defeat."
+Our plan of softening Dallan with inspirational quotes from famous people worked.
+This gives us yet another one percent chance towards victory.
+About ninety six more to go...
+Dallan lets his shields down, everything except for his anti magic barrier, and gestures for the cat to come at him, with a wrestling move, not dance

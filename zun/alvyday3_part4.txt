@@ -1,0 +1,510 @@
+."
+M "I heard you did a great job! For the most part."
+M "And I’m also very confused about this scheduling problem I’m hearing about."
+M "I could’ve sworn you weren’t on the list."
+M "But people often sign at the last second as well, it’s possible Tate signed you as his idea of a prank. I’ll need to have a word with him."
+y s"It’s not that big of a deal. At least I got to practice my summoning a little bit."
+y smug"I don’t know if you know this, but it’s a tiny bit illegal to do it outside of the arena."
+M "No waaay, really? Thanks for letting me know, you’re so sweet."
+y ec"As a rule-abiding citizen it is my duty and pleasure."
+M "My, no wonder Dallan speaks so much about you around us."
+M "But seriously, hope you do know offensive spells are also forbidden together with summoning."
+al "That one is a bit more intuitive of a rule."
+y s"So are we free to go?"
+M "Of course, but don’t you want to see the end?"
+y sadsmile"I kind of would, but…"
+I take Alvy’s hand in mine and squeeze.
+y "I had some exciting plans for my new friend, and I do not want to miss them."
+She giggles.
+M "Of course, I understand, I’ll get out of your fur. The interlude is almost over anyway."
+We walk away towards the exit, while every other furs are heading towards the arena.
+al "She’s very nice."
+y "I’d say she’s on par with Rose on the niceness scale."
+al "Don’t even…"
+y ec"No no I’m not *even-ing* nothin’ juuuust sayin’..."
+y smug"But I won’t *even* any further if you don’t want me to."
+y s"Do you wanna invade the snack bar before we go?"
+al "I was secretly thinking about it the whole time Merina was talking."
+y "Hah, and talking for so long as a host took a lot of energy from you, surely."
+al "That too."
+y s"Meanwhile..." with llongdissolve
+al "Meanwhile what?"
+y simple"Oh, sorry, I thought something would happen here."
+y "Not sure why."
+y2 "There it is."
+nu "You seem unwell."
+H "That command spell gave me a headache, that’s all."
+nu "And here I thought you felt so bad about not doing your job right that it affected you physically."
+nu "They were not supposed to fight…"
+H "Tell that to the horse."
+nu "Oh, trust me, he will be punished for going off script. But you need to do better as well."
+nu "Hopefully everything plays out fine, for everyone’s sake."
+M "Headmaster Argus? May I come in?"
+On our way, we synchronize our steps, and turn them into little hops, from one tile on the floor to the other, avoiding all the cracks rhythmically.
+y smug"You should step on that crack."
+al "I don’t think breaking her back will help me much, I’d rather take all of her money and title away."
+y laugh"What could she possibly do to you from a wheelchair? Hit you? Roll her down the stairs."
+al "She could hire someone to hit me for her."
+y pf"Damn be capitalism."
+As we round the corner, the sight in front of us roots me in place, and it makes Alvy heel turn on the spot.
+y simple"Oh no."
+co "Hold it right there."
+y sleepy"Already? Not even a whole scene later? I’m so tired, man."
+y pf"Dooon’t run, Alvy, just stay still."
+y "{size=*0.5}They can't see you if you're still.{/size}"
+r "That's... dinasours?"
+co "And not true either way"
+y awkward"HEYYY! Long time no see, buddy ol’ pals."
+r "About five minutes, yeah."
+She and Coal run past us and block the way back, while Alvy instinctively protects his backpack.
+r "Really sorry about this, but I’m calling an emergency entrapment for the sake of friendship."
+y "Uhm, I think that’s illegal."
+r "I KNOW, [NAME], but HE left me with no other choice!"
+r "Coal is trying to tell me to let it go, to just give up in trying to befriend you."
+r "And you know what? I agree with him!"
+r "Why am I wasting my breath and energy?"
+r "Huh? Why?"
+r "That’s the ONLY thing I wanna know. Why?"
+al "I don’t have to answer you."
+r "You’re scared."
+r "You’re scared of something only [name] could tame."
+r "Let us help as well."
+y2 "I think we’ll just go this way… sorry Rose, Coal."
+co "I understand."
+r "Well, I don’t."
+r "Is it because we’re foreigners? Is it because I can’t cast your fancy shmancy magic around?"
+r "I know the defender’s look down on me because of the way I dress, and act and the way I am, but at least they tell it to my face."
+al "That’s not it…"
+r "Well how would I know?"
+r "CAN YOU AT LEAST FACE ME WHEN I’M TALKING?"
+r "PLEASE?!"
+Coal shifts uncomfortably, clearly torn between siding with Rose and respecting Alvy’s distance.
+Her eyes get teary and her hands fly around frantically, begging him for a proper response, making small steps towards him to match his, as he walks away.
+r "At that love hotel? Yeah, we knew you were there, both of you."
+r "You ran, for whatever reason, so we let it go."
+r "At the cafeteria, at the auditions?"
+Alvy’s grip tightens on the backpack strap, his eyes darting towards her but remaining set on getting out of there.
+r "You keep pretending like none of it happened. Like we’re strangers. But you saw us. You chose to run."
+r "You don’t have to like me, you don’t even have to talk to me, but don’t you dare act like I’m invisible."
+r "I didn’t work so hard to make a name for myself just to be utterly ignored by someone like you!"
+Yes, I feel bad… she isn’t wrong, and she has the right to be mad, both of them do, but if I learned anything until now, it is that Alvy can’t be rushed, especially when he has a frown on…
+I’ll talk to him, I’ll fix him, if necessary, but for now… I’ll just go out the exit with him.
+Seeing our lack of response, or acknowledgement of her words, she closes the distance in two big steps.
+blur 5
+r "ALPHONSE!" with hpunch
+aal "LISTEN WHEN I'M TALKING TO YOU!"
+pause 2.0
+teacher "Beautiful. You learn these songs so fast." with dissolve
+al "I'd rather practice summoning instead..." with dissolve
+teacher "The fact that you have the desire is already more than enough for now." with dissolve
+teacher "It's truly a blessing to have such a talented pupil, even under such harsh circumstances." with dissolve
+teacher "You'll be free one day." with dissolve
+teacher "And when that day comes, Alvy, I need to warn you." with dissolve
+al "Warn me?" with dissolve
+teacher "Don't go around trusting just anyone." with dissolve
+teacher "Beware of the evil in the fool's costume." with dissolve
+al "What... does that even mean?" with dissolve
+teacher "Here. To make it clear." with dissolve
+teacher "If you ever see these people-" with dissolve
+pause 2.0
+teacher "Do not let them lay a finger on you, no matter the cost." with dissolve
+teacher "Do you understand?" with dissolve
+pause 2.0
+pause 3.0
+pause 1.0
+pause 10.0
+pause 0.5
+pause 1.0
+pause 2.0
+y2 "Alvy...?" with dissolve
+co "FUCK! I knew this was a bad idea."
+th "{i}Tsk.{/i}"
+blur 8
+blur 8
+blur 8
+pause 1.0
+pause 10.0
+al "I…" with dissolve
+al "I’m sorry… I didn’t-" with dissolve
+pause 2.0
+pause 2.0
+pause 3.0
+pause 1.0
+As if summoned by emotions, a large, dark hand comes out of Alvy’s ring, making him disappear before our eyes.
+pause 1.0
+The commotion attracted the attention of the few people in the vicinity.
+As for me…
+y scared3"Fuck fuck fuck, what the fuck."
+y "Rose, I-"
+Coal stands in my way, the two fingers that flew off now in his hands.
+co "I think it’s better you go, [name]."
+y worried"But I-"
+y sad"Y-you're right..."
+Soon, a police officer arrives as well. I assume he got filled in on the way.
+All the while I try to get Scribbles to fucking respond, this is an emergency!
+po "So, some boy just summoned outside the arena and ran towards town?"
+r "I-I’m sure it wasn’t i-intentional."
+po "Woman! Your fingers are missing. I can’t let this pass."
+r "I-I've had worse..."
+th "It’s alright everyone, he had my permission to summon."
+The officer approaches Therium while Coal and several other good samaritans take Rose away to another room, breaking your field of vision, but not your worries.
+Th "I am the Summoner’s vice leader and will be taking responsibility  for today’s events in the lounge."
+po "What the hell happened?"
+Th "You know how these students are, so much magic, weapons, summoned Nightfallen around, there’s bound to be accidents."
+Th "Someone just blew themselves up in the arena after all."
+po "This is a public area, not an arena."
+Th "And you’re absolutely right, sir."
+Th "I allowed them to experiment with some techniques they didn’t get to try in the arena."
+Th "The Nightfallen summoned did not touch a soul, that much I can guarantee you."
+Th "It was a misfortunate use of magic that caused such a big headache."
+po "I still need to hold someone responsible here."
+Th "I’ll take the fall, I should’ve stopped them earlier. I’m sure the girl will agree it was just an accident as well."
+Th "I’m also happy to explain things further to you, personally. That is, after we clear this area out of any witnesses."
+po "Right… you’re right, come by my office later in that case."
+po "I’ll go get a testimony from the victim and her friend."
+Th "Certainly."
+Th "Come on [name], don’t just stand there, mouth agape."
+Th "Aww, you poor thing must be traumatized, come with me."
+Therium grabs me and drags me along, some force is needed since my legs wouldn’t budge for the first second or two.
+y worried"Therium… I’m sorry, I- I don’t know what happened."
+y "I knew he had issues with them but I didn’t think he’d pull out a knife like that!"
+y "I hope she’s alright, I should go to her…"
+y "Even if Coal seems quite pissed off."
+y "More importantly I should go find Alvy, he was scared too, I’m sure he didn’t mean to, he was just cornered and-"
+Th "Shut the fuck up, you pathetic little wench."
+Th "It’s all YOUR fucking fault. It was YOUR responsibility to look after him and make sure shit like this doesn’t happen."
+y2 "I…I-"
+Th "You should’ve killed each other in the arena, while flaunting your {b}AMAZING{/b} summoning abilities, but noooo, you just HAD to do it in the lounge."
+Th "Cleaning your messes is all I’m good for nowadays, and I’m getting tired of babysitting."
+Th "You mend a single gem and suddenly…"
+Th "FUCK!"
+Th "Go find your stupid dog and make sure he doesn’t cause any more problems, or I’ll do it for you."
+He lets me go, my shirt barely sliding from in between his fingers and my feet finally touch the ground again.
+What the hell’s gotten into him…
+W-why was {b}he{/b} so enraged at me?
+With teary eyes I make a run for it. I don’t know what’s gotten into everyone all of a sudden, but there’s one person on my mind above all others.
+y hurt2 "Alvy… what the hell happened there?"
+My legs take me in the wrong direction at first, towards his house, but I know even before I reach the corner that I won’t find him there. He’d never go home after something like that.
+But when you have a friend that can erase your presence from the face of the earth whenever you want, opportunities open up.
+A place where nobody would expect for find him... a very open space, but close to heart.
+The hill. The tree. That’s where he’ll be.
+I push past the ache in my chest, the sting in my throat, the way people’s voices still echo in my head, their stares, the damn knife flashing before my eyes. None of it matters right now. Only him.
+y worried"Please be there, Alvy… please."
+The streets blur around me as I run, gravel snapping underfoot, my lungs clawing for air. Every step feels too slow, every shadow too empty, every turn too wide. But then the slope rises before me, familiar, inevitable, and my heart pounds with something that almost feels like hope.
+I can’t help but think about Buddy, and how easy it would’ve been to make this trip with him.
+The tree’s crown catches the fading light, like it’s waiting for me. And maybe, just maybe, he’s waiting too.
+Reaching the top, only the wind blows through my fur and ears, the sound of distant birds and branches swaying are the only form of life.
+He’s not here…
+Or, of course, silly me.
+I can’t be thinking that way, not when I know him so well.
+I walk further up, just around the tree overlooking the vast forest expansion and facing away from the multi-eyed town.
+y sadsmile"I sit down, and wait."
+y "Because I know… whatever happens… wherever he is… he would rather be with me than alone."
+y "Right?"
+pause 1.0
+A sad, coiled up dog appears inches away the next moment.
+al "Right…"
+After a moment, he jumps into my arms, accepted and embraced warmly by these shaking hands of mine.
+al "I’m sorry… I’m so sorry."
+y "It’s not me you should be apologizing to, but that doesn’t matter right now."
+y worried"What happened? And remember, I’m with you no matter what."
+al "I want to tell you-"
+y "Let me guess, it’s something traumatic from your past and you can’t bring yourself to relive it?"
+al "Yes, except that… it kind of unlocked? I think."
+y simple"Unlocked?"
+al "The memory, yes. I’ve been murmuring it under my breath since it happened."
+al "Visions flashed before my eyes like a dream, and I think I can say it…"
+y "I’m all ears, very nonjudgemental ears."
+al "So… Rose and Coal."
+al "Remember the teacher I told you about? The one that appeared in your dream as well?"
+y pf"Of course, I can’t forget that {i}PHAT{/i}- I’m really sorry. Continue."
+al "He would help me train in summoning when I had piano lessons with him."
+al "He also helped me make up a plan to escape my home and come here. I owe him so much, he taught me so many things, but…"
+al "One day, when our last lesson came to a close, he gave me this… knife."
+al "And drew me a picture of a large bunny and smug panther."
+al "He told me… no matter what I do, to never let them get close to me."
+al "I don’t know exactly what he meant. Literally close to me, or as friends? But ever since I saw them in real life I had his words burned in the back of my mind."
+al "And I suppose I panicked beyond reasonable doubts…"
+al "I should’ve just listened to you and had ONE, just one single conversation with them. I should’ve greeted them once for god’s sake."
+He tries and fails to contain the one tear and nose sniffle these thoughts bring him.
+al "I just respect him a lot, and with all the weird things that have been happening, Demons, magic, whatever, I just wanted to be sure."
+y sadsmile"I think you’re good, you’re a good person who made a little mistake."
+al "I amputated her fingers."
+y pf"Two little mistakes."
+al "Are you just saying that because you like me?"
+y blush"No, I’m saying that because I really, really like you, and maybe more too-"
+His ears perk up for a moment.
+y determined"But I think Rose was actually wrong about what she was saying."
+y "You have the right to ignore whoever you want for whatever reason you want."
+y bored"It doesn’t mean I should hunt you down for an explanation."
+co "I swear I’ll never skip leg day again, god this hill is steeper than it looked." with llongdissolve
+y simple"Oh, rats. Do you want me to distract him while you escape?"
+al "No. Not this time."
+al "If he’s here for revenge I deserve it."
+co "[name]? Are you around here by chance?"
+al "It's me. I’m here."
+co "Oh. Hi… I knew you’d be here too but didn’t think you’d stay if we showed up."
+y worried"Is Rose going to be okay?"
+y "I swear he didn’t mean to, he felt endangered and cornered that’s all, he-"
+y shoked"Wait… Rose? Shouldn’t you be in the hospital?"
+At these words, Alvy stands up and comes out from around the tree.
+r "You’d think, ey?"
+r "Turns out when you have magic that can blow up a small city you also develop magic that heals severed limbs, or… fingers."
+He breathes relieved, seeing the bunny in one piece again.
+al "I’m sorry… about everything."
+r "It’s quite alright, it did hurt like hell, but I deserve it for acting like such an arsehole."
+r "I overreacted for sure. I just couldn’t handle such strong rejection."
+r "I don’t hold a grudge, and I also wanted to respect your wishes to be left alone, but there is a bit of a problem…"
+co "The police officer and the nurse want that knife to be confiscated and investigated."
+al "Oh, yeah, of course, I’m just glad I’m not in trouble because of it."
+r "Apparently it is cursed."
+y shoked"What?"
+r "Yeah, they would’ve fixed my fingers in a second but it took a few minutes to actually dispel the curse, I’m not too into the magicky stuff so I can’t say much else."
+al "Uhmm… about the knife."
+y simple"Alvy searches frantically through the bag, surprise showing on his face when he finds nothing."
+co "Why’d you say that?"
+y "Huh? Oh, sorry, my narrator is slacking so I have some brainlag sometimes, ignore me."
+co "Ooook… so, the knife?"
+al "It’s… it’s gone, I don’t know-"
+r "Did you maybe drop it when you ran?"
+al "I definitely did not. I remember putting it back."
+al "I promise I want to give it to you."
+co "Can’t do anything about that I suppose, but what are we going to tell the others?"
+co "They were ready to go searching for you themselves…"
+al "Well I do have this kitchen knife, if it’s any good."
+y bored"Why the hell do you have a kitchen knife loose in your backpack?"
+al "The other was for them specifically, this one is for anyone else."
+al "Self-defense, you know?"
+y "Uh-huh…"
+al "It was my idea this time."
+r "It’s not cursed, I assume."
+r "Well, I guess we can lie about that part."
+co "One time use curses do exist."
+co "But you owe us."
+r "Yeah, I forgive you, but you do have to repay us."
+r "You can make it up to me quite easily in fact."
+r "This Saturday. Just you, me, Chelsie and [name], we’ll have a double date."
+y blush"Oh but we’re not-"
+al "Sounds great!"
+al "We’ll be there, for sure."
+co "Isn’t that test on Saturday?"
+r "If that dinner has to be served around a campfire among Nightfallen, so be it."
+r "Suppose that’s settled then."
+r "We’ll keep an eye out for whoever stole that knife of yours. Or if we find it on the streets somewhere"
+co "Wherever it is, it’s better than in your hands anyway."
+We all chuckle, awkwardly, but sincerely, even Alvy.
+We watch them disappear below the hill’s curve, and we take our seats down under the tree.
+We both sigh relieved, holding each other’s hands intertwined firmly as a sign of comradery. We did just get through a very stressful day, after all, and the soon to be setting sun is a welcoming sight.
+al "What now…?"
+y ec"I met Buddy earlier, how about you show me ALL of your remaining little friends?"
+al "I’d be honored to."
+T "Oh. My. God."
+T "Finally, it’s over, but I can’t believe he’s gone… just like that… and I’ll never see him again, never be able to tell him my true feelings."
+D "He was long gone Tate, I know he was like a father to you, but we had to get rid of him, or else his whole tribe would be in danger… his mental state-"
+T "I’m not talking about THAT guy, he was an asshole. I’m talking about my sweet, baby Seraph."
+T "Can he even survive alone in the wild?"
+A "He’s an apex predator, we’re HOPING he doesn’t survive."
+T "Ugh, I would rather you turn back to horny."
+A "And I would rather not get dragged into your stupid adventures anymore."
+A "Fucking secret Nightfallen family with major religious drama? What the hell are you going to get yourself into next?"
+D "Come on, Aiden, it wasn’t too bad, you even got to tough it out with some of the big guards."
+A "They didn’t even understand that, they thought I wanted to fuck them…"
+D "Just like our arena battles, so you didn’t lose anything! Isn’t that so lucky?"
+T "Easy for you to say, once they realized what your deal was, you got: Excluded from the sacrificial ceremony, pampered with fruits and fans, and even had all the smaller sized men drool over meeting all your needs."
+D "Hehe… yeah, that last part was great."
+D "BUT I DID NOT enjoy the rest. It’s just what happens here as well when I’m not with you guys."
+D "I say we all suffered in our own way in there."
+t "But probably less than [name] and that dog boy."
+a "Hey, where’s Chelsie?"
+D "Fuck."
+pause 1.0
+ch "So you’re telling me there is NO way for me to take this gem home."
+ra "It’s… my dad’s gem. I can’t just give it away."
+eu "Isn’t it illegal to even have a Wild Fur’s gem where you’re from?"
+ch "Our laws are just suggestions~ don’t worry about it."
+ra "{size=*0.5}Eureka… tell the kids to hide.{/size}"
+ch "I raise you another year worth of {i}Magic Protein Bar Supplements{/i}, or whatever the hell I named those."
+ch "Nobody buys them because they make you cry blood after a while but surely Nightfallen can handle it!"
+ch "Eh? EH? COME OOON!"
+al "So those three are only for battles, I don’t take them out ever because; one, they’re unfortunately dead, and second, they’re a bit wilder than others."
+al "You already met Talon and Fang. I know, not the most unique names but I was like seventeen at the time so give me a break."
+y smug"Unlike your current, old and wise nineteen-year-old self."
+al "Shut up…"
+al "And this little guy… is Bramble."
+y smug"Don’t think I forgot about you snitching on me yesterday, little guy."
+The Nightfallen flattens its ears and looks away.
+al "Hah, yeah, he’s a bit of a rascal. I have to wear this patch on my nose because of him."
+y shoked"So HE’S the culprit, I was wondering…"
+al "He scratches when he gets the zoomies, or when you try to take back something he stole."
+al "Funny because my m..mo- m…"
+al "Nevermind."
+y sad"*sigh*"
+y "It would be nice to know what your whole deal is… it would be easier to help."
+al "What about you? What’s your deal with the whole dream stuff? Are you using magic or is it unrelated?"
+y simple"I’m pretty sure it’s some kind of magic, but one I definitely don’t have control over."
+al "Who does then?"
+y "Someone inside my head, I guess."
+al "What? Do you just have like a Demon inside your head, or something, hah?"
+y "…"
+al "YOU DO, DON’T YOU?!"
+y scream"I DIDN’T SAY THAT! For the record I did NOT say that."
+al "Do you deny it?"
+y pf"Mmmmmaybe?"
+al "You are… such a mystery."
+y bored"Then maybe start digging inside me, geez, I won’t stop you."
+y "And look who’s talking, {i}'guy who literally cannot talk about his past'{/i}."
+al "What if you forced me to?"
+y confused"Force you to… open up? Do you want me to waterboard you or something?"
+al "No! Your dreams clearly work on me, in a way. We could try that."
+y sadsmile"It’s happening little by little each night, we just have to be patient."
+al "But we don’t have multiple days, or weeks!"
+al "Things are quiet now, for sure, but who’s to say what will happen during, or after the test."
+al "I… I want you to know me well, well enough to maybe remember me in the future."
+y "How could I ever forget you? You’re one of the best things that happened to me."
+al "For that you need to know the whole me."
+y smug"Then close your eyes."
+al "What?"
+y ec"Right now, on this windy, warm hill, before the sun turns orange, close your eyes. And we’ll get to the bottom of this, by truly concentrating."
+y sadsmile"Aren’t you tired after today’s events?"
+al "Exhausted, actually."
+al "…"
+al "It's not often that I get the chance to close my eyes and immediately fall asleep."
+al "I should take this chance now."
+al "Buddy?"
+The jet black Nightfallen comes out and wraps his body around us, cushioning our heads and covering us with his tails.
+al "Good, uhh, nap?"
+y ec"I’ll be taking a full sleep if I can. Use every second to be inside that brain of yours."
+al "Hope whatever magic happens between us works well…"
+Without noticing, his hand slips in mine as darkness takes control of our vision.
+I can’t wait to get a hint, another glimpse, another piece of the puzzle, maybe even all of the remaining pieces.
+Who ever dared hurt this innocent dog, and why is he so frightful of his past…
+Am I... there yet? Is this it?
+The young, melancholic dog plays the piano lazily as I approach.
+aly "You'll be late." with dissolve
+He points towards the crimson illuminated door without looking at me.
+aly "I hope at least {i}you{/i} can watch the show this time." with dissolve
+aly "I haven't had the courage to yet..." with dissolve
+aly "Just the noise is... too much already." with dissolve
+I walk past, touching his shoulder gently then patting it twice.
+y2 "It's alright, I'll tell you all about it. It won't be as scary then."
+Dem "I hope you find this a satisfactory performance, Mr. [name]." with longdissolve
+pause 2.0
+pause 2.0
+pause 2.0
+al "I like him, I really really like him so much. I want him to like me just as much, if not more."
+al "But in order for him to share that feeling, I need to let him know about the ugliest parts of me,"
+al "Is that right, Auntie?"
+aun "That’s right, Alvy. If he can value you at your worst, he’ll stick around forever more."
+pause 1.0
+pause 2.0
+aal "He’s coming, my little Alphonse. Don’t forget, perfect smile, perfect posture. You’ll show him everything that is worth loving about you."
+aal "You'll show him the obedient boy I made with my own hands."
+aal "Aren't you so happy to have all your dreams come true?"
+aal "This is what you wanted, isn't it?"
+al "Love..."
+pause 1.0
+pause 2.0
+al "I wanted to listen to my aunt’s advice, but I was absolutely smitten as soon as I saw him."
+al "Tall, handsome, someone my mother approved of, at last."
+al "He was my first crush, first partner, first person outside of my family I met, my first everything."
+al "I think he liked me, at least my body was to his liking."
+al "He didn’t hesitate to get me to undress on our first meeting."
+al "I wanted him to love me."
+al "But I went too far too quickly, on our second meeting…"
+Bf "Ew, what is that?"
+Bf "When you said ‘Nightfallen’, I didn’t think you meant… squirming, living ones."
+Bf "What is the point of befriending them? They are energy fodder anyway."
+Bf "They deserve to die and nothing else."
+Bf "Forget it. Get rid of that thing. Now be a good boy and undress for me again."
+al "My rose tinted glasses were removed before my clothes were."
+al "Bramble didn’t appreciate his comment either."
+pause 1.0
+pause 2.0
+aal "I can not BELIEVE what you did to that poor boy! And after all the trouble we went through to find you an acceptable partner!"
+aal "Why do you destroy EVERYTHING I’m trying to do for you?!"
+aal "If it weren’t for HER and her idiotic fiends…"
+aal "Poisoning MY little Alphonse with the monsters’ ideology."
+al"That was the last time I met with my aunt." with dissolve
+pause 2.0
+teacher "My, what a sad sob story."
+teacher "I am somewhat of a summoner enthusiast as well."
+teacher "I heard you’re a natural talent, I could continue her teaching."
+teacher "What was his name, the Nightfallen she gave you?"
+al "Bramble…"
+teacher "I’ll bring you some more, would you like that?"
+al "I would never refuse new friends."
+pause 1.0
+pause 2.0
+Dem "Why do you stay in such a place? I could help you escape. You know?"
+Dem "Show me you deserve to be free, and I will happily open your cage."
+al "How do I do that?"
+Dem "Summon. Summon as much as you can and impress me."
+Dem "I can not let such talent go to waste."
+Dem "I'll help your ring friend as well, if you succeed."
+pause 1.0
+pause 2.0
+bud "I want to play with you too!"
+al "I wish I could summon you as well, but I can’t, not while she has you."
+bud "Then I’ll fight her!"
+al "No! You can’t. She’s my mother."
+bud "Will you fight her?"
+al "I… can’t. She’s my mother…"
+bud "But you’re suffering. I’m suffering."
+al "I have friends now. I’m content with that."
+al "I don’t need anything more."
+pause 1.0
+pause 2.0
+teacher "Are you done with the books I brought you?"
+teacher "Perfect, I’ll take them away so she doesn’t find them."
+teacher "What is that? Five friends summoned at once? You impress me."
+al "I had good incentives."
+teacher "People your age can’t even summon smoke out of their gems yet."
+al "My mother yelled at you today…"
+teacher "Heh. Yeah. It happens when the piano teacher doesn’t make progress with the student because they’re too busy summoning critters."
+teacher "Make sure to only summon them hidden by the sound of the piano."
+teacher "She never disturbs your practice sessions."
+pause 1.0
+pause 2.0
+Dem "Careful, child. People’s greed has no bounds, and you are no exception."
+Dem "You’re not seeking absolute freedom now, but you will strive towards it."
+Dem "The desire for connection and curiosity will eat you alive."
+pause 3.0
+pause 2.0
+My aunt warned me. My teacher warned me. The Demon inside my dreams warned me. Even Buddy warned me. I didn’t listen.
+bud "You’re not playing the piano, they are being very loud."
+al "I can’t play with them if I play the piano all the time."
+bud "Remember what your aunt said? Some things are only for your eyes."
+al "Friends can’t just be for my eyes. I must hang out with my friends, what’s the point of friends otherwise?"
+bud "I don’t know, I never had a friend."
+al "Am I not your friend?"
+bud "I thought my first friend would help me get out of this ring."
+al "I…"
+aal "Oooohh Alphonse! Mommy doesn’t hear you practicing."
+al "No… no no no no no…"
+aal "Are you done? Would you like to come with me to-"
+aal "What in the name of Arufar…?"
+aal "Oh ho ho ho, you’ve done it this time young man. Don’t you dare move a muscle. I am not taking any more excuses either."
+aal "One of them even scratched your beautiful face!"
+aal "I can not excuse that."
+bud "Quickly! Unsummon them!"
+al "I… can’t."
+aal "GERALD! GERALD COME HERE!"
+aal "HE’S PLAYING WITH THOSE DAMN MONSTERS AGAIN!"
+bud "Alvy, please! Do something!"
+aal "I told you to forget about her. She was nothing but poison for your tiny brain."
+aal "In this house, these are nothing but energy, we got as far as we did to never have to see these ugly mutts again. To think he brought them into my own house!"
+aal "Give me that!" with hpunch
+bud "ALVY!"
+pause 0.2
+pause 3.0
+aal "There… all better." with longdissolve
+aal "I know it was a bit harsh, but this is all for your own good."
+aal "Now. Get back to practicing."
+al "That day I learned many things."
+al "That Nightfallen blood stains your clothes much more if the gem is shattered before it has a chance to turn to ash."
+al "That my fears and cowardness are cages I built myself, and my silence has a great price."
+al "Where my family sees energy. I see souls. That will always put me at odds with my own flesh and blood."
+al "The finger Buddy was on pulled the trigger."
+al "He hasn’t spoken a word to me since then."
+teacher "tsk tsk tsk."
+teacher "I am truly sorry to hear that

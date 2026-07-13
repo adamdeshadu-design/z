@@ -1,0 +1,673 @@
+."
+y "Today it's your free day!"
+y "Everyone expects you to be stuck in detention right now, so they won't bother you."
+d "That is true."
+y "What does your work even consist of?"
+d "Well, until Friday I have to sign in the new Shard members."
+y simple"Can't Chelsie do that?"
+d "She could."
+d "But who will do the financial reports?"
+y "Any members that are good at math?"
+d "A couple, but why would they help me?"
+y "Oh come on, everyone is all over you, they love you."
+d "Y-you think so?"
+He's blushing and tries not to wag his tail.
+But fails miserably.
+d "I always thought they're just…"
+d "Being a little too motherly?"
+d "If that makes sense."
+y smileworry"They just care a lot."
+In truth I do believe they are cartoonishly suffocating.
+But I'm not telling him that.
+d "Alright, you convinced me."
+d "Those are the most tedious things I had to do, but I guess asking for some help won't hurt."
+y ec"Besides, I can help too."
+d "You?"
+d "W-why would you want to waste your time in a boring old office?"
+y "You make it worth the while."
+y "Let's go now."
+d "But where should we go?"
+I hear a belly rumbling.
+d "Sorry, no breakfast this morning."
+d "I mean, you know that."
+d "We've been together the whole time since yesterday."
+Y "So let's go grab a bite."
+d "Agreed, but we better not forget about today's practice."
+d "First years like you will participate."
+d "And show off their powers."
+y awkward"Great…"
+y "Can't wait."
+y "Myyy 'awesome' powers."
+I look at the time.
+y s"We have about two hours left to eat, should be enough."
+d "Did you have the chance to explore the park yet?"
+y "Don't think so, haven't had the time."
+d "Then let's go!"
+y simple"But aren't you hungry?"
+d "Oh, you underestimate how much the food business is worth around here."
+On our walk there I finally get a taste of what the city campus is like.
+When I arrived it was a ghost town.
+Now, there are kids playing on the sidewalks, people going for a morning jog or commuting to work on bicycles.
+The lack of cars gives the scene a sort of ethereal atmosphere.
+Trees and flowers and vine covered walls being the main attraction of every alley.
+As well as the occasional mom-and-pop shops that stand out in between the small buildings.
+We walk on a stone path through the greenery, it has tons of booths that serve different kinds of food.
+y surprised"You weren't kidding."
+y "The usual park would only have a cotton candy vendor and some coffee booths."
+d "Sometimes, you can just close your eyes and let your nose guide you on the road to the next destination."
+d "Most of them open up around noon, but there are still breakfast items we can browse."
+d "Oooh, let's stop for some Melikanian style sweet and savory pancakes."
+y smug"No idea what those are but pancakes are always welcomed."
+We both drench them in syrup, leaving the man selling them concerned for our sugar levels.
+d "We have a sweet tooth in common."
+y "But not the appetite."
+d "Hey!"
+d "I'm…"
+d "Still growing?"
+y "Growing in what?"
+y "Muscle mass?"
+d "Exactly."
+y simple"…"
+y smug"Let me get you a refill on those pancakes in that case."
+d "I will never say no to such an offer."
+We continue walking through the park, and just like Dallan said, we let our nose guide us to the next destination.
+Which this time is a small corner shop selling curry bowls with rice and pickled sides.
+y "The best meal I've had in… two days."
+y "Maybe more."
+d "The magic of local businesses."
+d "You can even get a job as a hunter, to protect the nearby farms from Nightfallen."
+y "Really?"
+y "Might want to look into that as a summer job."
+After our curry we couldn't skip on the ice cream, of course.
+y simple"Hey, is that a car?"
+y "I thought you weren't allowed to drive those in here."
+d "It's only for décor, it's not real."
+d "Kids see them in cartoons so the owner decided to turn an old van into an ice cream shop."
+y s"Smart."
+y "It certainly wakes childhood memories in me."
+d "Let's go then!"
+It has an extensive menu, but two specialities of the day catch my eye.
+
+--- CHOICES ---
+→ Order 2 separate ice cream cones, with frozen fruit bits inside.
+→ We could've gotten a large ice cream to share, that would've been romantic and cute.
+→ But…
+→ Dallan's favorite flavor is mint.
+→ So I'd rather stick with anything else.
+→ This time it was cookie dough, and combined with the fruit bits, there's nothing better.
+→ Order the ultra large group style sundae! Which we're going to have to share.
+→ I'm not going to skip the opportunity to be cute or romantic with this guy I totally don't want to sleep with, haha stopsuggestingthat.
+→ I should play it smooth.
+→ oh my.
+→ Dallan hands his credit card and I only now realized that he's been paying for our food this whole time.
+→ I feel like an asshole, but I'll make it up to him.
+→ We get our big waffle bowl filled to the brim with ice cream, syrups and fruit bits.
+→ Two big plastic spoons impaled at the top.
+→ Honestly, not only was it romantic as I predicted, but for the price, it was totally worth it.
+→ Our spoons touched a couple of times and I couldn't be happier.
+→ Anyway.
+--- END CHOICES ---
+
+After our dessert adventure, I am officially full.
+But obviously Dallan eats way more, being so much bigger.
+So we stopped for hotdogs, and he didn't complain when he had to eat mine as well.
+He started to offer me food just so I can decline and he can eat double portions.
+At least he's a gentleman.
+This experience made me realize I want to learn how to cook and make him food forever.
+I don't mind giving up on my dream of becoming a hunter if it means I'll wake up everyday next to him.
+un "You can't 'give up' we have an agreement."
+Riiiight, that thing.
+un squint"Do I have to pull out the demon pact on ya?"
+Nooo thank you.
+I don't want my lifespan cut in half.
+un "That's what I thought, so don't you dare cross me even with theoretical dreams."
+Fine, I won't imagine a better life with my one true love.
+Everything great has its end, and my food adventure, or date, as I like to call it, even if it wasn't specifically called so by either party.
+Has come to an end.
+y "Dallan, I think we should get going."
+y "Twenty minutes until the 'practice' starts."
+d "Already?"
+d "Awww."
+d "I was having so much fun with you."
+y "Me too."
+y "Wanna get some snacks and shakes on the way there?"
+d "You know me so well."
+Watching people fight in the arena does seem more entertaining than a movie.
+Some snacks to munch on would be a good idea.
+We arrive at the arena fifteen minutes early.
+Huh?
+Snacks?
+What snacks?
+Do you mean the mountain of candy and popcorn Dallan and I ate on our way to the arena?
+Yeah, it's gone.
+d "I'll go sign some papers, then I'll try to talk Merina into taking over the practice announcements."
+d "So we can spend more time together."
+d "I'll have to make her feel bad for me somehow."
+d "Maybe make her feel like she's the one who wants to do it."
+d "I'm not good at gaslighting."
+d "And don't feel good doing it."
+d "But It's for a good cause."
+y "That 'cause' being me?"
+d "As I said, good."
+d "The best."
+I can no longer blame my red face on allergies.
+Seconds after Dallan goes away, I realize how lonely and awkward I really am without the trio around me.
+Thankfully, Chelsie comes to the rescue!
+With a friend?
+Two friends!
+ch "Hey there newwwwbie~"
+ch "Whatcha doin' here alone?"
+ch "Where is Dallan?"
+ch "Aren't you two supposed to be getting a room by now?"
+y s"Hi Chelsie!"
+y simple"I'm not sure I get what you mean by ro-"
+y "Oh."
+y awkward"Ha ha, I get it."
+ch "I meant fucking like animals somewhere private."
+y blush"Yeah… I got that and-"
+ch "Going absolutely ham on each other's mouths, and whatever else guys like to-."
+y blushmad"I SAID!"
+y "I get it, and no, we're not… doing that."
+y simple"He's signing some papers or something."
+y "You can find him with Merina."
+ch "Thanks for the info!"
+ch "Before I forget, here's the key to your dorm and lunch card."
+y s"Ah, thank you."
+y s"Aaand, who are your friends?"
+ch "Hmm, what friends?"
+ch"..."
+ch "Oh, them!"
+r "Really, Chelsie?"
+r "We came along specifically to be introduced by you."
+r "You said you knew him well."
+ch "Can't expect me to remember every little detail of my life."
+ch "Anyway, you might remember these two from the opening ceremony."
+y ec"Yes, I think I might."
+ch "…"
+y s"…"
+ch "…"
+y simple"…"
+ch "So?"
+y "Soooo…"
+ch "What are their names, you said you remember."
+y "I don't-"
+co "It's ok, Chelsie, we'll take it from here."
+This girl is seriously stressing me out when I'm already so socially awkward…
+ch "Alright, if you insist, I'll go see what Dallan's up to and let the three of you go at it."
+ch "He he."
+ch "But like, not in a sexy way."
+ch "Like, don't fuck is what I mean."
+y bored"We get it Chelsie."
+ch "It would be pretty inappropriate to have a threesome here, or God forbid an org-"
+r "Girl, get out of here already."
+ch "I'm just messing with ya'll, heh, as my mom always said."
+ch "'Mess with the rich kids and steal their shoes', haha."
+ch "ha…"
+ch "She's a bad person."
+ch "Anyway, cya."
+r "Hi again, sorry about her."
+y ec"Oh don't worry, this is only my second day here but I'm already used to her energy."
+r "Good to hear, it seems she didn't lie about knowing you at least."
+r "So, as she was about to say, probably."
+r "We are two of the recommended students, so to speak."
+co "Even if that term is a little awkward to use."
+co "Embarrassing even."
+r "Yeah, not to act like we're better than anyone else."
+y "It appears that being recommended does put a target on our backs."
+r "Exactly!"
+co "Agreed."
+r "My name is Rose, by the way."
+co "And I'm Coal."
+y ec"Nice to meet you, I'm-"
+r "[name]"
+co "Yes, we've heard of you."
+co "Or at least remembered you."
+r "I had to run around looking for the Defender's leader, Dallan."
+r "And your name kept popping up when I asked where he was."
+y awkward"Oh, I'm sorry for stealing him away."
+r "Nah, don't even worry about it."
+r "If you feel bad about it we could hang out sometime, maybe after the mysterious test."
+y s"Sounds good."
+y "Does that mean you are going to join the Defender's Shard?"
+r "A-ha."
+r "That's the main reason I wanted to meet you as soon as possible."
+r "As recommended students, we might want to stick together."
+r "At least until the dust settles."
+r "Other people tend to look at us like we're some kind of deities."
+They don't look at ME that way…
+un "That's because you stand out as much as a daisy in a garden of roses."
+un "A very pathetic daisy."
+un "Colorless and surrounded by thorns."
+r "Which means that having two in the same Shard attracts some attention."
+co "Thankfully I'm balancing the scale at least a little bit."
+co "I joined the Sorcery Shard."
+y worried"Oh no, you didn't get scammed, did you?"
+co "What?"
+co "No no, it was actually a little difficult to enter, as I don't actually have any magic of my own."
+y "You passed the audition without magic?"
+r "See?"
+r "Told ya."
+r "Attracts attention."
+co "If life taught me anything, it's that friends with common goals and backgrounds are hard to come by sometimes."
+Scribbles, real quick, what do you think of these two?
+un bored"They seem normal, what else you want me to say?"
+Do they have any kind of ill intent?
+Or dangerous powers?
+un suspicious"Hmm, the bunny woman looks like she could smash your head between her thighs."
+Helpful…
+un "And the guy seems to radiate some kind of aura from his hips."
+un "Although he says he has no magic."
+un "It's probably something about the device he carries."
+un bored"I'd say you're ok with befriending them."
+r "We registered to be the first people in today's practice."
+r "I guess it's the perfect day to see each other in action."
+co "But if the rumors are true, we should all be quite powerful, heh?"
+co "Can't wait to see everyone's awesome powers!"
+r "Ah, apologies, my friends are waiting for me."
+r "We all seem to have found our own friend groups already, but that doesn't mean we have to be strangers to one another."
+co "Yeah!"
+r "Give us a call whenever!"
+y "Will do!"
+We exchange phone numbers.
+And wave each other goodbye, as I watch them disappear in the crowd
+Soon, two familiar faces approach me.
+y ec"Hey!"
+y "How was the rest of detention?"
+They meet eyes and look away.
+t "It was fine."
+t "I mean it sucked."
+a "Don't ever leave me alone with this weirdo again."
+t "I'm not too satisfied with you either."
+a "You little-"
+His words are cut short by Dallan's arrival back.
+d "Merina agreed to take over!"
+d "Ah, Aiden, Tate."
+d "Detention over, I see."
+a "Yeah."
+a "Sooo, we're going to have to go back there after this, right?"
+t "And tomorrow as well?"
+d "Yes, that was the deal."
+a "Cool."
+a "I-I mean, fucking hell."
+t "Hey, did you tell her to put me first?"
+d "Unfortunately there were two people already signed first, but you'll be the third."
+t "Meh, whatever, third is still good."
+t "And you told her the name to call me by?"
+d "Uhmm, yes?"
+t "Amazing, you're the best!"
+As we talk, more and more furs come into the arena, and soon, it fills up.
+y simple"So, is this an official event or?"
+d"No no, it's really just what the name says, practice, there is no reward or punishment."
+a"Except that more than half the academy will watch what you can do."
+d"No pressure."
+y simple"That sounds like pressure."
+t"So, when are we starting?"
+d"As soon as Merina is ready."
+t"In the meantime."
+t "Come oooon, [name]!"
+t"What can you do?"
+d"I am quite curious too."
+a "Same."
+un bored"Aaand me as well."
+un tease"I mean, I already know, that's why I chose you as my host, but I wanna know from the source."
+I thought I was chosen out of convenience.
+un"That too."
+un"Guess we were both lucky to have found each other."
+un"What a lovely romance story, don't you think?"
+un ang"Now spill it."
+y simple"Let's see."
+y"I can boost my speed and strength as well as other people's."
+t"Support abilities, pretty cool."
+y"And I can control energy, in some extent."
+All three look at me stunned.
+Some furs around us heard me and turned to look.
+un tease"Ohh yeeeh, that's my mortal"
+un"You hear that?"
+un ang"MY HOST IS SUPERIOR TO YOU ALL"
+un tease"MUHAHAHAHAHAHAHAHAHA"
+d"That-"
+d"Is very impressive, [name]"
+d"It is rare-"
+d"Actually, I never heard of someone who can do that"
+d"At least not in my lifetime."
+a "I did, but I never met one in person."
+t"My God."
+t"and I was stuck with lousy teleportation, flying, elemental magic and mind reading?"
+un worried"oh oh."
+t"So unfair."
+y awkward"Uhm, mind reading?"
+a"Don't listen to him, he's lying about the last two, but it's true he's good at teleporting and I suppose flying."
+un"Phew, that got me good"
+un"Hopefully there are no mortals here that wield mind reading."
+un"It's not supposed to manifest in mortals, but who knows what changed while I was stuck in my prison."
+y"You have a lot of talents Tate."
+a"His ONLY talents."
+t"Not true, I am very flexible as well."
+He gives me a wink and Aiden groans.
+t"As for flying I can only do it on a broom, but that's the only way I would fly even if I didn't have to, makes me feel like a witch."
+t"I can make people float as well."
+y happy1"Consider me impressed."
+Tate looks proud of himself.
+Merina starts the announcement, we listen to her explain the rules, the same ones as my friends did, but with more details.
+m"STARTING OFF THE PRACTICE SESSION WILL BE OUR FIRST YEAR, FROM THE DEFENDER'S SHARDS, ROSE!"
+We watch the big rabbit woman step in, facing her dummy.
+The thing is at least ten feet tall and overall the most terrifying thing I've seen, when I think about having to fight it.
+She takes out an axe and charges at it.
+Within seconds the dummy is chopped to pieces.
+It didn't even have time to use any weapons against her.
+The second one was Coal, and just like Rose, he obliderated the dummy.
+Altough he used magic?
+Or a laser cannon, shot from the device he has on his hip.
+That melted the snake completely.
+The crowd was cheering for both of them the whole twenty seconds it took for both of them to finish, and my friends over here as well.
+m"NEXT OFF, A FAMILIAR FACE AROUND HERE, FROM THE SORCERER'S SHARD, TATE!"
+t"Damn it Dallan, that's not the name!"
+t"No matter!"
+t"I am so ready!"
+y ec"Good luck!"
+Tate jumps into the pit, everyone quiets down, as the dummy that was just carried in slowly rotates to face him.
+The design looks like a snake, with most of its body wreathed around itself, which gave it a strong base, and plate armour all around for protection.
+From its body, cannons, wooden blades and saws move.
+Tate concentrates for a second and then.
+The goofy cat becomes badass and conjures a huge lightning ball in his hand.
+Or at least I think that's what it is.
+Sparks flying everywhere, the blues and whites and purples dancing around him.
+A magical circle around his hand, just breathtaking.
+The dummy has its barrel fixated on him, and shoots out what looks like dodge ball, but at inhumane speeds.
+At that moment, he fires the ball into the dummy, disintegrating the ball on its way.
+His magic touches the dummy and...
+It just disappears without a sound or trace.
+No explosion, no fire or lightning or smoke, nothing.
+That was a very quick fight.
+Nobody really understands what happened to his opponent.
+Or if they should cheer or not.
+We have one more moment of silence.
+All this time, Tate has his head glancing upwards, shielding his eyes from the sun.
+People take notice and do the same one by one.
+And there it is.
+...
+The dummy crashes in the middle of the arena, creating a dust cloud that envelopes the whole place.
+The explosion loud enough to be confused with a small bomb.
+We wait for the dust to settle, and see the mangled, non-functioning dummy in the sand.
+before the people in their seats start cheering, and I was the loudest of them all.
+Aiden was giving a slow clap as well.
+m"WHAT AN INCREDIBLE FIRST IMPRESSION!"
+m"A GREAT EXAMPLE OF OFFENSIVE SUPPORT MAGIC."
+m"NOW LET'S SEE WHAT THE OTHER FIRST YEARS HAVE TO OFFER!"
+t"So what did you think?"
+y happy1"You were incredible!"
+y"Can't believe you took it out in one hit!"
+y smug"And what a hit it was."
+y"I did not expect it to fall from the sky like that."
+t"Heh, thanks."
+t"I did say I will try to take people by surprise when we first met, didn't I?"
+t"The element of surprise!"
+t"But I bet you'll send it to the moon."
+t"Ooo, or crush it so much you create a black hole."
+y awkward"I- don't have that much control over my abilities yet."
+d"Obviously, that kind of power takes time."
+a"But still, try to not make too much of a mess there."
+d"As long as you can abstain from completely melting the metal armour it should be fine."
+Oh no, they're overestimating me.
+I predict this will go horribly wrong.
+Merina keeps calling first year names, none of them were as flashy as Tate, and some of them struggled quite a lot with the snake dummy.
+Which gave me some confidence, but not a lot.
+Finally, Merina calls my name.
+I get some good lucks from the guys and jump down into the pit, just like Tate but less graciously.
+My heart is racing, I have no idea if my plan will work or not.
+The arena is once again getting quiet, but not for long.
+I come face to face with a new dummy.
+This one switches to the cannon as soon as it senses me.
+I extend my arm.
+Maybe I can do something similar to Tate?
+Except without the teleportation part.
+I focus all of my energy in my palm, facing the dummy.
+A ball of wild energy, the size of a tennis ball forms.
+y determined"Yes!"
+y"First part done."
+y"Now-"
+I make sure it is aimed directly at the dummy, it would be a shame if I missed.
+Then, I shoot my spell and hope for the best.
+The snake shoots its dodgeball cannon as well.
+Both balls go past each other, nearly touching.
+Being this far away, I dodge it with ease.
+So all I have to do now, is wait for the impact.
+The energy ball starts to lose its momentum, slowly falling down.
+Until it touches the ground and disappears, right in front of the dummy.
+y pf"..."
+crowd"..."
+un"..."
+un"....."
+un ang"WHAT THE HELL WAS THAT?!"
+y cry2"I DON'T KNOW!"
+un"WHAT DO YOU MEAN YOU DON'T KNOW? THAT WAS PATHETIC!"
+y"STOP YELLING AND HELP ME, EVERYONE IS WATCHING!"
+un bored"Ughhh."
+un"Alright, but you have almost no more magical energy left, because of one stupid, weak spell."
+y worried"So can you help me or not?"
+un simple"Look, if you can get close to it, VERY close, almost touch it in fact, I can try something."
+un"Just extend your arm against the dummy, and brace for impact, it will hurt."
+y"Alright, anything works at this point."
+I can NOT disappoint Dallan.
+Or the others.
+I still have a bit of magical energy left, so I use it to cast a speed boost on myself.
+I start running towards the dummy at high speed and I can hear the crowd starting to buzz excited again.
+The dummy takes out a second cannon and shoots them both at me.
+Unfortunately, high speed does not come with high reflexes.
+So I managed to dodge one of the balls.
+but the other hits me right in the stomach.
+The ball bounced away, but it hurts like hell, it takes a lot of will power to keep my lunch in.
+un ang"Come ooon, you can do it."
+I shake off the pain and run again, with more determination.
+As I get close, the dummy switches from ranged to melee weapons.
+Starting to spin and move from side to side.
+I run a circle around it trying to find an opened window, aaand-
+There!
+I extend my arm almost touching it.
+un simple"Good job, I'll take it from here."
+Suddenly, a shockwave comes bursting through my arm and into the dummy, the force made its base raise from the ground but not enough to topple it over.
+The metal armour it had shattered and the force made a dent in the wood, but I bet that isn't enough to confirm a kill.
+So I raise my other hand.
+y angry"AGAIN!"
+un"If you say so."
+The second shockwave finished the job beautifully, toppling it over making the dummy nonfunctional.
+crowd"..."
+My arms are numb and hurt a lot.
+but at least they're not broken.
+un bored"Can not believe you needed me to defeat a dummy."
+y bored"In my defense, I never said I was powerful."
+un"..."
+I go back to Aiden, Tate and Dallan.
+With the sounds of the crowd cheering, even if I didn't deserve it.
+t"I can not believe you didn't even use your spells for this."
+t"Well, except for that distraction ball."
+a"Of course, why use such powerful spells on a simple dummy."
+un tease"Ha, they really think you made that thing fall with raw strength."
+un"Mortals, their stupidity knows no bounds."
+y awkward"I appreciate the praise, but I really didn't-"
+d"You did so good, [name]"
+d"Your strength rivals mine, I'm pretty sure."
+t "You didn't congratulate me that hard..."
+d"Hmm?"
+d"Oh, yeah, yeah you were pretty good too."
+y sad"But I..."
+d "Can't believe you didn't even use any energy powers to defeat it!"
+y simple"If I can just-"
+t "Why bother?"
+y "Guys..."
+a"You're right, that dummy was so easy it deserved a handicap."
+y angry"EVERYONE LISTEN UP!"
+y sad"I'm sorry, but the truth is, I really can't control my spells."
+y"The little ball you saw, that's all I can do, unless luck is really on my side that day."
+y"I know everyone expected me to be some kind of superhuman, because I was 'selected'"
+y"Or whatever it's called."
+y"But I'm really not."
+y"It was not my intention to lead you on like this."
+y"It didn't occur to me people would think so highly of me just because of that."
+y"So I understand if you want to just walk away."
+They keep quiet for a minute, looking at each other.
+I was waiting for looks of disaproval, or laughter.
+But those never came.
+a"I think I'm talking for all of us when I say, we don't care how powerful you are."
+a"We shouldn't have jumped to wrong conclusions without knowing you better."
+d"Aiden is right, your powers have nothing to do with why we like you."
+d"Besides, we can help you grow, this is an academy after all."
+d"You're here to improve, not show off."
+d"The main fact remains, you still did decent in practice today."
+a"He's right, if that was your worst, then I'm scared to see you at your best."
+t"I for one didn't even know the selected people were 'supposed' to be powerful."
+t"I thought you all won a contest or something."
+t"So let's go to lunch and celebrate our victories!"
+y blush"I..."
+y"I don't know what to say... just."
+y"I'm glad you think that way."
+y"Some lunch sounds good."
+y simple"But Dallan, what about the practice?"
+d"Don't worry about it."
+d"I left Chelsie in charge of the rest of announcements, my vice, so I'm free as well."
+We can all hear Chelsie's excited voice echoing.
+ch"Let's give it up to our newest victi- I-I mean!"
+ch"Our newest first year!"
+ch"Will he survive the latest flamethrower addition to the dummy?"
+ch"Find out after this short commercial!"
+ch"*cough cough*"
+ch"HEY KIDS!"
+ch"DID YOU EVER GET INAPPROPRIATELY TOUCHED BY A NIGHTFALLEN?"
+ch"OH BOY DO I HAVE JUST THE THING FOR YOU!"
+ch"For only 93.99 you can-"
+Her voice trails off as we get farther away towards the exit.
+y simple"Huh, even without internet you can't escape ads."
+d"Don't mind her, she promotes her inventions as much as she can."
+d"You'll get used to it"
+d"And will probably end up buying something at some point."
+We walk out of the arena and into the streets.
+T "I don't know about you guys, but I'm starving!"
+T "Where do we go to eat?"
+A "Aren't you forgetting something?"
+t "Oooohh right, I have detention."
+a "Sorry, we gotta go."
+t "Damn that bet we made."
+t "Isn't that right Aiden?"
+a "Idiot…"
+He holds him by the ear and drags him along.
+Ows and ouches can be heard until they are completely out of sight.
+y simple"Tate didn't seem that bothered by the detention."
+d "More so than when I was watching him."
+D "You don't think he just doesn't like me, do you?"
+y determined"Hey hey, look at me."
+y "Everybody likes you and they have no reason not to."
+d "Ok?"
+y "Now let's get you a snack."
+y "Then we can do something else, that does not require work."
+d "Gym."
+y confused"Gym?"
+d "Yes!"
+d "Let's go to the gym!"
+d "Oh, I haven't been there in weeks."
+d "There was no time!"
+d "I had to do my routine in my office."
+y smug"Then good thing I'm not letting you work."
+y "Let's go to lunch."
+Dallan stands pacing in place, whining with his ears back.
+y simple"Dallan?"
+d "Actually, I think I would prefer to skip on the lunch."
+y surprised"What?!"
+y "You?"
+y "Skip on food?"
+d "I just reaaally want to see how the gym's holding up."
+y smileworry"I'm sure it will still be there in half an hour."
+d "You might be right…"
+y "If you really want to, we can grab some food to go and eat on the way?"
+d "Yes!"
+d "Great idea!"
+d "Lead the way."
+y smug"I don't know where it is."
+d "Oh, right, sorry."
+d "I think it's this way, follow me."
+un "He 'thinks'?"
+Cut him some slack, he said he hasn't been there in weeks.
+un "Not a reason to forget where your usual gym is in this small town."
+un "I'm suspecting you'll get murdered in the forest or abandoned building."
+I am willing to take that risk, if the alternative is spending some quality time with Dallan.
+y simple"Today has been a walking day."
+d "Isn't that good?"
+d "We probably burned most of the calories from all that food."
+y smug"He says, while munching on three paninis stacked on top of each other"
+d "Ha."
+d "That's what the gym will be for."
+y "Is it far?"
+d "It's on the other side of the town."
+y "Oh no, will we even get there until evening?"
+d "The town is not that big, we should be there in about twenty minutes by foot."
+y simple"I'm not used to that."
+y s"But being able to walk from one side of town to the other in less than an hour sounds lovely."
+d "Yesterday we talked for a bit about my preferred routine."
+d "You mentioned you go to the gym too."
+d "Can I ask what your favorite type is?"
+y smug"Big and dumb…"
+d "Excuse me?"
+y awkward"I-I said endurance and flexibility."
+d "Ah, I remember you were quite fast at practice."
+d "And flexible too?"
+d "Noted."
+d "We should go for a bike ride sometime."
+y ec"We totally should!"
+y "Tomorrow?"
+d "But what about my work?"
+d "I was thinking maybe after the test?"
+y smug"I will literally not allow you to work anymore, until after the test."
+y scary"And if anybody has a problem with that they can solve it with me personally."
+d "Wow, scary."
+d "Alright then, mister menacing aura."
+d "I'll do whatever you suggest from now on."
+un tease"Oooo, 'whatever' he says?"
+Whatever~
+un "I'm glad you're starting to think more like me."
+un "It suits you."
+We arrive shortly at the gym.
+y s"It really was a short walk."
+y "I can't believe we got here so fast."
+Honestly, I'm not too excited to be here and actually do stuff.
+Exercise?
+Bleh.
+I'd rather look at a certain individual do squats.
+And that certain someone looks ecstatic to be here.
+Dallan's tail is wagging and his grin is enormous.
+d "First of all, we need to change, obviously."
+d "We're not going to work out in the school uniforms."
+y s"Yeah, obviously, that's exactly why I brought my change of clothing."
+y bored"Wait, no I didn't, that's in my luggage."
+y ec"Oh well."
+y "I guess I'll just watch you sweat and flex those bulging muscles for a couple of hours."
+d "Don't be silly, the gym provides clean workout clothes to all its members."
+y "But I'm not a member."
+d "I'm signing you up right now."
+y "But I don't have any money, and I don't want to leech off of you."
+d "The subscription is free for all students."
+y "But I-"
+d "Haha, [name], if I didn't know you any better, I'd think you don't want to work out."
+y "Whaaaaat?"
+y "Nooooo…"
+y awkward"I totally want to have my body ache all over tomorrow morning."
+d "That's the spirit!"
+d "Your subscription card will be ready soon, let's get you those clothes."
+y bored"yaaay."
+We walk in the back led by a big otter, almost as big as Dallan, named Emanuel.
+Apparently they were gym bros, but Emanuel has a family now and Dallan is super busy these days, so they don't have time to do it together.
+And by 'it' I mean work out, of course.
+At least I hope that's what they were referring to.
+In fact, as soon as he chose my size and gave me the clothes, he had to go home for the day.
+d "Looks like it's just us for a while."
+d "Let's go change."
+y blush"Together?"
+y awkward"What am I saying, duh."
+y "Common changing room."
+Thankfully Dallan was already on his way so my nonsense mumbling was kept to myself.
+As far as I noticed, Dallan has incredible senses.
+It would be very risky to peek while he's changing.
+Don't get me wrong, I would totally take that risk.
+I have no shame when it comes to men.
+But he is looking directly at me as we both change.
+His eyes are not on me a hundred percent of the time.
+But he is facing me, and meeting my eyes from time to time.
+While we pull our pants down, while we take off our shirts, while we fold out clothes, he's just there, facing me

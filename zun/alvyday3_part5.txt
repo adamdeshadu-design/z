@@ -1,0 +1,406 @@
+."
+teacher "Wish I could help, but I’m being sacked today, unfortunately."
+al "What?!"
+teacher "Guess we both have it rough."
+teacher "They suspect me of something. They can’t prove anything but they don’t want me around you in any case."
+teacher "You’re on your own now."
+teacher "But I’m not leaving you empty handed."
+teacher "The bag and jacket I bought you are in the same hidden place as always, ready to be used."
+teacher "And I’m also recommending you to a fancy little school, down South."
+teacher "In case you decide to expand your greed further and look for some actual freedom."
+al "My aunt hasn’t visited in over a year. Buddy hasn’t spoken to me in weeks. My teacher, whose name I didn’t even bother ever asking, is gone… and my only little friends murdered."
+al "I wanted to feel the outside world, to experience some new things. But I never dared to put more than one toe in the water."
+al "I won’t make that mistake again…"
+pause 2.0
+My head hits the grass floor of the hill as Buddy is unsummoned, making me shoot my eyes open.
+The world bleeds from dream into waking. The gunshot still rings in my ears as the sky outside stains itself crimson, evening light seeping through the curtains like fire made soft.
+Alvy shakes beside me, breath shivering, and when I look at him, I see the tears, real this time, heavy and unstoppable.
+He’s already up, kneeling, with his hands down, defeated.
+His body is warm against me, yet trembling as if the weight of everything he carries could crush him at any moment.
+I let him get it all out, trying to contain my own sadness as I squeeze tighter.
+al "They’re gone, they’re gone because of me."
+y2 "It wasn’t your fault."
+al "How can you stomach being around me still?"
+y2 "Everything that I saw only made me want to be closer to you."
+al "But I’m such a coward. A loser…"
+y2 "You think I’m not a loser as well? The only difference is that I had a loving family."
+y2 "But you are one of my first and only friends too. I wouldn’t abandon you for something so small."
+al "Everyone I ever loved is either dead or missing!"
+al "I wanted to tell you everything even sooner. To listen to my aunt’s advice, but no matter how hard I tried, the memories were just too strong."
+al "I pushed everyone away and was left with nobody."
+al "I couldn’t even help Buddy get out of the stupid ring!"
+y2 "You didn’t push anyone away! Don’t you see? You’re perfect the way you are. It’s your family who took them away, who made the ring, who fired your teacher."
+y2 "But they have no power over me."
+y2 "And they have no power over you now either."
+y2 "If your mother ever shows her face here, I have many ways to deal with her, trust me."
+al "You’d start a fight with the Arufar family for me?"
+y2 "I have no concept of political power of noble families, so I’m not scared."
+al "Then you are braver than I ever was."
+al "I remember when my auntie would read me stories about all the Cryptids roaming around, just outside our yard’s walls."
+al "I would try to climb over the fence when nobody was around. That would win me some serious yelling, but it’s also what made them hire my music teacher, to keep an eye out for me."
+al "So I’m glad that little butterfly effect took place."
+al "Once, she stormed into my room at night, flipping over furniture and ripping down curtains."
+al "She was sure I’m plotting some kind of escape plan because I asked for a double portion at dinner."
+y2 "Are you… laughing?"
+y2 "Isn’t that a traumatic experience?"
+al "Very, but… heh, I’m just realizing I have no problem reminiscing it all now. Something about you going into my brain like that opened a stream of emotions and memories."
+al "I just think it’s funny, more than anything."
+y2 "That just means we can finally, truly compare trauma together."
+al "Buddy forgave me a long time ago for my indecisiveness… but you…"
+al "I had a feeling you would as well. Now I know for sure."
+y2 "Your love for Nightfallen is such an attractive part of you. I’ve never met anyone else with the same drive as me."
+al "They might be beings of Lust, but they deserve Love as well."
+al "Your physical contact did make me feel much better, but if you’re uncomfortable you can let go."
+y2 "Not until your tears dry."
+al "If you continue to say things like that, they will never dry."
+y2 "Then I never let go."
+al "Then how am I supposed to stop crying from happiness? Stop making me cry, [name], please."
+y2 "You better think of more bad memories I missed in your dream then, pretty boy."
+al "Where do I even begin…"
+I slowly let go over the next few minutes, as little stories come out of his mouth.
+Sad or not? I’m not sure. But he’s telling them with a smile, so that’s good.
+Buddy finally settled down inside his ring as well. The ring looked like it was going to explode from his desire to hug Alvy as well, but he let me do that job for now.
+y2 "Yuuup, his arm flew out the window. They only found it the next day. Could barely reattach it."
+al "Wow. So Rose had it lightly then?"
+y2 "Yeah, but I’m pretty sure that guy deserved what happened to him."
+al "I hope I don’t awaken any dangerous powers while I study here, honestly."
+y2 "How come you’re okay with becoming a hunter in the first place?"
+al "Hunter is just a title in my case, I’ll be more of an on-field researcher."
+al "Hmmm, other sad things…"
+al "You know, me and Buddy would sometimes talk at night about who’s day was the most boring."
+al "He would usually win, since he literally didn’t have a body to feel with until I summoned him."
+y2 "Aww, I’m sorry Buddy."
+al "As long as nobody wears the ring he says it’s much better."
+al "Hey, uhh, don’t mind me asking but… earlier you said my love for Nightfallen was… ‘attractive’?"
+al "What other parts of me… do you think would be considered attractive?"
+y2 "Oh, uhmm, a lot of things."
+y2 "Your smile, your tail that wags lightly whenever you're around me. That hat looks very nice on you too."
+al "You think so?"
+y2 "Most of your clothes, actually. It’s refreshing to see someone with no midriff exposed, heh. Not that I’m complaining when I do see it…"
+al "My teacher got them for me. But I did make my own adjustments before coming here."
+al "I added as many images of the Academy’s insignia as I could fit."
+y2 "I was wondering why there were so many."
+al "Yeaahh… I knew I had to have them, but didn’t know how many."
+al "I might’ve gone overboard."
+y2 "Nah, it’s cute how passionate you are about this place."
+al "HE didn’t think so…"
+y2 "Who? That boyfriend of yours?"
+al "I wouldn’t call him that… he was just… a fling?"
+y2 "Was he that bad? I did hear you call him very handsome."
+al "Sure, he was, but I can’t love someone that hates Nightfallen. That’s basically hating me."
+al "Besides, he was only interested in sex… we had quite literally nothing in common."
+al "I was barely eighteen and didn’t know better."
+y2 "How did your parents even find this guy?"
+al "He was the son of some kind of noble family. My parents loved him because of how much he hated Nightfallen. Plus, he was a canine and they were quite clear that’s the only thing my future spouse is allowed to be."
+y2 "So you… stopped liking him pretty fast, huh?"
+al "Yeah, he was nooot the one I was looking for, and Bramble showed him that with his claws."
+y2 "Cool, cool."
+al "But uhmm, it was bound to be, you know?"
+al "If there is one fairytale cliché I believe in, its that everyone has a soulmate somewhere."
+al "And I… hope I found him here."
+y2 "Who’s that?!"
+y2 "What canines have we met so far…?"
+y2 "*gasp* Is it Dallan?"
+al "No you weirdo, it’s you!"
+y2 "OH."
+al "I don’t care about family restrictions anymore. I’m hoping you are my forever-after… if you’ll have me."
+y2 "YES! Yeah! Of course! I… I like you too."
+y2 "Scratch that, I love you. I know I do."
+y2 "I know it might be fast, but I can not see myself feeling the same way for anyone else."
+al "I love you too…"
+al "I mean, who else in this world would I ever be comfortable enough with to share a home?"
+al "About time I said it."
+al "Feels like yet another rock off my chest."
+al "If I can live the rest of my life the way we lived together the past few days… my life would be complete."
+al "I was ready to confess since day one, but didn’t want to scare you away."
+y2 "I was ready to confess since day two, that’s not a big time difference."
+al "So what are we now?"
+y2 "You are my boyfriend now. And I am your boyfriend."
+al "That’s so gay, I love it."
+y2 "You know what would be gayer?"
+al "What?"
+y2 "If we kissed… like, right now?"
+Something stirs at the edge of my vision. A ripple of shadow blooms from Alvy’s ring, dark and fluid, and Buddy steps into the fading light.
+His red eyes blink wide, curious, as though he’s stumbled into a secret too fragile to touch. As the little curious creature he is, tilts his head, watching us with the intensity of a child seeing a candle flame’s dance for the first time.
+al "Y-yeah… that would beat the gay record."
+al "Do you…"
+al "Do you want to kiss me?"
+y2 "I’m not exaggerating when I say there’s nothing I want more."
+The world feels hushed, like even the air is waiting.
+Our first kiss.
+pause 2.0
+And off course, there's the sound of me getting flustered. If not now then when? Hah.
+The kiss is soft, awkward, so brief it could be mistaken for an accident, yet it carries the weight of every stolen glance, every hidden feeling from the past few days.
+Alvy’s lips tremble against mine, and I can’t help smiling into it, holding his hand tighter so he knows I don’t want to let go.
+It’s simple, but the taste of our love being officiated is strong.
+Buddy stiffens. His red eyes go wide, surprised, even if I’m sure he knew what he was about to witness. But instead of turning away, he leans forward ever so slightly, transfixed.
+And just for a moment… I swear I felt electricity flow through us.
+Silently we both agreed… a smooch on the lips was cute, symbolic, but it will not satiate either of us.
+The red sky gave way to the glowing moons and the night’s reign. With Buddy’s magic we got home fast, lips and hands barely contained from each other’s bodies on the way.
+Alvy clutches at my shirt, pulling me closer with a desperation that steals every thought from my head. Something I didn’t think I’d feel from this shy dog.
+His lips press harder against mine, trembling at first, then bolder as the taste of me draws him in. I feel his tongue brush mine, hesitant but hungry, and a shiver races through me.
+I grip him back, one hand tangled in his fur, and the other grabbing that collar that begs to be tugged on.
+The kiss turns wild, animalistic, unlike the one on the hill, messy, teeth barely grazing, breath shared like it’s the only thing keeping us alive. Every bit of hesitation from that first timid touch is gone, replaced by a fire that feels like it’s been waiting years to burn fervently.
+I begin to break apart, trying to move to the next step, lips still tingling, breath tangled between us.
+Unfortunately, this greedy dog does not want to let go, taking my attempt to break the kiss as a threat, lunging back in immediately, without as much as opening his eyes.
+I gently grab his muzzle with my hand and keep it shut tight, making him come back to his senses and apologize with big, puppy eyes.
+His eager tongue, still wet, hanging out from between his front teeth.
+al"{i}Sowy, thoo musch{/i}?"
+y2 "No, love, you’re just as perfect as I thought."
+y2 "But if I don’t make us go to the next step, I feel like you’d eat my face till morning."
+al "I wouldn’t be against that… but I do want to know what you have in mind as a second step."
+pause 1.0
+I push him back with a smirk, making him sink onto the bed as I follow with, until I’m between his legs. His arms fall on either side of him, new excitement showing on his face.
+His eyes catch mine, wide and glowing in the faint blue light. There’s adoration there, disbelief even. That kiss made him feel big and mighty but he quickly reverts back.
+al "I can’t stop looking at you…"
+He whispers, voice raw. His thumb brushes the corner of my mouth, tracing where the kiss still lingers.
+al"You’re… beautiful. More than I can handle."
+Heat surges through me, and I can’t help the laugh that slips out, shaky and breathless.
+y2"Funny… I was about to say the same thing about you."
+My hands rest on his thighs, and my head hangs low, feeling his heat and shakiness.
+y2"I can’t believe this is real. That I get to… to see you like this."
+My eyes slowly fall down, towards his ever-growing tent between his legs.
+y2"And I want more. I want to know every piece of you."
+He reaches for his shirt to pull it up-
+y2 "Nah-ah-ah~ you don’t get to undress yourself. You have a willing maid, happy to do it for you."
+y2 "It’s bad enough you took the first layer off already without me."
+al "Please do, but are you going to start roleplaying as my servants from now on?"
+y2 "I just think maids are hot. I promise this is the only instance."
+al "Then please, proceed."
+I unfasten it slowly, savoring the sharp click it makes, then work the button of his pants. They slide down his thighs, pooling around his ankles, leaving him exposed in nothing but his underwear and that collar I adore.
+al "This one’s a bit tricky to take off."
+y2 "No. Keep it. I like it. I want to hear those tags clink with every movement we make."
+al "Oh. O-ok."
+y2 "My turn."
+Stepping back, I begin to undress for him. My own shirt comes off first, buttons slipping free one by one. I let the fabric drift to the floor, then loosen my purple tie and toss it aside.
+My belt follows, then my pants, until I stand before him in only my underwear, my cock straining against the thin fabric. I can feel his eyes on me, hungry and curious.
+With a slow, deliberate motion, I hook my thumbs into the waistband of my underwear and push them down. My uncut cock springs free, fully erect and already slick with pre-cum. His breath hitches.
+al "I didn’t even know they came like that…"
+y2 "Really? Now I’m curious to see yours. Do you like it?"
+al "Very."
+A low, almost involuntary whine escapes him, and I smile, stepping closer again until our bodies are nearly touching. My hand rises to trace the edge of his collar, the metal cool under my fingertips.
+Looks to be the exact same size as mine, but cut, and ever so slightly thicker.
+A low, throaty groan escapes him as our lengths slide together, both slick with anticipation.
+He shifts, trying to angle himself, and I feel the blunt pressure of my tip seeking entrance.
+y2"Wait! What are you doing?"
+al "Sorry! Was I doing it wrong?"
+al "I just can’t wait for you to be inside me."
+y2 "Me too, but let’s take it slow, savor this night."
+y2 "We can’t have you ride it from the start."
+y2 "Say, do you know what frotting is?"
+Alvy’s ears twitch in confusion, his breath coming in short, panting bursts, hips still rolling instinctively.
+al "Should I?"
+y2"Here, I’ll show you; Just pull your hips back a little, and we rub against each other, just like this."
+I demonstrate, rocking my hips up so our cocks slide together, my foreskin catching against his length in a way that makes him gasp.
+al "What are you doing with that tail?"
+y2 "I’m trying to wrap it around yours in a sign of love and claim you for myself that way."
+al "Well stop it, your tail is big but not so big you can reach back there."
+y2 "Grrr, maybe not for now."
+My hand slips between us, wrapping around both our erections. I begin stroking us together, my thumb swiping over our tips, spreading the beads of pre-cum that gather there. Alvy’s eyes widen, his body trembling as pleasure builds between us.
+al"Fuck… I’ve never… it feels much better than a simple hand."
+y2 "I knew you were a frotting kind of puppy."
+I increase the pace, my grip firm and steady. His hips jerk erratically, his claws digging into the sheets as he nears his peak. Just as his breathing hitches and his muscles tense, I still my hand, squeezing lightly to halt his release.
+al "I’m about to-"
+al "H-hey! Why did you stop? Please continue!"
+I don’t answer with words. Instead, I roll us over in one smooth motion, pinning him beneath me. His eyes are wide, confused but trusting, as I lower myself between his legs. I take his cock into my mouth without hesitation, swallowing him whole.
+He gasps, his back arching off the bed as my tongue swirls around his shaft, teasing the sensitive head. I work him steadily, one hand cupping his balls while the other braces against his hip. His whimpering grows more desperate, his thighs trembling against my sides.
+al"Please…"
+al"I’m so close…"
+pause 0.5
+al "AH!"
+I hollow my cheeks, sucking harder, and feel him pulse in my mouth. With a guttural cry, and his thighs wrapped tightly around my head, he comes, his release flooding my throat; hot, salty, and perfect. I drink him down, not missing a drop, until he relaxes beneath me, spent and shuddering.
+y2 "How was that?"
+al "*Huff Huff* There is literally no way you’ve never done this before.*Huff*"
+al "That, or sex just feels much better than I ever imagined."
+y2 "I never experienced the real deal, but I had more than enough practice on my own."
+y2 "I’m glad you liked it so far."
+al "Can I return the favor? Please?"
+y2 "I’d love that."
+y2 "Have you ever… done this with him?"
+al "No, he just wanted me face down and ass up, even for our first time…"
+y2 "I’ll guide you through it then, just do what feels natural."
+I push him down to his knees, my hand still tangled gently in the fur at his nape. His breath is still coming in shallow gasps, his lips wet and ready.
+His excited face comes closer to my trembling cock, I can feel his hot breath on my tip.
+He takes the head in his mouth, and slides down, but very soon… comes a fatal mistake.
+y2 "Ow ow ow, h-hold on."
+y2 "Use your tongue, Alvy."
+y2 "You have to cover your bottom teeth with your tongue, use it to slide it in and out easier as well."
+y2 "Yeah… yeah, that’s it."
+y2 "So much better already."
+Determination flashes in his ocean eyes. He leans forward, lips parting, and takes half of it in.
+I can feel his eager throat gaping around my tip, he can definitely accommodate more if he tries.
+He takes more, his mouth sinking down my length, and though he gags slightly, he doesn’t retreat. I let him set the pace for a moment, watching the way his throat works around me.
+y2"You’re a natural, Alvy."
+I murmur, my hand resting on his head.
+y2"Taking me so deep already."
+pause 2.0
+y2"Now hold your breath, I want to show you what you’re really capable of when you get over your fears."
+I thrust forward, not brutally, but with enough force to make his eyes water. The dog tags jingle wildly with the motion, a chaotic, beautiful rhythm. I fuck his throat in earnest now, my praise never ceasing.
+y2"That’s it, take it all. You’re doing so fucking good for me. Such a perfect mouth."
+The bump I create in his throat is a beautiful scene, I just wish my eyes weren’t closed most of the time from the ecstasy, so I can see it more.
+When I cum, I hold his head firmly in place, grinding into the depths of his throat as I empty myself.
+He swallows around me, his body shaking but never resisting.
+As I pull out, he gasps for air, bubbles of cum and saliva forming then dripping from his chin. I tilt his head up, my thumb wiping gently at the mess.
+al "*Cough* I don’t know what that was… but it was hot."
+y2"That’s was what we like to call a ‘face fuck’, and not everyone can take one, but you did amazing."
+y2 "Is your throat alright? I’m not the biggest but being too rough can still leave a mark."
+al "I’m fine, totally fine and ready for what’s next."
+y2 "You’ll like this part even more then."
+I guide Alvy towards the plush armchair near the window, my hands firm on his hips.
+y2"Bend over."
+pause 2.0
+y2"Now raise your right leg, yeah, perfect."
+He shifts, lifting his leg and widening his stance, offering himself to me completely. I kneel behind him, my hands spreading his cheeks apart, revealing his tight, pink entrance. I can see the faint tremble in his thighs, nerves and anticipation mingling.
+I lean in, my breath ghosting over his sensitive skin before my tongue makes contact. I start slow, broad, wet strokes from his taint all the way up to his tailbone. He gasps, a sharp, surprised sound.
+al"Oh… fuuuck, what s-sorcery…?"
+He whimpers, his voice already shaking.
+I intensify my movements, my tongue circling his rim before spearing inside, shallow at first, then deeper. His whole body jolts, and he lets out a broken moan.
+al"Nngh— How are you… I’ve never– ah!"
+His words dissolve into a series of breathy, desperate sounds as I work him open.
+I reach around with one hand, wrapping my fingers around his cock. It’s hard and leaking, and I stroke him in time with the thrusts of my tongue. He cries out, his hips bucking helplessly between my mouth and my hand.
+My tongue flicks rapidly over his rim, and he borderline screams, a raw, unraveling sound.
+al "Please! Don’t stop— I’m gonna—!"
+His voice cracks as I slip one finger inside him, pressing deep. He clenches around me, his body shaking violently.
+al"Fuck, yes— right there!"
+I add a finger in, then another, stretching him carefully, and he lets out a guttural groan, half-growl, half-plea.
+His claws dig into the armrest, tearing the fabric slightly.
+I withdraw my fingers slowly, leaving him empty and trembling.
+y2"Next… I’m going to fill you properly, would you like that?"
+al "Y-you’re evil for asking that after what you just did…"
+y2 "I’m quite flattered, have to admit. Never thought my practice will actually come in to make my partner moan like that."
+al "Should I just stay like this?"
+y2 "Don’t even think about it."
+y2 "I want to offer you a wild ride, but I still want to love you."
+y2 "I want to look into your eyes and read every little wrinkle your nose creates when I slide in."
+al "I don’t know why I thought you’d be like that asshole."
+y2 "Pounding you mercilessly only comes after showing you how loved you are."
+y2 "Now lay on the bed, on your back."
+y2 "Yes, spread those pretty legs, you already know."
+pause 2.0
+al "Where’d you get that?"
+al "Never mind, you probably carry it around like I carry my Nightfallen gems."
+y2 "Never leave the house without it."
+al "And still never used it until now."
+y2 "Hey!"
+y2 "Big words for someone who still tastes my cum in his mouth."
+I position my wet head and rub it between his still spit ridden cheeks.
+His eyes are wide, vulnerable, as he looks up at me worried.
+al "You know… my first time... he was big."
+I stop before going in.
+al"It hurt. A lot."
+al "He shoved it in one go then covered my mouth… I still enjoyed it… but not as much as I think I should’ve."
+al "I’m sorry, I’m ruining the mood, aren’t I?"
+al "What idiot talks about their ex when-"
+y2 "Alvy, I am more bricked up than ever. Do you really think I’m a ‘normal’ person?"
+He chuckles.
+al "Course not, you’re a weirdo. My weirdo."
+I lean down, brushing my lips against his.
+y2 "Don’t worry, I prepared you well, with my tongue and fingers. Now I will go slow. Agonizingly slow. With lots of lube. You’ll be in heaven, I promise."
+I slick my cock thoroughly one last time, then press the head gently against his entrance.
+y2"You trust me, don’t you?"
+He nods, his breath hitching.
+al"Yeah. I do. I love you."
+I push in slowly, just the tip, letting him adjust. His body clenches instinctively, but I don’t rush.
+y2"Breathe, Alvy. Relax for me."
+I kiss him again, deep and reassuring, as I sink deeper—inch by inch until I’m fully sheathed inside him.
+He gasps, a sharp, surprised sound, but it’s not pain—it’s fullness, his claws digging lightly into my shoulders.
+al "It’s... different. You’re—nngh—stretching me, but it doesn’t hurt."
+I begin to move, slow and steady, my thrusts shallow at first.
+y2"Tell me how it feels."
+al"Full."
+He breathes, his hips lifting to meet mine.
+al"So full... and warm. I can feel you... everywhere."
+His voice breaks into a moan as I angle deeper, brushing against that spot inside him.
+al"Right there! Fuck, right there-"
+I increase the pace slightly, still gentle, still loving. Our bodies move together, a rhythm built on trust and desire. I kiss him again, swallowing his whimpers, his pleas.
+He wraps his legs around my waist, pulling me closer.
+I can feel my climax building, a warm, tightening coil low in my gut.
+y2"Where do you want me to cum, Alvy?"
+al"Inside… I want to feel you inside."
+With a final, deep thrust, I bury myself to the hilt and let go, pulsing inside him as I groan his name. He cries out beneath me, his own release painting our stomachs as he clenches around me, milking every last drop.
+I collapse atop him, still connected, and kiss him softly.
+y2"*Huff huff* You were amazing."
+y2"How do you feel?"
+al"*Huff*Complete… *huff* Loved."
+His gaze moves down in between our bellies and chuckles.
+al "That’s why it felt so good near the end, I thought you had magic cum or something, but I just came at the same time as you."
+al "I had no idea that could happen when you don’t even touch me."
+y2 "Heh, I did not expect to be such a good top my first try."
+al "This was truly your first time?"
+y2 "And what a first it was."
+al "Wow…"
+al "I have a lot of catching up to do."
+y2 "Since you’re the one with cum inside you, I don’t mind if you shower first."
+y2 "Or maybe we’ll do it together, heh, I don’t mind looking at my art piece while you’re cleaning"
+al "Absolutely not."
+y2 "Oh."
+al "You think you get to empty yourself inside me once-"
+y2 "Twice if we count your throat…"
+al "-and we’re done? No way."
+al "This felt too good to stop at one round."
+A dark rumble rises from my chest in understanding.
+y2 "Ah, I’m so glad you said that because-"
+I direct my gaze towards my still throbbing cock.
+y2 "You’re too hot for me to stop, I was just being polite, trying to hide my greed."
+al "At least for tonight, I love that greed in you."
+y2 "Is there anything in particular you’d like to try?"
+y2 "I want to make you experience all those dirty desires you keep inside."
+y2 "Say, do you often fantasize about the ways you’d like to be fucked?"
+al "Yes, sir!"
+Alvy cringes for a moment at his own, natural response, and it took me aback a bit as well.
+al "You didn’t hear that…"
+y2 "Oh but I like it, an obedient puppy for me to use."
+y2 "Tell me where to start."
+al "There are some things…" with dissolve
+pause 1.0
+pause 2.0
+His back arches, tail lifted high, and I don’t hesitate, I thrust into him hard and deep, no gentle prelude this time. He cries out, a sharp, high-pitched moan that echoes in the quiet room.
+al"Fuck! Yes— like that!"
+His first ask? To be rough, to not hold back, especially after he’s been stretched open so nicely with actual love and care.
+This little dog is a bigger freak than we folks thought.
+He gasps, claws scrabbling against the table’s surface as I pound into him. Each thrust is rougher than the last, my hips slamming against his ass with wet, obscene slaps that seem to sync with the frantic beat of his heart.
+al "Y-you’re trying to do the tail thing again, aren’t you?"
+y2 "N-no! I’m just coiling it from excitement, that’s all!"
+y2 "I think you should pay more attention to *PLAP* THIS instead."
+al "AH!"
+His moans climb higher in pitch, cries, unraveling me, I’m drunk on the sounds he makes, on the way his body yields to mine.
+Next up? He asked to ride me.
+Your wish is my command.
+I sit on the sofa chair, pulling him down onto my lap, impaling him on my cock in one smooth motion.
+He gasps, his claws digging into the fur of my thighs as I thrust upward into him.
+I’m not sure if this is exactly on his wishlist, but I decide to give it as a bonus - I growl into his ear before sinking my teeth into the junction of his neck and shoulder. He yelps, a mix of pain and surprise, and I feel him clench around me, tight, almost punishing.
+y2"Did I scare you?"
+I murmur, nipping again, gentler this time. He whimpers, nodding, but grinds down harder, begging for more.
+al "I think I liked it…"
+Next, a position he has no control over.
+I maneuver him onto the bed, his feet and ass planted firmly on the edge while his upper body bends forward, hands flat on the floor. His legs are pressed tightly together, making every thrust an exquisite friction. I sit on the bed between his spread thighs, driving into him at a deep, steady pace.
+y2 "Such a good boy…"
+I praise, my voice rough as I watch his back muscles tense and release.
+y2"Taking me so deep..."
+al "Fuuuuuck~ ngh… ngh… ngh… ah."
+He moans, low and continuous, a stream of pleasure sounds that fuel my rhythm.
+Finally, I position him bent over towards my phone’s camera, upon his request.
+His face is a mess of ecstasy, tongue lolling out, eyes rolled back as drool drips from his lips. I grip his hips tightly, holding him in place as I fuck him with relentless, quick and shallow pounding strokes.
+y2 "Keep… your tail… from wagging… fuck-"
+al "Y-you’re not… ah- grabbing… ah- it with yours… AH, AH, AHH!!!"
+The wet slaps of our bodies are loud, obscene, rhythmic.
+His whole body shakes, with overwhelm, with pleasure, with the sheer intensity of being claimed like this.
+y2"You feel amazing… I’m never letting you go."
+He can only babble, incoherent and lost, as I push us both toward the edge once more.
+Alvy collapses onto the bed, his body limp and spent, fur matted with sweat. He lets out a breathy, exhausted laugh.
+al"*Gaaasp* I can’t move... my legs are jelly. That was... incredible."
+He rubs his stomach gently.
+al"I feel so full of you."
+al "How many was that? Four? Five?"
+y2 "I lost count after the second."
+I smile, fetching him a glass of water from the nightstand. He drinks greedily, some of it dribbling down his chin.
+When he’s done, I set the glass aside and meet his gaze.
+y2"You know... I’m usually the one on the bottom, at least in my fantasies. But with you, I just... needed to take control tonight."
+al "Really? I mean, I can see you as the bottom…"
+al "I have looked at your backside quite a lot for a reason."
+y2 "Want to try topping? I’ll guide you."
+A shy but eager smilespreads across his face.
+al "Yeah. I’d like that."
+y2 "Juuust let me get some more water."
+pause 2.0
+y2 "This is my favorite one, I always wanted to try it on myself, but toys don’t usually move on their own

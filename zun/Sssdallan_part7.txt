@@ -1,0 +1,763 @@
+."
+a "There is nobody better for a defense job than him."
+t "He is the leader of the Defender's Shard for a reason."
+y smug"Just another basis to keep my tour guide beside me."
+d "I will stick to you like a leech."
+Second day of school, and I already have good friends to rely on, a personal bodyguard and a snarky demon that can be surprisingly helpful at times.
+un bored"I hope you don't think that any of that happened because you're such a special and important guy."
+un "I chose you out of convenience."
+un squint"And everyone around here is a friendly weirdo that would go head over heels to make friends."
+un "Or losers, as I like to call them."
+I would respond with something, but I'm too tired to think.
+My muscles start to ache already.
+The other's voices are getting muffled in my ears.
+I think it is time to end the day.
+Hey, Dallan, I think I'll go to my dorm now.
+Is what I was going to say.
+If I didn't basically slam my head on the table from exhaustion.
+…
+My eyes open slightly, bothered by a consistent tremor, my body bouncing up and down like I'm riding on the back of an animal.
+A well trained animal.
+With a soft, nice smelling pelt.
+Taking me through the empty town streets at night.
+d "Ah, you're awake."
+d "Sorry."
+d "I never had the chance to carry someone sleeping on my back before."
+A gentle, soft voice speaks to me.
+All my remaining energy right now is used to understand the words Dallan uses.
+d "Don't worry, I'll keep you safe, [name]."
+d "It's my duty as leader…"
+d "As friend.."
+d "And as…"
+d "Never mind, forget it."
+d "…"
+d "I had a lot of fun with you today."
+d "And yesterday, even if I mostly played the tour guide."
+d "You even made my detention watching fun."
+d "Not to mention, got me out of doing it."
+pass
+d "We ate a lot of food."
+d "And it never tasted as good as it did with you."
+d "When that Nightfallen attacked you, I was ready to kill it."
+d "I'm not usually quick to get angry."
+d "But I couldn't take the audacity."
+d "Sorry for rambling, I know you probably can't even hear any of it…"
+I do… but have no strength to respond with more than a grumble.
+d "I just thought I should thank you."
+d "For treating me like a normal person."
+d "Even though I'm…"
+d "Different."
+d "I'll stop monologuing now."
+d "We're close to my dorm."
+His dorm?
+The sun is already set.
+Dallan walks up the stairs, leaning forward so I don't fall over.
+I hear a door unlock, it opens and closes.
+Then a second one.
+My body is slowly pressed against another soft but cold surface.
+A blanket covers me, and my shoes leave my feet, letting them finally breathe.
+d "Sweet dreams."
+
+--- CHOICES ---
+→ No, don't go…
+→ The footsteps stop at the end of the bed.
+→ The footsteps reappear and the voice disappears.
+→ *Grab his tail.*
+→ My hand reaches out to the voice that threatens to leave.
+→ And I manage to grab onto something.
+→ My mind tells me if I let go right now, I will be alone.
+→ And I don't want to be alone.
+→ A hand unclenches mine.
+→ Then a big body slides underneath the blanket in front of me.
+→ Another instinct kicks in, and I bury my face in the heat.
+→ With my hand over the warm pelt.
+→ With a caressing, gentle hand between my ears.
+→ Dreamland, I'm now ready to meet you.
+→ Thanks, mom.
+→ The footsteps stop at the end of the bed.
+--- END CHOICES ---
+
+Only after I hear the front door close, do I realize where I am and what's happening.
+But it doesn't make me open my eyes.
+Only smile.
+...
+I don't know how much time has passed.
+All I know is that it's dark outside, as my left eye takes a peek.
+All is peaceful.
+My muscles are relaxed, and no ache can be felt anymore.
+This is nice…
+...
+un ang"Oh no it is not."
+un "WAKE THE FUCK UUUUUP!"
+y scared3"AAAAHHH!"
+My heart jumps as the loudest sounds crosses my mind, but my ears do not hear a thing.
+y angry "Scribbles!"
+y angry"What the ACTUAL fuck was that!?"
+y hurt2"Ugh."
+y "I never realized how annoying hearing a loud voice in your head can be."
+un bored"It's a new trick I learned."
+y sleepy"Why?"
+un bored"So I can make you do stuff I want more effectively."
+y "And what do you want this time?"
+un squint"Have you already forgotten?"
+y sleepy"I forgot to find a priest to exorcise you… that's for sure."
+un "I said we wait for nightfall, and we go."
+un "You agreed to this."
+y "Plans changed, I'm tired."
+un "Oh, ok, sure."
+un "Leave this plan of literally making you a stronger hunter, giving you unlimited potential and taking you a step closer to completing our bargain for a couple of hours of sleep."
+un "That's why I hate fucking mortals."
+un bored"And I mean fucking as an adjective, not verb."
+un "You're not that bad to fuck."
+y asleep"*Snoooore*"
+un ang"THAT'S IT!"
+un "I'M BRINGING OUT PLAN B!"
+un "Which is the same as plan A, but louder and longer!"
+Un"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHH!!!"
+y "Grrr..."
+un "AAAAAAAAaaaAAAaaAAAAAAHHHHHHhhhhhhHHH!!!"
+un "AAAhhHH-"
+y angry"CUT IT OUT!"
+un ang"NOT UNTIL YOU GET UP!"
+y "Not happening."
+un "LALALALALALALALALALALALALALA"
+un "YOU LIKE SRITNEY BEARS BY ANY CHANCE?"
+un "OH BABY BABY, HOW WAS I SUPPOSED-"
+I cover my ears with the pillow.
+But unfortunately that doesn't work when the sound is coming from inside your own head…
+un "MY LONELINESS, IS KILLING MEEE-"
+un "SOME RORTER POBINSON MAYBE?"
+un "DON'T TRY TO MAKE YOURSELF REMEEEEEEMBER, DARLIN'!"
+un "I CONSUMED ENOUGH MEDIA IN YOUR HEAD, SO I CAN JUST KEEP GOING WITH-"
+y angry"OK FINE!"
+y "JUST STOP SINGING!"
+un tease "Oki."
+un "Yey."
+un bored"Let's get moving then."
+I begrudgingly get out of bed.
+I'm not as sleepy anymore.
+But my energy levels are still down.
+I can at least think clearer.
+I walk out of the dorm… no, the apartment more like.
+This place is huge, at least for a dorm.
+It takes a while to find the exit from the building as well, but I manage.
+y bored"So where are we going?"
+un squint"The real question.. is HOW we get there…"
+un "Unnoticed."
+un bored"I'd prefer not to get questioned by anyone on the way."
+y s"Maybe we don't have to."
+y "What if we get an alibi?"
+y "Perhaps Chelsie?"
+un "Yeah, that could work!"
+un suspicious"Heeey…"
+un "You're not saying that because you want to see her, do you?"
+y simple"Uhm."
+y "No."
+un tease"Ok, good."
+y "Do you happen to know where her dorm is?"
+un bored"No need, that workaholic must be in her workshop just like the wolf in his office."
+y bored"You might be right."
+On our way my nerves keep rising.
+I still have no idea what Scribbles' plan even is.
+And what if Chelsie is not there?
+un "Would you stop being so pessimistic?"
+un squint"And can you walk normally?"
+un "You look like you have a horse cock up your ass."
+y worried"I can't help it!"
+y "I'm concentrating on walking casually but my legs do the opposite…"
+un suspicious"Then don't think about it, just walk!"
+y "If I try not to think about it I'll just end up thinking about it more."
+un bored"Incredible."
+Rounding up the corner I get a surprising encounter.
+Therium sits squatting down, playing with what appears to be a Nightfallen puppy.
+It has three eyes in front and one in the back, with long antennae sprouting from the back.
+Happily enjoying some pets with its tongue out.
+After today's encounter, I can't help but jump back a little when I see it.
+Therium notices my reaction and makes it disappear in a cloud of smoke.
+y awkward"Phew."
+y "It was a summon."
+th "Obviously, real Nightfallen can't get inside the barrier, can they?"
+y pf"Ummm, no."
+y "No they can't."
+y s"Hi by the way."
+th "Nice to see you too."
+th "Taking a midnight stroll?"
+th "Mind some company?"
+y smileworry"Actually, I'm on my way to Chelsie's works-"
+y awkward"I mean office."
+th "I see."
+th "I hope she doesn't hurt you like her previous assistants."
+y smug"Her ways became more gentle after switching through so many people."
+th "I sure hope so."
+th "It would be a shame if this fur got burned."
+th "Or dirtied in any way."
+I didn't even realize he's been taking small steps in my direction while we spoke.
+Now being in arms reach, caressing my cheek with the back of his hand.
+ahfgshfaijh
+I think I'm dizzy.
+y blush"I-I'm not sure what to say."
+th "You don't have to say anything."
+th "As long as you tell me this one simple thing."
+He's now close to my ear.
+A blue rose appears in his hand.
+th "Would you like to come by my dorm tonight instead?"
+th "I promise to be gentle."
+My pelt's temperature keeps rising.
+
+--- CHOICES ---
+→ How the hell do I respond to that?
+→ Yes
+→ He places the rose between his teeth and leans in.
+→ He holds my head and plants a kiss on my maw.
+→ Along with the rose's stem, which I can feel being pushed with his tongue.
+→ It was a sloppier kiss than I anticipated, probably because of the rose's unnatural intrusion.
+→ He pulls away a bit later, leaving me with a stunned expression.
+→ I blink rapidly, trying to regain my senses.
+→ With the final blink… he's gone.
+→ Just like that, disappeared into the night.
+→ I look to the side, seeing the end of his tail rush behind some bushes.
+→ No
+→ He winks.
+→ I feel like I'm in a trance.
+→ I blink rapidly to regain my senses and…
+→ He's gone.
+→ Just like that, disappeared into the night.
+→ I look to the side, seeing the end of his tail rush behind some bushes.
+--- END CHOICES ---
+
+un "Whatever."
+un "Now that the weirdo is gone."
+un "We're close by."
+un "Remember the plan."
+un "Just go ask if she needs any help, and the alibi is done."
+un "But don't stay with her!"
+y "Roger."
+I get there.
+un bored"Remember, we're only here briefly."
+un "So if anyone asks why we were out, we visited her and that's it."
+Y bored"You're starting to repeat yourself."
+un "I'm just making sure."
+I arrive in front of her door and knock.
+She opens the door, excited.
+y s"Hey Chelsie, sorry to bother you so late."
+ch "It's not a big deal, I was just working on some stuff."
+ch "No sleep for the wicked, haha!"
+ch "So, what did you want?"
+y s"I just wanted to see how you're doing."
+ch "Aww, that's cute, but remember what I said yesterday?"
+ch "There won't be a second chance."
+ch "Sorry sweety."
+y simple"Oh, that's fine, uhmm..."
+y "I suppose I'll go now?"
+We hear a loud crash coming from inside.
+ch "Damn it."
+ch "Yeah, that would be a good idea, excuse me, I have to take care of this."
+y "Of course."
+y "But what was that?"
+ch "Byeee."
+un tease"This is perfect, now we don't have to waste time as with her, but got the allibi."
+ch "Bother?"
+Ch "NO WAY!"
+ch "You're just in time."
+ch "I really need your opinion on something."
+She drags me in.
+un squint"I knew you'd disregard my warnings…"
+un "Fucking idiot."
+y s"What is it?"
+ch "Can you look at this Nightfallen with the invention you tested before?"
+She hands me the goggles.
+y simple"Sure, what for?"
+ch "Do you see anything weird with it?"
+I look at the little Nightfallen.
+This time, besides the energy aura it had before, it also has a faint red aura like the one on me.
+ch "As you have a similar aura, do you happen to have any theories about this?"
+Obviously, I know SOMETHING about that.
+But I can't tell her…
+Scribbles, do you have any ideas?
+What does it mean?
+Is the Nightfallen possessed like me?
+un bored"No.."
+un "I think it just means it reached its maximum amount of lust."
+un "It means it's overflowing with energy."
+un suspicious"At least that's what its dormant trance tells me."
+un "I've never seen such technology."
+un "This raccoon woman is impressive."
+y simple"I think it means its lust levels are maxed out."
+y "You can kill it and get the maximum amount of energy from its shard."
+ch "Really?!"
+ch "Wow."
+ch "Does that mean you're also super horny all the time?"
+y pf "…"
+y "no."
+ch "I totally believe you."
+ch "This is still awesome."
+ch "My invention is awesome."
+y simple"It is…"
+y "But, Chelsie?"
+y "How…"
+y "Uhmm"
+y "How did its lust level get so high?"
+ch "What?"
+y "How… did it get filled up?"
+Chelsie whistles, takes a wrench and starts to lightly hit a nearby invention.
+Come on, I'm not the biggest inventor but I know that's not what a wrench is for...
+y angry"Chelsie!"
+y "Did you use it on yourself?"
+ch "No, God no!"
+ch "I just… let some people pay me to do stuff with a Nightfallen."
+y pf"And what does 'stuff' include?"
+ch "sex?"
+y simple"Unbelievable."
+y "How many times?"
+ch "Not many, like… tw-"
+y confused"two?"
+ch "Twe-"
+y "Twelve?!"
+ch "Twenty-"
+y surprised"TWENTY?!"
+ch "Six."
+ch "Twenty six."
+y bored"…"
+ch "Don't judge me!"
+ch "I need the money!"
+ch "Plus, I made sure it's safe AND everyone was blindfolded the whole time."
+ch "Ha ha, see, it's ok this way, right?"
+ch "..."
+ch "You really think it's that bad?"
+
+--- CHOICES ---
+→ She's asking me if it's bad to let people sleep with a Nightfallen for money?
+→ Yes! You big pervert!
+→ I'm pretty okay with it.
+→ That sounds really hot actually.
+→ I take a closer look at the creature.
+→ I touch one of the tentacles.
+→ The Nightfallen shivers from pleasure.
+→ She looks at the little creature.
+→ Maybe she's onto something then.
+→ Especially after meeting Unknown...
+→ Walk out disgusted.
+→ I decide to walk out right there and then, without a word.
+→ I don't care about her excuses.
+→ It's not worth hanging around that freak.
+→ Some might say it's not my place to judge.
+→ After all, isn't the point to have sex with a Nightfallen to gather more energy?
+→ Well yes.
+→ IN BATTLE.
+→ And you're not supposed to someone to do it.
+→ Especially not a sketchy workshop.
+→ I don't bother looking back at her.
+→ There is a wolf much more deserving of my eyes.
+→ Boo hoo…
+→ I'm allowed to have my own principles.
+--- END CHOICES ---
+
+ch "I was just, you know, lonely and bored…"
+ch "Dallan's been hanging out with you and the other guys a lot these past two days."
+ch "And even before he was too busy to hang out with me much."
+y simple"Are you and Dallan… uhm, doing this kind of stuff too?"
+ch "Oh!"
+ch "Oh no no no."
+ch "Noooo no no, never ever."
+ch "Dallan is my best friend."
+ch "I don't think of him that way at all."
+ch "He's definitely attractive, but not to me."
+ch "At least not like that."
+Ch "It would be weird."
+I let out a sigh.
+y smileworry"That's a relief."
+ch "Why?"
+ch "Are you interested in him yourself?"
+
+--- CHOICES ---
+→ Kind of...
+→ That's intriguing.
+→ Someone else caught my eye, *wink*
+→ She sits down with her chin resting on her intertwined hands, with a sudden sly expression on her face.
+→ And who might this lucky person be?
+→ I lean on the table with both arms.
+→ …
+→ …
+→ *sniff sniff* *sob*
+→ Huh, is someone crying?
+→ W-what did I miss...?
+--- END CHOICES ---
+
+She stops and ponders for a second.
+ch "Although, can you come by my workshop tomorrow?"
+ch "Before the team battles maybe?"
+ch "I want to 'thank' you for helping me."
+ch "And  Shroud would like to show his appreciation too."
+Y confused"You named him already?"
+ch "But of course."
+Shroud sends a flying kiss with his tentacle across the room.
+I think I'm into it.
+I wonder what she has in mind…
+I walk away and we continue on further.
+un simple"We're pretty close."
+We walk between some more buildings, and even through some bushes.
+Because walking around them 'wOuLd jUsT wAsTe MoRe tImE'
+Finally, we get to a staircase, it is behind the main building.
+And truly, without the demon's shortcuts, I don't think anyone would ever get here without specifically looking for this place.
+y simple"So, what is this place?"
+un bored"Nothing yet, you have to say these words in front of the stairs."
+un"'Aperi, deus tuus senex hic est'"
+un"But first, I'll make a dampening bubble around here."
+He does just that and I feel a lot of energy leave my body, but the next second, absolutely no sound can hit my ears anymore.
+Even the crickets stopped, and the wind and the rustling of tree branches.
+It was an eerie experience.
+un"Now repeat those words."
+I pride myself in a pretty good memory, so I repeat the words perfectly.
+As soon as I'm done...
+The stairs start rotating upside down.
+The steps that went upwards until now are now making a path into a dark pit.
+Pitch black
+un"You could work on your pronunciation more."
+y"Really?"
+y"I thought I did good."
+un"Decent."
+y simple"Soooo."
+y"Am I going to hell?"
+un"Obviously, everyone is, heaven is just a story to make you mortals feel-"
+un simple"Oh wait, you meant right now?"
+un"No no, just a cave with ancient trinkets and artifacts."
+y bored"Gee thanks for spoiling the end of the season, now I know what happens after death."
+I take some careful steps down
+For once, my weak powers come in handy.
+I create a little energy ball that shines brightly and start my descent.
+The pit is not as deep as I thought, the darkness is just thicker than usual, like dark mist.
+We get to a long corridor.
+the walls are similar to the ones in the academy itself.
+On both sides of the corridor there are pedestals filled with items.
+y simple"So, what are we looking for?"
+y"And what are all these?"
+un tease"Ah."
+un"My old toys, I'm glad to see they're still kept well, although it looks like some are missing."
+y"So you were rich?"
+un simple"Sure, let's say that."
+Indeed some of the pedestals were empty.
+un"We are looking for a medallion."
+un"In the shape of a diamond."
+un"This school's emblem in fact."
+I look around, the nearest object to me is a crystal ball the size of a beachball.
+un simple"That's my All Seeing Orb."
+y simple"How does it work?"
+un"You just have to say 'Reveal to me' and the name of the person or object you want to see."
+y shoked"Can I try?"
+un"Don't see why not, if we were to be caught, it wouldn't be because of this."
+y simple"Will it work if I don't know their last names?"
+un"As long as there is no other person with the same name, and you specify where they are."
+y "Alright, that works."
+menu sea:
+Reveal to me-
+The image of the dark furred cat appears inside the crystal ball.
+He's brushing his teeth in a nice bathroom, he's wearing an oversized t-shirt that says 'Virginity Rocks'.
+He's standing on his tiptoes, leaning on the bathroom sink.
+He's very cute, bent over like that...
+Could I get the camera just a little lower, perhaps?
+Un "Stop being a pervert."
+un "You can't do that with the ball."
+Damn it...
+It seems like that is someone else's shirt, so someone either scored a date, or just likes baggy clothes.
+But why is he brushing his teeth so late at night?
+un "Getting ready for bed?"
+I don't know what the exact hour is, but it must be past 1AM.
+Oh well, it's not my business.
+un tease"Wanna spy some more?"
+y simple"Dallan, Academy of Lakonia."
+Dallan appears as an image inside the ball.
+y simple"It's late, but he's not sleeping."
+y"In fact"
+y"I believe he's still inside the building, not even in his dorm room."
+Dallan looks tired.
+The only light shining in the moonlight, not even a candle or a lamp
+y"He's just bent over some papers, why didn't he do that in the daytime?"
+un"Because apparently, he would rather spend the days with you and nights working."
+y "Well that is unacceptable."
+y "I didn't want him to get a free day off just so he can ruin his sleep with work."
+un"Are you gonna keep him company at night too?"
+un "Is that what you're saying?"
+y blush"Maybe"
+un "Heh, nice."
+un"Ok, who's next on the list for the ball?"
+y simple"Therium, Academy of Lakonia."
+The orb starts glowing.
+It shows Therium's face from up close, he's smiling with his eyes closed and hands over his head.
+The orb slowly zooms out.
+It appears he's on a bed, no longer outside, ready to go to sleep.
+As the image gets further, I realize he's not wearing any clothes, maybe just underwear?
+y simple"..."
+y blush"Nope, not even underwear."
+Not only is he naked, but his member is out, semi erect, resting on his stomach.
+If I were to estimate, I'd say it's about ten inches long at the moment, and probably bigger when it's hard.
+The smile must be of satisfaction, it seems like he just finished his, uhm...
+business...
+Looking closer, I notice the white liquid against his white chest and belly fur.
+Completely covering him.
+un simple"Damn, would you look at that."
+un tease"Just imagine, all that could've been inside you right now, if only you insisted on going with him."
+un"Man, I actually wish to see that."
+un simple"Anyway, continue?"
+Aiden is wearing only underwear and browsing his phone in bed.
+The lights are on inside a nearby room, besides his phone, that is the only light source.
+I begin blushing, his body is nice, a good amount of muscle, but not as much as Dallan, for sure.
+I'm seeing too much.
+I should go.
+y simple"I think we should get going."
+y"That medallion won't find itself."
+un"Smartest thing you've said in a while."
+After the crystal ball, I see five rings, arranged in a semi-circle on a pedestals
+un"Those give you elemental powers"
+un"But it's better to not touch them."
+y worried"Aww, but I want more powers."
+un"And how do you explain developing a bunch of elemental affinities overnight?"
+y bored"Fair."
+The next pedestal had a big cylinder object on it, around four feet long and one wide.
+y simple"It has a lid, what is it?"
+y"Can I open it?"
+un simple"Oh yeah, you'll like this one actually."
+un"It's a special kind of incense."
+y shoked "Will this make me stronger?"
+I get the lid off, and I can already tell it is a smell based item, based on, well- the smell.
+un"A decent amount."
+un"Go on, bury your face in there."
+y smug"Don't mind if I do."
+un"Oh, trust me, I don't mind."
+I close my eyes and inhale deeply, the walls of the cylinder are cushioned so my muzzle can fit all the way and feel comfortable.
+un"Go on, take a deeeep breath."
+The inside smells somewhat musty, it has a weird aroma, intoxicating even.
+Hmmm, acidic...?
+Cushioned - walls.
+Soft, cylinder, hole.
+'Toys'
+I get the thing off my face quickly and slam it into the ground.
+y angry"You fucking dick!"
+un tease"HAHAHHAHAHA ahha."
+un"I can not believe you did it."
+y"Was that what I think it was."
+un"My old fleshlight?"
+un"Yep."
+un"You should feel honored, it was the best in my collection."
+un"Besides, I can feel your erection, remember?"
+un"I know you liked it."
+y blush2"It does not mean I liked it."
+un"Heh, sure"
+y bored"If you feel everything I experience, doesn't that mean you also smelled your own used fleshlight?"
+un bored"..."
+y smug"Well?"
+un ang"Fuck off"
+y"Oh wow, so used to the smell of your own cum you don't even realize you're smelling it, huh?"
+y laugh"Why do you have that anyway?"
+y"Have problems getting bitches?"
+un ang"WHAT?"
+un"Of course not."
+un"I had all the bitches back in the day."
+y"Of course grandpa."
+y"That fleshlight stank of virgin."
+un sad"Find the damn medallion already."
+The demon keeps silent, but I can feel his angry mumbles.
+I walk further in, ignoring most other items.
+Don't want to be tricked into using some more of his old toys...
+I finally see the medallion, hanged in a corner.
+A diamond shaped, golden crest.
+It had a chain before as far as I can see.
+But it looks broken now.
+y simple"Hey, is this it?"
+un simple"Yes!"
+un"Get it and let's go."
+It breaks my heart to leave all of these OP items, but I really don't want to get in trouble.
+For owning ancient, forbidden relics.
+As soon as we get out, the path we came through starts closing.
+At least we won't have to worry about that now.
+y simple"What do I do now?"
+un bored"Go to sleep?"
+un "I thought you were dying of tiredness."
+y worried"I am!"
+y "That's the problem…"
+y "I need to get to Dallan."
+y "That big muscled dummy is most likely still in his office."
+y "Working."
+y "I need to stop that."
+un squint"Let the dude do what he wants, for crying out loud."
+y angry"I KNOW BETTER WHAT HE WANTS!"
+un simple"…"
+un bored"Wow."
+y simple"Yeah, I just heard myself."
+y "But I still think he needs to take a break."
+un "You don't even know how important his work could be."
+y bored"It might be completely unimportant…"
+y "I'm willing to take the risk."
+y sleepy"But I also feel like I'm going to collapse at any moment."
+y "This grass is looking…"
+y "Very soft."
+un eyeroll"Ok, fine."
+un "I'll help you out."
+un "Find a street lamp for me."
+y "What for?"
+un "Just do it."
+I get close to the nearest source of light I found.
+un bored"Now touch it."
+un "And imagine you're sucking the living hell out of it."
+un suspicious"But not like a dick."
+un "I know you're familiar with that one."
+un bored"Just, take the energy in through your palms."
+This feels so stupid.
+The steel post is cold beneath my touch.
+Sparkles appear around my fingers and a second later, a rush of energy ejaculated into me.
+un suspicious"Why…"
+un squint"Would you use that word?"
+It feels slightly like being electrocuted.
+But without the heat.
+un bored"One."
+un "Two."
+un "Three."
+un "You should be ready."
+The light bulb above flickers shutting down, and I'm left in darkness.
+un "So?"
+un "How do you feel?"
+y surprised"I…"
+y pf"I feel…"
+y laugh"AMAZING."
+y "Holy shit,"
+y laugh"It's like I've already slept for twelve hours."
+un "It's not as it seems."
+un "Look at it as a very powerful energy drink."
+un "It will soon wear off if you don't continue to take in energy."
+y s"Still, this solves my current problem."
+y "Now I can go meet Dallan."
+y "Although."
+y "I think I'll make a small stop by his room first."
+Coming back.
+I only now realize how little decorations he has.
+His house plants are almost dying.
+His one bonsai is somehow still clinging to life.
+I decide to water them real quick.
+un bored"He doesn't spend much time here."
+un "He's always in his office, so why would he need decorations?"
+I take a thermos out of my backpack and make hot chocolate.
+I look in his pantry and see sugar and some mini marshmallows.
+He's almost out of sugar.
+Considering his sweet tooth, I add more sugar and milk to the mix than usual.
+I also take two, thicker blankets out of his bedroom closet.
+un squint"You're snooping around way more than even I feel comfortable with."
+y ec"It's all in the name of love!"
+Hopefully he won't mind me going through his room.
+I mean, he put me to sleep here, so it should be fine.
+I arrive in front of his door.
+His dorm is very close to the academy, unlike mine.
+The defender's Shard room is empty of course, but my goal is Dallan's office.
+This time I don't bother knocking outside, I'm officially a member now.
+The door is opened with a delay.
+d "Hey [name], what a surprise."
+d "Weren't you super tired?"
+y simple"I'm no longer tired, but you sure are."
+d "I left you at my place, because it was closer, but I had to come do some work."
+d "Chelsie had some invention stuff to deal with, so I was left with a ton of work to do by myself."
+d "And yes, I know what you'll say."
+d "And I don't want to hear it."
+d "You can't stop me from doing my duty."
+y "I won't."
+d "You won't?"
+d "Then."
+d "Why are you here?"
+y ec"I thought we'd do a little Deja Vu."
+y "I came by yesterday, so I'll keep you company tonight as well."
+y "Hot coco?"
+y "It's extra sweet, the way you like it."
+d "Oh."
+d "Well, in that case, I'm welcoming you with open arms."
+d "We've known each other for two days and you already know my taste palate."
+d "You're a great guy!"
+d "Please, do come in."
+We sit by the window, with big mugs of coco in hand, and a thermos for refills.
+y "It's very chilly tonight."
+Dallan, seems to have no problem with the cold, unlike me.
+Ironic, as I am literally called a SNOW leopard.
+But he is clearly tired, and the warm drink didn't help.
+Good.
+I never planned to 'keep him company'
+I want him to go to sleep.
+d "Here."
+d "I don't need it as much."
+He gives his blanket to me.
+y ec"Thanks."
+d "You know…"
+d "I was very scared today…"
+y simple"Why?"
+y "Because of Unknown?"
+y surprised"But you are so cool!"
+y "I don't believe you'd ever be afraid."
+d "I was worried for YOU!"
+y simple"..."
+d "Sorry…"
+d "I apologize, I don't mean to call you weak or anything…"
+d "But the thought that something can happen to you."
+d "Sends shivers through my fur."
+Indeed, he is now shaking.
+His back is at the opposite wall of the windowsill and his gaze somewhere in the distant campus.
+If I gave him one of the blankets, I would be the one being cold.
+So there is only one answer.
+I scooch nearer on my knees.
+I open my arms, holding the blankets' ends in each hand.
+d "What are you-"
+And embrace Dallan by leaning on his chest.
+y ec"It's ok."
+y "I'm not as fragile as you think."
+y "And I'll prove it to you, tomorrow, at the pair battles."
+He is stunned by my action.
+And who can blame him?
+I'm surprised I had the guts to do it as well.
+d "It's not that I don't believe you."
+d "But you can't help but worry for the people you care about."
+y simple"Why did you choose to stay around me after saving me from the scamming Tate?"
+Y "And why would you continue to do so?"
+d "That is…"
+d "A good question."
+d "What I'll say for sure is that I don't regret it."
+d "But for why…"
+d "It might be because you reminded me so much of me when I first got here."
+d "Confused, easy to take advantage of."
+y bored"Ouch."
+d "Heh, sorry."
+d "I continued to be your tour guide because I wanted to get away from anyone that tries to kiss my ass."
+d "And what better fit than a first year who doesn't even know who I am?"
+d "Besides, everyone needs a friend."
+d "Or more."
+d "So I thought you wouldn't turn me away."
+d "But then I stayed…"
+d "Because you're fun to be around."
+d "And I…"
+d "Like you."
+And I LOVE you.
+How I wish to say those words.
+But it's a little early…
+I don't want to spook him with my desperation.
+He's finally opening up to me more.
+y simple"Why did you decide to be a leader?"
+y "Isn't it stressful?"
+d "I come from a family of overachievers."
+d "I was kind of the runt of the litter for obvious reasons."
+y "Then I must be blind because I don't see that 'obvious' reason anywhere."
+He blushes.
+d "Thanks."
+d "Long story short, getting into the academy was already a feat my family thought impossible for me."
+d "But to be the leader of a shard?"
+d "Never."
+d "That's something my older brother's accomplished, not little Dallan."
+d "Family issues are one of the things I have in common with Chelsie."
+d "Thus why we became such good friends."
+d "I don't even want to be leader if I'm being honest."
+y sad"Today I tried to save you from this tedious job."
+y "But I guess I failed…"
+d "Failed?!"
+d "No way!"
+d "I had so much fun with you today!"
+y "Really?"
+d "I got to relax in the park and find the best icecream ever!"
+d "I didn't even know they were selling that there!"
+d "Now it will be a daily trip!"
+y smileworry"It was pretty good."
+pass
+d "I haven't had the chance to go to an actual gym in so long."
+d "And… to be honest, I kind of enjoyed scaring the crap out of that Nightfallen."
+y smileworry"Even if he turned out to not be so bad

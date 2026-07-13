@@ -1,0 +1,684 @@
+."
+The wolf was not fighting back much, just a couple of punches that I would avoid, and he'd do the same with mine.
+a"Need a hand?"
+y smug"Yeah, will you grab his pants too?"
+y"That would be very helpful."
+Dallan grabs his pants protectively.
+a"So funny..."
+d"Two against one?"
+d"I think I'll have to stop holding back."
+He proceeds to take his top clothes off.
+His muscles and fur seemed to grow slightly, making him taller and more threatening.
+He takes out the piece of fabric he has attached to his side at all times.
+And covers his eyes.
+un simple"So that wasn't just a fashion choice, huh?"
+y simple"What is he doing?"
+a"When his eyes are completely covered, his senses and insticts go up drastically."
+a"One might say he can even predict your moves before you think of them."
+y"We just have to get him down to win."
+y"Can we do that?"
+a"We gotta try."
+Aiden creates a smokescreen around us, it was not a popular move among the crowd.
+As it obscured most of the action.
+We both used our advantage to get some hits in, Aiden's blow was met with a magic barrier.
+un simple"That's your chance, when he blocks you, just absorb the magic."
+un"He's protected against magic, so antimagic should cut through him like butter."
+And so I did, the barrier that met my fist shattered, the broken pieces were absorbed and transformed into energy.
+Dallan was left unguarded and surprised, the crowd gasped, Aiden's expression was proud.
+My empowered blow connected with his bare shoulder and time stopped for a moment.
+un"Well."
+un bored"That did absolutely nothing."
+un"You're fucked."
+There was a burned spot left on Dallan's shoulder, but that was not all the damage I did.
+For the three seconds we were connected I drained as much magic from him as possible.
+Then he grabbed my neck and slammed me into the sand.
+The crowd cheered.
+d"Good move, I did not think anyone can shatter my barrier that easily."
+y hurt"And good job to you for being so cool while blinded."
+He offers me his hand and I take it to get up.
+d"Heh, it's more of a buff than a handicap."
+d"There are a lot more things you don't know about me."
+y"That's fair."
+y"I surrender!"
+y"As promised, but you still have a tiger to defeat, I'd say good luck, but I kind of want to win."
+I move back to the stands and watch the rest of the combat.
+Some of the furs I met before the match came to congratulate me.
+And even some strangers, curious to how I broke the Defender Shard Leader's barrier so easily.
+The panther and bunny were the most aggressive, so to speak, with their congratulations and questions, keeping the others at bay.
+I chatted and tried to answer as many questions as I can, while keeping an eye to the fight.
+Aiden seemed pissed at Dallan, he took out the big guns as well.
+Using all the debuffs he had, making the bigger wolf tired.
+And dodging every attack by shapeshifting or straight up becoming a smoke cloud.
+Unfortunately, just as Aiden is the perfect counter to Tate's teleportation and movement.
+Dallan can defend from his debuffs and protect from physical attacks.
+Although his magic was running out thanks to my drain.
+so his shields and barriers got weaker, cracking from any normal attack.
+The time was running out, each team only has 10 minutes max.
+Only so that more students can attempt a battle in one day.
+Aiden had to end it now, taking advantage of the wolf's fatigue and lack of protection to tackle him.
+Still, Dallan is bigger and more muscular, so he stands his ground.
+The two wrestle hand to hand, shoulder to shoulder, head to head, teeth bared.
+Neither seems to be winning and there is less than a minute left.
+
+--- CHOICES ---
+→ What should I do?
+→ Cheer for Aiden.
+→ I get past the people talking to me, ignoring them.
+→ I get at the edge of the stands and shout.
+→ My shout was louder than expected.
+→ The people that were around me followed my lead and started to shout his name as well.
+→ He definitely heard us.
+→ Aiden's muscles tensed up.
+→ he let out a roar and with a final push-
+→ the time's up...
+→ They both fall on the ground exhausted, panting.
+→ Cheer for Dallan.
+→ I get past the people talking to me, ignoring them.
+→ I get at the edge of the stands and try to shout.
+→ But I'm getting cut off by Chelsie, the Defender's Shard vice leader.
+→ Dallan's muscles tensed up, he let out a roar and with a final push-
+→ The time's up.
+→ They both fall on the ground exhausted, panting.
+→ Stay quiet and observe.
+→ I'll just watch from right here.
+→ They seem evenly matched now, so I don't want to antagonize either of them.
+→ Besides, I have people I have to please around me.
+→ I just hope this social boost doesn't get to my head.
+→ The two go head to head, shoulder to shoulder, arms to arms.
+→ The power seemed to be matched, when suddenly.
+→ The times up...
+--- END CHOICES ---
+
+The two came back tired and beaten up.
+Dallan no longer wearing the blindfold and his clothes back on.
+I run and hug both of them.
+y happy1"You were so cool!"
+y"I can't believe it was a tie."
+a"Yeah, me neither."
+a"I'm sorry, [name], I let you down..."
+y shoked"What?!"
+y"You didn't disappoint me."
+y"Not even close, you did wonderfully."
+y"Besides, I don't think I could even take out Tate on my own, and you did in seconds."
+a"I suppose I did do a number on that cat."
+d"I have to admit, you both surprised me."
+d"Not to be egotistical, but nobody managed to break my barrier or get me into such a state in a long time."
+d"And all those debuffs, ouch."
+d"Really did a number on me."
+a"Not the right number apparently."
+t"Hey babe, missed me much?"
+a"The fuck?"
+a"Are you addressing me?"
+t"You know, you could at least kiss me first."
+t"Before publicly trying to fuck me."
+a"Oh shut up, you pantless perv."
+a"Underwear is the only thing you forgot this morning, huh?"
+a"Out of all things?"
+Furs were definitely staring.
+t"I could only take the necessities."
+t"So when is our date, big guy?"
+a"You'll never find love."
+t"Ouch, fine."
+t"So, [name], if this one won't take me out, will you?"
+t"I have a GREAT new adventure in mind!"
+a"We have plans."
+y simple"We do?"
+a"Yes."
+a"I just didn't tell you yet."
+t"Bummer."
+t"Dallan, you're up, let's go on an adventure."
+d"Sorry, Tate, I have a lot of work to do."
+d"Besides, shouldn't you prepare for the test, it's tomorrow, you know?"
+t"How can I prepare for something I know almost nothing about."
+a"They key word is 'almost' genius."
+t"I'm not sticking around to be insulted by my ex."
+t"cya."
+He teleports away.
+a"We were never together, freak."
+y"He's too far away, Aiden."
+a"yeah..."
+ch"Hey there boys, you did a great job out there."
+y happy1"Thanks, we really tried our-"
+ch"yeah, yeah of course."
+ch"Do you mind if I borrow Dallan for a sec."
+d"What happened, something wrong?"
+ch"It's a secret."
+d"Ooh, I like surprises."
+d"If you'd excuse me gentlemen."
+y"Go for it."
+a"They're gonna sack you for losing."
+ch"HEY!"
+ch"IT WAS A TIE!"
+ch"DO YOU UNDERSTAND?!"
+ch"DO YOU UN-DER-STAND?!"
+a"Yes, jeez."
+a"I'm sorry."
+ch"Good, let's go, Dallan."
+d"Right behind you."
+d"See you later guys."
+y"Have fun!"
+a"Sacking it is then."
+y"Doubt it."
+a"Anyway."
+a"As for us."
+a"It seems we're alone."
+y simple"Yeah."
+y smug"You know, I kind of liked Tate's adventure idea."
+a"oh, do you-"
+a"Want to catch up with him?"
+y"No you doofus, I mean we should go on our own adventure."
+a"Hmm."
+a"It does have a nice ring to it, I admit."
+a"So let's do it."
+a"But call me doofus again and we'll have problems."
+y awkward"Yes sir."
+Haima appears and looks-
+Well, like always.
+Expressionless but intimidating.
+So much peril in such a small body.
+ha"We need to talk."
+a"I thought I submitted my work already."
+a"And the Vice Leaders are free for the rest of the day to prepare for the test."
+ha"I'm not talking to you."
+ha"Why would you even assume you are relevant in my eyes?"
+ha"You couldn't even defeat Dallan."
+ha"At this point a first year is more valuable."
+y simple"You want to talk to me?"
+a"About what?"
+ha"We're planning a date, Aiden, what else?"
+ha"We're in love."
+a"What?"
+y blush"What?"
+ha"Nobody heard of jokes around here apparently."
+Jokes are easier to understand when the person telling it doesn't radiate sarcastic energy.
+a"Then what do you need him for?"
+ha"Sign some documents."
+ha"And why do you ask?"
+ha"Do I need your permission to talk to my Shard member?"
+ha"Is he your property now?"
+a"Just take him."
+ha"I will."
+ha"Come on, [name]."
+We make our way all the way to the Slayer's Shard headquarters, so to speak.
+y simple"So, what do I have to sign?"
+ha"Nothing, I thought it was obvious why I needed you."
+y"The... Aiden thing, right?"
+ha"It's not just a 'thing', it's important."
+y"Why?"
+ha"Why do you think?"
+y smug"Because you care so much about him?"
+ha"Yes."
+y"Very funny."
+ha"I'm not joking."
+y simple"Oh, guess I really don't get jokes."
+ha"So I see."
+y"I apologize if I didn't get your affection for him before, but you two don't seem to get along that well."
+ha"I care not for him as a person."
+ha"He can burn for all I care."
+y"oh.."
+ha"I care for his duties towards me and this school."
+ha"He doesn't use his potential at all."
+ha"And last year."
+ha"He began to change."
+ha"Which has me worried, for the safety of others."
+ha"He nearly decapitated a guy once, after he spilled some Kvas on him by mistake."
+ha"And I don't want to mention this to many people, but I trust you'll keep it to yourself."
+ha"I have half a cabinet in my office, filled with sexual harassment complaints for Aiden."
+y shoked"That's horrible."
+ha"Not really, the people mostly complained because he ghosted them the next day."
+ha"Or one that says, and I quote."
+ha"'He told me he'd fuck my brains out but changed his mind an hour later'."
+y bored"So those aren't even really complaints."
+ha"The fact remains that he's acting weird."
+ha"And as his and your superior, I need to know the cause."
+ha"So, are you any closer to the answer or not?"
+y"I believe I am, although I haven't tried the most obvious strategy yet."
+ha"Which is?"
+y"Asking him directly?"
+ha"I tried that, does not work."
+ha"But who knows, maybe it will for you."
+ha"Any theories at least?"
+y"Well, a time magic speculation was flying around."
+ha"Hmm, very unlikely."
+ha"Anything else?"
+y"Well..."
+Haima keeps mentioning how they don't care for Aiden.
+'For the safety of others'.
+I'm not sure I buy that.
+We hear a knock at the door.
+ha"Who could it..."
+ha"Come in."
+h"Good afternoon, Haima, apologies for the intrussion."
+h"I didn't realize you had a guest."
+h"Let's see..[name], was it?"
+y awkward"Y-yes sir, I'm surprised you remembered."
+ha"You already know each other?"
+h"Just briefly, but I make a habit to remember people I find interesting."
+ha"Why be interested in a slice of white bread?"
+y angry"Hey!"
+y bored"That's fair..."
+ha"Your business here is, sir?"
+h"Right, you're not the chatty type, straight to the subject then."
+h"I'm here to see if I could get the final members report for this year."
+ha"It's not ready yet, there are still some students trying to decide."
+h"Leaving it for the last minute, ey?"
+h"Now that's not a good start for a hunter's career."
+h"Would you be so kind as to place the ones signing in today aside when you bring the report?"
+ha"Sure, that would be in the evening."
+h"Excellent, what about you?"
+h"Have you decided on a Shard yet?"
+y awkward"Me? Y-yes, I'm part of this Shard, signed in yesterday."
+h"I see you made good friends with my son, Aiden?"
+y"You could say that."
+h"I'm glad he's making friends, even this late."
+h"Especially with someone like you."
+un"What does that even mean?"
+h"Anyway, I must be going, I'll be waiting for that report."
+h"Oh and [name], don't be shy, give me a visit whenever you want."
+And with those final words he exited the room.
+ha"He has his eye on you."
+y simple"You think so?"
+ha"I'm not sure if it's a good thing or not."
+ha"But one thing is in our advantage."
+ha"And that is your 'invitation'."
+y"What about it?"
+ha"The Headmaster is Aiden's father, maybe he knows something more."
+y bored"You want me to ask his dad about his mental problems?"
+ha"Just try it, but don't be too obvious."
+y"Fi-"
+ha"Wait."
+ha"You don't have to decide right now, it is your choice."
+ha"You have until the end of the day."
+ha"If you find anything, come tell me, if not, then not."
+ha"Simple as that."
+y smileworry"You know."
+y"You're not as bad as people say you are."
+ha"What?"
+ha"Who says that?"
+ha"Was it Monty?"
+ha"I'll kill him."
+y awkward"Did I say bad?"
+y"No no, I meant, uhm, just a little bit intimidating."
+ha"I have NEVER intimidated anyone in my life."
+y"Ha ha, yeah, I agree, anyway."
+y"I think I'll go now."
+y"Talk to you later."
+ha"WAS IT MONTY?!"
+ha"TELL ME!"
+I got out before I did any more damage.
+I hope I didn't just kill Monty accidentally.
+But hey.
+The only actual scary part I saw in them.
+Was when they attacked Aiden.
+I do not want to be at the end of that claw hand.
+I think I should try to talk to the Headmaster before asking Aiden directly.
+un"Here is a logical idea, why not use this opportunity to find out more information about this 'test'."
+un"The Headmaster does seem to like you for some reason."
+un"Instead of using your 'invitation' for your not yet maybe ever boyfriend."
+y pf"I have to admit, your argument is not fallacious."
+un"You completely forgot about the test, didn't you?"
+y bored"It's your fault for making me so horny all the time."
+un"Fuck me..."
+y simple"Maybe later, we have stuff to do."
+un"...Damnation."
+un"I'd go read a book to distract myself from your childish comments."
+un"But all the books I see here are at the same juvenile level."
+y"Hey, a book is a book, it counts."
+y"I'll just text Aiden that I'm done."
+For once I remembered I have a phone.
+
+
+a"So, what did Haima want you to sign?"
+y awkward"Eerm."
+y"They-"
+y"Said they'll kill me if I told you?"
+a"I understand, don't tell me, it's not worth it."
+y"Probably for the best."
+a"I just hope Monty dies."
+Ouch.
+Just what did this guy do?
+y simple"Where are we going by the way, you never specified?"
+a"The beach."
+y blush"T-the beach?"
+y"B-but, I don't even have a swimsuit with me."
+a"We are not going swimming, [name]."
+y simple"Oh."
+a"We need a large area to train, and considering the arena is basically full, the beach seems the best next place."
+y"Yeah, that does make a lot of sense."
+a "Don't worry, both the beach and a part of the shore are still protected by the barrier."
+Me and Aiden get going, the sun is bright.
+Honestly it would be a perfect beach day, but he's right.
+We HAVE to do at least some kind of training.
+a"[name]?"
+y"Yes?"
+a"I have to admit."
+a"I'm worried about you."
+y simple"Why is that?"
+a"Because I don't know you as well as I'd want to..."
+a"I honestly don't give a shit about this test, not for my result anyway."
+a"But I do want you to succeed, the problem is that I don't know your abilities as well as I'd want to, your cunning, smarts, all that jazz."
+a"I focused on the wrong things the past days."
+His worries calms me down for some reason.
+I take his hand in mine, bold of me, yes.
+But he was not surprised, just... happy.
+We walked to the beach in silence, hands intertwined.
+We get to the beach, this is my second time I see it up close in my life, but still, my first thought is 'wow, that's big'.
+y smug"So, what do we do first?"
+y"Death match?"
+y"Spell casting?"
+y"Strength check?"
+a"I was thinking maybe we can just discuss what the test will consist of first, then carry on to actual training."
+y simple"Considering the guy who came up with the idea for the test is your father, wouldn't you know way more about it than me?"
+a"Yeah, sure, like that old man would tell me something like that."
+a"He wants me to have a hard time and 'prove myself worthy'."
+y"Then let's start with what we know for sure."
+a"Well, we know that it will take place in the forest around the academy, the mountain tops and the Lacrima Lake."
+a"We know we'll have to fight Nightfallen."
+a"What kind, how many, where and how, that's a mystery still."
+a"We know that the test is being held in pairs."
+y shoked"Wait, really?"
+a"Yeah, you didn't know that?"
+y simple"Guess I missed that part."
+a"We can't choose our partners unfortunately, we're stuck with the first person we see on the field."
+a"Which gets us to the next point, being that our starting point is unknown."
+a"We can bring one weapon and one trinket with us at most."
+a"But no supplies whatsoever."
+y"Not even water, or a sleeping bag?"
+a"Nope."
+a"It will check our surviving skills."
+y"What if we meet other students after we have a pair?"
+a"We are allowed to fight each other, but it's not recommended."
+y"How do we fail the test?"
+a"As far as I know, if you're dangerously injured you'll automatically be teleported back to the academy and fail."
+a"There might be other rules too, but we'll get them tomorrow."
+y"Then it seems to me like we should just start training?"
+y"I'm not sure how to say this, but I've never actually met a Nightfallen before, let alone kill one."
+a"Then we have some work on our hands."
+a"Let's start."
+The first thing I do is demonstrate to Aiden my new trick, stealing magical energy, disguised as one of my energy abilities.
+After touching his hand for a couple of seconds, I can feel power rushing through my veins.
+Once I could barely create a small energy sphere.
+Now, it had the intensity of a small star and the size of a bowling ball.
+Aiden was inpressed, especially by the tiny amount of fatigue he was feeling after draining him.
+He helped me deal with opponents that are far away, which was my weak spot until now.
+He showed me the most predictable moves mages usually make and how to approach them.
+He tried to teach me some debuffing spells like the teleportation canceling, but unfortunately, I don't have any affinity for those.
+After a couple of hours of training and discussing tactics, something started to feel amiss.
+The wind stopped completely and the birds were quiet.
+y simple"I have a bad feeling about... something."
+a"Yeah, me too, I think I know what it is."
+a"But how in the hell did it get past the barrier?"
+a "I guess we can leave that for later."
+We look towards the ocean, where bubbles started to form on the surface.
+and something that I can only describe as an anthropomorphic shark with a fucked up head and a fish tail comes to the shore.
+I took a step back from the creature, but Aiden didn't seem too phased.
+a"Don't be afraid, [name], these guys are not too dangerous."
+The creature started charging.
+Aiden takes out a knife from his dimensional pocket and turns invisible, making the creature stop in place confused.
+He speaks from behind the creature making it turn around.
+a"Come on, this is your chance to kill your first Nightfallen!"
+I get it, he's distracting it for me.
+y shoked"Wait, aren't we supposed to raise its lust levels first?"
+a"Usually yes, but do you see a dick on this guy?"
+y"Uhm no?"
+a"Right, so why would it charge at us like that otherwise?"
+y"It wants to hurt us, nothing more."
+a"Correct, so there is no point in sparing it."
+un "He was right."
+un"Imagine bending over just to get clawed to death a second after."
+My heart was racing, I summoned the rest of my remaining energy conjuring a spell similar to the one I made at practice.
+Except this one was 20 times larger thanks to the extra energy I got from Aiden.
+Plus, Scribbles actually helped for once by blasting the ball towards the Nightfallen with much more force than I could alone.
+I did not dare get close to that thing.
+I direct it towards it, close my eyes and let Scribbles do his thing.
+When I open them.
+only a small blue gem remained in its place.
+Which Aiden picks up and throws to me.
+a"Nice job!"
+a"No longer a killess virgin."
+y shoked"Woah, I did it!"
+y"One step closer to passing the test."
+y smileworry"Thanks for letting me do this."
+a"You are better at murder than you think."
+y smug"The words all guys dream of hearing."
+y simple"Sooo..."
+y "What about the whole 'Nightfallen inside the barrier' thing?"
+a "Don't worry about it, I'll bring it up to the Headmaster."
+a "If that incompetent fool can't solve this problem, then we'll get involved."
+y s"Gotcha."
+y simple"Hmm, it's smaller than I expected."
+un"That's what she said."
+a"Yeah, that's all you'll get if its lust levels are low."
+a"I'm surprised it attacked even"
+a"Usually these guys stay in deep waters mating with dolphins or sharks."
+a"But if you do what you did just now when another Nightfallen appears."
+a"I believe you'll be fine on your own."
+I place the gem in my pocket.
+It's no use to even give it to anyone, it's too small.
+So I'll keep it as a souvenir.
+My very first lust shard.
+The sun started to set, time flies when you're spending it with someone you like.
+Or love...
+a"No response?"
+a"So you agree that I have nothing to worry about when it comes to the test?"
+y shoked"No no no, we should totally panic, especially me, I just don't have any words to reply with."
+y blush"I'm speechless."
+y"Today was awesome."
+y"I finally got a real taste of the academy, and I haven't even really started the school year."
+y"And I'm grateful for your concerns."
+y"You're so much more experienced and talented and strong, so I look up to you."
+a"Pff."
+a"Look up to me?"
+a"Have you heard a single good thing about me from anyone's mouth so far?"
+y happy1"Haima might have mentioned something."
+a"Ha, they sure did."
+y blush"But why should I care about what others say?"
+y"I know you from experience."
+a"And, what did your experience say?"
+y smug"That you're amazing?"
+y"Duh."
+y"And a great fighter."
+y smileworry"And you have a big heart behind those fiery-icy eyes."
+a"But..."
+a"I literally knocked you out on our first day."
+y smug"Rookie mistake."
+a"And ditched you on a still unfamiliar campus."
+y"Big deal"
+a"I sexually harassed you in the middle of the night."
+y awkward"Wouldn't call that 'harassment'."
+a"Not to mention I lost our pair practice against an exhausted opponent."
+His self deprivation is starting to annoy me.
+I grab his tie and move his head closer to me aggressively.
+y angry"Let me get this through your thick skull."
+y"I do NOT care about anything you think you did wrong."
+y"To me, you are perfect."
+y"And nothing you say will-"
+y shoked"!"
+In that moment, the sun was hiding beyond the horizon.
+In that moment the waves of the ocean were shying away.
+In that moment...
+I was being kissed.
+By the tiger that is so hard to figure out.
+I could smell his sweet wine breath, with a hint of rose.
+His cologne I somehow never noticed embodied with the sweat after the hard battle.
+In my attempt to shut him up.
+He quieted ME down.
+His tongue desperately trying to find mine.
+Not something I thought I'd ever say, but it's the truth.
+Before I can even start to think of what is happening inside me, I try to close my eyes.
+To make sure this is all real and I'm not dreaming.
+But how can I even think of blinking when his face is connected with mine?
+I had to focus on what's in front of me.
+Enjoy the moment.
+so instantaneous and urgent was that tongue.
+Plunged like some writhing sea monster into my gaping maw.
+Ironic, considering our fish fight a minute ago.
+After I get used to the feeling of having my mouth invaded unexpectedly, I join the action as well.
+I finally close my lips around his, trembling with a wild thrill.
+Our tongues are pushing and sliding into each other.
+Wet and enthrallingly sweet, with a hint of intoxicating liquor.
+We stayed like that for but a minute, that lasted an eternity.
+When I thought it's about to end, he grabbed the back of my head caressing my fur and ears.
+Pulling me closer and deeper.
+I'm happy he did.
+I almost thought of doing it myself.
+Just so I can taste him a second longer.
+But soon, the arousing moment ended.
+He pulled away slowly.
+A string of glistening, reflective gold connected out tongues, before it broke away.
+Feeling his hot breath on my face, only at that moment did I dare open my eyes.
+Aiden looked confident, but fretful, like waiting for my response, or review of his deed.
+y blush"Wow."
+y"You don't even know how much I wanted that to happen."
+a"His eyes light up more."
+a"May I say something crazy?"
+y"Be my guest."
+a"I am not letting you get away from me."
+a"Not ever."
+y"That sounds threatening."
+y"But romantic."
+a"Ha."
+a"And isn't that what you like about me?"
+y"I do like some danger in my romance, you're right."
+a"To keep you on your toes?"
+y"To keep me floating."
+a"Float?"
+a"Why stop there?"
+y"You want to fly?"
+a"Far above the clouds with you."
+y"Heh."
+y"Let's go before we turn into poets."
+a"Oof, yeah, nobody would like that."
+y"And nothing you say will change that!"
+a"I'm..."
+a"I'm glad you're saying that."
+a"I really do."
+a"It might take some time to believe the words, when they're so powerful."
+a"But it's a start."
+a"Besides, I had fun spending time with you."
+a"Believe it or not, you're the most normal perosn around here."
+y smug"Are you making me boring?"
+a"Haha, being boring among a school of crazy is not an insult in the slightlest."
+y"This is my favorite part of the day, the colors of the sunset are just..."
+a"marvelous?"
+y smug"Yeah."
+Oh shit, I should really get going, that's if I want to meet with the Headmaster today.
+What do I tell Aiden, maybe just a half truth.
+y smileworry"Hey, so I have an idea."
+y"And it might sound stupid, but I want to try it."
+a"What is it?"
+y"I'll go meet with the Headmaster right now, and maybe get some information about the test from him."
+a"pff, good luck with that"
+a"Without an 'invitation' from his Highness or strict business you won't get past his secretary."
+y smug"Good thing I have one then."
+I show him the card I was given on my first day by the Headmaster.
+His eyes widen.
+a"Why?"
+a"Why would he do that?"
+y"I bumped into him a couple of minutes before catching up with you on my first day."
+y"He was impressed that I was one of the only first years to attend the meeting."
+a"Huh..."
+a"I don't think it's a good idea, [name]."
+a"But I won't stop you."
+y"Thanks, but I made up my mind, and I'll go."
+y"I need this."
+y"And I don't see what could go wrong, even if you might."
+a"You do you, but hey, when you're done, come by my dorm, will you?"
+He smiles weakly and winks at me before marching away.
+I progressed through the academy's hallways.
+I know the Headmaster's office is higher up, but not where exactly.
+I decided to text Haima for directions, since they've been here before allegedly.
+The same with Aiden, but I'd rather not involve him and his daddy issues with my troubles.
+And good thing I did text, because I was on the wrong part of the building all together.
+But finally I get in front of the secretary's desk.
+y"Hello."
+sec"Meeting card?"
+y simple"Yeah, hold on."
+I take out the card from my pocket, she types something in the computer and-
+sec"Mister Kiraman is ready to see you now."
+y happy1"Great, thank you."
+I knock on the door.
+h"Come in."
+I walk into a big office, although it is evening, the sun shines bright through the windows and the sky is blue.
+A neverending day created with illusions.
+His day and night cycle must be broken at this point.
+Classical music was playing in the background.
+The room smelled of flowers, rum and a hint of cigar smoke.
+h"Ah, hello Mr. [name2], I'm glad you decided to pay me a visit."
+h"Please, take a seat."
+h"To what do I own this pleasure?"
+menu hmquestions:
+I'm here to...
+h"Oh?"
+h"And what exactly do you want to know."
+y smileworry"Anything you'd care to share, anything useful in passing the test perhaps?"
+h"I'm afraid that kind of information is not possible, or at least there isn't any price for it."
+h"You'll have to excuse me, but it just wouldn't be fair for the other students, you understand."
+y sad"Completely."
+y pf"And when you say 'any price'."
+y"Do you really mean there is nothing I can do to get it?"
+h"Tempting words you got there, as much as I'd want to take you on that offer, it's still a no."
+h"All the information you need will be presented to you all at the same time."
+y simple"In that case, may I at least ask why exactly did you introduce this test in the first place?"
+h"Now that's something I can help with."
+h"You see, Nightfallen get stronger by feeding on the weak."
+h"So the short answer is that we need only strong hunters to rule this world."
+y confused"rule?"
+h"Excuse me, I meant defend it."
+h"How else are we going to continue living our cushioned comfortable lives if hunters don't do their jobs right?"
+h"Hmmm..."
+h"You know what?"
+h"If you answer this one question for me, I might just have a little hint about the test."
+y shoked"Really?"
+y"What's the question?"
+h"On the first day, right before the announcements, I noticed you were a little late, is that right?"
+y awkward"Y-yeah, I uhm, didn't know there was a main road so I had some troubles through the forest path."
+y"Stupid, I know."
+h"Oh, I see, that explains it."
+h"Did you happen to see anyone else wandering the hallways?"
+h"Maybe even some voices."
+Scribbles, do you think he's onto us?
+...
+Scribbles, you there?
+Damn it.
+y"Not that I can think of, no."
+h"Ah, what a shame."
+y smug"So about that hint?"
+h"Oh no, I'm sorry, I was proposing a hint in exchange of useful information."
+h"This wouldn't be fair if I get nothing out of it, right?"
+y pf"I suppose so..."
+I just got scammed.
+h"Is there anything else I can help with?"
+That didn't answer much but I'm not surprised.
+I can already see he'll dodge my questions as much as he can.
+Just what are you hiding?
+h"Ah yes, my little miracle rebel, he isn't very cooperative, is he?"
+h"You try to raise the next big hunter and all you get is attitude from that boy."
+h"I saw you two fight in that arena."
+h"It brought back some memories."
+h"But my goodness, we did not have such unconventional methods of making our enemies forfeit, ha."
+h"I'd be happy to answer any questions regarding him."
+y simple"Well, being his father, have you noticed anything..."
+y"Strange about him?"
+h"He was always a strange one."
+y"No, I mean, something more that just 'strange'."
+h"Perhaps."
+y bored"Can you be more specific?"
+h"Mood swings?"
+h"Appears and disappears randomly?"
+h"Has way too much free time?"
+y shoked"Yes!"
+h"Ha, that's what ALL teenagers do."
+h"There's nothing strange about that."
+y pf"He's 20."
+h"Ah, indeed, the best years."
+y bored"moving on I suppose."
+y"What is your relationship with him?"
+h"Before I answer that, I need to know."
+h"What type of relationship do YOU have with my son?"
+y blush2"Oh, ermmm."
+y blush"I really like him?"
+h"Well yes, it was either that or you're already worst enemies if you came to me to ask about him."
+h"but in what way, and how much do you like him?"
+y"I... might have caught some feelings in the past few days."
+His gaze is now more fixating upon me with hunger in his eyes

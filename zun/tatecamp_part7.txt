@@ -1,0 +1,567 @@
+."
+ttt "He lived among our kind so he understands us better than his dad."
+ttt "He'll make a good enough leader."
+ttt smug"Maybe I could even visit sometime."
+y bored"Not without Dallan, Aiden, Merina and many more bodyguards with you."
+ttt smug"Heh, of course."
+y simple"Wait, if Ragnar knows that Seraph is a wyvern, then what will happen to him?"
+ttt simple"Are you worried for him?"
+y "I mean...even if he's a wild animal, he's still a living being."
+ttt sad"I'm assuming they must've killed him already..."
+ttt "There is no other logical solution to that."
+y worried"Oh no...I'm sorry."
+ttt sad"Don't be."
+ttt "I got irrationally attatched to a killer machine, all because I thought I have nobody that cares about me..."
+ttt sadsmile"But that is not true, is it?"
+y sadsmile"Not even close."
+y smug"And if I hear you say that ever again, I'll smack you."
+ttt smug"{i}*Gasp*{/i} You're so kinky [name]."
+ttt simple"..."
+ttt simple"Hey, [name]?"
+ttt"May I ask you something?"
+y s"Go ahead."
+ttt "Back at the Nightfallen camp, was what Eureka and Ragnar said true?"
+ttt sad"That you...did things in there?"
+ttt simple"I mean, obviously I'll believe what you say over them, they are dirty little liars and manipulators, working for a tyrant, I don't doubt that, but I want to hear it from you."
+ttt sad "Are you...still a virgin?"
+
+--- CHOICES ---
+→ Am I...?
+→ No. (Truth)
+→ He always had a nudge for finding the truth, no matter if it's false words or false personalities, he somehow knows.
+→ It's futile to hide it from him.
+→ Yes. (lie)
+→ I love him.
+→ I didn't say it yet, since my heart is caught in my throat every time I even think about it but I do.
+→ I know fucked up with my decision earlier, but it's too late to go back, I might as well cover it up.
+→ I slide my hand on top of his, which was resting on the evening's sun-kissed grass.
+→ But he slides it away.
+
+--- CHOICES ---
+→ Am I...?
+→ No. (Lie)
+→ Yes. (Truth)
+--- END CHOICES ---
+
+y surprised"You...want to know?"
+ttt smug "Every little detail."
+ttt "I want sizes, feelings, movements, everything."
+y sadsmile"Then I guess I'll tell you all about it."
+The intimate but awkward moment did a full one eighty with that one question.
+The feeling of betrayal in the air fades, replaced by curiosity, joyfulness, and if that bulge the cat is trying to hide is any indication, lust as well.
+ttt simple"He was THAT big?"
+ttt "There's NO way you took him."
+y smug"Believe it, balls deep."
+y simple"I think I still have his cum inside me as well."
+y "It hurts when I sit down too."
+ttt simple "That is..."
+ttt surprised "Awesome."
+ttt s"I hope my first time at least compares."
+ttt bored "Monty lost his virginity in a public bathroom, in a threesome with two complete strangers when he first came here."
+y bored"Ew."
+y "Yeah, you're way better than that."
+y sadsmile"Are you...really not upset?"
+y "I'm not as good as you at detecting lies."
+ttt sadsmile"Promise I'm not."
+ttt "Well, I might be a little hurt you broke your promise, but this is a Hunter's academy, Nightfallen intercourse is what we're all about."
+This conversation clashes with my plans...those being to take our relationship further.
+But second thoughts linger.
+Time feels like it stopped.
+As the sun sank beneath the horizon, casting its warm, golden hues across the rolling daisy filled hills, I stood at the hilltop crisscrossed next to my sweet cat friend.
+My eyes locked on the breathtaking view spread out before me.
+A gentle breeze caressed our fur, and a serene calmness settled deep within our bones. But amidst the tranquility, my heart beat with a restless unease.
+Beside me, he now stood in silence, his presence a comforting weight.
+We had spent the past few days exploring, wandering through the wilderness, and sharing quiet moments of laughter.
+There is an undeniable connection between us, an intimacy that seemed to transcend words.
+And now, on this hill as the sun bid us farewell, the air crackled with the unspoken possibility of...
+Of a kiss.
+A seal and a promise for this new step in our lives.
+I steal a sideways glance at him, his face basking in the warm glow of the setting sun.
+The delicate curve of his lips and the depth in his eyes became even more captivating.
+He's lost in his own thoughts, whether those thoughts are about me or not, whether they're positive or not...
+It was a suspended moment, an invitation hanging in the air, tempting us to step into a realm beyond friendship.
+Yet, within the recesses of my mind, doubts begin to sprout.
+Is it too soon? Were we reading the signs right? Were we prepared to cross that threshold, to redefine the boundaries of our relationship? Uncertainty twisted within me, blending with desire and apprehension.
+No...it shouldn't be too soon, but the circumstances are delaying the moment.
+Perhaps if I didn't treat him like a secondhand partner, his lips would be the ones I'm lost in, instead of thought.
+Still...
+Taking a tentative step closer, our shoulders almost touching, I feel the charged air that swirls between us.
+My hand trembles, longing to bridge the remaining gap. But as my fingers hovered, I hesitate, held back by the weight of unspoken fears.
+The fear of losing him as a friend gripped me tightly.
+His face turns to me with a  soft smile on, as if daring me to make the next move cautiously.
+I grab his hand in mine, then turn back towards the setting sun and plant the side of my head on his shoulder.
+This is it, this is what I'm choosing for now, a decision he is grateful for, leaning against me as well.
+Together, we watch as the sun completed its descent, leaving behind a canvas of deep oranges and purples that paint the sky.
+The silence between us carries a newfound complexity, an unspoken agreement.
+Though our lips had never met, the lingering desire was etched in the spaces between our stolen glances.
+He rests his head slowly on my shoulder, cementing the thought that kissing is out of the question.
+ttt sadsmile "You know that I like you very much, don't you?"
+y sadsmile"You know I like you even more, right?"
+ttt smug"I know you're the only one that respects me."
+ttt "That is proof enough."
+ttt simple"..."
+y simple"Do you think you would have stayed with them if they didn't...you know, try to murder me?"
+y "Even if I protested?"
+ttt simple"Would you have been against it?"
+y "Of course, but I don't think I would've told you so."
+y sadsmile"I'd just try to be happy for you."
+ttt smug"Of course you would, you ray of sunshine."
+y bored"Is that sarcasm?"
+ttt smug "For once, no."
+y sadsmile"Oh, well, thanks then."
+ttt "To be fair, I probably would've stayed for a while, then get bored and come back."
+ttt "I like nature, but I need a hot, steamy shower from time to time, and a comfy bed."
+y ec"I get that, plus, imagine how exhausting it would've been to constantly sleep with everyone."
+ttt simple "What do you mean?"
+y s"Well, they can recharge much much faster using our kind as partners, everyone would've wanted you to get rid of their lust daily."
+y "Day and night, everyday, with all sorts of different Wild Furs."
+ttt "..."
+ttt pf "I'll...be right back."
+y bored"If you set foot in that camp again I'm telling."
+ttt simple "Damn it."
+y "You couldn't do it anyway."
+ttt pf"Why do you think so?"
+ttt "I bet I could gather a lot of bodies, if I wasn't so scared of starting."
+y smug"Because you'd have have to satisfy women too."
+ttt pf"Oh...yeah, I don't know how to do that."
+y smug"And speaking of steamy showers and comfy beds..."
+ttt simple"It's getting pretty late, huh?"
+y simple"We have a test tomorrow too."
+ttt s"What are you going to do about it?"
+y "The test?"
+ttt "No, about the shower and bed?"
+y smug"Well, the boring answer is that you go to your dorm and I'll go to mine, then we meet in the morning."
+ttt smug "How {b}dare{/b} you give me the boring answer first?"
+y "In that case, how about I invite you to my bed."
+y "I want to sleep next to you and your comically cartoonish pajamas."
+ttt s"I can take that offer."
+ttt smug"Can't wait to use your headless shower."
+y pf"It's not my fault they did me dirty like that!"
+ttt simple "I only recently realized you haven't been addressing me by my old name, like...at all."
+y simple"Isn't that what you wanted?"
+ttt sadsmile "No-I mean yeah, absolutely, I was just a little taken aback by the commitment."
+y smug"Better believe it, because I haven't said it in my mind either."
+ttt surprised "Wow, that's a strong will right there."
+ttt simple"I hate when things pop in my mind without my consent."
+y smug"Somebody with so much mind power, the master manipulator? Hard to believe."
+ttt smug "My mind is too wild to keep thoughts caged."
+Both of us steal glances at each other when we think we won't be noticed.
+y s"The sky is beautiful."
+ttt simple "It makes me anxious."
+y simple"Why? Because it's as red as blood?"
+ttt "No, because it marks the end of the day...which means it's time to pass out for a while, away from each other."
+y confused"Away? Who said anything about away?"
+ttt "Huh?"
+I hug him with both arms, as hard as I can.
+His ears flick rapidly and eyes widen.
+y smug"I'm not letting you get away from me."
+ttt sadsmile "Ever?"
+y ec "Never."
+ttt smug"Heh."
+ttt "I should be the one to say that, as the hug expert."
+ttt sadsmile"But it turns out I have a harder time saying things that I mean wholeheartedly."
+ttt blush"Teasing is easier."
+y blush"Is that why you're blushing so heavily?"
+ttt "You're blushing too!"
+y "That's a given, I'm a shy guy by nature."
+ttt smug "You're not good at showing that, with all this touching."
+y "Stop being so soft, and I won't touch you."
+ttt sadsmile "..."
+ttt"[name]?"
+y "Yeah?"
+ttt simple "If I ever got in trouble, or you needed my help, you'd have to call out my name."
+y simple"Theoretically."
+ttt "..."
+ttt sadsmile "Names are given by special people, to special people, for special reasons."
+ttt "That's my philosophy."
+ttt "I'd say saving my life is a good enough reason why you should have this honor."
+y surprised"What are you saying?"
+ttt "I'm saying that I want you to give me a name."
+ttt "Preferably something Aiden can't tease me about."
+y worried"Name you?"
+y "B-but, I'm really bad with names."
+y "Are you sure?"
+ttt smug "Hey, I'm sure it can't be worse than what I came up with until now."
+ttt sadsmile"So yes, I'm sure."
+y "Do I have to do it right now? On the spot?"
+ttt smug"Yep."
+ttt "I want one now, give it to me now or never."
+Alright...here I go.
+What name would be fitting for this eccentric, friendly cat.
+His name was 'Tate' before, which means cheerful.
+He hated it because he thought it was too surface level, and because it was not chosen by somebody he loves, but by the community.
+I need a unique name that represents him, sounds good and he'd love.
+y ec "[catname]."
+ttt simple "..."
+ttt bored "Why?"
+y sadsmile"It grew on me."
+ttt "The name that everyone made fun of me for?"
+ttt "No thanks, please think harder."
+y simple"Oh...ok, I'll try again."
+y ec "[catname]."
+ttt simple "..."
+ttt bored "Why?"
+y sadsmile"It grew on me."
+ttt "The name that everyone made fun of me for?"
+ttt "No thanks, please think harder."
+y simple"Oh...ok, I'll try again."
+y ec "[catname]."
+ttt bored "No thanks, please think harder."
+y simple"Oh...ok, I'll try again."
+y ec "[catname]."
+ttt bored "No thanks, please think harder."
+y simple"Oh...ok, I'll try again."
+ttt bored "You can't just...not choose anything."
+ttt "Come on! Think!"
+y awkward"S-sorry, I'll try again."
+y ec "[catname]!"
+ttt "..."
+y "What do you think?"
+ttt sadsmile "It's definitely...unique."
+y simple "You don't like it."
+ttt bored"I don't..."
+y "Alright, no worries, I'll-"
+ttt "Like, no offense, but I really really don't like it."
+y "Got it, jus-"
+ttt pf"Truly the worst name you could've picked, it is bordeline offensive, did you even think about it before-"
+y angry "I GET IT!"
+y pf "I told you I'm bad at names."
+ttt sadsmile"No, it's okay, I'm just a little on edge since this is a big decision I put on your shoulder, just...try again."
+ttt bored "You can't just...not choose anything."
+ttt "Come on! Think!"
+y awkward"S-sorry, I'll try again."
+y s"[catname2]."
+He makes a disgusted face.
+y bored"..."
+ttt sadsmile"One more try?"
+Let's find another one, I guess...
+Ughh, but there aren't any names that both fit him AND sound really good!
+Why couldn't you just be named Billy or something...That way a new name would've been easy.
+un bored"{size=20}Psst.{/size}"
+Hey, Scribbles.
+un "Want some advice?"
+Do you have a name suggestion?
+un simple"Not really, I have a theory."
+Uhm, sure? Let's hear it, but make it fast.
+un "I don't think he hates his name as much as he says he does."
+un "He simply hates the origins of it."
+So you're saying that I...don't have to change it after all?
+un bored"Interpret that however you want, I just spoke my mind."
+un "Names are very sacred to us demons as well, so I understand what it means to feel like your name doesn't fit."
+That might be why he's so reluctant to accept a new name...
+Tate...
+Foster?
+This might be the stupidest name that I can choose yet, but it's worth a try.
+ttt smug"Sooooo?" with llongdissolve
+y ec "Tate Foster."
+ttt simple "..."
+ttt simple"What?"
+y s"Tate Foster, I think it suits you."
+ttt bored "What are you doing?"
+ttt "Are you making fun of me?"
+y sadsmile"No, I'm as serious as I can be."
+y "Let me explain."
+ttt pf "Please do. In detail."
+y "We only met each other three days ago."
+y "The whole time we've spent together, that's the only name I've known you by...other than the...bad ones."
+y "Your name is perfect the way it is, and perhaps you'll believe it from the mouth of somebody you love? If nobody else."
+y "You are my cheerful cat friend, and I don't want you to feel like you have change, or that I don't like the version of you that I met on the first day, because I do."
+ttt sad"What about my-"
+y "As for your last name, maybe you read too much into it, or not enough."
+y "{i}'Foster'{/i}...doesn't that also mean {i}'woodsman'{/i}?"
+y sadsmile"Do you really think that they had the literal meaning of the word in mind when they gave it to you?"
+y "As far as I've seen, everybody around here kind of...likes you, a lot."
+y "And there's nobody that likes nature more than you, so I'd say they hit the spot."
+y "Who wouldn't want to be named after the thing they love most?"
+y ec"Tate Foster, a cheerful woodscat."
+ttt simple "..."
+ttt pf "{size=20}So a hippy?{/size}"
+y bored"Your new name is Bennedict Cumberbatch, final answer, let's go home now."
+ttt sadsmile "NO NO NO! I'm joking!"
+ttt "Sorry."
+ttt sadsmile "I just find it hard to be serious in emotional moments."
+ttt sadsmilecry "I'm kind of..."
+y sadsmile "Are you crying?"
+ttt "W-what? No...no way a nerd like you could make me-{i}*sniff*{/i} cry."
+ttt "But if you wanted to hug me again I wouldn't say no."
+I do just that, until his few tears get soaked into his fur and disappear.
+I didn't hear his feedback yet, but tears are a good hint it's probably going to be positive.
+y sadsmile "So?"
+ttt sadsmile"Honestly?"
+ttt "I was skeptical at first."
+ttt sad"Hearing my name come out of your mouth...not once did I feel weird about it."
+ttt "You kind of made me realize that I'm not as alone as I thought I was."
+ttt sadsmile"There are a lot of people that I care about, and I now know they care about me too."
+ttt "Having a name that they chose collectively is proving to be less and less of a bother."
+ttt "Right now, it's a bit embarrassing to say, but you're the most important person in my life, so having your blessing on this means I can finally accept it."
+y surprised"Does that mean?"
+tttt ec "Yep, I'll be keeping my names."
+tttt smug"To be fair, I'm not sure how I'd feel if you had any other names other than [name] [name2], as weird as those are."
+y simple"What's so weird about them?"
+tttt s"I wonder how the others will react, since we did say I'm changing it."
+y s"I'm sure they'll be happy with your decision, after all, you're the only one that disliked your names in the first place."
+tttt "Heh, you're right."
+tttt "I'm so happy I caught you in my hole."
+tttt "Almost as if God sent me an angel to solve all my identity problems."
+y smug"I had to fix you before grabbing your tail."
+tttt blush"Is that a flirting attempt?"
+y "So what if it is?"
+tttt smug"From mister virgin himself?"
+y "You're a virgin too."
+tttt "But I'm way better at seduction."
+tttt "I told you before that I can bed anyone anytime."
+tttt "My lust game is on another level."
+y smug"Alright...then kiss me."
+tttt blush2 "What?"
+y smug"Prove it, kiss me right now, on the lips."
+tttt "Y-you can't just say that!"
+y sadsmile"Why not? Don't you like me?"
+I slide closer to him, almost touching faces, and he looks away.
+y smug "If you say you can get anyone you want, try to get me."
+y "See, one other thing I noticed about you these days, is that your teasing has its limits."
+tttt blush2"I...it's not that I don't want to..."
+y sadsmile"You've never kissed anyone before?"
+He shakes his head.
+y ec "No worries, me neither!"
+tttt blush"Your confidence is growing at an alarming rate..."
+y smug "Do you not like it?"
+tttt "I don't like trading roles in this relationship."
+y "Aww, but I had such big plans to-"
+{i}*Buzz*{/i}
+y simple "Huh?"
+My phone is ringing.
+tttt blush"{i}Phew{/i}"
+Another unknown number.
+{i}*Click*{/i}
+y "Hello?"
+ch "{size=60}{i}KISS ALREADY!{/i}{/size}" with hpunch
+tttt simple"Chelsie?!"
+The phone wasn't even on speaker, yet it sure sounded like it.
+d "{i}Chelsie! I told you NOT to call them!{/i}"
+ch "{i}But look at them! Neither is making the first move!{/i}"
+a "{i}I'm sure [name] would've done something if we waited a little longer.{/i}"
+o "{i}They seemed to have a tense moment just then.{/i}"
+y angry "{i}Hold on, how many of you are there?{/i}"
+tttt bored "And how do you see us?"
+m "{i}Chelsie brought more telescopes for us.{/i}"
+Indeed, atop the academy, multipe silhouettes can be seen, like ants on a hill.
+m "{i}Haima is here too, and Monty is finally out of the hospital.{/i}"
+a "{i}What a miracle...{/i}"
+monty "{i}Hello cat and new stranger!{/i}"
+ha "{i}I was promised a show.{/i}"
+y surprised"Is the whole academy watching?"
+d "{i}Rose and Coal had to go meet someone, but the rest of your friends are here!{/i}"
+y "A-all...the rest?"
+ch "{i}Yeah!{/i}"
+ch "{i}And we're not seeing enough action!{/i}"
+y awkward "A-about that."
+{i}*Click*{/i}
+Suddenly, Tate grabs the phone and hangs up, throwing it to the side.
+y "What are you-"
+y surprised"!"
+He grabs my tie, and plants his lips on mine.
+Fast, with determination and confidence.
+It was a swift exchange of warmth and affection, a brief yet meaningful connection.
+Time seemed to pause for that split second, as my heart raced with excitement.
+Though the kiss was brief, its impact lingered, leaving behind a sweetness I can not describe in the air and a promise of more to come.
+That is, if we weren't the shyest, most sexually charged people at the academy.
+I barely got to process the moment, my eyes opened the whole time, when he slowly pulls away with a smile.
+Even if our tongues remained tame for these tantalizing moments, I can still taste him well.
+My mind is still in paradise when he calls my name.
+tttt blush "[name]?"
+y blush "Wow..."
+tttt "I take it I did good?"
+y "Yes, yes, a thousand times yes."
+y "But...why now?"
+tttt "I noticed your withdrawal when Dallan mentioned people are watching."
+tttt "Your confidence kind of drained away in an instant."
+tttt "So I decided that I either do it now...or we never do it."
+y sadsmile "I'm glad you did it."
+y "You're right, I wasn't so sure about an audience at first, but after this...I think it's worth it."
+tttt sadsmile"You taste good."
+y smug"I don't compare to you."
+tttt "I hope the others enjoyed the show."
+{i}*Buzz*{/i}
+y simple "Speaking of."
+{i}*Click*{/i}
+y s "Heeello?"
+ch "{i}YOU CALL THAT A KISS?!{/i}" with hpunch
+y simple "What?"
+eve "{i}{size=65}CHELSIE! STOP CALLING THEM!{/size}{/i}"
+ch "{i}Oh come on, I didn't bring these telescopes here for nothing.{/i}"
+ch "{i}I can't be the only disappointed one.{/i}"
+m "{i}You do have a point...{/i}"
+d "{i}Merina!{/i}"
+a "{i}She's kind of right.{/i}"
+d "{i}*gasp*{/i}"
+d "{i}Actually...yeah.{/i}"
+Tate takes my phone once again, but doesn't hang up.
+tttt bored "Guys, please stop, I know that's how the lot of you approach things, but [name]-"
+Before he can continue, it is my turn to take the phone away and throw it to the side.
+y smug "Eh, we both almost died today, I can be bold for once."
+tttt simple "What are you-"
+With a swift move, I reverse the previous roles and close the distance between us.
+Instead of a quick, vicious smooch, comes a tender mouth embrace.
+I ignore the shocked expression he has, the same way he ignored mine before.
+Our first kiss was electric, this one: paralyzing.
+I continue our new experience by pushing my tongue deeper inside, and soon, the surprised cat does the same.
+With all eyes closed, nothing but sensations guide us further.
+Although far more intimate, long and sloppy, this would not satisfy an audience.
+And frankly, it isn't enough for me either.
+I push my head harder towards him, squishing our noses together, until he loses balance and I topple him over.
+No more shocked faces, no more surprises, Tate fully embraces the moment, wrapping his legs around me, as I hold his hands tight above his head.
+Only when his head is fully against the grass do I stop trying to overwhelm him.
+The faint sloppy, wet lips are the only sounds that invade my ears, along with the evening wind and...cheering?
+d "{i}Look at them go!{/i}"
+ch "{i}That's what I was talking about! Woohooo!{/i}"
+m "{i}It feels like only yesterday we were shunning him away from sex classes...{/i}"
+y simple"Oops, I forgot to hang up when I threw it away."
+y "Let me just-"
+tttt smug "Don't you dare stop."
+The hungry, needy cat grabs my head and restarts our makeout session.
+More intense than ever before, it feels like he's trying to taste me from every angle, and each bite is better than the last.
+I can't complain, this is what I thought he'd be like, before finding out he's as inexperienced as I am.
+As my head is busy being attacked by this scary predator, my hands are finding their own places to explore.
+ch "{i}Aaaaaahh, look! Look he's doing it!{/i}"
+d "{i}Oh my lord, is he...{/i}"
+a "{i}He's really sticking his whole hand in there.{/i}"
+m "{i}It is important to stretch those muscles before you start, good thinking [name].{/i}"
+ch "{i}How many fingers do you think-{/i}"
+y blushmad "I'm JUST touching him! Stop fantasizing over there!"
+We continue our tongue battle for what feels like hours, trying to ignore our friends' scarce, lewd comments.
+Every fun moment has its end, and unfortunately, as the one on top, it's my duty to be the first to break the kiss, once and for all.
+With heavy breaths, we open our eyes and look at each other.
+A trail of saliva between us fighting the forces of gravity and barely losing.
+Those sparkles in his irises, that slight crooked, toothy smile, the fluffy cheeks covering the bottom of his eyes making said smile more sincere, how could I not see...that he's always been looking at me that way.
+Who will recover enough air in their lungs first to say the fated words?
+y sadsmile "Tate...I-I love you."
+tttt sadsmile "I lo- love.. you too."
+Perhaps both of them.
+The other line is now impossible to ignore, as fangirls are screaming with excitement.
+I take a second, now that Tate finally lets me, to get my phone and hang up.
+y simple"No more interruptions."
+tttt "Why? Did you have some more things in mind?"
+y smug "There are so many things I want to do to you in my mind."
+y "There's nothing that can stop me from getting my hands on you now."
+tttt smug "Then what's stopping you?"
+tttt "Fuck me right here, right now."
+y "No."
+tttt simple"What?"
+tttt sadsmile"Why NooOoOoOt?"
+y sadsmile"Tate, all our friends are watching."
+y "And it's getting pretty late, we have a test tomorrow, which honestly? Makes me nervous."
+tttt "Eh, I was joking anyway."
+tttt smug"Even though a field of daisies at sunset is not the worst place for your first time."
+y "Maybe when less eyes are on us."
+tttt s"So, your room or mine?"
+y s"Mine."
+y smug"I might not have a shower head, but at least my bed isn't half full of stuffed animals."
+tttt smug"So two negative points..."
+y smug"We're going to need all the space we can get on that bed."
+tttt blush"Are you...are you saying we're gonna do it?"
+y "We'll see what happens."
+y "In the meantime, let's get a move on."
+y "We'll need to take the longer route, just so we don't meet any of our friends on the way."
+t "Yeah...that would be awkward."
+t "I don't feel like talking about this with them yet."
+y "There is one thing you should talk to them about."
+t "What's that?"
+y "Your name?"
+t "Oh right!"
+t "Can I borrow your phone?"
+The sun has dipped low over the horizon by the time we get back to town, engulfing our world in darkness.
+But as I said on the first day we met, my sun is always walking beside me, taking the form of a cheerful cat.
+We walk holding hands across the streets of Lakonia, as the news of his name travels from phone to phone.
+As someone that doesn't own a phone, he sure likes talking with one against his ear.
+He gives the news and announces his name proudly, and thankfully, everybody is very happy for him.
+I was not the only one who thought he already had a perfectly good name, Dallan almost started crying and Merina definitely sobbed once or twice.
+We arrive back at the dorm.
+The room is dark and cool.
+The lights still don't work, but it's not like we need them much.
+As perverted as we both are, we silently agree that it is not the time to shower together.
+It's for the best, since we will definitely not be able to keep our hands from each other's naked bodies, and we can't afford to waste precious sleep time.
+He goes in first, then I follow after.
+His fur is glossy and soft looking, the daisy perfume easily noticeble when I walked past.
+The radio is on when I get out, connected to the weather channel.
+{i}The weather tonight will be rainy, but we will be welcomed by a cloudless, sunny day, tomorrow morning.{/i}
+Aiden texts me again while I'm drying my fur, making plans for us all to meet for breakfast, before embarking on the test journey, whatever that will be.
+Apparently we are all supposed to be present at 9AM in the town square.
+Weird place to start a test.
+To my surprise, Tate does not wear the pejamas I was expecting.
+t "I figured if we'll be...cuddling on the same bed, it's going to be too warm for those."
+All I do is smile and nod in agreement, while walking towards the bed, inviting Tate to join me.
+The worries of the world disappear as the cat wraps his arms around me under the blanket.
+t "Hey, just to make sure, we're really going to sleep, right?"
+t "Like...you'll not expect me to grind on you or anything?"
+t "Because I'm tired...really tired."
+y nakedsmug"Heh, no worries, I said those things in the heat of the moment."
+y nakedsimple"Wait...you on me?"
+t "Obviously, I have to be the one on top, I'm wearing the pants in this relationship."
+y nakedpf"I'm taller than you."
+t "I'm stronger than you."
+y nakedbored"{i}*sigh*{/i}"
+y "Can we not talk about this kind of stuff when we're trying to sleep?"
+t "Why? I'm making you hard already?"
+y nakedsimple"Yes."
+t "Oh. Okay then, I'll save my super effective flirt lines for another day."
+t "You know..."
+t "It's a shame they're wasting an entire room."
+y nakedsimple"Who?"
+t "The academy, they gave me an entire room for myself, even if I'll stay here the whole time, with you."
+y nakedsmug"At least your stuffed animals will have room to breathe."
+t "If they get kidnapped in the middle of the night, I'll blame you."
+y "Hey, you're free to go sleep with them if you're so worried."
+He hugs me tighter and closes his eyes.
+t "{i}*Snoooore*{/i}"
+y "Sleep tight, little troublemaker."
+t "{size=20}Good night.{/size}"
+The moons are shining through the rain filled clouds, heavy drops hit the window in the otherwise complete silence.
+Silence, save for the cat's light, gentle snores.
+He sure falls asleep fast.
+It is my turn to do the same, but unlike him, whose worries disappeared after our adventure, mine are just starting.
+I'm not as talented as him, not as familiar with Nigthfallen, or nature, not as good with people or magic.
+For him, and all the amazing people around me, tomorrow's test is nothing...but for me? Could mean the end of my time here.
+At this point, graduating isn't as important as being close to my beloved cat.
+I'll do anything to stay close to him, and warm his nights from the winter's winds...
+At last, the worries turn to determination, and together with the cat's purrs on my chest, I calm my nerves enough to slip away in the dark.
+un "..." with longdissolve
+un "Hey."
+un simple"Are you asleep?"
+un "Hey, [name]."
+...
+un bored"I'll hope that's a yes."
+un ang"If you're pretending, I'm going to kill you."
+un squint"Because you don't matter to me one bit, I'd murder you with no hesitation, got it?"
+un bored"..."
+un "Ok, you're asleep."
+un simple"Still, let me get further inside your mind."
+un curious"Uhmm, maybe a little further."
+un suspicious"Juuust a little more."
+un simple"Alright, here it goes."
+un pride"{i}*Inhale*{/i}"
+un cry"{size=70}BWWAAAAAAAARGH!{/size}"
+un "{i}*sniff*{/i} Guh-huh-huh...{i}*sniff sniff*{/i}"
+un "I really...{i}*sniff*{/i} thought you were d-done for good back there."
+un "I-I {i}*sniff*{/i} I don't want to {i}*snuff*{/i} be alone again."
+un "{i}*sniff*{/i}"
+un "Alright, calm down, you let it all out, now go back to your spiteful state."
+un "Your best state."
+un sad"Let's get something to keep my mind off this trauma."
+un suspicious"Hmmm."
+un simple"Oh, right, if he's asleep, shouldn't he be dreaming?"
+un "I still don't know if he saw the previous dreams, or if they're just for me, but I have to admit..."
+un "They were pretty entertaining."
+un "Especially after I found out they were technically real."
+un "So please continue dreaming."
+un "I'd hate to be left on a cliffhanger."
+un "It's rare that somebody continues the dream they left off from two nights in a row."
+un sidee"Helloooo?"
+un "When do you start, dream?"
+un "I wanna know what happened to the kid!"
+un simple"Oh, there we go!"
+un pride"{i}*cough cough*{/i}"
+un "The mysterious, large eared figure from before, catches the dying child, and with the little strength and body heat he has left, carries him to town."
+un bored"Nobody knows what happened to him after."
+un "It is a question that we will not know the answer to until the next dream."
+kid "I think you know very well what happened next."
+un simple"Huh?"

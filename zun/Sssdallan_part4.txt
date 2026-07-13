@@ -1,0 +1,759 @@
+."
+y awkward"Uhm, I'll pass, thanks."
+a "Shall we go?"
+a "Practice starts soon."
+d "Oh, right!"
+d "[name], we should probably tell you what this practice is about."
+y s"Chelsie explained it a little bit, might need more information."
+a "Let's get going to make sure we aren't late, we'll explain everything once we're there."
+d "All we need now are some snacks and we are good to go."
+a "You and your twenty pound stomach."
+d "I need it for the muscles!"
+t "Sure you do."
+d "Hey!"
+y smug"Heh."
+We end up buying a bunch of food, drinks and more.
+Dallan paying for everything.
+The rich to the rescue!
+We slowly munch while they tell me more about their awesome detention shenanigans and I talk about my morning with Chelsie.
+a "Detention?"
+a "Fun?"
+a "Alright weirdos, have your fun being stuck in a room for hours."
+a "I'm not sticking around for that."
+a "Cya."
+Aiden walks away mumbling angrily to himself.
+a "Detention my ass..."
+d "I guess the three of us will have all the fun."
+d "Come on!"
+d "To the detention room!"
+t "Woohoo!"
+Tate is way more excited than I thought.
+He holds my arm tightly with both paws all the way there.
+Seeing that, Dallan decides to try and do the same.
+He does have to crouch just a little so that he doesn't lift my arm in an uncomfortable position.
+It's not the most pleasant of situations for my paws, but the purrs and tail wags that hit the back of my thighs make it bearable.
+y "Sooo, how far away do we go?"
+d "It's just around the corner."
+y pf"And what do you usually do in that 'detention'."
+d "Just waste time."
+t "And get bored to death."
+t "I usually just take a nap."
+d "And I keep an eye on him not to run away."
+We arrive in front of yet another simple looking door.
+We go inside, Dallan closes it behind us and turns towards some kind of machine on the wall.
+It looks like what some people use to clock in and out of work.
+d "Come on, you know what to do."
+Tate grumpily says his full name to the machine.
+Also the time.
+t "Tate Foster."
+t "September second, 2036."
+I whisper to Dallan.
+y simple"What and why?"
+d "It's a special detention tool, so students can't skip on detention."
+d "Especially when I'm in charge."
+d "It was only installed at the end of last year."
+d "Believe me, I'd love to let Tate go with a slap on the wrist, but we can't because of this."
+d "Once he says his name and date, the device is going to track his presence in the room."
+t "It's the stupidest thing someone could ever make."
+t "It is killing me and my plans."
+t "But today you're here, so it might not be as bad."
+t "Alright."
+t "Come on."
+Before we start doing anything, the door opens yet again and Aiden walks in with his hands in his pockets.
+He looks embarrassed.
+None of us say anything, we just stare.
+a "What are you all looking at me like that for?"
+d "Uhm, what brings yo-"
+a "You know that stupid cat can teleport whenever he wants."
+a "I'm just…"
+a "Here to make sure that doesn't happen."
+t "I wouldn't dare teleport out anyway."
+t "I'd just get more detention time."
+d "Glad you decided to join our weirdo group!"
+d "Whatever the reason might be."
+a "Sure."
+He takes a seat in front of the class, places his feet on the table, takes out a ball from his dimensional pocket and throws it up and down repeatedly.
+He's so cool…
+Old school cool.
+The rest of us sit down at one of the tables.
+Well, me and Tate did, the tables were too small to fit three people, especially someone his size.
+But my mood brightened when he pushed his table against mine so we could be closer.
+t "Alright, I'll take a nap, wake me up when this is over and practice is about to start."
+y bored"Wait, what?"
+y "What did you need me for if you were just going to nap?"
+t "Well you have to hold my paw, obviously."
+t "So I…"
+t "Don't run away?"
+y "*Sigh*"
+He takes my paw in his and looks at me with puppy eyes… or kitten.
+Am I really going to say no to this?
+y "Fine…"
+y "If we're here already."
+y "Might as well."
+My words barely escape my mouth and Tate is already snoring.
+d "Thank you for doing this, [name]."
+d "It's nice to just relax and not have to hold him in place."
+y ec"My pleasure."
+y simple"Do you have to do this often?"
+d "Not very, just for Tate, because he's a little more complicated than others."
+d "But he's one of the only students to get detention… so I suppose I should say yes?"
+y "Are you the only one that deals with his detentions?"
+y "It doesn't seem fair."
+d "Oh, no, only until the teachers come to campus and we start having actual classes."
+d "They take detention duty off my paws."
+d "But again, until then, kind of… yes."
+I look at Tate's paw in mine.
+That position does not look very comfortable for him.
+d "Heh, you can let go of his paw, he's a heavy sleeper."
+I put his hand away and feel him stir for a second.
+Then he's peaceful again.
+y smug"Sweet relief."
+I feel a little sorry for Dallan, he obviously doesn't know how to say no, which is exactly why I feel bad.
+Combine this with the overworked factor and the way his colleagues suffocate him.
+I'd argue he needs a break.
+I need to help him and show my appreciation!
+But how do I do that here, in detention…
+As my mind wanders through different ideas, my eyes drift towards the window.
+A grand, old tree attracts my attention.
+We are not too far up, just past where the tree's trunk ends and its branches begin.
+A small shadow blocks the sun that's hitting my face for a fraction of a second, bringing my moment of meditation to an end.
+What was…
+I get up and approach the window, looking for whatever just flew by.
+Tate continues to sleep undisturbed, Aiden looks in my direction but continues to do what he does.
+Dallan decides to approach me.
+d "Something wrong?"
+y pf"I thought I saw something."
+He opens the window and raises his ears.
+The only things we can hear are the wind moving the tree's branches, students shouting in the distance and birds.
+And meows?
+Scanning the surrounding area, I see a family of tressyms.
+Or more like 2 very loud cubs that just can't wait for their mama to come back with food.
+d "Awww, babies."
+Dallan seems to like them as well.
+I mean, who wouldn't?
+They're just kittens, but with wings.
+y s"I always wanted a tressym pet."
+y bored"My mom was against it."
+d "How so?"
+y simple"I don't know, she's just strictly against it."
+y "We had a goldfish once, then he died and we never got another pet again."
+y "We were never even given an explanation."
+y "She seemed distressed."
+d "Hmm, weird, did you not take care of him properly perhaps?"
+y worried"But I did!"
+y "He was completely fine, then the next day, boom."
+y simple"Gone."
+y "Sometimes I wonder if she might've tried to cover her own mistake."
+y "But that is so much not like her."
+d "Pets weren't allowed in my family either."
+d "Those would 'distract' my brothers from achieving perfection."
+y surprised"You have brothers?"
+d "Several, yes."
+d "I'm the second youngest."
+y smug"Are they as charming as you?"
+d "Ha, hardly."
+d "How come you-"
+Dallan stops mid track as the shadow comes back and it crashes in one of the tree's branches.
+I now have a clearer view of what it is…
+y surprised"It's…"
+y pf"Uhmm."
+y "Dallan, what is that?"
+d "No clue yet."
+The flying stingray-slash-butterfly frantically tries to fly through the many leaves and branches.
+Suddenly it screeches and dives down.
+a "That's a Nightfallen!"
+Aiden shouts.
+It seems we got his attention as well.
+y shoked"It's going for the cubs!"
+a "How the fuck did a Nightfallen get inside the barrier?!"
+d "I don't-"
+y worried"DALLAN!"
+y "DO SOMETHING!"
+d "I DON'T KNOW WHERE IT IS, IT'S MOVING TOO FAST!"
+Aiden just got here and barely knows what's going on.
+Dallan must be overwhelmed and doesn't know where the Nightfallen went.
+Tate is… still sleeping like a rock.
+Guess this one's on me.
+
+--- CHOICES ---
+→ What should I do?
+→ Act.
+→ Screw this.
+→ I'm not going to stay idle and watch.
+→ I place my feet on the windowsill and cast my strength and speed boosts.
+→ The only spells I know that are actually somewhat useful.
+→ And with a big windup, I jump.
+→ The adrenaline is rushing through me.
+→ The jump was strong enough to get me to one of the tree's branches, but I still need to get to the cubs.
+→ Thanks to my increased strength I can pull myself up and use some of the other branches as monkey bars.
+→ I can hear Aiden and Dallan freaking out by the window.
+→ I look down for a second and..
+→ Oh man.
+→ Height is suddenly so much scarier when you're at the risk of falling down whenever.
+→ The Nightfallen is getting closer, less and less leaves in its way to stop it.
+→ I won't make it.
+→ Scribbles!
+→ Do something!
+→ ANYTHING!
+→ The creature is now in full view, and it's uglier than I thought.
+→ It reaches its target and unhinges its jaw, revealing rows of sharp teeth.
+→ One more jump between me and them.
+→ But it's still too far.
+→ I'm sorry, little ones.
+→ BANG!
+→ The nightfallen gets intercepted by a golden wall.
+→ Then captured in a cage.
+→ No, not captured.
+→ The walls of the cage close down more and more.
+→ The Nightfallen is crushed.
+→ Squished, mashed, destroyed.
+→ Until only smoke remains in its place.
+→ And the cage disappears.
+→ Leaving me hanging beside the little babies that are still meowing for food like they weren't about to be food themselves.
+→ Lucky little bastards.
+→ Oh, I'm so glad you're safe!
+→ My first reaction obviously is to pet them and see if they're ok.
+→ I look back towards the window, a worried wolf and tiger looking at me with eyes full of relief.
+→ About that…
+→ How do I get back?
+→ The emotions and adrenaline are gone, making being in a tree much more frightening.
+→ Don't look down, don't look down, don't look down.
+→ My claws are planted deep in the tree's bark.
+→ Another golden object, this time a bridge, appears from my feet to the window.
+→ Dallan's powers are awesome, and I don't even know yet what those are exactly.
+→ I get back to them and he immediately takes me in another hug.
+→ Is he, crying?
+→ Or at least shedding some tears?
+→ Whatever he does, one thing's for sure.
+→ He's crushing me.
+→ Got to get away, thankfully he let's go after my next comment.
+→ I was so happy hearing them praise me, that I almost forgot…
+→ Aiden takes a look out the window to the burrow the cubs were in, now completely empty.
+→ We look at Tate, still snoring on the tables without a care in the world.
+→ Oh fuck, I don't remember…
+→ Are you sure?
+→ He clenches his fists with a determined look in his eyes.
+→ Dallan's ears look like they're about to fall.
+→ Hearing the words 'stupid' and 'Headmaster' in the same sentence must've been hard for him.
+→ We look at the broken branches and fallen leaves that cover the grass below.
+→ Me and Dallan laugh, and even Aiden lets out a chuckle.
+→ Watch.
+→ I can't do anything about it…
+→ I don't have any cool powers to reach them.
+→ Aiden came late and still can't find our targets.
+→ Dallan is confused by all the chaos the Nightfallen makes flying through the leaves and hitting the branches.
+→ But there weren't supposed to be predators here, because of the barrier…
+→ I see the creature in the corner of my eye.
+→ It dives towards the kittens.
+→ Dallan tries to cast some magic to protect them, but he doesn't know where to aim.
+→ Aiden is still confused at the thought of a Nightfallen being here.
+→ Dallan creates a big shield in front of us and sends it flying towards the sounds, clearing off all the leaves and small branches that obscured our vision so far.
+→ But it was too late, all it did was let us see how the stingray-like creature smashes into the nest and… they both disappear in smoke.
+→ T-they, disappeared?
+→ Was that an illusion?
+→ Or summons?
+→ Or teleportation?
+→ We all turn around to look at Tate, still sleeping, not a care in the world.
+→ No…
+→ Dallan seems a little sad awaiting my response.
+→ My lack of empathy must've made Dallan feel bad.
+→ And if he feels bad, I feel bad…
+→ Thankfully, he shakes himself and turns back to his cheerful attitude.
+→ We all laugh together, even Aiden lets out a chuckle at his own joke, looking at the mess Dallan made with only a shield.
+→ Ha!
+→ So everything turned out fine after all!
+→ Never punished.
+--- END CHOICES ---
+
+We go back to what we were doing before the chaos erupted.
+Un simple "I got an idea!"
+What idea?
+un "About how to get out of here with the wolf."
+You've been thinking about that all this time?
+While we were having a crisis?
+un eyeroll"Oh please, it was two cats with wings, the world would still spin without them."
+Heartless…
+Did I expect anything else?
+Whatever.
+Spill it!
+un bored"Alright, but only because this detention is already boring me."
+A Nightfallen attack is not entertaining to you?...
+un "A FAKE attack you mean?"
+un "Not really."
+un simple"Ok, you ready?"
+All ears.
+un "You get out of detention and leave the cat alone."
+Ok, and then?
+un bored"That's it, that's the plan."
+It's not very helpful.
+Un squint"It's logical!"
+Un suspicious"What is he?"
+Un "A toddler?"
+Don't call him that.
+un bored"You were literally holding his paw a minute ago."
+un suspicious"He is a grown ass adult, at least when it comes to your species, he has to face the consequences of his actions alone!"
+un "Just give him a stern talking, get the other two and have a threesome outside the door to show him who's in charge around here!"
+You seemed like the voice of reason until the last part.
+I want to get Dallan out, but not by hurting anyone's feelings.
+un eyeroll"Weak."
+I'd rather be weak than a monster.
+un "Second idea then."
+un "One that might just be as fun."
+Hm?
+un bored"You play truth or dare with these guys."
+Truth or dare?
+un tease"Yeah!"
+un "As far as my research in the movies department went, the presence of this silly game is responsible for almost all drama and plot points of said movies."
+You watched too much TV already...But I'm intrigued.
+Go ooon.
+un "You team up with that Dallan in a truth or dare DEATHMATCH."
+un "The winning team gets to leave."
+un "The worst case scenario is that you end up having fun."
+un "Maybe even I will get some entertainment value here."
+But, if Tate wins, how is he going to get out?
+It's HIS detention.
+un bored"First off, he's not going to win."
+un curious"Secondly, isn't that tiger guy like a shadow, light, illusion specialist or something?"
+un "I bet he can shapeshift you into looking like the cat."
+un "I mean, you are both already scrawny and short, can't be that hard."
+I look at Tate, he is completely out.
+Just like in the meeting yesterday.
+Silence envelops the room.
+I can hear Tate's steady breathing, Aiden's ball catching, the clock on the wall ticking and even Dallan's tail wagging against the chair beside me.
+I do want to get Dallan out of here...
+Alright, might as well try, just to boost morale before going.
+un tease"Nice!"
+One rule.
+un bored"There we go."
+No cheating.
+un heart"What?"
+un squint"But."
+No buts.
+un eyeroll"Aghh, fine, play clean, don't blame me when you lose."
+Let's do this then.
+y "Guys, I have an idea."
+y "Seems like we're all a little bored."
+y "Maaaaaybe spending time in detention isn't as fun as it seemed at first."
+a "Wow, what a revelation."
+a "I don't disagree."
+a "But there is nothing we can do now."
+y smug"Actually, there might be."
+d "I'm all ears."
+a "Same here."
+un tease"Good, you piquid their interests."
+y smug"Let's play some truth or dare."
+A "That sounds… interesting."
+D "I'm down!"
+d "But what does this have to do with your 'getting out idea'?"
+Y "I'll tell you all the details once we start."
+a "Alright, someone wake up that idio-"
+He's already up!
+Tate is sitting criss-crossed on the table near me with an excited look in his eyes.
+t "Hue hue hue."
+t "I am a PROFESSIONAL at this game."
+t "I played this at MANY parties!"
+t "And I never lost!"
+a "That's because people always dared you to go home and you actually did."
+t "Doesn't that mean I won?"
+a "Uhh, yeah, sure."
+A "Do we bet on anything?"
+Un "Nice, he wants to win something, this is your chance."
+Y "What if we team up in pairs, and the winners get to be free for the rest of the day?"
+d "YES!"
+Dallan lets his thoughts out a bit louder than intended and blushes.
+d "Sorry, not that I hate being around you Tate."
+d "Just…"
+a "He's a nightmare to deal with?"
+d "Kind of, yes…"
+t "Understandable."
+A "So that's your master plan, [name], interesting."
+t "But hey!"
+t "Wait, I don't win anything with this."
+Y simple"If you and your partner wins, Aiden can shapeshift one of the losers into you, right?"
+A "Yeah, that's true, it should work fine against the device."
+T "Great!"
+t "Then I like this plan."
+t "I do have…"
+t "Stuff to attend to."
+t "So I can't be stuck here all day."
+a "There isn't really a way for us to determine if we are telling the truth, so I think we should only do dares."
+d "Makes sense, when the stakes are this high."
+y simple"Are there no devices that make you tell the truth?"
+a "What? No…"
+a "This is the real world, wake up [name]."
+y "ok."
+d "How do we decide on partners?"
+A "I'll sacrifice myself and take this one as my partner."
+He points at Tate.
+T "But I wanted-"
+He grabs Tate and whispers something in his ear.
+T "Oh, you really think so?"
+un "They must think you and the wolf are the weak links, because you're both too nice."
+un "Which is true, without cheating, you'll be eaten alive in this game."
+We'll see about that.
+t "Alright, so it's me and Aiden vs [name] and Dallan."
+A "Any rules?"
+D "I got this."
+Of course, the rule expert is going to make those up.
+d"One- Dares can not be impossible, or harmful towards one's self or others."
+d"Two- No leaving the room under any circumstances."
+d"Three- failing to do the dare even once, means it's a loss."
+d"Four- if you don't do the dare properly the first time, you'll have to repeat it, or lose."
+d"Questions?"
+t "Do we dare the pair or individuals."
+a "Just individuals, this way, they can be blamed for the other's weakness."
+t "Sheesh."
+y "Who goes first, and in which order?"
+Aiden takes out an empty wine bottle from his dimensional pocket.
+a "Here."
+a "I'll go first, we'll spin the bottle, and I'll dare whoever it lands on between the two of you."
+a "Then we'll pass the bottle clockwise."
+d "Sounds good."
+t "Let's do this!"
+We sit down around one of the tables.
+Aiden spins the bottle.
+My heart is pounding, why is that?
+un tease"Because there are no rules for dirty stuff, heheheeee."
+un "The slut in you really wants to have fun with them~"
+Aren't you the slut in me?
+Demon of lust and stuff.
+un surprised"N-no."
+un squint"Yes?"
+un ang"Shut up!"
+After a couple of seconds of complete agony and anticipation, it lands on Dallan.
+un bored"I bet he's gonna make him break some lame school rules or something."
+un "It might just work, actually."
+un "I think you just lost."
+He can be a rebel.
+I hope.
+a "Dallan, I dare you…"
+a "To demonstrate your little talent to [name]."
+Dallan was nervous when the bottle landed on him, but not anymore.
+d "Oh, that's easy!"
+He proceeds to lock his paws together behind his back.
+Then move them above his head while still holding on, until they were in front of him.
+d "Ta-daa."
+d "I'm a little more flexible than I look."
+Me and Tate start applauding him in awe.
+a "no no no."
+a "Not your party talent."
+a "I mean, it's pretty cool, but I know showing that one off is not a problem for you."
+a "I want your OTHER talent."
+a "The one you won through hard work."
+The nervous smile came back, and Aiden has a new, mischievous grin on his face.
+d "Ahmm, are you sure?"
+d "Haha, I mean, it's not very interesting."
+d "I don't think it's a very good dare."
+d "Nobody really cares, especially not [name]."
+d "Come on, give me another one."
+a "No take backs, do it or you lose."
+d "C-can I at least keep my jacket on?"
+a "I think I was clear enough, I want a demonstration."
+a "As close to the original as possible."
+a "Or you can call it quits, your choice."
+y simple"What is this talent we're talking about?"
+Dallan sighs.
+d "[name], how much do you want to win this?"
+y determined"I'll do anything for it."
+In truth I don't care that much, but I want Dallan to relax and have some time off, so I'm doing this for him!
+d "Alright then."
+T "Omg."
+t "He's actually going to do it."
+a "I didn't expect-"
+Aiden looks taken aback, but also proud.
+a "Play the music, play it now!"
+y simple"What is this?"
+Romantic jazzy music starts playing.
+d "Hey!"
+d "I didn't agree to this!"
+a "It's part of the dare big guy."
+t "just do it already!"
+Dallan takes off his jacket slowly.
+Tate and Aiden are really excited about this, they keep glancing on and off between Dallan and me.
+I  really don't know what to expect, but if it involves Dallan taking clothes off, I'm all in.
+He is a large guy, but also very fluffy, and it's not even Winter yet.
+It seems like the strip show is ending at his shirt.
+He puts his hands down and forward, just below the waist.
+Making his muscles, and especially pecs, more defined against the already tight shirt.
+Lets out a big breath then…
+Bam!
+Two of his buttons go flying at the speed of light.
+One of which hits me square in the forehead and I fall backwards.
+d "[name]!"
+d "Are you alright?!"
+y hurt3"I'm more than fine."
+y "You did good, Dallan."
+y ec"I'm proud."
+a "I'm surprised you managed to do it still."
+a "I thought you got custom tailored shirts because of this."
+d "I did!"
+d "At the start of the summer."
+t "Huge chest for a huge heart."
+t "Hey, [name]."
+t "Why is your nose bleeding?"
+t "I thought it hit you in the forehead."
+d "Sorry about that..."
+d "My jacket keeps my fur and muscles compressed, so when I take it off it sometimes... does that."
+a "Keep the explanations and questions for later."
+a "We've got some losers to beat."
+a "And I guess you did it right, don't have anything to complain about."
+a "You're up wolf man."
+The dare seemed way more tame than I expected.
+un "Yeah, by their reaction, I thought he'd pull out his cock out and do a helicopter trick, starting to fly."
+I think it's cute that he's so shy.
+Even taking part of his shirt off in front of his friends is embarrassing enough for him.
+Dallan gets his jacket back on and spins the bottle.
+Tate is nice enough to collect the rogue buttons from the floor.
+And Aiden tailors them back on with a magic needle and thread from his dimensional pocket.
+un "This session might be a bit more boring than anticipated."
+We watch the bottle spin in the meantime.
+And spin.
+And spin.
+And spin.
+t "We get it, you're strong, no need to let out the wrath of the Gods on this bottle."
+d "Sorry."
+d "I got a little excited."
+Finally, it lands on Tate.
+un "I wonder what lame dare will this one give."
+un "Say a curse word perhaps?"
+d "I dare you to kiss Aiden."
+un "Aaand I was wrong again."
+We stare at him with shocked expressions.
+I did not expect that.
+And neither did the others.
+d "What?"
+d "It's not such a weird dare."
+d "Is it?"
+a "It is absolutely disgusting!"
+a "And unfair."
+a "I demand another one!"
+d "It doesn't break any of the rules."
+a "Touching his mouth means a serious risk to my well being."
+a "Both physically and mentally."
+t "Oh, come on, it's not that bad."
+t "I take good care of my mouth."
+t "And I'm a great kisser."
+t "Come here, let me show you."
+a "No!"
+a "Stay the hell away from me!"
+d "It looks like somebody is going to lose."
+t "JUST DO IT YOU PUSSY!"
+Tate covers his mouth as the room gets quiet.
+a "What did you just say to me?"
+t "I-I didn't mean it like that."
+t "You know, just-"
+Aiden grabs the poor cat's tie, holds his head in place and plants a kiss on his lips.
+It looked like a proper kiss, but somehow…
+More violent?
+That… looks like it hurts them both.
+Yep.
+Or maybe it was just THAT passionate?
+t "Oush!"
+t "Yu biph my phongue!"
+t "Iph hurphs…"
+a "There, we did it."
+a "Happy?"
+d "Hmmm, what do you think, [name]?"
+y "I'd give it a pass, it's deserved."
+I can tell Tate enjoyed it even if his tongue was collateral damage.
+Aiden is blushing slightly.
+Tate takes a minute to recover from both pain and shock.
+t "My turn now, my turn!"
+t "Spin my child!"
+The bottle turns to me.
+t "Sweet."
+t "How do you do with pain?"
+un "Ah, finally, someone will come in with the REAL dares."
+un "Let's see a self surgery liver eating action."
+Gross.
+y awkward"Uhmmm."
+y "I don't think we can do anything harmful with the dares."
+t "It's not 'harmful'."
+t "The dare can be a little painful, so don't be such a baby."
+d "He's right, it's fair game if it doesn't do actual harm."
+y "What did you have in mind?"
+t "Let everyone in this room slap your ass as hard as they can."
+t "WHILE!"
+t "You're wearing only underwear."
+y surprised"W-what?"
+y smileworry"Can I get another one?"
+I really chose the worst day to not wear my best underwear.
+T "Nope."
+a "Are you saying you don't want to do the dare?"
+I look at Dallan's worried face and Aiden's full of wonder.
+a "Don't try to tell me THAT dare is worse than having to kiss the cat."
+y surprised"No, I'll do it!"
+t "Nice!"
+t "Who's first?"
+a "I'll go."
+Aiden, announces.
+A little too enthusiastic. 
+a "Just bend over the table and get your pants down, this will be over quick."
+d "You really don't have to do this, [name]."
+d "We can just stay here and uhmm, play… charades?"
+I bend over and pull my pants down while looking Dallan in the eyes with determination.
+y  determined"No way."
+y "We are going to have fun no matter the cost."
+I position myself on my elbows and hold my breath.
+y "I'm ready."
+y "Although I feel like I'm getting hazed."
+Aiden looks at my ass for a second, they all do actually…
+y simple"This is getting embarrassing."
+t "Wooohoo, go go go!"
+t "Slap that kitty!"
+He spits in his palm.
+Gets ready and...
+SLAP!
+y scared3"aaaaahhh-"
+y scared4"AAAAAAAAAAHHHH!"
+I let out a yowl of pain that grows in intensity as my skin consumes the shocking slap.
+Un surprised"Ouch, was that… pain I just felt?"
+un suspicious"No no no, I did not like that."
+un "I was never a fan of spankings."
+un "Do you mind if I cast an anti-pain aura on you?"
+YOU CAN DO THAT?!
+un bored"Yep."
+Then you should've said so sooner, yes, cast that.
+t "Good one!"
+t "Look! The palm is still visible on the fabric, ha!"
+a "I had better slaps."
+a "Dallan?"
+a "Wanna call dibs next?"
+d "What, me too?"
+t "Duh, I said EVERYONE in the room."
+d "Then no thanks, I'll go last."
+t "Alright, my turn!"
+t "Time for chaos, mischief and ass touching."
+Tate doesn't waste much time.
+Hopefully Scribbles' spell works.
+Here comes the wind-up aaaand-
+SLAP!
+I feel my cheeks giggle and my body move forward a little.
+That was going to be somehow even harder than Aiden's slap, but I did not feel a thing.
+Thanks Scribbles…
+un "No problem, you owe me though."
+t "What?"
+t "No scream?"
+t "Not even a moan?"
+t "Damn it, I thought I perfected my technique."
+a "Nice job pipsqueak, you wasted a perfectly good opportunity."
+t "I request another attempt."
+He tries to go for another round but Dallan quickly blocks his way.
+d "I-I think that's enough."
+d "Uhm."
+d "My turn?"
+t "… fine."
+t "You're the strongest Dallan, make it count."
+a "You better not hold back."
+d "O-ok, here I go."
+
+--- CHOICES ---
+→ Dallan looks worried and uncertain, what should I say?
+→ Dare
+→ Hit me, hit me hard!
+→ Plead
+→ Flirt
+→ I start wagging my tail in front of him.
+→ Ok… they're going a little far.
+→ But Dallan is blushing heavily.
+--- END CHOICES ---
+
+And it worked, Dallan comes closer.
+He…
+Pets my butt?
+He gently touches it for a second.
+And even gives it a light squeeze.
+I might've gone overboard with my persuasive attempts.
+He gets some distance.
+Ok, he's doing it.
+Raises his paw high, with a look of determination in his eyes.
+Unfortunately for him, I won't feel a thing, but it does look like it will be a powerful blow.
+Aaaand-
+Slap!
+y scared4"OUCH!"
+Un "Ow."
+Y scared3"FUCK FUCK FUCK!"
+Y "SHIT!"
+y hurt2"WHAT THE HELL?!"
+I'm on the floor almost crying while the other two felines whizz.
+This one hurt way more than Aiden's.
+WHAT THE HELL SCRIBBLES?!
+un tease"Ahahahahaha."
+un "I decided I actually kind of like pain."
+un "At least this kind of pain."
+un "So I let the anti-pain aura down."
+Asshole…
+Tate and Aiden cheer!
+t "That was awesooome!"
+a "Good one Dallan!"
+t "Maybe you didn't lose, but you'll feel that for a week, isn't that right, [name]?"
+I pull my pants up with a grunt.
+y hurt2"Can we get back to the game?"
+d "Will you be able to sit down?"
+t "Oh come on, I've been slapped before, it's not THAT bad."
+a "Yeah, 'feeling it for a week' is just an exaggerated expression."
+Indeed I can, it still hurts, but not too bad.
+a "Your turn, [name]."
+I grab the bottle, a little tired.
+But somewhat satisfied?
+un "Freak."
+The bottle keeps spinning.
+And it lands on…
+y "Aiden."
+a "Alright, what should I do?"
+a "Let's get this over with."
+I don't feel like thinking much right now.
+And I don't want to be too mean to a brand new friend.
+So I'll give him a simple one.
+y s"Aiden."
+y "I dare you to show us your search history."
+After all, the internet only works if you're outside the barrier, so I hope he at least has one or two searches in there.
+I extend my hand and wait.
+A "…"
+A "N-no…"
+y simple"What?"
+T "WHAT?"
+T "What do you mean 'no'?"
+T "Give him the damn phone, it's a simple dare."
+A "I-"
+a "Don't want to."
+t "I swear-"
+t "TO GOD."
+t "IF YOU MAKE ME LOSE-"
+t "After we KISSED!"
+a "A-alright, give me a sec-"
+He takes out his phone and tries to use it.
+Me and Tate protest at once.
+t "Hey!"
+y angry"You can't delete your search history."
+d "Just hand the phone over."
+d "What's the big deal?"
+He opens his dimensional pocket and throws the phone in.
+a "NEVER!"
+t "So we lost…"
+t "Just like that…"
+t "Fuck me…"
+a "I take my privacy very seriously, unlike you, potato lips."
+t "What does that even mean?"
+a "You know very well what it means."
+Tate stands up in anger.
+Unfortunately, even against an Aiden sitting down, he's barely any taller.
+D "Let's get out of here before this gets too heated."
+y ec"After you!"
+And with a satisfying door sound, we're out.
+Dallan takes a big breath!
+Then hugs me tightly.
+d "Awesome thinking with the search history!"
+d "I don't use my phone much, so I never would've thought of how effective that is."
+d "Well, now that I'm not stuck with detention watching, I can go back to work."
+y simple"W-wait."
+y "No."
+y "no no no no no."
+d "No?"
+y "No."
+y determined"You are not going to work."
+y "We only met yesterday, but even so, I can tell you work too much."
+y "I mean, it's the second day of school for God's sake."
+D "So… "
+d "What do you suggest I should do?"
+y ec"Let's go have some fun

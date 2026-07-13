@@ -1,0 +1,32 @@
+I walk out the door, uninterested in the others.
+un"What are you hoping to achieve here?"
+y simple"I'm not sure, but I have a feeling I'm not meant for any of them."
+un"meant?"
+un tease"What?"
+un"Did you think you'll marry one of them or what?"
+...
+un bored"{i}*sigh*{/i}"
+un"You know."
+un"Usually I would tease you more."
+un"Or just stay silent and let you fuck up everything you do."
+un"But I just have to say this."
+un"If you don't go back in there and {i}'choose'{/i} one of them."
+un"So to speak."
+un"You might regret it."
+y simple"..."
+y worried"You're right."
+y"What am I thinking?!"
+un"Maybe it would not have been such a bad idea."
+un"If this path was finished."
+y"What do you mean?"
+un"You can't progress any further even if you didn't listen to me!"
+un"I suggest you choose one of the guysfrom the trio."
+un "They all seem pretty interested in you."
+
+--- CHOICES ---
+→ Fucking hell...
+→ You are so smart Scribbles, thank you for the wise advice.
+
+--- CHOICES ---
+→ OK.
+→ I understand.

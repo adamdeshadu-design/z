@@ -1,0 +1,763 @@
+.
+d "You must be hungry."
+d "I'll go get us something."
+d "It's a good excuse to fill myself with energy as well."
+d "Any allergies?"
+y awkward"Not that I know of."
+d "Great."
+He leaves the room with a straighter back than he came in with.
+The sleep must be rubbing away.
+I arrange my sleeping bag on the floor.
+As I observe the room, I notice that it is mostly empty.
+No decorations, not even blinds.
+The desk seems like the only thing that's somewhat messy.
+Dallan does like to keep stuff inside cabinets and drawers, but I'm not going to start snooping around.
+The view from the windows is impressive.
+And the windowsills are big and cushioned.
+Perfect for relaxing with a cup of hot coffee.
+d "Apologies for the wait."
+d "I forgot to ask if you have any preferences, so I got a bunch of different foods."
+y "I'm not picky, I could eat a horse."
+y smug"Or any other large animal."
+Considering the desk was full, we settled upon the windowsill, with paper plates in hand and a buffet of food on the floor.
+I was so hungry that I didn't even realize how much food there actually was.
+There were burgers, fries, pasta, salad, and pies for dessert.
+I thought we'd have a lot of leftovers as well, but boy was I wrong.
+That man can eat.
+I won't lie, I did eat almost an entire pie by myself.
+Sue me.
+Back to the scenery.
+The room is very clean, considering how empty it is.
+And the door we entered through looks very sturdy.
+Enough to endure a hydraulic door blaster.
+The sound of munching died down as less and less food remained, so it's time for conversation.
+y smug"Hey Dallan, how do you do with small talk?"
+d "I'm a master."
+d "With large and medium talk as well."
+d "I love talking."
+d "It's the best way to really know someone."
+y "Because you shouldn't judge a book by its cover?"
+d "Bingo."
+d "But I suppose, after a day spent together, there isn't much room for small talk."
+y "Shall we skip directly to trauma dumping?"
+d "Are you saying a sweet cinnamon roll like yourself has trauma?"
+d "Point to whoever did it, I'll take care of them!"
+y "Everyone has a dark secret or two."
+d "That I can agree with."
+y simple"..."
+y "Can I ask you something?"
+d "If it's about my dark secret, I'll only tell if you do."
+y awkward"Nah, it's not that."
+y pf"Although, you've piqued my curiosity and we will definitely discuss that at some point."
+y simple"If you have so much to do."
+y "Why did you waste time with me today?"
+d "…"
+d "I think…"
+d "Sorry, this might sound a bit disrespectful."
+d "But, my reason was to get away from my responsibilities for a while."
+d "With the pretext of helping a new year."
+d "I know, a bit of a dick move."
+d "I don't blame you for being mad."
+y simple"I'm not mad, not even upset."
+d "You're not?"
+y smileworry"Maybe I would've been if I didn't know what you were going through every day."
+y "I don't regret being your shoulder to lean on for an afternoon."
+I'd even do it again, a hundred times.
+Take advantage of me as much as you want.
+un "Down bad."
+d "Then maybe you'll offer this lying wolf another chance."
+d "To give you a proper hang out session?"
+y "It would be my pleasure."
+At this point we're more than done eating.
+I help Dallan throw away the rubbish and the little leftovers we had.
+My eyes start to close for longer and longer periods of time between each blink.
+d "You should go to sleep, I have some more stuff to do here."
+y sleepy"Don't have to tell me twice."
+d "Good night, [name]."
+y "Cya in the morning."
+Sleep crept up on me like a predator.
+So I almost didn't get to lament that Dallan was not going to sleep beside me.
+I try to force myself to stay awake, to trick my mind, commanding you shouldn't sleep with a full stomach, but my eyes did not agree with me.
+I watch Dallan sit back at his table and work, using the faintly glowing device.
+I was too tired to get my nose in his business, so maybe another time.
+…
+…
+I wake up in the middle of the night for some water.
+The room has gotten colder, my bare feet treading lazily upon the hard floor, and I see Dallan still asleep at his table.
+His fur fluffed up and trembling.
+
+--- CHOICES ---
+→ Cover him up.
+→ Don't bother him.
+--- END CHOICES ---
+
+I know I said snooping was a bad idea, but I just have to find a blanket for him.
+I open up the same drawer he got the sleeping bags from and-
+Bingo.
+I put a blanket on his shoulders and he immediately stops shivering.
+I really shoudldn't risk waking him up, he needs the sleep.
+I decide to go get a glass of water from one of the coolers I saw in the other room.
+After doing so, I go back to sleep.
+No interference, no nightmares.
+Just an image of a door.
+A locked, white-pink colored door.
+Covered in violets and vines.
+It's key is already in my hand, but I can't find the lock beneath the plants.
+I'll need to find a way to get rid of those…
+I wake up with the first rays of sunshine in my eyes.
+I didn't have enough time to…
+What did I dream about again?
+I already forgot.
+y sleepy"Ughh, why doesn't this office have no damn blinds."
+My mood immediately improves upon seeing Dallan's steady breathing, with a smile on his face.
+I'm already too attached to this guy...
+I should probably go get Chelsie so she can help with the 'tech' stuff.
+I get to the door and stop.
+y simple"..."
+I hear noise, a lot of noise.
+Oh, it's probably just the Shard members.
+Un surprised"Wait wait wait."
+Un "You can't get out."
+y "Huh?"
+y "Why not?"
+Un eyeroll"Did you forget these rule obsessed idiots' thing about not being in their room if you're not a member?"
+y "Ohhhh…"
+y "Right."
+y worried"Shit, how do I get out then?"
+un bored"I propose we ask our boyfriend."
+He's not my-
+Did you say 'our'?
+No way I'm sharing him with you.
+Un eyeroll"You have no choice, I can feel anything you feel."
+Un "And I'm sure as hell going to feel ten inches of meat inside your stomach."
+You really think he's packing… ten?
+Un squint"I don't fucking know!"
+Un "I'm not the dick inspector."
+Un "Jokes are not your forte, so why not proceed to wake him up and solve this dilemma together?"
+But how should I approach this?
+
+--- CHOICES ---
+→ How do I want to wake him up?
+→ Gentle tap on the shoulder.
+→ Dallan sleeps so peacefully. It looks like the smallest breeze or sound is going to wake him up.
+→ Sleeping at your desk doesn't sound like the best idea for your spine, but he makes it look so comfortable.
+→ He's holding tight to the blanket I gave him.
+→ I decide to approach him slowly and gently wake him up, whispering.
+→ His eyes remain closed, but he shifts and moans.
+→ A shiver goes down my spine hearing those words.
+→ I shake him just a little more.
+→ Kiss on the cheek.
+→ Without his consent?
+→ I don't think so.
+→ I can feel my body getting hot as I look at the peaceful wolf.
+→ It's because of that damn side effect of yours.
+→ It's hard to resist the temptation.
+→ So I give in to the demon's words.
+→ I lean down, taking a second to steel my nerves.
+→ Watching his face, his snout directed straight at me, his fur smooth, it's short, but looks so soft.
+→ Let's not screw this up.
+→ I get closer to his cheek, close my eyes, and plant the most gentle kiss with the tip of my maw.
+→ His nose twitched.
+→ My heart nearly jumped out of my chest.
+→ As I get back to my straight-as-an-uncooked-spaghetti-noodle position, I can see his eyes slowly opening.
+→ Did my kiss actually wake him up?
+→ It's fine!
+→ Let's not panic.
+→ I'll just change the subject fast before he brings it up, if he did really feel it.
+→ DALLAAAAAAAAAAAN!!!
+→ I try to lightly shake him awake first.
+→ Obviously that does nothing, he went to sleep late, he must be very tired.
+→ And I don't want to slap him or anything like that, so screaming it is.
+→ I take a deep breath and here it goes.
+→ *Inhales*
+→ DA-
+→ A big paw suddenly grabs my mouth tightly shut.
+→ He removes his hand from my mouth without even opening his eyes.
+→ His hand falls limp again and soft snores can be heard coming from him.
+→ Fine! But not because you told me to.
+→ Since he already woke up once, or maybe it was just some type of sleepwalking, I figured a little shaking would do the job this time.
+→ Aaaand I was right.
+→ Dallan wakes up with, I assume, no memory of me trying to scream to wake him.
+--- END CHOICES ---
+
+y "Dallan, I think we have a problem."
+Now he is fully awake.
+He raises his head and does a biiiiig stretch and yawn.
+Although he smiled the whole day yesterday, I never realized just how big and sharp those teeth are.
+d "Oh, good morning, [name]."
+d "Did you say problems?"
+d "Is it a bigger problem than this back pain?"
+d "Remind me to never fall asleep at my desk."
+d "And I'm hungry again."
+y "I think it might be a little bigger than that."
+d "Sounds important."
+He got all serious instantly.
+y "Well, you remember how you said your members don't like it when someone that's not from this Shard enters the headquarters?"
+d "Yes, of course, how could I forget?"
+d "I am literally the leader of this Shard."
+d "Is this some kind of test?"
+d "Why would you bring it up- oooohhhh…."
+D "Right."
+y "Got it now?"
+d "Got it."
+d "They must be here already, huh?"
+un bored"A little slow, but he has the spirit."
+y simple"Yep."
+d "I overslept..."
+d "Ok, let me think."
+y "What would happen if I just walked out?"
+d "Best case scenario?"
+d "You'll be given the cold shoulder by everyone in the Shard after being violently kicked out."
+y "Guess I don't want to know the worst…"
+d "You don't…"
+d "Oh, I know!"
+He takes out his phone and speaks out a command.
+d "Call Aiden."
+phone "Calling – Aiden."
+y "Can Aiden get me out of here somehow?"
+d "Maybe not, but Tate can!"
+y surprised"Oh I forgot, teleportation!"
+d "Yes, unfortunately he has no phone."
+d "So let's hope Aiden can-"
+d "Oh Hi!"
+d "Good morning Aiden, how have you slept?"
+a "{i}Get to the point.{/i}"
+d "Fair."
+d "Listen, [name] spent the night here with me and-"
+a "{i}Already?{/i}"
+a "{i}Huh.{/i}"
+a "{i}I really thought I'd be the first to-{/i}"
+a "{i}Never mind.{/i}"
+a "{i}What were you saying?{/i}"
+d "He's in my office right now and I need a way to get him out without the other members seeing him."
+a "{i}Ooohh, that bullshit, I get it, you and your stupid rules.{/i}"
+a "{i}Thank God, I thought you two were fucking.{/i}"
+d "You're on speaker."
+a "{i}Fffuuuucking with me right now.{/i}"
+a "{i}That's what I meant, obviously.{/i}"
+a "{i}Let me finish my thoughts next time.{/i}"
+a "{i}Hey, [name].{/i}"
+y "Hi Aiden!"
+a "{i}What do you want me to do anyway?{/i}"
+d "Can you get Tate for us, so he can teleport him out?"
+a "{i}Why do you always assume I know where that idiot is?{/i}"
+d "I'm not saying you always know…"
+d "But do you know now?"
+a "…"
+d "Aiden?"
+a "{i}He said he'd be in the library.{/i}"
+a "{i}Wants to see how many sounds he can make with his mouth until the new librarian quits…{/i}"
+d "Great!"
+d "That's not too far from here, can you get him and teleport into my office pleaseeee?"
+a "{i}I don't know…{/i}"
+a "{i}I'm kind of busy.{/i}"
+I approach the phone.
+y worried"Aiden, please!"
+y "I don't want to be violently kicked out."
+a "{i}*Sigh*{/i}"
+a "{i}Fine.{/i}"
+a "{i}Be there in a minute.{/i}"
+d "Thanks!"
+y ec"You're a lifesaver!"
+a "{i}Yeah yeah...{/i}"
+{i}*Click*{/i}
+y s"Nice phone by the way."
+d "Thank you, it's the newest model, so I was told."
+d "Or at least the newest from last year?"
+d "I'm not a tech fan myself, but it was a gift from a friend."
+y surprised"Wow, what a friend, this must cost a fortune."
+d "I suppose."
+d "It does help a lot in my daily activities."
+d "You saw how I didn't even have to type Aiden's number in."
+d "I just told it to call him."
+y smug"Yeah, modern technology likes to interact with us as little as possible."
+y "Is that a sign of concern perhaps?"
+d "Nah, no way."
+d "It's not like it's alive or something."
+y awkward"You're right, what am I saying, haha."
+We both giggle while looking at our phones, then the PC on the desk.
+Smiles slowly fading into deep thought.
+y "So, when do you think Tate will-"
+t "TELEPORTATION!"
+y surprised"AHGH!"
+a "Sup?"
+Dallan was not very surprised by their sudden appearance.
+However, he did start wagging his tail a second later.
+t "I HEAR THERE IS A DAMSEL IN DISTRESS AROUND HERE!"
+d "Hey guys, you made it."
+Tate throws his body at me, he's not that heavy, but with my already shaking legs, it was too much and ended up falling on my butt.
+The cat didn't seem to mind where my butt was, he was just purring and hugging.
+Aiden scoffs.
+a "Yeah, we're here, now come on."
+a "Teleport us out and let's forget about this whole deal."
+a "Seriously, why would you spend the night here, [name]?"
+a "Did you forget about their stupid rules?"
+y simple"I-"
+a "Actually, it's your fault, mister rule man."
+a"You can recite the whole rule book in your sleep, but can't remember to get him out before dawn?"
+d "I just… didn't want him to go that early."
+Dallan makes the sweetest puppy eyes and I can't help but melt right there.
+Aiden sighs and pulls Tate away from me like a foxtail seed.
+At least his claws on my fur sure felt like that.
+t "Ughh, fiiiine, I'll get us out."
+t "But, taking someone with me takes a lot of my magic, so you are all in my debt."
+y simple"If it's so hard, why did you bring Aiden with you?"
+t "He insisted."
+a "For that exact same reason."
+a "I doubt you want to be in his 'debt'."
+a "So, I'm here to propose that I make us invisible and we get out of here quietly."
+t "Hey!"
+t "You didn't tell me you were planning on betraying me like that!"
+t "[name], please don't fire me, I promise my demands won't be too high."
+
+--- CHOICES ---
+→ Teleportation or invisibility?
+→ Teleportation
+→ Tate takes my hand.
+→ The next second, a flash of light takes away my vision as I feel the ground shifting.
+→ Then, I'm outside the Shard's headquarters.
+→ Tate catches me before I fall again.
+→ Oh, I'm sorry that I don't get teleported around daily.
+→ He reappears with Aiden near him.
+→ Scaring me again.
+→ We wait for Dallan to come out, which takes a while because everyone obviously had to greet him and try to start a conversation with him.
+→ Finally, he opens the door.
+→ Having to once again quickly close it behind him, so the zombie horde doesn't come out.
+→ Invisibility
+→ Aiden snaps his fingers and both of us disappear.
+→ Tate blinks away.
+→ Dallan opens the door, and as soon as he does, everyone in the room comes to greet him.
+→ Of course…
+→ Indeed, as soon as the members hear the door they swarm around Dallan like flies to honey.
+→ My head already hurts.
+→ Suddenly, an ear splitting sound can be heard from Dallan's direction.
+→ He clapped his hands together so hard, it mimicked a thunder strike.
+→ His expression, usually resembling an awkward, polite smile, now serious.
+→ Everyone in front of us, at once, gets pushed aside, and a golden tunnel appears from his office to the exit door.
+→ We can still see the surprised members because of the see-through walls, looking at us.
+→ Well, at Dallan.
+→ Me and Aiden should still be invisible.
+→ Shocked, silent faces stood in place.
+→ I look at Aiden and he looks at me.
+→ Shrugging.
+→ We follow him out the door.
+--- END CHOICES ---
+
+y "Now that we're finally all together."
+a "All together?"
+a "Did you make a friend group out of us already?"
+d "I thought it was obvious."
+t "Yeah!"
+T "We have great synergy, we might as well be besties."
+Aiden gives Tate a skeptical look, but glances at me and Dallan and sighs.
+a "I guess."
+a "So, what were you about to say, [name]?"
+y "Remember that I said I chose a Shard long ago?"
+d "Of course."
+t "Duh."
+a "What about it?"
+y "Well, I chose the Defender's Shard."
+tanda "WHAT?"
+d "That's incredible!"
+Suddenly I'm trapped in a bear hug.
+Or.
+A wolf hug?
+A big wolf hug.
+A big, muscular, warm, soft and suffocating wolf hug.
+A wolf hug that smells like violets and peppermint.
+a "You know…"
+a "If you said that earlier you could've just walked out of there safely…"
+y simple"…"
+y pf"I didn't think of that."
+d "We were fresh out of bed."
+d "Brains still slow."
+a "I can see that much."
+ch "DALLAAAAN!"
+Out of nowhere Chelsie appears and jumps on Dallan.
+I was expecting a cute friend to friend reunion.
+But she completely topples him over, it looked kind of painful.
+But neither seemed to mind it.
+They were just laughing.
+y s"Hey Chelsie."
+ch "Hello guys, what are you all up to?"
+a "We were just sneaking [name] out of Dallan's office room."
+t "Because he wasn't a member yet."
+a "But he 'Wants' to be."
+He said 'wants' like it was a slur.
+t "Yeah, he reaaaally 'wants' to."
+Here it is again.
+ch "Omg!"
+ch "Really?"
+ch "Then what are we waiting for, I'll go sign you up right now!"
+ch "Buuut of course you can't come in."
+ch "I'll just let you know when I'm done."
+ch "If you could just tell me your last name?"
+y "It's…"
+y"[name2]"
+ch "huh."
+ch "Weird name but ok."
+y simple"It's not weird!"
+y bored"*sigh*."
+y "Why do I bother?"
+y ec"Still, thank you so much, I'm in your debt."
+t "Oh, so you're fine with being in HER debt."
+Ch "You boys can go have fun."
+ch "Bye Dallan, see you later."
+ch "And I sure hope I'll see you around too, [name]."
+d "One more thing."
+He whispers something in her ear.
+She looks at me and giggles.
+I'm assuming it's my dorm room situation.
+ch "I'll bring it for him at practice."
+d "Great, thanks."
+She opens the door and walks in.
+t "Hey, [name]!"
+t "Yesterday you kind of blew me off."
+t "But don't worry."
+t "You're forgiven."
+t "As long as you come with me on an adventure."
+A  "Not so fast kitty cat, you have detention, or did you forget?"
+T "What? No! That's not fair!"
+t "I came here to hang out with [name], not be bossed around by you!"
+a "You are already lucky enough nobody got a hold of you until now."
+a "But the luck ends here."
+a "Dallan, will you take care of him or should I?"
+d "Tate, if you want to live, I think you should come with me."
+t "…"
+t "Ok."
+t "Only if [name] comes with me."
+a "Oh come on, are you saying [name] has to stay with you in detention for you to behave?"
+a "How is that fair?"
+t "It's fair if he decides to do it on his own volition."
+t "Right, Dallan?"
+D "I suppose so, I mean, I have to be there."
+d "Maybe with someone else there it won't feel so miserable."
+t "What do you say, [name]?"
+
+--- CHOICES ---
+→ Should I go to detention with Tate and Dallan?
+→ I'd rather see other options.
+→ Why not?
+→ And if Dallan will be there, I'd be a fool not to follow.
+--- END CHOICES ---
+
+y worried"I don't want to sound rude, but detention does not sound very appealing, to be honest."
+A "Smart choice."
+d "Yeah, you're right."
+d "Can't blame you."
+d "Guess it's just you and me today, Tate."
+t "Traitor…"
+a "Great, considering they're going away."
+a "I suppose I can't just let you wander off alone in an unfamiliar campus."
+a "Might as well tag along."
+a "We'll have some fun if-"
+WEE-WOO-WEE-WOO-WEE-WOO
+A loud alarm blares behind me, I basically jump into Dallan's arms.
+He was equally scared, his fur was standing on end just like mine.
+Ch "Don't worry, [name]!"
+ch "I'll take care of you while these three are in detention."
+A "No no, I'm actually not-"
+ch "I said…"
+ch "While these THREE!"
+ch "GO TO DETENTION!"
+a "Alright, chill out, I'm going too."
+a "Fuck me..."
+Dallan puts me down while we both blush a little and let out an awkward chuckle at the fact that we're so easily scared.
+d "See you later then."
+y smileworry"For sure."
+The three boys go on their way, chased by the raccoon.
+ch "Alright, [name], can't let you wander off all on your own."
+ch "As Aiden mentioned."
+ch "After all, it's your first year here!"
+ch "As the newest official member of the Defender's Shard, it's my duty to make sure you have all you need."
+y s"Awesome."
+y "So you'll be my guide for today?"
+ch "No."
+ch "More like a babysitter."
+y simple"Oh."
+ch "You know, like for babies."
+y pf"Yeah… I got it."
+ch "Because you're so young, inexperienced, cute, and dumb."
+y pf"Ok! Thank-"
+y surprised"Wait what was that at the end."
+ch "Dumb."
+y simple"N-no, the one bef-"
+ch "Oh boy."
+ch "Would you look at the time!"
+ch "It's breakfast time, aren't you hungry, [name]?"
+y s"Yeah, I am, actually."
+ch "We're going to have practice today, so you need a big breakfast!"
+y "I've heard of this 'practice' before, but what does it consist of?"
+ch "Oh, you're just going to fight some dummies."
+ch "No big deal."
+y "Sounds easy enough."
+ch "I designed them."
+Oh no…
+ch "I'm sure more information will be thrown at you from a more meaningful character."
+y surprised"What?"
+ch "What?"
+y simple"Sooooo, are we going to the cafeteria?"
+ch "Pfff!"
+ch "That boring, old place?"
+ch "Naaah."
+ch "Come on."
+ch "We're going to Dragon's Tavern."
+y pf"Sounds very… fantasy-esque."
+ch "You could say that."
+ch "After all, what you do there is drink, sing, and make friends."
+y simple"Not eat?"
+ch "That too."
+ch "Just shut up and keep walking."
+The tavern is not very far, we barely walked out of the academy, rounded the corner and got there.
+It is a small, wooden building that slumps underground into a way bigger room.
+Chelsie kicks open the door, turning only a few heads, like it's something normal that happens often.
+ch "Chelsie is back, bitches!"
+st "Heey heeey! Welcome back!"
+st2 "Got here early today."
+st3 "Who's the little chump?"
+st2 "Look how small his waist is!"
+y bored"Tell that to my sister…"
+st3 "Awww, he looks like a virgin."
+y simple"Ouch?"
+ch "Keep your emotional damage to your D&D campaign, Magnus!"
+Inside, I recognize some of the students from the gathering.
+Even those two coyotes are here…
+I should probably avoid them
+A lot of people look a little too old to be students, though.
+y simple"Hey, Chelsie?"
+y "Are the older people all teachers?"
+ch "No, why you ask?"
+y "They look a little old to be students."
+y "What's up with that?"
+ch "You know not everyone on this campus is a student, right?"
+ch "It's a whole town!"
+ch "A community."
+ch "I like hanging out in this tavern a lot, as well as in the Slayer's Shard sometimes."
+ch "It's a nice change of pace to the fancy defenders."
+ch "Nothing against them, of course, they're nice people, but sometimes I just want to go a little wild."
+ch "Don't tell them that, only Dallan knows about my safe space."
+ch "Now you're the second."
+y s"Congrats me?"
+ch "But I had to bring you here."
+ch "They have the BEST breakfast menus around, booze is not all they're known for."
+We sit down at the table closest to the bar, where a white cat with curly fur and a relaxed smile is cleaning some glasses.
+ch "OOOOOHHHH!"
+ch "Sebastiaaan!"
+seb "Loud as ever, Chelsie."
+ch "[name], this guy's the best!"
+ch "Seb, Seb!"
+ch "This is our newest member, [name]."
+seb "Huh, really?"
+seb "Defender Shard's members don't usually come here, so it's surprising to see another wild spirit like Chelsie."
+Y awkward"Wouldn't call myself wild, just curious."
+y smileworry"So what Shard are you from?"
+seb "Oh, I'm not enrolled in this academy."
+seb "I just live here with my family."
+y simple"Oh, right, I have to get used to it."
+seb "So, what can I get for you two?"
+ch "The Special Breakfast!"
+seb "You always say that, and the chef never knows what to make exactly."
+ch "And every time he cooks something amazing."
+ch "So obviously he knows what I mean."
+ch "We'll get two of those."
+seb "*Sigh*"
+seb "Fine."
+seb "Drinks?"
+ch "Oh, you know what I'll have."
+seb "Really?"
+seb "This early?"
+ch "Hey, everyone else is doing it."
+seb "Uhm, no they're not, Chelsie, look around you."
+The cheerful people around were all drinking either tea, coffee or juice.
+ch "Ugh, fine, [name], what'd you want?"
+
+--- CHOICES ---
+→ What should I get?
+→ Water
+→ Coffee
+→ Tea
+→ Smoothie
+→ Juice
+→ A French Kiss cocktail
+--- END CHOICES ---
+
+ch "OOOOHH snap!"
+ch "Sebastian, you got a crusher on your tail."
+ch "You better give him what he wants, this guy's a BEAST!"
+y surprised"W-wait… no"
+y "I was referring to the cockta-"
+ch "COCK?!"
+ch "So early in the morning?!"
+seb "I'm flattered, but I can't do that sort of thing on my shift."
+ch "Well what time do you get off, sexy?"
+ch "This guy really wants you."
+ch "I'm just kidding, I'm here almost everyday, I know your schedule."
+ch "So, [name], try not to mess this up and you might get more than a french kiss tonight."
+seb "Can't wait."
+y blush2"Tail! TAIL!"
+ch "[name], come on, you can't just scream for tail and expect it handed to you on a platter!"
+st "Well..."
+ch "Fuck off Magnus, he's not interested."
+st "Undertandable."
+I'm as red as a beet now, looking down in shame.
+But Scribbles' side effect makes me feel very excited.
+I just wanted Chelsie to not be the only one drinking alcohol around here.
+seb "Aww, Chelsie, I think we should knock it off."
+seb"He's so red his head might fry up."
+ch "Aww, but what if he orders a Sex on the Beach next?"
+ch "Hmm."
+ch "Nah, you're right Seb, but isn't he so cute when he's flustered?"
+y blush"Haha… I-I knew you were joking, I was just playing into it…"
+y "Yeah… that's what happened."
+seb "Sure thing, little man."
+seb "I'll bring you two some juice."
+He walks away swinging his tail and hips while whistling.
+The worst part is that he really is very good looking.
+These people are the devil…
+And he looked so innocent at first.
+un tease"My kind!"
+He brings out two plates.
+We eat what looked like an egg and bacon sandwich on a foot long sesame bun.
+At a closer inspection I realized it is way more than that.
+The eggs had pesto and chili oil on top.
+A layer of guac was splattered on the bottom bun, and garlic mayo on the top.
+From what I could tell, it was a beautiful mess, and it tasted amazing.
+ch "The chef never disappoints."
+ch "I'm going to need your help today, or tomorrow, I haven't decided yet."
+She says that with her mouth half full.
+y awkward"Do I have a say in this?"
+ch "Nope."
+ch "It all depends on me."
+ch "If I don't forget."
+ch "Hmmm."
+ch "I'm bored."
+ch "Hey!"
+ch "Hey Seby!"
+ch "Come're."
+seb "Yes?"
+ch "Get on the table."
+seb "Excuse me?"
+ch "You too, newbie."
+y simple"What?"
+ch "I wanna see that deep, wet french kiss from a good angle."
+ch "Come on, get in there."
+ch "I got ones to throw if you want."
+ch "Wait no, these are coins."
+ch "They'll hurt but you can still collect them."
+ch "Money is money."
+y worried"Chelsie, are you drunk?"
+ch "Just tipsy."
+seb "Wait, how?"
+seb "I didn't give you alcohol!"
+ch "You're too slow minded sucka'"
+She shows us a small metal canister, before taking a gulp from it.
+Sebastian reaches and takes it away.
+seb "Unbelievable."
+ch "Killjoy."
+ch "This is the only bad thing I have to say about this place."
+ch "It only starts serving booze after 5PM."
+ch "Like… only after classes are over for most students and teachers."
+ch "Trying to keep us from having fun, damn devils."
+ch "Or more like ME out."
+seb "We are not trying to keep anyone out."
+seb "If it were that way, we would've just made a rule that students and teachers are not allowed until after classes are over."
+seb "It's just that nobody really drinks in the middle of the day, so the owner thought it's redundant to serve an entire menu for like two people."
+ch "I can order for five at least!"
+seb "That's concerning, not impressive."
+seb "People get off work around five usually, so that's when this place gets more lively."
+seb "Also later in the evening."
+seb "Don't you have practice soon or something like that?"
+seb "Going to do that drunk?"
+ch "I am barely tipsy dude, plus, I don't even participate, I just watch the first years."
+seb "Right..."
+Sebastian rolls his eyes and walks away.
+ch "I'm expecting that canteen back in the mail!"
+y simple"Hey, so about this practice, is there a time limit or-"
+She places her finger on my lips.
+ch "shhh."
+ch "No more school questions."
+ch "Ask me something personal or shut up."
+y "Oh.. ok then."
+y "Uhm."
+
+--- CHOICES ---
+→ A personal question for Chelsie.
+→ Shard's members' opinion on you?
+→ Not today buddy, not today…
+→ This subject seems a little sensitive, let's change it.
+→ Drinking problem?
+→ Her face looks a little sour and sincere.
+→ She gives a curt nod.
+→ Past relationships?
+→ She chuckles.
+→ Beautiful smile?
+--- END CHOICES ---
+
+y smug"I'm not going to confirm that."
+y "But is it wrong?"
+y "To try?"
+ch "Hmm."
+She eyes me carefully.
+ch "Nah, not wrong."
+ch "Not wrong at all."
+ch "I take any compliments I can get."
+ch "But maybe not the best of times?"
+I look around at the bar atmosphere.
+Slow music is playing, people are quiet but not in an awkward silence.
+The light is dim and moody.
+It feels like the perfect moment to me…
+un squint"Maybe she just doesn't want to be hit on while drunk?"
+un "Or she's letting you down lightly."
+un "Take the L and go…"
+You might be right.
+Or.
+She might just feel it's too early, and I should try again later.
+un bored"Dumbass."
+I don't have any more questions.
+I decide to check my phone.
+ch "How much time we got?"
+y "Less than an hour."
+y "Time flies."
+ch "Yeah, it does that sometimes."
+ch "So, are you going to take advantage of me while I'm a little drunk or head to practice?"
+y "I would never do that."
+ch "Ha…"
+ch "You're a great guy."
+ch "Whoever ends up with you will be a happy one."
+un "The bar is so low these days."
+y "Are you coming too?"
+ch "I'll be there, but I want to hang around here a little more."
+ch "I'll catch up."
+y "Alright."
+y "See ya later."
+I take out some cash from my wallet, enough to cover both our bills.
+And I think I'll tip that Sebastian guy forty percent…
+For no reason in particular.
+His ass and tail swinging harder while walking around our table had nothing to do with it, for sure.
+I gather up my things and walk out.
+On my way there I'm lucky enough to find the guys walking to the arena as well.
+t "[name]! [name]!"
+t "Guess what happened in detention!"
+t "It was fucking awesome!"
+d "I'd say it was more scary than awesome."
+a "It puts the whole integrity of the academy in peril."
+y surprised"Just tell me!"
+t "A Nightfallen appeared!"
+y "What?"
+y simple"Inside the barrier?"
+a "Well, it was a summon, actually."
+t "And Dallan killed it and saved some cubs from being eaten!"
+d "The cubs were also summons."
+a "Basically someone played a cruel joke on us."
+a "And this idiot thinks it's 'awesome'."
+t "It was still fun."
+d "And good news!"
+d "I convinced these two to leave me out of detention watching."
+d "So we can spend the afternoon together."
+d "If you want to, of course!"
+y "Of course I want to."
+y "How'd you do it?"
+d "I... don't wanna talk about it."
+y smileworry"Detention does actually sound fun now…"
+y "Maybe I should've been there…"
+t "Next time come to an adventure with me, and I can score you a detention

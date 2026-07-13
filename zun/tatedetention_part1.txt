@@ -1,0 +1,275 @@
+y "So what now, are you two going to watch us in detention?"
+t "Hey, that's not too bad, we can turn this into a hangout session."
+t "We'll have so much fun!"
+d "Uhmm, about that-"
+h "Thank you, gentlemen, I'll take it from here, you can go back to your posts."
+The deep voice of the Headmaster surprises us from behind, Dallan and Aiden managed to stall enough time for him to get here...
+The cat? Stuck in place with fear, clinging now to my shirt.
+d "What about Chelsie?"
+d "I thought we'll let her make announcements for a while."
+h "I thought so too, then she came into the cabin with dozens of her little invention-toys-trinkets to promote."
+h "I'd rather not have the whole event turned into a big advertisement for that girl."
+h "And as I said before to Merina, I won't have someone so important watch two troublemakers, that would be a waste of time."
+d "I-important? Us? T-thank you sir."
+d "We're trying our best."
+Aiden does not partake in this conversation, his eyes are fixed on anything and anyone but the Headmaster.
+t "I-it's not fair..."
+h "Hmm? What was that?"
+h "That wasn't a complaint I just heard, was it?"
+h "Because we shook hands on this, isn't that right, mister [name2]?"
+Tate's claws sink a bit deeper into my shirt and skin, gaining some courage.
+t "I mean it, it's not fair."
+d "We... will leave you alone."
+d "Come on Aiden."
+a "Right..."
+a "Bye, [name]... Tate."
+They disappear among the crowd with our eyes trailing them out of view.
+h "Not fair you say?"
+h "If any of the people signed failed their auditions, their signatures become invalid, and you both get detention, was that not our agreement?"
+t "Coal is the only one that didn't participate, he didn't fail."
+y simple"Yeah, he has... technical problems."
+h "How is that my problem?"
+h "And how am I to know he's even capable if I can't see him in action?"
+y "He's going to audition privately later, isn't he?"
+t "Yes, when his device finishes to reset."
+t "So then you'll see he's actually really awesome, and his signature is very valuable."
+h "..."
+He leans in, talking slower and lower.
+h "When I see his potential with my own eyes, then you'll be out of punishment, understood?"
+t "..."
+t "Clearly."
+y simple"So then... that means we're free to go, after he auditions in front of the leader, later today?"
+h "..."
+h "Hah."
+h "Ordered around by two first years, my, how lucky you are to be so captivating."
+h "Yes, let's compromise that way, but just like last time, if he ends up failing the auditions altogether and moves Shards..."
+He grabs my hand, pulling me closer, leaning in and whispering in my ear.
+h "Your punishment, alone, will be great, and I will not hear you complain while it prevails."
+y awkward"D-deal."
+h "Splendid, now if you two will be so kind as to follow me."
+t "Psst, what did he whisper about?"
+y awkward"Uhm, he just said he doesn't think Coal will remain in this Shard?"
+t "Pfft, sucker, we'll leave him flabbergasted when he finds out."
+I'm not sure if I mentioned this before, but the Headmaster is massive.
+In any case, that's all I can think about as the base of his tail swings just below my chest, and the tip almost touching my ankles.
+At least I don't have to strain my neck staring at his juicy as- NO!
+Stop it [name], that's the wrong person, wrong time and wrong place to be horny.
+I'm surprised Scribbles doesn't have any comments about my random lewd thoughts.
+We follow him through the streets, arriving soon in front of the academy and walking inside.
+The empty corridors have a chilly air to them, as well as an echo that carries mister Argus's heavy shoe steps.
+He guides us to a random classroom, at the end of the hallway on the first floor.
+Not sure why here exactly, but I don't want to give him dumb questions at this moment...
+He unlocks the door and holds it open for me and Tate.
+We walk in, inspecting our surroundings.
+Yep just a regular, boring room.
+He closes the door behind him and locks it.
+h "I hope I don't have to mention this, but I'll do it just in case."
+h "Don't even think about teleporting out, is that clear?"
+t "Very."
+h "Good."
+He takes a sit at the front desk, stacks of papers and a cup of coffee are already waiting for him there.
+He must've been pretty confident he'll spend his time here if he already had someone do this for him...
+y simple"{size=20}Sooo...{/size}"
+I whisper.
+y "{size=20}What do you do in detention around here?{/size}"
+y "{size=20}I've never been in one, well, I was in one, but that was public school so it's different.{/size}"
+t "{size=20}Just sit at a table and sleep, or watch the birds outside.{/size}"
+t "{size=20}Dallan would usually let me fly around the room at least, but I doubt this-{/size}"
+h "No talking in detention."
+t "{size=20}Case in point.{/size}"
+We sit next to each other at a table in the back, keeping our mouths shut.
+Tate rests his head on my shoulder and starts to purr, then lightly snore seconds after.
+Is it fair to be that cute?
+Speaking of fairness, is it fair for a man to be so much more physically and authoritatively stronger than you?
+If he decided to place his hands around someone's neck and squeeze, not only would he easily take a life, he'd get away with it too.
+Damn, that was a dark thought, Scribbles, why aren't you commenting!?
+...
+Yep this is boring, who would have thunk?
+The only entertainment I have is watching Tate's whiskers twitch as I lightly blow in his face.
+I'd lie if I said the Headmaster's scarce and quick glances didn't bother me.
+He sometimes pretends to write on papers, while keeping his pen slightly above the paper.
+You can't fool me old man, that's the exact trick I used in middle school to appear busy and not be called on.
+Minutes pass by, the sound of the clock ticking and the occasional chirp of birds are the only things distracting me from the seemingly busy lion in front of the class, or the sleeping cat on my shoulder.
+...
+Did I mention I'm bored?
+Would it be a bad idea to start a conversation with Argus?
+{i}'First name basis already? Wow, why don't you go suck his dick right now at this rate?'{/i}
+Is what Scribbles might've said... if he were here.
+But since there's nobody to stop me from doing it, I'll ask a question, what's the worst that can happen?
+
+--- CHOICES ---
+→ What should I talk about?
+→ Lunch when?
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ I keep my voice low, to not wake up the sleeping devil on my shoulder.
+→ Phew, I was scared he might've actually heard me.
+→ Jokes on him, I'll just insult him in my mind.
+→ Ermm, stupid... bad, bad Headmaster...{i}*sigh*{/i}, why are insults so hard to come up with when you're actually trying?
+→ He resumes his work, this time, with a frown on, and without glancing at me as much as before.
+→ I'm not done with you yet.
+→ I raise my hand again.
+→ He reaches into his desk with an exasperated exhale, gets up and walks towards me.
+→ He slams a hefty wrapped tuna sandwich in front of me, then returns to his table, angrily mumbling.
+→ I thought about waking Tate up to split this with him, but he'd be disgusted by the idea of fish in a sandwich, so I better not...
+→ I'm going to have to enjoy it alone.
+→ I slowly unwrap it, watching as the sleeping cat twitches his nose.
+→ ...
+→ Wait, no.
+→ He has a very sensitive nose, he can smell fish from a mile away.
+→ If I eat this, there is no way he'd ever want to... get close to me, or my mouth, to say the least.
+→ What do I do?
+→ I already unwrapped it and contaminated it, the Headmaster won't want it back.
+→ Get rid of the evidence...get rid of the evidence....like a ninja...a serial-
+→ Aha!
+→ There's my chance, there's an open window and the Headmaster isn't looking.
+→ With a swift wrist movement, I throw the sandwitch towards the gap.
+→ Unfortunately, the people cleaning these window are so good at their job, that I didn't realize there is a second glass wall behind the first window, that was not open...
+→ As the bread hits the glass, the ingredients separate, falling on the floor one by one with small thuds.
+→ The whole time, the Headmaster's been watching with the most {i}'what the fuck is wrong with you'{/i} expression on his face, moving his hands as if asking the same question.
+→ The sandwich he donated now on the floor in pieces.
+→ I keep eye contact with him while his expression of complete confusion is stuck in time, as I get up without disturbing Tate, and collect the scattered pieces of sandwich and open the window this time to throw everything out.
+→ I now have the wrapper in hand that I just couldn't bring myself to throw, since this will be a more severe case of littering than a tuna sandwich.
+→ I think there was a trashcan in the hall, let me just ask if...
+→ He throws his pen down and pushes his chair back.
+→ I'll just... shove this wrapper in the desk, as a surprise for the next student.
+→ His {i}'work'{/i}.
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ I keep my voice low, to not wake up the sleeping devil on my shoulder.
+→ His eyes widen for a moment, before returning to normal.
+→ He looks shocked and left speechless.
+→ Even more shocked!
+→ The weather.
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ I keep my voice low, to not wake up the sleeping devil on my shoulder.
+→ Better you say...?
+→ I'm bored.
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ I keep my voice low, to not wake up the sleeping devil on my shoulder.
+→ He raises his head, giving me a puzzled glare.
+→ He gets up from his desk exasperated, and approaches me with a pen and paper.
+→ I look at him with squinted eyes as I take the cap off the pen.
+→ I'm not a very artistic person, so I spend the next couple of minutes completely covering the paper in black ink, not a single spot of white paper remaining in my path.
+→ The problem is that the sound of a ballpoint pen on a singular piece of paper is a bit louder than a particular lion could take.
+→ He rushes over, taking back my half filled piece of paper and pen and shoving them in his pocket.
+→ If you wanted my art so bad you could've asked nicely...
+→ Can we just fucking leave already? Please?
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ I keep my voice low, to not wake up the sleeping devil on my shoulder.
+→ We lock eyes for what feels like an eternity, just what does he know?
+→ Flirt???
+→ Why the hell not?
+→ I'm bored, I'm horny, did I mention I'm bored?
+→ This man might be evil in Tate's eyes, and less than ideal in mine, but one thing nobody can deny... he's hot as hell.
+→ Big, strong, imposing, the opposite of the beloved cat beside me.
+→ It's most fun dancing with the devil, when an angel is sleeping on your shoulder.
+→ Even if this might not take me anywhere, it will still be fun.
+→ I try my best to mimic the infamous {i}'fuck me'{/i} eyes I'm so fond of, waiting for the moment the Headmaster tries to steal a glance.
+→ Soon, he takes notice.
+→ I raise my hand, and the Headmaster – an eyebrow.
+→ Starting off vanilla, since I've decided I want this to be a somewhat serious attempt.
+→ Although he seems to understand the question, he is not as surprised by it as I though he'd be.
+→ He lays the pen down gently, and places his hands on the table, fingers intertwined, with a sly, curious expression on his face.
+→ We look at the cat's gentle breathing and relaxed face, a thin strip of drool on the side of his mouth.
+→ In truth, Tate might as well be completely awake and listening, but the thrill is now too enticing to back down on.
+→ What started as a horny joke, now sends exciting shivers through my body, and those predatory, piercing eyes directed at me do not help the situation.
+→ I open my mouth, slowly licking my lips and fangs before sticking my tongue out, keeping eye contact.
+→ He chuckles, the gets up from his chair, making his way over to me, tail swinging like a wild predator's ready to pounce.
+→ He's pulling his cock out!
+→ Wait, no he's not, that's what I wish I could say.
+→ He comes closer, leaning over me.
+→ Then begins to inspect my mouth, gently at first, with the occasional rougher touches, forcing my jaw to open even more.
+→ Seeing how I don't protest, he goes a bit further, or a lot further, some might say.
+→ Two of his big, meaty fingers reach inside, as far as they can fit, sliding down my throat.
+→ Just two fingers are enough to almost stop my breathing, that's not a good sign for whatever he hides in his pants.
+→ The weight and volume leave my mouth, as a trail of thick saliva remains a memento of our sin.
+→ After all this, of course, to nobody's surprise...
+→ He cups my chin, making sure my mouth is now closed, and plants a quick, but deep kiss on my lips.
+→ I can't be too descriptive, since it happened so fast, all I can say is that it felt satisfying.
+→ For both of us.
+→ We glance one last time at the sleeping cat, no reaction, no sound.
+→ Maybe he really is a super heavy sleeper... after all, he didn't get much sleep last night, because of all that egg business.
+→ Was this a weird experience?
+→ Yep.
+→ Was it surprising?
+→ Not really.
+→ How do I feel about getting deepthroated with a fake blowjob?
+→ Ehh, could've been better.
+--- END CHOICES ---
+
+h "Now, if you'll excuse me, I need to go do some... preparation for your upcoming {i}'special'{/i} punishment."
+He tries to contain his grinning.
+y simple"Ah, that was going to be my next question, what's with this special punishment you mentioned befo-"
+He left...and slammed the door behind, no less, either because he's sick of my rambling, or he's just that excited to prepare this 'punishment'.
+Maybe both.
+All is left is for me to wait... patiently...
+Unfortunately, after his departure, the room became at least twenty percent less interesting.
+I close my eyes to perhaps follow Tate's lead into dreamworld.
+And it works.
+I don't dream of anything, but I do lose consciousness for a while, being awaken, by heavy footsteps at the door.
+Mister Argus is here, and he brought a bag, a heavy bag, and what does a big, heavy bag pair well with? You guessed it, the most sour expression you've ever see.
+y simple"Is everything alright?"
+His usual smile is painted back on on his handsome face, to mask his emotions.
+h "Yes... yes, splendid news in fact."
+h "I was just informed that your new colleague, Coal, has passed his auditions..."
+y surprised"His device came back online?!"
+y ec"That really is splendid news!"
+Now to take care of sleeping beauty over here.
+t "{size=30}{i}Tate, hey, Tate, wake up, you're free.{/i}{/size}" with longdissolve
+Is he... talking in his sleep?
+The next moment his eyes shoot open and he sits back straight on the chair.
+y s"That was a neat trick to wake up."
+t "Huh, where am I, who are you people!?"
+t "Ah, never mind, I remember..."
+t "{i}*Yaaaawn*{/i}."
+t "Is our detention done yet?"
+y ec"Yep, because Coal proved his talents."
+t "Already? That's great!"
+He gets up immediately, picks up his broom and drags me out the door, without a goodbye or even a glance at the Headmaster.
+We take a couple of feet through the corridor, then he stops... takes a some more steps backwards, until his body pokes inside the classroom, and looks Argus in the eyes.
+t "{i}Told you so, lion bitch.{/i}"
+Hell yeah! You tell him!
+Then the rest is history...
+Well, not really.
+We just hurry back to his tent, flying on his broom again.
+Nothing out of the ordinary happens for a while, not too many words of wisdom exchanged between us either, just a smooth, speedy ride.
+After all, that creature is his child slash friend slash... whatever other significant person title there is, and he must be worried.
+He lands the broom a bit farther away from the entrance.
+t "Let's check the traps!"
+y bored"He says, while running past an unchecked trap."
+t "Oops, I'll get the next one!"
+The cat is too excited to focus.
+y sadsmile"I guess I'll check all of them..."
+A task that... I'm not sure how to deal with, since every trap after the first two, were... not failed, or destroyed, but disassembled...judging from a closer inspection.
+At this point, Tate is already inside the clearing, while I walk slowly towards the vine covered entrance.
+Another trap, and another.
+The spiked bushes that surround the area are keepers of fur, not ours, somebody that is not too accustomed to the area passed by...
+And... the magic alarm right outside the entrance?
+Gone.
+I hesitate before walking in, the other side seems quiet, no screams, or cries, no excited baby voices can be heard.
+I inhale a deep breath and push the plants aside.
+I scan the clearing, noticing him standing on his knees.
+From behind, his torso moves up and down in spasms, his ears down to the ground.
+He's crying, or at the very least, trying his hardest not to.
+Coming closer I notice he's... kneeling in front of a pool of blood.
+The dirt and grass stained with the consequences of whatever went down here.
+I approach him, worried.
+What do I even say?
+My presence behind him calms him down, but does not make him any less sad.
+y worried"hey..."
+His ears twitch, but he remains silent.
+His eyes, usually full of life, a sparkle always lit, are now dull, uninspired, depressed.
+Magic particles flowing around him, created by his strong emotions.
+y "Is that..."
+He shakes his head gently.
+t "It's one of theirs." with dissolve
+t "He got bit."with dissolve
+t "Not the smartest idea to wake up a... a dragon."with dissolve
+y "They?"
+He gestures towards a small piece of leather, laying on the grass at a throw's distance from Tate.
+I pick it up to see a crude written message on it.
+{i}'Baby our, baby safe, blod our, no wory, no coming bak, no folow.'{/i}
+y "A kidnapping?"
+y "But, who, and why?"
+t "Wild Furs, most likely."with dissolve
+t "Not the smartests individuals if they decided to mess with me." with dissolve
+y sadsmile"That is a lot of blood...he bit me once too, but I suppose I got off easy, heh?"

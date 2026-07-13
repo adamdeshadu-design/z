@@ -1,0 +1,350 @@
+.
+t "Hunting partner."
+a "oh."
+a "So what if I am?"
+a "I'm just trying to occupy his time with actual important stuff."
+t "Your dick ain't that important."
+d "oof."
+t "For your information, me and [name] have VERY important things to do tomorrow morning."
+a "Such as?"
+t "None of your business."
+t "Now, peasant."
+t "And Dallan."
+d "Hi."
+t "Clean this table up."
+t "I'm taking this spotted specimen with me, and we'll do unspeakable things to each other somewhere else."
+W-what is he talking about?
+Tate picks me up by one arm and drags me along.
+Aiden is, once again, stunned by his words, while Dallan just a tad oblivious.
+d "Alright, don't get into {b}too{/b} much trouble."
+a "HOLD ON NOW!"
+a "I AIN'T CLEANING YOUR FUCKING MESS!"
+a "COME BACK HERE!"
+a "AND WHAT DO YOU MEAN BY {i}'THINGS'{/i}?!"
+a "HEY!"
+We are now too far away for Aiden to start chasing.
+I look back over my shoulder apologetically as I continue to be dragged along.
+I manage to catch Aiden's face softening as our eyes meet.
+Then he and Dallan pick up our trays and head for the kitchen.
+t "Don't be sorry for him."
+t "We had to assert dominance."
+y simple"Still, wasn't it a little mean?"
+y "The way we left like that?"
+t "I had to get you out before they asked about your powers."
+t "The conversation seemed to be going in that direction."
+t "You trust me, don't you?"
+y "Yeah."
+With every ounce of my being, although that might be foolish to do.
+t "Hey, [name]."
+t "Do you think Merina's done with her weird date thing?"
+y simple"It's not a {i}'weird date thing'{/i}, it's just dinner."
+y "I'd say it's possible, we finished so why wouldn't they?"
+t "Are they at that restaurant by the coast?"
+y "I believe so."
+t "Bleh, the fish place."
+t "Since today is Tuesday, Merina must have dinner with Oliver at that disgusting fish restaurant by the coast."
+t "So I'll sacrifice my dignity and step foot in that place for our sake."
+y simple"It seems a bit rude to interrupt them like that."
+t "They must be about done anyway, how long can someone possibly have dinner for?"
+t "Stay here, I'm going to ask them about our rooms and get our keys."
+t "Be back in a minute."
+y confused"If you're going to teleport, can't you just take me with you?"
+t "I already used my teleportation a lot today, if I take you with me, I'd be drained."
+y simple"Understandable, then I'll wait for you."
+y "Hopefully I won't end up sleeping on this bench."
+He gives me a final salute before the blue light makes him vanish.
+Still can not believe I forgot to ask about my room...
+Good thing Tate is almost as airheaded as me.
+I now realize how much distance we've covered by running from the cafeteria, enough to the middle of this secluded park.
+It doesn't seem like a random location either, there is a single, illuminated bench by the sidewalk, surrounded by the occasional wild daisy through the grassy floor and flower filled bushes.
+y s"This is quite nice, actually."
+y smug"I wouldn't even mind sleeping here tonight."
+un pride"Well, I'm not sleeping in anything other than a soft bed."
+un "It's the least you can do for me."
+y confused"{i}'The least I can do for you'{/i}?"
+y "Am I in your debt or something and didn't know?"
+un surprised"Wha-"
+un cry"But how could you ever deny me a basic need such as soft sheets?"
+un "I've been imprisoned for centuries!"
+un "Do you have no heart?"
+y bored"You are so dramatic."
+y "Besides, I was joking, I don't want to sleep with bugs swarming around."
+un relaxed"Phew~"
+I take a seat on the bench and wait.
+The night sky is brighter than expected, with no clouds in sight, it makes it easy for the stars and the moons to demonstrate their full potential.
+un simple"Are you afraid of the dark?"
+y pf"That would be such a creepy thing to say if you didn't have that squeaky little baby voice."
+un ang"I told you already... IT'S JUST HOW YOUR MIND IMAGINES IT!"
+un "IT'S NOT MY FAULT!"
+un bored"Damn, I can't have a normal conversation with you, can I?"
+y smug"Did we ever?"
+un "I'll be in the back of your mind for a while."
+un "Good luck being alone with your thoughts."
+un "Your...stupid, meaningless thoughts."
+Scribbles is right, my mind can create some scary things on its own, and some stupid ones too.
+Thankfully, I won't have to overthink too much, as a bright light appears in front of me again.
+t "I'm back!"
+t "The cat says, bowing profoundly to the spotted feline in front of him, whom has been awaiting his return with a held breath."
+y "Thou art a most wondrous poet and gleek'r, I knoweth yond, but what news doth thee bringeth from lady Merina?"
+y"Wouldst thou beest so kind as to shareth thy inf'rmation with me, oh lief Tate."
+t "Huh."
+t "And here I thought those guys from earlier were nerds."
+t "I also hate the fact that I understood you..."
+y simple"Was Merina busy?"
+y "I really hope we didn't mess up their night."
+t "She was a little tipsy, flirting with the waiter, but I doubt I {i}ruined{/i} anything."
+t "Here's the tea."
+t "First off, we were placed in the same building!"
+y ec"That's awesome!"
+t "Unfortunately, we are on different floors and wings, we'll still be pretty far away from each other."
+t "Now, I know what you're thinking."
+t "But Merina specified we won't get to change our rooms if either of our neighbors mysteriously disappear."
+y simple"I wasn't thinking that."
+t "Shh, it's ok, I'm not judging you."
+t "I was thinking about it as well."
+t "Here's your lunch and dinner card."
+t "With this, we won't have to pay for meals, except breakfast, for some reason."
+y "Shoot, we didn't pay for dinner tonight... did we?"
+t "Don't worry about it, Aiden acts like a bitch sometimes, but he often pays for my meals."
+t "And Dallan does it without hesitation."
+y "Is it ok to take advantage of them like that?"
+t "Hey, they're rich!"
+t "Do you even know how much these leaders and vice leaders are being paid?"
+y "Uhm, I assume a lot?"
+t "A LOT!"
+t "So no, I decided not to feel bad about it."
+un simple"I agree with him."
+un bored"Eat the rich, or make them buy you something to eat."
+t "Aaand here is your key card, room 72."
+t "Mine is 123."
+y s"Sweet, shall we go check them out?"
+t "Of course, but aren't you missing anything?"
+y confused"Missing?"
+t "Perhaps something personal and important people usually bring on trips?"
+y simple"I don't think-"
+y surprised"Wait."
+y "Damn it!"
+y worried"My luggage is still inside the academy."
+y "I gotta go get it."
+t "Don't bother, the meeting room where you left it is closed."
+t "But worry not, oh thou fair maiden!"
+t "I shall bringeth it to thee!"
+t "Ey? How'd I do? Did I sound all old and fancy?"
+y smug"It was pretty good, although you'd want to replace 'shall' with 'shalt' for the best effect."
+t "Sorry, I can't actually pretend to care anymore."
+t "I'll just teleport into the meeting room and get your bags sometime later."
+t "Now let's get a move on."
+t "Hop back on!"
+y ec"{i}'Hop'{/i} is slowly becoming my favorite word, I will not say no to another broom ride."
+We soar up just enough to pass the rooftops of some nearby houses from the residential area, once past, the dorm buildings were easy to spot.
+All of them were relatively close to one another, divided by either very tall trees or the occasional narrow street.
+t "Let's see, bricks...number three...vines...number- ah, there it is."
+We land in front of a six story building, made of diamond patterned bricks, with a reddish hue.
+A wall of greenery partially covering two of its sides, with various plants and vines also trying to make their way up the front wall.
+That's all I managed to observe, alongside the big number three on the front door, before Tate flings it open and drags me inside.
+The interior is very well furnished considering it's a common room, where anyone comes and goes as they please.
+There were bookshelves filled with- you guessed it, magical items.
+Oh, and some books too, here and there.
+Tall pillars hold the spiral staircase I'm being rushed to climb, and numerous paintings decorate the walls besides the crystal powered lamps.
+As we get to the third floor, Tate finally slows down, but he still buzzes with excitement.
+We stop in front of a door.
+72.
+t "Here we are, this one is yours."
+t "Lets see how lucky you got."
+y simple"Aren't all dorm rooms the same?"
+I fish out the card Tate gave me, and try to figure out how to use it.
+t "Not even close, you should see Dallan's dorm, or Aiden's!"
+t "Those guys have a mansion inside a building."
+t "Merina's is legit just a penthouse."
+t "Kind of comes with the position."
+y smug"Then as unimportant first years with no achievements, we should be thankful we at least don't have roommates, huh?"
+t "I wouldn't mind having a particular someone as a roommate."
+My mind is a little too focused on how the hell this keycard works to respond to Tate's bold statement.
+t "It's new, you gotta peel off the protective seal."
+Yep, he's right, a thin layer of plastic comes off after a short inspection.
+y bored"A regular key would've been less trouble."
+t "I'm pretty sure magic easily beats a regular key mechanism."
+y "You might be right."
+y "Wouldn't want unexpected guests in the middle of the night."
+I push open the door and try to find a light switch, just to find there is no lightbulb.
+y pf"wow..."
+Tate ducks under my arm to get a good look inside.
+t "Not baaad, oh, and look, there's a door there, maybe there are more rooms, you're a {i}'special little guy'{/i} after all!"
+He invites himself in, spinning around while walking towards the other door, trying to see everything he can.
+The room resembled my old bedroom, except that it was slightly bigger, with a nicer window but smaller bed.
+I follow the curious cat as he opens the second door.
+Annoyance can be seen on his face, as a plain bathroom comes into view, but this is fantastic news for me.
+I have no need for more space than the one bedroom, and my own bathroom is a big win.
+The lights work fine, but it looks like the shower is missing its shower head...
+I'm gonna need to bring up these missing objects to someone in charge.
+But hey, at least I don't have to pay to stay here.
+Tate's ears suddenly perk up.
+t "I gotta go."
+y s"Hmm, what was that?"
+t "Sorry, I can't stay anymore, nice dorm room, you're gonna have to come see mine sometime, but I seriously need to go, see you in the morning, sleep tight!"
+Before I can protest, he's gone.
+un sidee"Wow, this bathroom really bummed him out."
+y bored"Yeah, pretty sure that's not the reason."
+y simple"He's just a weird one."
+y simple"There are a lot of {i}'maybes'{/i} and {i}'what ifs'{/i} to be thrown around when it comes to Tate, so I shouldn't bother."
+y "He said he'll tell me everything soon, and I trust him."
+y sleepy"{i}*Yaaawn*{/i}"
+y "I'm super tired."
+y "Today was waaaay too socially tiring."
+un curious"Aren't you going to shower?"
+y "I would, but all the spare clothes are in my luggage."
+y "Actually, it's pretty warm in here, I'll just sleep naked, and hopefully Tate comes back with my stuff in the morning."
+y "It would've been pretty nice if he had a phone so I can text him about it..."
+I take off my tie and unbutton my shirt, feeling the fur on my chest along the way.
+Rough, coarse, dusty.
+y "Eh, who am I kidding? I feel all dirty and sticky."
+I decide not to be a filthy little guy today, and hop in the shower, headless as it is.
+At least the water is hot, even if it feels like being hosed down.
+Bathroom appliances are included too, even if they're not my favorite brands.
+
+--- CHOICES ---
+→ As tired as I am, here, under the hot water, I can't help but think about...
+→ Oliver.
+→ Ollie...
+→ That mouse sure lives in my head rent free as of today.
+→ Something about him makes me go wild.
+→ That might be an overstatement, but still, while around him, I feel my instincts come out, making me want to chase him, grope him, pin him down or bend him over.
+→ That petite figure, so easy to pick up.
+→ And surprisingly, I get the same feelings thinking about the roles being reversed.
+→ All in all, I suppose it boils down to having the hots for him.
+→ Merina.
+→ Merina...
+→ I know it's very ironic to say this, but her foxy persona, the way she moves so casually yet seductively is enough to make anyone drool over her.
+→ A perfect contrast of sexiness and beauty, and despite all that, her confidence gives off hints of innocence.
+→ As intimidatingly inferior she makes me feel with her mere presence, I would risk it all for a night with her.
+→ My fingers through her silky hair, or her fingers in mine, doesn't matter, as long as I get to be inside her, at the end of the day.
+→ Tate.
+→ Even if I chose to not go on that adventure with him, he keeps popping in my mind.
+→ Athletic, lithe body, with the belly always exposed, pants worn a little lower than he's supposed to, he knows what he's doing.
+→ And it's working better than he imagines.
+→ My imagination goes a little wild, images of him flashing on and off.
+→ He's bouncing up and down while I relax on my back, his hands intertwined with mine.
+→ Then he's holding my face, making me look him in the eyes as he's thrusting with a smirk.
+→ Now he's clenching the bed sheets as my whole weight stands on top of him.
+→ It might be wrong to think this way about him, since we literally met today, but don't you ever see someone so fine just casually walking down the street, that you can't help but fantasize about them for weeks on end?
+→ As tired as I am, here, under the hot water, I can't help but think about Tate...
+→ My new feline friend that loves to tease, because he probably has a hunch about how that body of his makes me feel...
+→ Athletic, lithe body, with the belly always exposed, he knows what he's doing.
+→ And it's working better than he thinks.
+→ My imagination goes a little wild, explicit images of him and I flashing on and off.
+→ At first, he's bouncing up and down while I relax on my back, his hands intertwined with mine.
+→ Then he's holding my chin up, making me look him in the eyes as he's thrusting with a smirk.
+→ Now he's clenching the bed sheets, eyes rolled back as my whole weight stands on top of him.
+→ I hope these things can come at least close to reality, In the future.
+→ No matter how long that might take.
+--- END CHOICES ---
+
+Needless to say, this erection of mine did not last long with the vivid images popping in.
+With a sigh of satisfaction, I step out of the shower.
+Down the drain goes the only evidence of the lewd thoughts I had.
+I drag my legs to the bed after a quick drying, and flop on it, ready to dream.
+un curious"Just like that?"
+un "Legs spread, ass out, no covers?"
+{i}*Muffled noises*{/i}
+un eyeroll"Suit yourself."
+un bored"Maybe I'll experience my first cold in...ever."
+un "It could be fun."
+.
+...
+.....
+un simple"Huh, what is this?"
+un "I don't think I've seen this part of your brain before."
+un "Hey."
+un "Hey, mortal."
+un bored"Hmm."
+un "I suppose he's still asleep."
+un simple"Oh! Could this be?"
+un "He's dreaming."
+un "Ooh, what's that?"
+un surprised"What's that other thing?"
+un suspicious"Is that a person?"
+un simple"This is pretty interesting."
+un "."
+un bored"..."
+un "~...~"
+un bored "{i}*hummm~*{/i}"
+un "..."
+un "{i}*lip smack* *lip smack*{/i}"
+un sidee "hm..."
+un "Snow..."
+un "....."
+un "The silence is a bit suffocating, not gonna lie."
+un bored"All of these new images would usually be narrated by you, but since your mind is constructing this dream, it's a little busy at the moment."
+un "I might as well try to do it in your place, maybe it's fun."
+un "Why else would you do it all day long?"
+un "The secret is to say every word with the confidence of a God, even if you have no idea what is happening."
+un pride"{i}*cough cough*{/i}"
+un simple"We find ourselves in the middle of a winter night, the town's road being covered by about a foot worth of snow, the wind is blowing hard enough to mimic a snowstorm by lifting the outermost layer of snowflakes, carrying it around with intense, irregular movements."
+un "I'm assuming this scenery is here because you decided to go to sleep without a blanket like a fucking moron, and now you're cold as hell."
+un "A shot of a foot, dramatically stepping in the snow, is presented in this frame."
+un "The foot belongs to a small, cloaked figure, which struggles to move through the thick, white blanket, ready to pass out at any moment."
+un "The wind is strong enough to not only take the cloak away flying at the first opportunity, but their whole body with it, toying with them like a puppet."
+un "A sad, dramatic scenery."
+un "Then-"
+un suspicious"huh?"
+un simple"What's happening?"
+un squint"What? That's it?"
+un "What kind of fucking dream was that?"
+un ang"That made no sense!"
+un "Who dreams only the beginning of a story?"
+un bored"I'm disappointed, to say the least."
+un curious"And what's with this knocking?!"
+I wake up to the sound of knocking in the middle of the night.
+un simple"Oh, you're up."
+I slowly open my eyes and regain my senses.
+A cold feeling surges through me.
+The chilled sheets don't help much, pressed against my stomach, face, thighs and... dick?
+Right, I'm naked.
+The knocking becomes faster and louder, signaling impatience.
+y nakedasleep"Who in the hell...?"
+y "It's coming from the window?"
+y "Aren't I on the third floor?"
+The sleep rubs away, replaced by confusion and curiosity.
+A figure stands... no, floats outside my window.
+y nakedblush"{i}*Gasp*{/i}, Tate!"
+y "Wait."
+His eyes are fixed on my uncovered butt, sprawled on the bed.
+Thankfully the parts that really matter are covered by my tail, still, that doesn't stop me from panicking, reaching for the blanket, instantly becoming a cocoon of shame.
+t "{size=30}I'M TELEPORTING INSIDE!{/size}"
+The next second the purple cat is at the foot of my bed, smiling widely.
+I'm not sure if I should be happy to see him, mad he woke me up, or outright terrified by his presence here, so I stay quiet, staring with a judging expression.
+t "I brought your luggage."
+y nakedblush2"Thanks?"
+y "Could...could that not have waited until morning?"
+y "What time is it?"
+t "It's {i}'get out of bed and come with me right now'{/i} o'clock."
+I would argue, or at least ask more questions, but I doubt I'll end up going back to sleep in any case.
+y nakedbored"Damn it..."
+y "Fine, let me get dressed."
+t "Hurry up."
+y "..."
+y "Well?"
+t "Well?"
+y nakedangry"Turn around!"
+y "Or go in the other room."
+t "I already saw everything there is to see from the window, you don't have to be shy."
+y "I am not changing in front of you!"
+t "Ughhhh, can't watch a good show nowadays without being shunned."
+He walks into the bathroom and closes the door.
+I pick out some clothes from my luggage and get started.
+I have multiple pairs of the same jeans, shirt and tie, because why would I change perfection?
+Except that this time, I put on some nicer underwear, just in case...
+un bored"I admit that you have surprisingly high chances of getting laid."
+You think so?
+un eyeroll"Absolutely, most of these people are hornier than {b}me{/b}!"
+un "And I'm a {b}lust{/b} demon!"
+t "Are you done yet?"
+t "You have like four things to put on, it can't be that complicated, unless...{i}*gasp*{/i}!"
+t "Are you hinting you need my help to get dressed?"
+t "Well, if you insist!"
+He bursts through the door, face dropping when he sees me pinning the last shirt button.
+y smug"A little late."
+t "Too bad."
+t "At least now we can go."
+t "Get on, we don't have time!"
+Goodbye sweet bed, my new, weird and hot friend needs me.

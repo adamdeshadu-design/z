@@ -1,0 +1,509 @@
+."
+ra "A whole new tongue for the whole tribe!"
+ra "It's the only reason we can communicate with [name] right now."
+y "Our whole language in twelve years?"
+y naked"That's pretty good."
+y "You two, and the Chief are very fluent, even when it comes to slang."
+ra "Eureka is a smart one."
+eu "I learned it in only two, alongside math."
+ra "Which is knowledge I brought with me as well."
+ra "You're welcome!"
+eu "In truth, I really am grateful by how much Ragnar helped the tribe, even if he left me alone for so long."
+eu "Ironically, your whole adventure culminated to a single point."
+eu "Isn't that how you got your name?"
+ra "It is, and I'm proud of it."
+ra "I slayed a huge wyvern with my bare hands."
+ra "You can see its front teeth in the main camp."
+ra "On top of a watch tower."
+y naked"I think I did!"
+y "I was wondering what animal or Nightfallen was so big to have those bones."
+y "You truly are a warrior."
+ra "You're gonna make me blush."
+y "What about your scars Ragnar? How did you get them?"
+ra "Ah, the symbols of my victories."
+ra "I'm ashamed that I don't have more."
+eu "A good warrior doesn't need many scars."
+ra "That's true, I never got injured fighting beasts or Savage furs."
+y nakedsimple "So how..."
+ra "These were made not that long ago actually."
+ra "A rogue Wild Fur from our tribe went behind the Chief's back, so I had to fight him to the death."
+ra "Fortunately for him, he escaped, but not before we gave each other some nasty scars."
+ra "Too bad, he was a good tribemate up until that point..."
+That sounds a bit too gruesome for a table discussion, so I'll drop the subject.
+eu "If you're done with your story, may I address the next question?"
+y naked"Be my guest."
+eu "What is your relationship with Ku'sani?"
+eu "You're not partners, are you?"
+ra "I think they use the word {i}'boyfriend'{/i} over there."
+y nakedblush3"We use both– I-I mean, not that we are either, haha."
+eu "You're just friends?"
+y "Yep, aha, juuust friends."
+ra "You did mention that in the Chief's hut, I forgot."
+y nakedawkward"We're both totally virgins too."
+Why did I say that...?
+eu "Oh my."
+Eureka covers his mouth in shock.
+ra "That is new information."
+eu"You weren't kidding when you said they're shy."
+ra "See?"
+eu "Just how many moons without sex is that...?"
+ra "Too many, dear...too many."
+y nakedpf"Let's move on to the next one..."
+y nakedsimple"Eureka, how come you're so...dressed?"
+y "Everyone else has some cloth covering their junk at most."
+y nakedbored"Looking at you, Ragnar."
+ra "I'll let you know that your kind loved the way I dressed."
+Yeah...because you're hot.
+eu "I wear more layers so that everybody knows I'm not easy access."
+y nakedsimple"What does that mean?"
+y nakedbored"Never mind, I know actually, sex things."
+eu "Exactly."
+eu "I'm too busy all the time to just have a go whenever, so I dress more proper."
+eu "Especially because of all the jobs I do, I need something to protect my fur."
+y nakedsimple"Speaking of, why so many jobs in the first place?"
+eu "I, ermm, I just feel embarrassed."
+eu "As we mentioned before, I'm not good with repeated breeding, I'm not a good warrior, or hunter, but I love my tribe, and I want to be of help."
+eu "So I want to be as useful as possible with the jobs that I'm best at."
+ra "Which is a lot of them."
+y naked"With your brains, who needs muscle?"
+y "Although you're still way stronger than me."
+eu "Heh, thank you, you're very kind."
+ra "May I give you the next question?"
+y "Let's hear it."
+ra "Considering you don't live in a tribe, what work will you do in the future?"
+ra "What is, or will be your job within your society?"
+That is a pretty deep question about my future.
+The answer is obvious: Nightfallen hunter, but do I want to tell the literal Nightfallen that?
+y nakedawkward"Uhhhh."
+Quickly, what's the closest thing to a Nightfallen hunter?!
+y "A hooker."
+Really, brain?
+ra "Ah, noble profession."
+ra "You will bring a lot of use to your kind."
+eu "Way more than me, that's for sure."
+y "I don't know about that one."
+y "We should go to the next one."
+y nakedsimple"I noticed...a lizard in your camp."
+ra "An eye sore, isn't it?"
+ra "We're sorry you had to see him, he's-"
+y nakedsurprised"No no, not at all."
+y "I'm fine with him."
+y nakedsimple"I was just wondering...why is a Savage Fur here?"
+ra "Why, he's doing the tedious jobs we don't have time to do, what else?"
+y "No, I mean, why do you own a slave?"
+y "You've been in our society, Ragnar."
+y "Don't you think that's wrong?"
+ra "Huh."
+ra "I've never had someone of your kind react poorly to this information before."
+ra "They would either slap my palm in agreement or not care."
+eu "I also thought that your kind doesn't like...what do you call the violent ones?"
+ra "Savage furs."
+y nakedsimple"Well..."
+y "Uhmm."
+y "We do hate them but..."
+y "I'll drop the question, for now."
+y nakedsimple"I haven't seen any children around, how do Wild Furs even reproduce?"
+y "Our biology teacher did not care to teach us anything useful."
+ra "The same as you, we need a male and a female, then the female will carry the baby for seventeen moons until-"
+y nakedsurprised"SEVENTEEN?!"
+y nakedsimple"Sorry, that was a little loud."
+eu "How long do your females carry it?"
+y "Nine moons."
+ra "Wow, no wonder there are so many more of them."
+eu "As for the ones that are born but not matured yet, we have a separate part of camp."
+ra "The young have the highest level of protection, and they are not allowed in these parts of the camp, since you know..."
+ra "Breeding sessions."
+y "Makes sense."
+eu "Our turn."
+eu "A simple one."
+eu "What is your age?"
+Y naked"I'm nineteen years old."
+ra "Years?"
+eu "That is twelve moons for one year, remember?"
+eu "You taught me this."
+ra "So...nineteen would be...twelve times nineteen?"
+ra "Twelve...nineteen..."
+ra "That is impossible to calculate!"
+eu "No no, here is an easier method."
+eu "How many moons is ten times nineteen?"
+ra "Ermmm...wait, don't tell me."
+ra "You add nothing at the end, zero, so somehow it's supposed to make it... one hundred and ninety?"
+eu "Correct!"
+eu "Now do two times nineteen."
+ra "It's...twenty...two times ten...two times nine..."
+ra "Thirty eight?"
+eu "Correct again!"
+eu "Now add them."
+ra "Add what?"
+eu "{i}*sigh*{/i}"
+eu "It's two hundred and twenty eight moons, Ragnar."
+ra "This math thing is too hard."
+ra "In other words, [name] is not a cub, as we thought."
+eu "Not even close."
+y nakedss "Yey?"
+Even someone as sharp as Ragnar can be defeated with Math.
+I should ask at least {b}TWO{/b} questions, it would be weird if I stopped so soon.
+eu "I feel like we bonded further with these questions."
+y naked"And I know enough to say that I find your kind even more interesting and captivating than before."
+ra "You are certainly more interesting than most people I met on my travels."
+y nakedss"That is a bigger compliment for me than you think."
+We continue to lazily feast while sharing stories.
+Some Nightfallen got dressed in big robes, covering their heads, then jumped over the table with powerful leaps to get to the empty space in the middle.
+Apparently, the entertainment has begun.
+Three of them dance to the music, fluttering their robes around, while everyone else claps in rhythm with the music.
+I feel like a king whose jesters have been unleashed.
+The Chief and Ku'sani seem to be the most entertained, thus the 'jesters' pay special attention to them.
+I wish I were the one to put a smile that big on the cat's face...
+It's now been a couple of hours since we got here.
+The arena battles already feel like an eternity ago.
+The remaining Nightfallen are either going straight back to their daily duties, or finding empty huts to drain their lust in.
+The Chief and his guards left the cat with a final goodbye, returning to his chamber.
+Eureka, Ragnar and Ruth went urgently to investigate a trap that went off somewhere around the camp and will be back shortly.
+Only one fur remains playing an out of tune string instrument, slowly, emotionally.
+The silence and lazy energy is cut suddenly by the eccentric cat I grew to like so much.
+ku "Hey!"
+ku "How was your feast?"
+y naked"Eureka knocked it out of the park, I didn't think wild game could taste so good."
+y nakedss"Too bad fish kept us apart."
+ku "Heh, yeah, another reason they're my sworn enemy."
+y "..."
+ku "..."
+ku "I feel like I'm dreaming."
+y "Me too."
+y "Is your dream a good one?"
+ku "It's not a nightmare, that much I know."
+ku "But this whole family thing, and prophecies and celebrations and feasts...it's so..."
+y "Unreal?"
+ku "Kind of."
+y nakedss"Speaking of, since we're alone for the first time we got here, what do you think of everything?"
+ku "I like it here."
+y nakedsimple"You do?"
+ku "Don't you?"
+y "I think so, but you're the nature enthusiast with a wild step-family around here, so it's a more important question to you."
+ku "To be honest?"
+ku "I feel amazing, I feel free, and like I finally found my purpose."
+y nakedsurprised"Isn't your purpose and dream to be a hunter?"
+ku "That is different."
+ku "I thought you were getting along well with Eureka and Ragnar, like, really well."
+ku "Do you have second thoughts about them now?"
+y "It's not that I dislike them...just-"
+y nakedsimple"..."
+y "I think we should leave."
+y "We have to go home."
+ku "What?"
+ku "Now?"
+y nakedangry"Yes, now."
+ku "Ok killjoy, does a full stomach turn you ungrateful?"
+ku "I agree that the Chief can be a bit weird, and everyone is a bit overly joyful...but you can't not like them."
+y "They use slave labor!"
+ku "Is that what this is about?"
+ku "I knew you were keeping too quiet around it."
+ku "You do realize that lizard is a Savage Nightfallen right?"
+ku "In the wild, he wouldn't think twice before chomping your head off."
+y "Then how come he's doing everything he's told?"
+y nakedbored"A regular Nightfallen doesn't understand when you tell it to go fetch some water."
+ku "An alligator can be taught to do tricks, doesn't mean you have to leave one to babysit your child!"
+ku "Damn it [name], are we seriously having this discussion?"
+y nakedangry"Are YOU seriously defending slavery?"
+ku "It's an ANIMAL, a NIGHTFALLEN."
+ku "Do you even realize that these people, who praised us, fed us, took care of us the whole day, were still being hunted down by hunters when you were alive, living a pampered life in the city?"
+ku "You were already a toddler when the government protection service for Wild Furs started, and that's only talking about OUR country."
+ku "These people suffered so much in the past because of us..."
+ku "And you're trying to defend an even more primitive Nightfallen species?"
+ku "{size=30}But of course you're defending whatever walks on two legs and has a dick...{/size}"
+y nakedsimple"That's not-"
+ku "AND ANOTHER THING!"
+ku "If they're treating that other Nightfallen soOoOo horribly, then say it."
+ku "Let me hear you say it, what do {b}we{/b} do with Savage Nightfallen we find in the wild? Huh?"
+y nakedsimple"..."
+ku "I'm not hearing anything."
+y nakedsad"We...kill them...for energy."
+ku "I rest my case!"
+ku "They are clearly better than us in that regard."
+ku "What's next? Mimics have rights to bear arms?"
+ku "Maybe that plant that attacked us just wanted a friend?"
+y"I don't know much about the Nightfallen world, I was just a nerd that got lucky getting into this academy, but I know from today's experience at least some of all that...Nightfallen 'philosophy' must be wrong."
+y nakedangry"This guy deserves better!"
+ku "{i}'Guy'?{/i}"
+ku "Trust me, there are people in our society who have it worse than that lizard, I should know."
+ku "But..."
+ku "Never mind, look..."
+ku "You do you."
+ku "I do have the viewpoint that the world is not just black and white, so whatever you think about that situation, it's your opinion."
+ku"Just don't get in trouble with my family...alright?"
+y nakedsimple"I'm not going to stir anything, if that's what you're implying. I'm not a revolutionist."
+ku "Good."
+ku "In any case, was that the only reason you wanted me to go home?"
+y "I just thought we might've overstayed our welcome."
+y "Don't you miss your other friends?"
+y nakedss"Dallan, Aiden, Merina?"
+ku "I am with family, [name]."
+y nakedsad"I get it, then I'll stay and-"
+ku "No!"
+y nakedsimple"?"
+ku "I mean, you don't have to."
+ku "I'll only stay a little longer."
+ku "If you want to go home, that's fine, I'll teleport you later."
+ku "I just need enough magic to teleport us there, then myself back."
+y nakedsimple"But you'll be here alone."
+ku "Not alone, just, without you..."
+That simple statement, for some reason, hurt more than I thought it would.
+ku "I'm happy, [name]."
+ku "I just want to look past the bad, ignore the dark and just smile until I can smile no more."
+ku "That's kind of my life motto."
+y nakedsad"I understand."
+My convincing was not the best, my points were too personal for him to care about.
+Is there anything in the world that matters more to me right now, than making this cat happy?
+No.
+So I will bend to his wishes.
+ku "Ki'vaathi is going to wake up again soon, and I want to be there to feed him."
+y"I see... Well, I'll meet you later in the main camp then."
+ku "Yes, main camp."
+ku "Don't venture too far."
+ku "I'll be with you once I have enough magic to spend."
+ku "See ya."
+I walk to said main camp, just in time for the trio to arrive through the main gate, empty handed but not injured, at least.
+y naked"Hey, what's with the trap situation?"
+ra "False alarm, it was one of the big Nightfallen traps we set, so we got a little excited."
+eu "Even I wanted to be a part of that."
+ru "Ku'sani where?"
+y "He's waiting for Ki'vaathi to wake up, so he can feed him some leftovers."
+eu "So he's too busy to spend time with you?"
+y nakedss"Yeah, kind of, why?"
+ru "Come us! Come us!"
+y "What?"
+ra "He wants you to come with us if you're free."
+eu "We're going into the forest again to gather some plants, as well as wood for a new pyre and carpentry, while we're at it."
+eu "After such a feast some of our tribemates might be sick, but I'm kind of out of the needed herbs to treat them."
+eu "My supply is a little low, as embarrassing as that is to admit, so I'll be looking for that."
+eu "Ruth will carry the wood and Ragnar is our pretty face."
+ra "I will be your bodyguard, thank you very much."
+eu "That's what he likes to tell himself to feel useful."
+ra "Grrr."
+eu "It will be way more fun with you there."
+eu "That is, if you don't have any other plans."
+In my mind, the response is almost instant, but can I afford to leave my friend alone here?
+My mind flies to the cat, sitting patiently and waiting for his wyvern friend to wake up, alone.
+But he's not the only one on my mind.
+On the other end of the camp, the lizard slave is carrying a bucket of grains, when someone's leg just so happens to get in his way, completely by accident, for sure, making him fall and spill the bucket.
+A scene is about to happen, maybe I should get away before that happens...
+
+--- CHOICES ---
+→ With all that in mind, do I want to go with them?
+→ Go gathering.
+→ Eureka clutches his herb bag excitedly while the other two grunt satisfied.
+→ He gets behind me and pushes me towards the gate, of course, with both hands on my butt.
+→ A gesture that I do not make a fuss about, even if there are no pants in the way to block the contact.
+→ Maybe that's why I don't mind it, I'm used to their ways already.
+→ Our little trip is peaceful and fun.
+→ I can definitely see how this trio became so close.
+→ Ragnar is kind of the jokester of the group, as well as the leader.
+→ Eureka is the pretty face and definitely brings the brains.
+→ While Ruth is the lovable goof, the himbo, if you may.
+→ I help Eureka collect some plants in a small ravine, while Ruth gets distracted by a snail on a leaf that is carrying an even smaller ladybug on its shell.
+→ The bear leaves the snail and ladybug alone with a final wave goodbye, before approaching a {i}'small'{/i} tree Ragnar found.
+→ It is still larger than a regular tree, but not even half as big as the others.
+→ Ruth takes a few good looks at the tree, from all directions, then punches it five times rapidly.
+→ The first one makes the bark fly away, the next three destroy the semi withered wood, and the last one just to direct it into an empty part, not to damage other trees or anything important.
+→ Like me and Eureka.
+→ He flexes smugly in response as I clap.
+→ Ragnar then uses his razor sharp claws to chop all the branches off, so we are left with an empty trunk.
+→ He wanted to impress me with that move, buuuut it takes him way too long to finish.
+→ Eureka, Ruth and I start gathering wild flowers as we wait, making flower crowns for each other.
+→ They both give theirs to me. Eureka places his on my head, but Ruth's is a little big, turning into a necklace.
+→ I am left with one flower crown in hand, and four intense eyes watching me and each other.
+→ I don't want them to fight, and I don't want to choose, so I do the most obvious thing.
+→ The trunk of the tree is left where it is for now.
+→ They'll come another day, with tools and cut it into pieces, for now, the branches are more than enough.
+→ Ruth and Ragnar carry the wood back to camp while Eureka and I jump gleefully holding elbows in front of them.
+→ We place our beautiful yet useless flower crowns where the wyvern's slumber space once was, as an offering.
+→ I look at the bear with a dazed, satisfied expression on, and the hints of a bloody nose.
+→ Ruth doesn't say a word, but I can feel the earth shaking as he trembles with excitement at the thought.
+→ The bear points at the piece of cloth hiding my junk, rising rapidly.
+→ The other two look slyly at each other.
+→ I am SUPER afraid of asking.
+→ I have almost no experience, yes I've used toys a lot before, but those don't count...do they?
+→ What if I'm not even close to the standard for these insanely hot Wild people?
+→ They definitely sense my restrained excitement and awkward, indecisive movements.
+→ The two felines come closer, one of them hugging me from behind, the other from the front, both nuzzling my neck and talking softly.
+→ Ragnar parts my lips gently, then my teeth with his claw, sliding a finger in.
+→ He cups the bulge formed underneath the thin cloth.
+→ My hands just hang there in the air, not knowing what to do when all my fantasies spontaneously come true as whispers in my ears.
+→ Ruth stands there watching patiently and blushing, bumping his pointy fingers together.
+→ Their words, like spicy honey, hot and sweet, tickle my brain too much to refuse.
+→ And such a simple task for heaven...just mutter a word.
+→ They both grin satisfied.
+→ The bear wastes no time and sweeps me off my feet, holding me bridal style.
+→ Hell yeah!
+→ A whole HOUR?!
+→ OR TWO?!
+→ Scribbles?! Are you hearing this?
+→ Am I in actual heaven?
+→ You don't sound too impressed.
+→ What matters is that I'm going to have a good time.
+→ Why would I want that?
+→ Now that you mention it... there is an arm hitting my spine every so often...
+→ It's Ruth's dick isn't it?
+→ ...
+→ I bet I can fit him.
+→ Alright, I give you permission to cast antipain auras on me, but not super strong ones.
+→ Before I realize it, my feet touch the ground, and a door closes behind me.
+→ We're here.
+→ The lodge is indeed more spacious and a bit secluded from the main camp.
+→ The interior is full of silks, tapestries and most importantly, a large, soft looking bed with countless pillows around it.
+→ It looks like something you'd find at a fancy love hotel.
+→ Natural aromas fill the air from the burning incense, wild roses and daisies in particular.
+→ They unpin my loincloth from behind and push me on the bed.
+→ I turn around as my garment slides down, covering my front perfectly from the six, predatory eyes, staring at me from the foot of the bed.
+→ All three men attractive in their own ways, all three impatient to do unspeakable things to me.
+→ With all that being said, a moment of clarity comes through between the horniness, I can't help but ask myself...
+→ In a world where hunters watch their job partners have sex with Nightfallen on the regular, would my cat partner be upset about me doing my job?
+
+--- CHOICES ---
+→ Should I continue this?
+→ Invite them further.
+→ I absolutely should.
+→ This is a once in a lifetime experience, since Wild Furs should technically be left alone.
+→ There is no reason for a hunter to ever have sex with Wild Furs... unless you have a special bond with them and are doing it for pleasure alone, like me.
+→ Besides, it's not like I'm a virgin anymore, so that's out the window.
+--- END CHOICES ---
+
+These three stand in front of me, with smug expressions and lust in their eyes.
+I still can't shake the feeling this is a dream, or that they're just too good for me, so the shyness stereotype is not wrong at all.
+That doesn't stop me from making the first, major move.
+I grab the cloth off my crotch, revealing my growing erection.
+They seem a little surprised by my bold move.
+y nakedss"I guess I'll be the first one to get naked, if we got this far."
+ra "Only natural for the guest to do the honor."
+I expected to be suffocated by three bodies all at once, but of course these are not amateurs.
+Ruth and Ragnar grab pieces of Eureka's clothes, lifting them up or unpinning any clasps that keep the outfit together.
+As the one with the most layers, without help, he'd be the last to join the action. With teamwork, he's the first to greet me in bed.
+What a pair of gentlemen.
+Eureka's hourglass figure slithers through the sheets, until he's behind me.
+He nuzzles my neck as I try my hardest not to blush.
+eu "Let's start simple, darling."
+With a playful yet firm grip, the feline's velvety, fur-covered hand closes around my now hard shaft.
+The softness of his touch combined with the intriguing texture of his fur sends waves of pleasure coursing through my body.
+His agile fingers skillfully caress me, tracing tantalizing patterns along my most sensitive areas, which are all the areas when someone like him touches me.
+His paws move with expert precision, alternating between gentle strokes and firmer squeezes, perfectly attuned to my reactions.
+y nakedhurt2"Ah!"
+eu "Slower?"
+y "Mmhmm..."
+eu "How about a little spin?"
+y "Oohh..."
+Time seems to blur as the feline's relentless movements intensify.
+The friction created between his fur heightens the sensations, amplifying the erotic symphony playing out between us. 
+When suddenly, everything stops.
+y nakedsurprised"Huh?"
+eu "We don't want to make you pop just yet, do we?"
+The other two have been enjoying the show while undressing, and Ragnar is the next to join us.
+ra "I hope you don't mind me keeping something on."
+ra "I learned from your kind that sometimes {i}some{/i} clothes are better than none."
+His large, throbbing cock now resting on my shoulder right next to my face is hot enough on its own, but combine it with the wavy, wrinkled piece of silk it comes through, oh man...
+y nakedawkward"You did some good, successful research."
+ra "Hope you can fit it all, because I want to give you more than just a taste."
+One of his hands caresses the back of my head, while the other moves his cock across my lips, teasingly.
+I open my mouth obediently despite the awkward angle.
+ra "Nuh uh, it's not time yet, the star of the show still needs his turn."
+The scent of his meat almost puts me in a trance.
+A trance that is broken by rising anxiety.
+eu "Come on, big guy."
+The whole time, Ruth has been stroking his shaft, waiting for permission.
+The bear's large, hot rod is releasing steam from the cold, thick substance he used to cover it with.
+eu "Be gentle now."
+y nakedblush2"Yes please."
+He followed Ragnar's lead and left an ornament around his waist, simply for aesthetics.
+Thankfully he's not as large as I thought, still massive, but not an ass destroyer.
+At least not with the anti pain aura on me, I hope.
+He has some courtesy to prepare me, kneeling down and shoving his tongue in and around my hole.
+My loud moan makes Eureka hug me tighter and bury his nose deeper into my neck.
+Soon, long, meaty, furry fingers are probing me, before going inside as well.
+After some more thrusting and stretching, he gets up and places the slippery tip of his penis resting on the base of my tail.
+Both guys around me come closer and hold me tighter, basically immobilizing me.
+y nakedss"What are you-"
+y nakedsurprised"OooOoh-"
+y nakedhurt2"Aah!"
+eu "Shhshh, it's okay."
+y "Holy FUCK, y-you're big."
+ra "Stop a second."
+Ruth stops moving as I regain my breath.
+ru "Sorry."
+y "I-it's fine, you can try again now."
+This time, I grit my teeth and focus on Eureka's words of encouragement and Ragnar's thighs pressed against me.
+ru "Tight..."
+Before I know it, my insides are completely filled, a pair of heavy balls gently touching my cheeks.
+eu "Good job, you took him balls deep."
+eu "How does it feel?"
+y "Full...so very full."
+ra "Is that a good thing?"
+y nakedss"The best."
+ru "Hmm, I move."
+The bear pulls his hips back, holding on to my leg, before thrusting forward cautiously.
+Each shove is slightly rougher than the last, until the fat and muscle all over my body jiggle like jelly when the force of his powerful thighs hits my ass.
+The other two participants have to hold me from getting pushed too far back on the bed, as my partner gets lost in lust.
+The bear's grunts echo through the room, overwriting whatever noises of pleasure I was making, until it all builds up to an intense climax.
+Finally, in a moment of ecstasy and a couple more hard shoves, the girthy cock inside me pulses intensely, erupting with hot, satisfying seed.
+His essence of lust travels deeper inside than any dick can reach, almost making me lose control, in a phenomenon often referred to in the modern word as simply 'cum brained'.
+A name well deserved.
+I feel his heavy breaths wash over my face, then the pressure inside slowly leaves, letting the intrusive fluids spill out, warming up my whole bottom side as it runs down like a waterfall.
+eu "Good job Ruth, you managed to avoid making him cum."
+ra "Now we can take care of that."
+He was specifically trying to avoid my sweet spots inside, and yet, it still felt heavenly.
+Ruth has a satisfied expression on, and a blush crosses his cheeks stronger than ever before, as if thinking 'I can't believe I actually did it'.
+He grabs the base of my tail and runs his fingers through my fur, up to the tip, which I interpret as a kind of thank you gesture.
+y nakedsmug"Feels good getting rid of all that lust, huh bud?"
+He gives me a thumbs up and a hearty, toothy smile, before sinking into a chair, watching the rest of the show with lazy eyes.
+Next up, Eureka and Ragnar take the stage, teaming up for a final, powerful, double attack.
+eu "Your tail hole got filled up, it's only fair if you fill one up yourself, right?"
+y nakedblush3"I'd say that's a good deal."
+The feline's lithe, tall body moves slowly and tantalizingly on top of me.
+I can feel the same substance Ruth used covering his hole as he grinds back and forth along my shaft.
+A completely unnecessary gesture, cruel even.
+His grey-ish brown pelt shimmering in sunlight, accentuating his flexible figure.
+y "Do I have to beg? Because I can't wait to be inside you."
+eu "I know it's true if you're bold enough to say it, but first..."
+ra "You don't think you get to fill up my partner without consequences, do you?"
+ra "A fee must be paid."
+y "I'll pay any price."
+ra "Good, then open up wide for me, and we'll be even."
+eu "Please do it [name], I want you inside me so bad."
+Nightfallen like to roleplay as well, apparently, and how lucky am I for that?
+The spotted cat gets up from his knees, standing in front of me, dangling his cock and lightly slapping me with it, before resting it on my snout, between my eyes.
+y "If that's what it takes."
+I open my mouth obediently.
+Ragnar's dripping rod gives my tongue the first taste of what is going to invade my mouth for the next couple of minutes.
+Although not as intimidating as the bear's cock, this one's going somewhere I'm far less experienced.
+Soon, the salty, musty tip hits the back of my throat, and my leader gives Eureka permission to go.
+Another heavenly sensation hits my body the next second.
+Since Ruth and Ragnar's actions can hurt me, they both start gently, while the skinny feline slams down ferociously, absorbing my dick whole in an instant.
+The warm, soft, cushioned feeling engulfing my dick takes me by surprise.
+His hip movements are vicious and confident.
+There are three sensations overwhelming my body right now.
+The pleasure created by an experienced, talented ass.
+The pressure the intrusive cock creates trying to go down my throat.
+And the soft yet deadly paws, with sharp claws sticking out, resting on my belly as Eureka bounces like I'm his personal trampoline.
+Ragnar meets no resistance from me, as I try to keep my arms down and enjoy the moment.
+That prompts him to shove his whole length in, satisfied when his balls meet my chin.
+Every couple of pushes, he takes it out just to ask me questions, teasingly.
+ra "How's that ass feeling swallowing your cock?"
+y nakedhurt2"{i}*Heavy breathing*{/i} He's really some-Agh-"
+ra "Oops, sorry, were you saying something?"
+ra "My dick was getting cold."
+His dominating manners excite me more than anyone can imagine.
+The taste of his meat now imprinted in my mouth, or throat, to be more exact.
+ra "Don't be shy, you can squeeze me if you need some air."
+ra "Although it seems like so far, you're doing better even than my partner."
+eu "Are you trying to make me jealous?"
+ra "Look who's asking, I never even knew you can move like that, you little cock dancer."
+eu "Heh, I had to go all out for our guest here."
+I curl my toes and clench my cheeks.
+The libido created by these two's synchronized movements is through the roof.
+I grab Ragnar's left butt cheek and give it a panicked squeeze.
+ra "Me too little guy, me too."
+Instead of pulling out he goes in deeper and harder, tilting my back further in the process.
+eu "Ah! I'm about to-"
+I grab on for dear life, as two other voices moan and grunt at the same time as me.
+I've experienced cum inside my backside, but having it pumped in from the front is something else.
+His shaft pumps load after load, until he gets it out only half way, so he can paint the inside of my mouth as well.
+My lips sealed tight around it, trying to contain his lust, but ultimately failing, it is just too much.
+In the meantime, on my own end, Eureka drops down on my dick one last time, containing as much of it as he can inside, before I bust in sync with him

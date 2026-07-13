@@ -1,0 +1,383 @@
+.
+From behind, his torso moves up and down in spasms, his ears down to the ground.
+He's crying, or at the very least, trying his hardest not to.
+There's no point in me asking, or wondering, I know the conclusion of whatever happened.
+I approached him, worried.
+As Scribbles said, he did take a high dose of sleep poison, yet, he's here.
+Hunched over a pool of blood.
+y worried"hey..."
+His ears twitch, but he remains silent in my presence.
+His eyes, usually full of life, a sparkle always lit, are now dull, uninspired, depressed.
+Magic particles flowing around him, created by his strong emotions.
+y "Is that..."
+He shakes his head gently.
+t "It's one of theirs."
+t "He got bit."
+y "Not the smartest idea to wake up a wyvern."
+t "Not the smartest idea to mess with me."
+y sadsmile"He bit me once too, but I suppose I got off easy, heh?"
+t "..."
+t "They took him..."
+Y sad"..."
+y "Maybe it's for the best."
+t "What..."
+t "What do you mean?"
+y worried"Tate..."
+y "Listen."
+He flinches and his ears twitch again as I try to place my hand on his shoulder.
+y "You can't raise a wyvern."
+He slaps my hand away.
+t "How would you know?"
+t "It's not like you spent that much time with me to know all my methods!"
+pass
+t "And why not?"
+t "What am I supposed to do?"
+t "You want me to just kill it?"
+t "Maybe throw him off a cliff, or suffocate him in his sleep, all because he was unfortunate enough to lose his parents?"
+y sad"You're right, Tate."
+Another ear twitch.
+y "You do have a tough decision here, I don't know what I'd do in your place, but I know what the right thing to do is."
+He growls.
+t "It's always {i}'Right'{/i} or {i}'Wrong'{/i} with you people, you just don't care enough to find the silver lining."
+t "What if neither option is to my liking?"
+t "{i}'Let's just force this little naive idiot to follow our ways!'{/i}"
+t "{i}'He'll do whatever we say, because he's so lonely and pathetic!'{/i}"
+t "Especially now, with you in the picture... your apathy towards the dragon was pissing me off from the very moment you laid eyes on his egg."
+y sad"..."
+y "Wyve-"
+t "I don't... CARE!"
+t "SHUT UP ABOUT YOUR STUPID WYVERN IDEA!"
+t "HE COULD BE SATAN HIMSELF FOR ALL I CARE!"
+t "HE WAS MY FRIEND!"
+t "DON'T YOU GET IT?!"
+t "CAN'T YOU TAKE THIS SERIOUSLY FOR ONCE?"
+t "And this question is coming from me...of all people."
+y worried"But I do, Tate!"
+His eye twitches.
+y "At least I try to."
+t "Why are you even here right now?"
+t "Just go hang around Merina, or make out with Oliver, or whatever other perverted things you came to the 'sex school' to do."
+pass
+y "It's simple."
+y "I want to be around you, Tate."
+Another ear twitch.
+y sad"I know sometimes I fail to see the bigger picture."
+y sadsmile"But if there is one thing I know, it is that I like you, Tate."
+He clenches his fist, hard enough to compress the dirt trapped between his fingers, and shakes with anger.
+t "For the last time..."
+t "Would you stop..."
+t "CALLING ME THAT!?"
+t "I TOLD YOU ALREADY, TIME AND TIME AGAIN, THAT IS NOT MY NAME!"
+t "I DON'T LIKE IT, IT'S NOT MINE!"
+t "IT'S NOT YOURS TO CHOOSE, YOU MISERABLE EXCUSE OF A PARENT!"
+He stops dead in his tracks after the last statement, looks at me, terrified, then pushes me down.
+The particles multiplied after his outburst, teleporting him away.
+I'm left alone in the clearing, still on my back.
+I feel my friend's hands scorching the place they touched to push me.
+It hurts more than any blade, punch or poison.
+Un suspicious"Sheesh, you really fucked this up."
+un bored"I didn't even feel like making comments in between the lines."
+y sad"The worst part is that I don't understand what I did wrong."
+un squint"Are you kidding me?"
+un "You ditched him twice already, or was it three times? To go hang around that fox and her... whatever the mouse is to her, friend, lover, sex toy?"
+pass
+un eyeroll"He clearly just wanted someone that cares about him, and pets are usually a good source of unconditional love."
+un "He took care of that egg for so long, and now that it hatched and it's gone, you're like {i}'maybe it's better your friend got kidnapped and is probably dead'{/i}."
+un suspicious"And he kept trying to make you call him by any other name, except {i}'Tate'{/i}."
+un "Even going as far as to name himself {i}'Tartarus'{/i} or {i}'The Prince of Shadows'{/i}."
+un "And everyone around him, including you, treated it like a joke."
+un "If that's not a cry for help, I don't know what is."
+un sidee"The more I talk the more I realize how stupid you are."
+un "And I don't even care about the cat that much."
+un "I just think he's kinda neat."
+un bored"But other than that, he could die for all I care."
+un "And that tiger feels the same way, I bet many others too."
+un "It must feel pretty shitty to be openly disliked by so many."
+un suspicious"It's {b}YOU{/b} who should care more about him."
+un "Because it's you {b}HE{/b} cares most about."
+I reflect on the truth bomb Scribbles just dropped.
+I want to argue, to explain myself, but I can't.
+He's just... right.
+y sad"Perhaps there really isn't a right and wrong answer."
+y "I tried to see it through a logical perspective."
+y "But the most logical would've been to do whatever makes him happy."
+y "Not like it costs me anything to be supportive."
+y worried"Now that I think about it, what was the reason he wanted to spend time with a random first year, if not to make an easy friend..."
+y sad"I wish I could be more emphatic..."
+un bored"So, are you gonna go after him?"
+y simple"You want me to go?"
+un eyeroll"I have a heart too, you know?"
+un bored"Well, not right now, in my previous body..."
+un "But it kind of sucks to see you fuck up {b}THIS{/b} badly."
+un "So yeah, I want you to go."
+un "Do {b}YOU{/b} want to go?"
+y surprised"Absolutely."
+y worried"But... where can I find him? He just teleported."
+un "Oh, I think you know where."
+y simple"..."
+y "I think I do."
+If his automatic spell took him somewhere with high emotional value, then I've been there before.
+un s"You could ask the fox."
+un bored"I'm pretty sure you would've known this yourself if you spent more time with the cat, but oh well, we already established you're an idiot."
+y simple"Indeed I am, but I don't regret my time with Ollie and Merina."
+un "And you shouldn't, you don't need to regret that to feel sorry for this."
+un "You really need some lessons in philosophy and social interactions."
+I run back towards the barrier, since signal doesn't work between a device inside and outside the barrier.
+After minutes of sprinting and a heavy breath I take out my phone and text Merina, asking what Tate's favorite spot to go to when he's upset is.
+She's worried and asks too many questions, but I dodge them and focus on the trouble at hand.
+She gives me some directions towards a part of the forest with a semi abandoned train track.
+I believe I saw it before, when we flew over the forest.
+No time to waste then.
+I run like the wind, using my speed enchantments.
+I arrive at the desired spot exhausted, I find the train tracks and start walking slowly along their rim.
+Doesn't take long until I start hearing the rustling of leaves and the scraping of sand and dirt.
+I leave the path, and round the corner through some more bushes and find a coiled up cat, sitting on the ground near an old, abandoned crashed wagon, drawing in sand with a stick, seemingly expressionless.
+I know he heard me, since I'm not trying to be sneaky, and mother nature is not known for its quiet environment when every branch and leaf is basically a mini alarm.
+I take his lack of reaction as a sign that I can approach, so I do, standing now just three feet behind him, crouched down, looking at his sand drawing.
+A mighty dragon stands with its wings spread, and two small people on its sides, with their arms raised.
+Something tells me he was expecting me.
+I decide to keep my mouth shut for a bit, and focus on listening, but the silence only lasts for a little while anyway, broken by the sad voice of a cat, the saddest I've heard him since I met him.
+T "I'm sorry I lashed out at you..."
+y simple"I don't blame you."
+t "..."
+t "I know he's a wyvern... I always did."
+t "I just didn't want to admit it, since I know the chances are slim to domesticate one..."
+t "You'd have better chances at keeping an alligator as a pet."
+t "You're new, and don't know me very well, obviously."
+t "If barely."
+T "I'm not sure why I so expected for us to become a bonded pair, just like that."
+t "I suppose it all went a bit over my head."
+t "Maybe I thought I could get a genuine, awesome friend."
+T "You're one of the {i}'cool'{/i} guys, new, powerful, popular, kind of naive, no offence, so I thought you'd be perfect to befriend."
+The picture he's been drawing now has multiple people around it.
+I can recognize Dallan's big muscles and sleeveless jacket, Aiden's snarky, arm crossing pose, Merina's elegant dress and two more that I don't recognize, but judging by their ears, they could definitely be members of the E.F.D. club if they applied.
+I sit down closer to him.
+Although he's trying to stay focused on the ground, I can see he's waiting for my response with a held breath.
+y "..."
+t "..."
+y "..."
+y "May I know... what's so wrong about your name?"
+t "..."
+t "It's stupid."
+t "They named me that because of my happy-go-lucky personality."
+t "It literally means {i}'Cheerful'{/i}."
+t "And I just don't want to believe I'm that shallow..."
+y "Forgive me for the question."
+y "But is that not accurate?"
+t "To be honest?"
+t "I suppose?"
+t "I'm happy, because I try my hardest to be."
+t "I just hate when people pity me, or try to tiptoe around me just because I don't have parents."
+t "So I try to show everyone I'm ok."
+t "Which is true."
+t "I AM ok..."
+t "And it's not a lie, I just wanted a friend that knows that..."
+t "But even THEY don't see it."
+He points at the drawing of the two long eared figures, which I now assume must be his adoptive parents.
+t "Plus it just doesn't sound that great, in my humble opinion."
+t "Although, they didn't want that name either, at first..."
+t "The people around kept calling me that, since they haven't decided on a name."
+t "But in the end, they kept it."
+t "Too bad I couldn't remember my real name."
+y "Is it that bad? To be named by the town's people?"
+He shrugs.
+t "Names have the most meaning when it's given by someone you love."
+t "Like your parents..."
+t "I was about seven years old when they finally decided on a name, at that point...it felt a bit redundant."
+t "Not very meaningful."
+t "And to put more salt to the wound, they invented a last name for me too."
+t "Since I was never officially adopted."
+t "Can you take a guess to what it might be?"
+y "Uhm... Feline?"
+t "That... would be stupid too, and kinda funny, but no."
+t "It's Foster, Tate Foster, the foster child."
+t "Wooow..."
+t "So unique, so..."
+t "Stupid..."
+t "Let's remind him every day of his two main distinct traits."
+y "You're right, it's stupid."
+t "Thank you!"
+t "I legally changed it when I turned eighteen... but mister Sebil was upset, calling it disrespectful, so I changed it back..."
+y "Are they good to you?"
+y "Your parents."
+t "Yeah, very."
+t "I do have some bottled up emotions for them, still, I love them."
+t "Don't get me wrong, I know I talk them down a lot, but they were great people... just not great at raising kids."
+t "At least not this kid."
+t "They gave me food, shelter, clothing, personal space, education, love, but there was always something missing..."
+t "My problems were always overlooked, like my name."
+t "Most of the time I can't even bring myself to call them by anything other than their names..."
+y "I don't know what my name means either, but I like it, since it's the name my mother gave me, and I love her, so I respect it."
+t "Must be nice..."
+y sad"..."
+y "Is that why you kept trying to change your name yesterday and today?"
+t "Something like that..."
+t "I'd take a stupid name too, if I feel like it's truly my own."
+t "The problem is that it needs to stick to people before I decide to change it."
+t "Don't want another {i}Tartarus{/i} situation."
+His drawing is now done, but the dragon was erased in the process, replaced by a little wyvern.
+Same with the other people around, except for two.
+This way, the two figures next to the wyvern, the two felines, became the main attraction.
+y simple"..."
+Y "Can I hug you?"
+T "Huh?"
+He looks surprised, but quickly recovers.
+T "I'm usually the one who does that... without asking."
+Y "So?"
+T "..."
+t "Yeah..."
+He does not resist, but doesn't make a big effort to return it either.
+He's shaking, and I feel like he'll fall over any moment.
+y simple"Are you feeling alright?"
+T "Fine, just..."
+T "I just don't have much magic left..."
+t "Actually, I'm almost completely paralyzed."
+y worried"Are you serious?"
+t "Teleporting with my mind alone, my body kind of took a hit, It hurt to even move the stick to draw..."
+t "But hey, at least now I know I can do it!"
+t "Isn't it awesome?"
+y sadsmile"Absolutely, I'd express more joy if I wasn't so worried for you."
+t "Eh, I'll be fine in an hour or two."
+I hold him for a little while longer, sharing body heat and supporting his barely standing body.
+y simple"..."
+y "We're going to get him back."
+t "I told you."
+t "I can't move."
+t "And I won't be able to until I get some magic back."
+y s"We don't have to do it right now."
+y "We'll go tomorrow, early in the morning."
+t "Do you think he'll be alright by tomorrow?"
+y "Whoever took him didn't seem to want to kill him, or us, otherwise, they would've done so already."
+t "But he's a wyvern!"
+t "I already told you, I always knew."
+y "You still consider him your friend, don't you?"
+t "Yeah, but-"
+y determined"No buts!"
+y "I'm your friend as well, there is no question about it, and I never want you to doubt it, as your friend, I'm not letting anything happen to your other friends."
+His eyes light up with hope, and the smile comes back, even if it is smaller than usual.
+T "What about the battles tomorrow?"
+Y confused"Battles?"
+t "Pair battles, yes."
+t "Everyone pairs up and we do a two against two battle."
+y simple"I forgot those are a thing."
+Y "Why are you concerned about that?"
+Y "Isn't this way more important?"
+T "We can't miss them."
+t "The Headmaster will be watching this year, the same as today."
+t "To assess the students, or something."
+t "I don't want to miss it, and more importantly, I don't want YOU to miss it."
+y sadsmile"You just can't not take care of your friends, can you?"
+t "I'm not as selfish as I let out to be."
+y "Alright."
+y s"As you wish."
+y "We'll demolish any first years that are unfortunate enough to be paired against us."
+t "Love the spirit."
+t "I pity those people already."
+t "I'm going to have to unleash my pent up rage on them."
+t "I said before that I hate sad people, so let's cheer up."
+t "Although it's hard to be happy when you can't move."
+t "I get upset just by thinking at how pathetic I must've looked until now with a frown on."
+t "Which is a bit ironic."
+y "Want me to carry you back?"
+t "You and what muscle?"
+y smug"I'll make you eat those words up, little jester."
+I get up, place a strength enchantment on myself, and pick up the unexpecting cat, placing him over my shoulder like a log.
+t "Oh my..."
+t "Alright, I don't mind this."
+y "Don't judge a book by its cover."
+y "Shall we?"
+t "Lead the way!"
+I turn around before starting the trip, with his butt facing the same way as me, I take out my phone, and sneak a picture of his sand drawing.
+The drawing of me, him and the little wyvern, all happy together.
+Keepsake.
+t "Hey, not to ruin your protagonistic hero moment, but your shoulder is a bit too narrow, it kinda hurts my stomach."
+y simple"Oh, sorry."
+I turn him around, picking him up bridal style instead.
+y s"Is this better?"
+t "The cat looks into the strong, manly leopard's eyes, lewd thoughts going on through his head as he's being manhandled effortlessly."
+y smug"I'll take that as a yes."
+We begin our journey back to the academy.
+The trip is quiet, save for the occasional wild animal noises making my fur bristle, a fact that makes Ta- I mean, my good friend in my arms chuckle.
+y bored"You realize I can easily drop you whenever, right?"
+t "Then who would protect you against squirrels?"
+t "Scaredy-cat."
+y simple"Squirrels have a high chance of carrying rabies or other diseases."
+t "Don't ruin nature for me please."
+y "You asked for it."
+t "Let's pass the time with something that doesn't include being a nerd."
+y "What do you propose?"
+T "Do you know how to play {i}'never have I ever'{/i}?"
+y s"I believe so."
+y "Any extra rules beside the regular ones?"
+t "Instead of putting a finger down, you have to kiss the closest person to you."
+y simple"You're the closest person to me."
+t "{i}*gasp*{/i} No way!"
+t "I guess that's true."
+y bored"Yeah, we're not doing punishments."
+t "Coward."
+y s"I'll start."
+t "Shoot."
+
+--- CHOICES ---
+→ Never have I ever...
+→ Fancied a friend's parent.
+→ It wasn't a joke...but alright.
+→ Given a fake name to someone.
+→ Shoplifted.
+--- END CHOICES ---
+
+t "My turn."
+t "Never have I ever..."
+t "Had a threesome in a public place with two complete strangers."
+y simple"That is very specific."
+y "No, no I have not."
+y confused"Why would you think that anyway?"
+t "I don't know, you look like the type that can pull it off."
+y "Didn't we already establish that we're BOTH virgins?"
+t "Oh...right, I forgot."
+t "Hey, here's an idea, since we're virgin best friends, do you wanna do it together?"
+The thoughts in my mind look like a keyboard smash right now.
+What the hell is that question, so sudden, so bold, I kind of like it.
+y blush"W-what do you mean?"
+t "Well, if you ever find a boyfriend, I'll find a partner as well, then we can do that thing they do in movies, where bottoms fist bump while laying next to each other in bed."
+t "Getting railed at the same time."
+Ah, that's what it is, the thought is still lewd as hell, but in a different way.
+y sadsmile"I-I guess? Yeah, yeah sure."
+y "I mean, if you want to."
+t "Great, it's a promise then."
+At first I thought his question was just a joke, a real life shitpost... but his content expression and soft smile says otherwise.
+y simple"What... what if it's a woman?"
+t "Then I hope you don't mind if I plant my tongue in your girl's mouth while you're going to town on her."
+y smug"Your gay ass could never."
+t "You're right... but I'd try, for you."
+t "I'd have a guy behind me to take my attention off of it, obviously."
+I'm slowly getting used to the cat's casual dirty words, paired with Scribbles' usual nonsense, conversations like these do not embarrass me as much anymore, still, can't help but blush a little in the end.
+We continue walking and playing.
+We both realize we told each other so many details about our personal lives, yet, we're both dumbasses that can't retain any information.
+t "Would you...punch your father for a thousand dollars?"
+y bored"I mean...he walked out on his wife and two kids, so happily, yes."
+t "Fuck, I forgot."
+y smug"Easiest grand ever."
+y "Uhmm, let's see."
+y "Least favorite food?"
+t "Fish damn it!"
+t "I must've told you at least twice already."
+y simple"Ah...we need to take notes sometimes."
+t "Yup."
+This walk is the most fun and relaxing activity I have done in a while, even if I'm carrying over a hundred pounds of cat in my arms.
+After only twenty minutes of playing and walking, the entrance to the forest and the edge of the town come into view, as we pass the barrier with no interruptions.
+y s"My turn and last question."
+y smug"Never have I ever: recovered from a severe lack of magic and sleeping drugs in a matter of minutes, but didn't tell my friend, because I like being carried bridal style?"
+y "Never have I ever: recovered from a severe lack of magic in a matter of minutes, but didn't tell my friend, because I like being carried bridal style?"
+He raises his hand and puts a finger down.
+y smug"{i}'Paralyzed'{/i} my ass."
+t "What can I say?"
+t "Something about this experience feels nice."
+t "My very own muscle carry man."
+y "You're a rascal."
+t "What gave it away?"
+y "You kept readjusting your ass every two minutes."
+t "I had to, you refused to change the positioning of your arms, it was getting uncomfortable..."
+y ec"That's because I'm a great detective, everything was calculated!"
+t "Haha..."
+I put him down, gently, since even though he's now fine, he still hasn't used his legs in a while.

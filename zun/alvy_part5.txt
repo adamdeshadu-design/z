@@ -1,0 +1,57 @@
+
+un bored"You’re not… blowing it, if you care about my opinion."
+y simple"You think so?"
+un simple"Yeah, I can tell, he clearly likes you to some extent."
+un "At least I know for a fact he would not be spending the night in the same room with you if he didn’t. Even if the beds are separated."
+y sadsmile"Thanks… I needed to hear that."
+y "So are we good?"
+un eyeroll"Yeah, sure."
+The crack in the darkness becomes bigger as his response leaves his mouth.
+y pf"Should I be concerned about that?"
+un worried"N- I, I think it’s nice that you visited, now you should go into that dog’s dream."
+y bored"So yes, this is concerning."
+un ang"Just to me! Now get the hell out already!"
+y worried"But what ab-"
+un "I SAID GOODBYE!"
+y "Geez, alright."
+y simple"See ya in the morning then."
+y pf"{size=*0.5}Grumpy butt… lucky I like you.{/size}"
+y simple"So… how do I get to Alvy’s dream?"
+un bored"You can just run in the opposite direction, through the darkness and you should be there."
+y s"Thanks."
+y pf"You’re not pranking me though… right?"
+un "No, I’m not, that’s how I’ve been getting into your dreams at night."
+y "I’m going to trust you. Because you’re my friend and I value you dearly."
+un ang"{size=*2}J-just go already!{/size}" with hpunch
+y smug"I can feel your blushing as I walk away~"
+No response, and as I turn around, no Scribbles either, no crack in the darkness, just regular darkness.
+y simple"Am I… already there?"
+blur 20
+My words are cut short by a bright image slowly fading in and covering my vision like a blanket.
+My mouth does not move, my eyes do not blink, I can’t feel my body at all.
+As if I became part of the scenery.
+And my mind also...also-
+al "Can I touch him?"
+aun "I wouldn’t recommend it."
+al "But he’s so cute!"
+al "Why does he have a watch?"
+al "He’s handing it to me."
+aun "Do not touch that either. Remember when he tried to give you that pencil?"
+aun "Your mother would kill me if you got another cheek scratch, and you were lucky it was only that."
+al "Yeah… I guess."
+al "But what’s the point if I can’t even pet them?"
+aun "Some things are best left for your eyes alone."
+aun "Nightfallen don’t exist FOR us, they exist WITH us."
+aun "You are very gifted, Alvy. If only you had a chance to learn more."
+aun "But not under her watchful gaze…"
+blur 20
+aal "Yes, dear."
+aal "They’re at it again."
+aal "It’s the last time I call my sister to get rid of a random Nightfallen."
+aal "Any other hunter would become suspicious of so many of them around our home… so we don’t have a choice."
+aal "But we’ll keep a closer eye on him."
+aal "We don’t want her to give him any… ideas."
+q "The narrator makes a surprise comeback as the rays of the morning sun touch your eyelids, and the birds sing through the opened windows."
+q "A chill runs through your body with the breeze flowing through."
+q "You slowly turn around, with a confused look on your face, since this night’s dream still needs answers…"
+q "Your confusion turns to surprise when you realize the bed next to you is empty and cold."

@@ -1,0 +1,539 @@
+."
+t "Men are so stupid."
+That guy wouldn't accept a blowjob and those two signed after some flirting...?
+un bored"Chill out, Snow White, you're not the fairest of them all."
+un "You'll need more than looks to convince."
+t "We have to hurry back."
+t "Take my hand, I'll teleport us back."
+y pf"Hmm."
+y "Five...one...one...two..."
+y surprised"Wait, we only have nine signatures!"
+t "It's fine, I made my peace with it already, we were close, but the Headmaster was right."
+y simple"But..."
+t "Shall we go? Hang on tight."
+He takes my hand with a last warning and we teleport away.
+This is the first time I experience something like this, and my landing was not very graceful, but I managed to remain on my feet.
+We arrive a minute early, right as the Headmaster rounds the corner and enters the room together with a worried Merina, who quickly brightens up when she sees Tate with the list in hand.
+h "Ah, you are just in time, let's hear the news."
+h "And if that smile is genuine, then I'm bracing myself to faint already."
+Indeed the cat had a smile on, but once again, the eyes gave him away, his pupils were shaking as a thin layer of liquid made them refract in the light.
+t "Well.. here it goes, long story short, we didn't get to-"
+y ec"Disappoint you on the first day!"
+t "I'm sorry?"
+At that moment, the decision was clear.
+I have been lying to myself for some time that any other choice could be made at this point, so I take the paper and sign my own name on it.
+The three people are taken aback by my decision.
+The Headmaster accepts the list hesitantly, looking at me through squinted eyes once he reads it.
+h "Name Name two...?"
+y simple"hm?"
+y pf"Oh, I forgot that's not how that works..."
+m "I'll fix it for him..."
+m "What is your last name again, [name]?"
+y s"[name2]."
+m "[name] [name2], understood...and are you sure?"
+h "A last second decision?"
+h "It's not what I expected from you."
+y ec"It is not last second, I've been thinking about this for months."
+y s"I admit I have had my doubts for a little while now, but Tate's dedication really inspired me and solidified my decision."
+t "I did that?"
+The Headmaster looks impressed and annoyed at the same time while holding the new list.
+His expression turns to confusion again.
+h "There are only nine in here, counting yours."
+t "I knew I should've paid more attention in math..."
+y simple"Huh?"
+h "It would seem like even your chivalry couldn't-"
+y "Oh, wait, sorry, just a second."
+I take the list back and write the name of the guy from before, Connor Murphy.
+un curious"You really forgot to sign him?"
+Don't blame me, I was under a lot of stress!
+y s"Here."
+Everyone other than the Headmaster breathe out, relieved.
+He reads every single name on the list one by one, twice, to see if there are any mistakes, but he just can't find any.
+I wouldn't be surprised if he memorized every name in this academy already.
+h "This looks legit, for now."
+h "I do, however want to remind you-"
+y bored"The signatures won't be valid if they don't pass the auditions, got it."
+m "Speaking of, where should we hold the auditions this year?"
+m "There are a lot of empty training rooms right now."
+m "The biggest one, in the East wing could-"
+h "No, not a training room, we'll use the arena."
+m "Won't the arena be busy tomorrow?"
+m "We're holding practice sessions the whole day."
+h "Yes, and I think that would be a perfect opportunity for the new students to audition, no?"
+h "Just give them a bit more of a challenge than the others."
+h "I decided to spectate the event as well."
+h "I know teachers usually don't get involved, but since it's my first year I want to see with my own eyes what everybody is capable of."
+t "Hey, the practice is supposed to be our free time and...and-"
+A chilling stare shoots at Tate.
+t "And... I think that's a great idea!"
+m "Understood, I'll make the new plans for tomorrow then."
+h "Good."
+h "I suppose I don't have anything else to complain about."
+y bored"Aren't you forgetting something?"
+h "Hmm?"
+h "What would that be?"
+y "Me and Tate just did the impossible, at least what YOU thought to be so."
+y simple"Don't we get anything, at least an apology?"
+y pf"You were {b}wrong{/b}."
+Once again, everyone holds their breath, waiting for the lion's response.
+t "Please don't aggravate the lion dude..."
+h "{b}IF{/b} these signatures are proven to be valid, then you have my sincerest congratulations."
+h "And perhaps a credit bonus can be discussed in the future."
+h "Are you satisfied now, mister [name2]?"
+y ec"I'm all good now, sir."
+h "Then if nobody has any more interruptions, I'll take my leave, good day."
+Watching the Headmaster leave, one single worry remains on my mind, and that is Coal.
+I hope he can pull his weight, magicless as he is.
+He is a recommended student, but if he's anything like me...
+Actually, it seems like another problem arises, as a teary cat jumps in my arms.
+t "You did it!"
+t "You madman!"
+t "You're such a badass!"
+t "Wow, I can not believe someone that can't recognize a trap in the middle of the day would get me out of trouble."
+m "Even I fail to do that sometimes..."
+m "I'll leave you two to it now, I need to find Ollie and discuss these audition plans."
+m "Honestly, the Headmaster needs to tone it down with the changes around here."
+t "You should propose that to your new lion friend the next time you see him, [name]."
+y pf"He's not my friend."
+t "What?"
+t "Already jumped to lovers?"
+y bored"Ugh, you're a headache."
+t "I've been told so many times."
+m "Something tells me you two will get along just fine, have fun!"
+y ec"See you later, Merina."
+She leaves, swinging her tail lightly, and my eyes can't help but follow her until she's out of sight, as even my legs take a step towards the direction she disappeared to.
+t "Hey, hey, eyes here buddy."
+un "Busted."
+y surprised"Huh?"
+t "Did you get smitten or something?"
+t "What, am I not sweet enough for your eyes?"
+He turns around and swings his tail and hips the way Merina did, but approaches me while doing it, instead of walking away.
+y awkward"N-no that's not it, you're cute, I mean, cute too."
+y "I-I mean, Merina-who??"
+t "Ah, the sweet smell of insecurity."
+t "Don't worry, you can't escape my grasp anyway."
+y "What does that mean?"
+t "Oh you know..."
+y "I... don't."
+t "Then let me show you~"
+y confused"Huh?"
+t "Aaand it looks like we have company already."
+t "It's been nice not being tailed for two hours, at least."
+A wild tiger and wolf appear just as Tate's sharp ears predicted.
+Two for the price of one.
+Aiden's hand stopping whatever Tate was about to do...
+Dallan comes in with the energy of a lost puppy reunited with its owner, his tail wagging aggressively.
+While Aiden is as cool as ever, just a little angry at the cat's lack of personal space awareness.
+Those two do make a nice Yin and Yang.
+d "Hey there, [name]."
+a "Still here?"
+a "Do you want another speech from mister boredom over here?"
+d "I wasn't that boring!"
+d "W-was I?"
+t "I don't know, I was asleep."
+d "oh."
+y "I was just helping Tate complete his list to get out of detention."
+a "Ha, good luck with that, the Headmaster likes giving impossible tasks just to see you struggle and punish you in the end."
+a "He's a prick."
+d "Language!"
+a "Sorry."
+Aiden looks me dead in the eye, shaking his head.
+y "Actually, we completed the list."
+t "I'm officially a free cat!"
+d "Nice job!"
+d "I knew you could do it, even if you had some help."
+a "No you didn't, you were complaining you'll have to spend time watching him in detention for the next three days."
+d "I was just preparing for the worst case scenario..."
+t "{i}'Worst'{/i}?"
+t "Gee, thanks guys, suuuuch great friends you are."
+a "I'm not your friend."
+t "Now if you'll excuse me, I'll take my ACTUAL friend, and spend some quality time with him."
+t "The one that actually CARES about my well being."
+t "How does that make you feel, Aiden? Being left behind by your friend?"
+a "I literally prayed for your death many times in the past."
+d "He's joking."
+a "I'm not."
+d "Haha, he's such a jokester, this guy!"
+d "He's not usually like this, [name], I promise."
+a "Instead of spending time with this leech, you can do something that is not a complete waste of time and come with me and Dallan."
+t "And do what? Crochet?"
+a "Get familiar with the school, something that you would technically be best at, but you're too childish to do."
+t "Sorry, can't hear you over the sound of boredom."
+a "That... doesn't even make sense."
+t "Your face doesn't make sense."
+a "Grrr..."
+a "Calm Aiden, a single punch from you would kill him."
+t "He's talking to himself now, cool."
+t "See, [name]?"
+t "Nuts."
+t "And not the good kind."
+d "Aaanyway, what do you think, [name]?"
+d "We're serious about the offer."
+d "It's your time, you choose how you want to spend it."
+
+--- CHOICES ---
+→ Do I want to go with Tate or stay in this room to see what other interesting things might happen?
+→ Go with the cat.
+→ Stay here.
+→ He brings the back of his hand to his forehead sighing dramatically.
+→ He teleports away without another word.
+→ What a grateful cat...
+→ He and Dallan power walk away, starting to run as soon as they get to the hallway, passing Merina that was just entering.
+→ My social savior is here!
+→ She says nothing, instead, looks around with an unsure, slightly worried expression.
+→ Complete silence follows, as we are the only ones in the room.
+→ She gives a slow nod.
+→ She dips her head again and gives a polite smile before walking out the door.
+--- END CHOICES ---
+
+y ec"Another adventure already?"
+y "Sign me in!"
+t "Woohoo!"
+d "Are you sure, [name]?"
+d "That seems a little dangerous for a first year, after all you'll be leaving the barrier, if Tate's previous adventures are any indication."
+a "Yes, I think it's best that we come with."
+Tate lets out a warning hiss, that is actually pretty scary.
+You're only ever afraid of a cat when the serious claws come out, and this is that kind of moment.
+Both guys are taken aback, even more than I am.
+t "I think you forget I'm no longer a little baby you have to follow around everywhere."
+t "Me and [name] can handle ourselves."
+y smug"How dangerous can it be?"
+d "Well..."
+d "If we take out the few {i}'existence erasing'{/i} Nightfallen that were still roaming the forest..."
+y simple"The existence- what now?"
+a "Hold on..."
+a "Shit, Dallan, Chelsie texted, we got a code {b}W{/b}."
+d "{i}*gasp*{/i} A witch hunt? Already?"
+a "Those damn defenders..."
+d "I leave them alone for ten minutes and they commit atrocities..."
+a "Alright, you two do whatever you want, but don't come back crying when you get caught by a pack of Nightfallen."
+d "And be back before dinner time."
+t "Thanks for the warnings, dads..."
+y simple"Wait, what was that about the exist-"
+t "Let's go before they take out the ruler to make sure we're appropriately far away from each other."
+d "Can't wait to hang out later!"
+Not wanting any more distractions to stop the curious me from following him, the cat pushes me towards the door while covering my eyes.
+This way, I can't see any new people to intoduce myself to.
+Thankfully, this is the first floor, so no stairs to be wary of.
+We walk outside of the building, now standing on the main street, stretching all the way to the main gate.
+My questions from before remain unanswered.
+Existence- what...?
+y s"So, where are we going?"
+I turn around to face the cat that now is trailing behind, even if he was the one most excited for this {i}'adventure'{/i}-
+But he's gone.
+y confused"What the-"
+un tease"Ha ha, he ditched you already."
+un "Probably looked at your fat ass for too long and changed his mind."
+un "There are limits to how submissive and breedable someone can look before it's just too much."
+I'm not sure if I should be offended or not...
+He reappeared!
+t "Sorry, I needed to check on something."
+t "Shall we?"
+y pf"That's ok, my heart totally didn't almost die from disappointment."
+y s"As I was saying before you teleported away, where are we going?"
+t "There's this abandoned place in the forest I like to hang out around, let's go there."
+y "Sounds interesting."
+un bored"More like creepy."
+un "I'd ask for more information about this {i}'abandoned place'{/i}, but what do I know?"
+un "I'm just an ancient, wise demon."
+t "I see you're looking towards the main gate, and no."
+y simple"No?"
+t "No, I haven't used the main gate in years, so you won't either, why waste time walking when you can fly?"
+He hops on his broom again, and signals to me to get on as well.
+I do as he wants, although very nervously.
+Very...very nervously, in fact, I might say this is a bit terrifying.
+y worried"Oh God..."
+t "What's the matter?"
+t "We already flew together earlier."
+y worried"Y-yeah, but like, four feet off the ground... not all the way over the academy's walls."
+t "You'll be alright, even if you do fall, which won't happen, I can teleport AND make you float."
+t "So there is almost zero percent chance for you to get injured."
+y "That's reasonable."
+t "And, you can hold onto me for extra security."
+I do exactly that, both for my safety and for a chance to touch his body.
+It was a little weirder than I thought, I already forgot his belly is completely exposed, so the heat and softness of his fur were a bit of a surprise.
+I instinctively stab my claws in his skin as we get off the ground, he winces but doesn't complain.
+He probably realizes I'm scared, even if, as he said, I basically can't hit the ground, ever, even if I fall
+His hypothetical promise of safety is enough to calm my nerves, slowly, as we ascend.
+My negative emotions dial down together with my fear of heights, replaced by excitement, happiness and a bit of adrenaline pulsing through my veins.
+My claws also retract, leaving only my fingertips pressed against his belly.
+He visibly relaxes as well, thankful for the pain relief, and starts to purr softly and calmly.
+y sadsmile"Sorry for the claws."
+t "Meh, not my first rodeo."
+y "This... this is actually really nice."
+t "It's a great way to cool down on a warm day."
+He's going at a slow pace for me, although I know for a fact he would step hard on the gas if it were only him on this broom.
+t "Hey, look over there."
+He points to my left, where the academy's rooftops rise on the hill, a park serving as its main campus, melting into the open streets full of residential houses and smaller buildings of the town.
+The sun, still up in the sky, is barely obscured by the top of the grand building.
+The shadow play is impressive.
+y surprised"That's beautiful."
+t "Perfect for flying, since the sun doesn't get all up in your face."
+y s"Can you fly like this on any broom, or is this one special?"
+t "I can use almost any object, even a chair, as long as I pump enough magic into it."
+t "But I like brooms because they look cool in the air."
+t "{i}Is that a plane, a bird, a witch?{/i}"
+t "{i}No!{/i}"
+t "{i}It's {b}Phantom!{/b}{/i}"
+y confused"{i}Phantom{/i}?"
+y "Is that a new nickname?"
+t "Yeah, you know, I fly, and teleport, and my magic has this blue hue to it."
+y bored"Please drop it."
+t "Is it that bad?"
+y "Almost as bad as {i}'Tartarus'{/i}."
+t "Maan, I thought I had it this time , back to brainstorming then."
+y simple"Speaking of teleporting."
+y "Uhm, not to imply I'm not enjoying the ride, but wouldn't teleporting there be faster?"
+t "I can only teleport a couple of times a day, and I already did about four times, plus taking someone with me takes a lot of magic."
+y smug"I can get used to this."
+y simple"I'm still not great with heights though."
+t "We're almost there."
+t "The secret is to clutch the broom with your thighs, not butt."
+t "This way it's more comfortable, and you work out those thigh muscles."
+y smug"Big thighs save lives, after all."
+t "Waaay too many people would agree with you."
+We enjoy the slow ride in silence, I've never been on a plane, helicopter, air balloon or anything like that, so Tate lets me focus on the view.
+After some time, I start studying the peculiar cat's movements instead.
+He watches every bird that goes by with the corner of his eye.
+He keeps his ears extra sturdy, as if trying not to let the wind take his hoodie off, even if he never had it on in the first place.
+His head naturally seems to be attracted by different spots in the forest underneath us, like the lake, a flower rich hill that looks very warm and cozy, would love to lay in there someday, and the train tracks he mentioned earlier.
+It's only been a couple of hours since we first met in the forest, but I already have mixed thoughts about how to describe his personality. Up here, he looks peaceful and calm, but still curious.
+While on the ground, I find it hard to not pull him by the ears at times.
+Needless to say, I'm looking forward to spending time with him, and getting to know him better.
+t "Ladies and gentlemen, if you look right below you to your left, you'll notice our final destination for the day."
+t "Keep your seat belts fastened and your phones off, so we can land this thing without crashing."
+y simple"We can crash?"
+t "Sir! What are you doing in the captain's cabin?!"
+y "You mean pilot?"
+t "Oh, now you're teaching me about my own profession?"
+y bored"Sorry, geez, I'll get back to my seat."
+t "Thank you."
+t "And for your information, no, we can't crash, I'm a master at flying, watch."
+T "Although, hold tight."
+I learned not to take words like that for granted, so I hold on for dear life, with both my thighs and claws.
+And good thing I did, since Tate decided to do a loop in the air, just above the treetops.
+y surprised"Woah!"
+un cry"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHH!" with hpunch
+My own surprise was cut short by Scribble's absolute terror filled scream.
+un "AND VERY REASONABLY SO!"
+un "TELL HIM NOT TO DO THAT AGAIN!"
+y ec"Hey, that was fun, let's go again!"
+t "I knew I liked you for a reason."
+un "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!" with hpunch
+We do two more loops before Tate finishes our descent.
+I had nothing to eat since morning, so I'm not afraid of getting sick.
+My feet touch the ground, and I take my first actual look around, seeing that we landed in a clearing in the middle of the forest.
+t "What did you think?"
+y smug"You sure know your way around a big piece of hard wood."
+t "Ha! Wood really is my specialty."
+He sits sideways on the broom, floating in front of me.
+Scribbles, you ok?
+un cry"N-no, I think I'm sick."
+How? I'm completely fine.
+un "I don't fucking know!"
+un "Ughh, I'll get you back for this."
+I feel a bit bad for doing him dirty like that, but at least my 'pilot' had fun.
+t "So, here we are."
+t "I landed a bit farther away from our actual destination so I can give you some general directions."
+y confused"General directions?"
+t "If you take the path right behind me, you'll get to the main road, which you can take to get back to the academy, if you go forward, you'll get to an abandoned train wagon, it's waterproof."
+y simple"Cool?"
+y "Uhm, why do I need to know that?"
+t "Just in case I mess up the coordinates when I come back."
+y "Come back?"
+t "It will take just a second."
+y angry"Hey!"
+un tease"Haaa!"
+un "He left you for dead."
+un "What a dumbass, following a stranger to the middle of the forest."
+un "This is it, this is my revenge."
+You didn't do anything to contribute to this!
+un "Call it fate, darling."
+Shut up... I still have my phone for emergencies, but he said he'll be back.
+Although... what do I do till then?
+What does one do alone in the woods waiting for a friend that might or might not come back for them?
+
+--- CHOICES ---
+→ Hmm... I could...
+→ Take a look around.
+→ I choose a random direction, one that doesn't lead to the main road or the train tracks and walk that way, getting some branches out of my face.
+→ I am only a couple of steps away from the clearing, but something steals my attention.
+→ Just ahead, at the bottom of a tall tree, stood a small, featherless chick.
+→ Pitiful indeed, as Scribbles mentioned, but not unworthy of kindness.
+→ I take a paper bag from my backpack, put the chick inside, place the bag between my teeth and get to climbing.
+→ I forgot I'm not that great at climbing, and the tree had no low branches, so it was extra hard.
+→ We're not all expert climbers...
+→ With a bit of struggle and a broken claw later, I get to my destination, and gently place the baby in its nest, along its two siblings.
+→ A worried cat appears from between the rustling bushes.
+→ His eyes change to confused amusement when he sees me clutching a tree branch with all my limbs.
+→ He flies up above my head, I grab the end of his broom and he begins to slowly descend.
+→ Tate looks relieved, and satisfied as well.
+→ Take a seat and wait for Tate to come back.
+→ I take out my phone, happy that I have signal, even if it's faint.
+→ I was hoping for some fun notifications to interact with, but there was nothing other than a game update.
+→ Our argument is cut short by a flash of blue light.
+→ Which surprisingly, didn't scare me as much as I thought it would.
+→ Take the main road back to the academy.
+→ I start advancing through the bushes and low tree branches until I find the road the cat mentioned, and begin my walk back to the academy.
+→ I walk for another minute in silence, trying not to sulk too much, after all, I still have Dallan, Aiden and perhaps Merina and Ollie to hang out with.
+→ Maybe those guys won't leave me in the middle of the woods alone.
+→ Maybe that is the bright side.
+→ Frantic rustle of leaves can be heard getting louder and louder.
+→ Then a crash.
+→ We fly back to our original spot in silence the rest of the way.
+→ It really was stupid of me to walk away like that.
+→ What was I thinking?
+→ I sure hope this wasn't like a...life altering decision or anything.
+--- END CHOICES ---
+
+We walk side by side out of the clearing, our tails brushing against each other almost as much as our pelts and clothes touch the thick bushes all around.
+Somehow I didn't notice until now, but apparently, when he teleported back from his totally secret spot, he made a quick stop by the cafeteria.
+He hands me some kind of cheese filled pastry he brought in a small kitchen cloth, which I gladly accept, since I didn't eat anything since morning.
+y s"This reminds me."
+I reach into my backpack and fish out two ham sandwiches my mom prepared for my lunch, and hand one to Tate.
+We munch ravenously on the gluten rich meal while walking further, a happy tune escaping Tate's throat at times.
+t "Did your mom cut this ham straight off an Angel's thigh, because it's heavenly!"
+y "She likes to marinate individual slices since she doesn't think the store does a good enough job with the seasoning."
+t "Brilliant."
+The small plastic wrap from the sandwiches gets picked up by the wind as I was trying to throw it back in the backpack, getting stuck in a bush.
+Tate quickly sprints towards it, grabs it, as well as an old candy wrap that was lying on the grass floor nearby, and comes back.
+It's safe to say he doesn't appreciate litter.
+We share a water bottle as well, and once we're done, I decide to press for information.
+y simple"Hey, Tate?"
+t "Sup?"
+y "Why did you leave all of a sudden earlier anyway?"
+t "Here we are, my favorite spot!"
+t "Or one of them at least."
+y confused"The train tracks?"
+y "Ok?... but why did you leave m-"
+He puts his finger up against my lips, hard enough that I can feel the pressure on my teeth.
+t "Shhhh."
+t "Tell me, dear [name]."
+t "Do you live with your mother, still?"
+y simple"Is it that obvious?"
+t "Fatherless as well?"
+y "Accurate again."
+t "How many sexual partners did your mother have in the past year?"
+y blushmad"What the fuck?"
+y "How should I know?"
+y "A-and more importantly, why would I ever tell you that?"
+t "See?"
+t "There are things you don't want to tell me for personal reasons, and I won't make you."
+y bored"Ah."
+y "I understand now..."
+y simple"But I think it's unfair to compare that to why you left me alone in the forest for a while."
+y pf"I mean, how would you like it if I asked about your dad's riding rounds with your mom?"
+t "Wouldn't bother me."
+His smirk is kind of bothering me.
+y "Alright then, how many?"
+t "Zero."
+y simple"..."
+y bored"They're separated as well, got it."
+y pf"Well, in that case, how many dates did either of them go to in the last two years?"
+t "Zero."
+His smugness is still there.
+y angry"H-how many times did any of them kiss you on those fluffy cheeks of yours?"
+t "Zero."
+y simple"Damn, strict parents."
+y "Birthdays?"
+t "Zero."
+y worried"Hugs?"
+t "Zero."
+y simple"Wow, your parents must really hate y-"
+un squint"Holy shit, he doesn't have parents, you fucking dumbass!"
+y "Oooooh..."
+y "You're an orphan..."
+t "Finally."
+y "I'm so-"
+t "Oh but hold your pity, it's been a loooong while now, it doesn't affect me."
+t "I've decided a long time ago I won't sulk, depressed, disconsolate, sorrowful, dejected or miserable all day."
+t "I hate sad people."
+t "There's always something to smile about, like these!"
+He hops on one of the shining, red, steel beams and tries to hold his balance with his arms.
+His tail is moving uncontrollably, coiling and swinging making him lose the balance his limbs try so hard to keep.
+So I give him a helping hand which he happily accepts.
+t "Or this."
+He squeezes my hand a little tighter, making me blush.
+y blush"I was wondering throughout the day why you know so much about the academy."
+y "And a lot of people know you well despite being a first year like me."
+y "I'm guessing you've been living here for at least a couple of years now."
+t "Wow, it's your turn with our shared brain cell, it seems."
+t "You're right."
+t "The academy building was my playground for as long as I can remember."
+y simple"The building itself?"
+y "It doesn't seem like the best place for a child to be around."
+y "Aren't there sex classes and what not, constantly being taught here?"
+t "There are, but don't worry your little head."
+t "Those meanies made sure I didn't participate, look inside, hear about it or spontaneously teleport inside any classrooms."
+t "The windows were one sided, Aiden placed anti teleportation fields around classrooms, Dallan would lock the doors, and if I did come close, Merina and Chelsie would just push me down the hallway on icy floors."
+t "Kudos to them for taking such precautions, but sixteen-year-old me was REALLY pissed off."
+y "I'm surprised the old Headmaster didn't do anything about it."
+t "Hey hey hey, he was the BEST gosh darn Headmaster this place has ever had, unlike that coward excuse of a lion."
+y "He got under your skin that much, huh?"
+t "You could say that."
+y "Were you the only kid that decided to hang around the academy?"
+t "Kids aren't allowed even close to the main building."
+y "So why you?"
+t "I was... an exception."
+t "The Headmaster, the previous one, mister Sebil, is technically my father, adoptive, obviously."
+t "They never had children, and I never liked staying alone at home or with the babysitter, so I hung around the academy."
+t "I got to meet Dallan, Chelsie, Merina and everyone else."
+t "And with Aiden I have a more special relationship."
+y confused"More special?"
+t "He's adopted too, but we're complete polar opposites."
+t "He likes to think he hates me, but I know the truth."
+t "We were both adopted when we were six, and his dads forced him to get along with me once they found out about me."
+t "Obviously he's older."
+t "That's all I'll say about him."
+t "If you want more information, you should probably ask him sometime."
+For now, I'm a bit more interested in the guy that's holding my hand, and chuckling every time our eyes meet.
+The railroad has no end in sight as we keep walking downhill.
+Beautiful blue butterflies flutter around now and again, as the sun's rays lose more degrees in angle by the minute, and their now golden fiery touch graze our intertwined hands.
+The rays are probably touching more than that, but I don't care about anything else, as there's nothing more important at the moment, than knowing I contribute to giving this cat a genuine smile on his face.
+His tail has been quiet and relaxed for some time now, used gracefully for balance, so my hand becomes useless in his, but as long as he doesn't ask for his hand back, why would I give up on it?
+y simple"Can I ask you something?"
+t "As long as it's not about my hypothetical parents' love life."
+y s"Heh, it's not."
+y "How come this is your favorite place around?"
+y "Not to say the view is not beautiful or worthwhile, but why this part of the forest?"
+t "For starters, the train that passes once a month or so is scary enough that it keeps Nightfallen away."
+t "That means I can camp in peace!"
+t "Do you like camping, [name]?"
+y smug"Why wouldn't I like to sleep in unpredictable weather, get sucked dry by insects and not have any technology around for my basic needs?"
+t "Pff, okay, city boy."
+t "You're missing out."
+y s"Do you camp often?"
+t "Almost everyday."
+y surprised"Really?"
+y simple"Do you not... have a-"
+t "You are really pessimistic, you know that?"
+t "I do have a home, and SHOCKING! I share it with my adoptive parents."
+t "But I prefer the wild."
+t "I'm gonna have to take you to my super cool tent some time."
+y ec"I'd be lying if I said I don't want to see it."
+The rails split in two at one point, and I follow the one Tate chooses.
+Not much further along, we find a derailed locomotive and a wagon, old, rust starting to eat it away, and plants surround it.
+Surprisingly, one of the lights is still somehow functional.
+y simple"That must be disturbing to the few trains that pass through here."
+t "Having to watch the corpse of one of their kind just chilling here?"
+y "Yep."
+Behind some more greenery, a small junkyard catches my eye, which is apparently our final destination.
+t "So, what's your whole deal?"
+y simple"What do you mean?"
+t "Your powers and stuff."
+t "You must be pretty powerful if you were recommended."
+y "Oh, that."
+y "I can manipulate energy to some extent."
+t "That is SO cool!"
+t "Energy manipulation? I've heard stories about you guys!"
+y simple"Stories?"
+t "Yeah, fairytales mostly, since there weren't many people with that kind of magic in some time."
+t "One of the few topics outside of academy history I've been told stories about."
+t "Like this one prince, who brought his kingdom a huuuge energy crystal by slaying a dragon."
+t "He used his magic to weaken the beast, then further to spread the crystal's energy to everyone, bringing people light."
+t "Are you also a magical prince with the power to slay dragons?"
+y "I doubt I'm THAT powerful."
+t "Demons?"
+un bored"Don't you dare answer that one."
+I shrug.
+t "A savage Nightfallen

@@ -1,0 +1,210 @@
+.
+m "This is...very thoughtful of you, thank you."
+She smells them, shyly at first, until the sweet aroma hit her nose properly, at which point she buries her face in them.
+m "And they're delightful as well."
+Ollie studies each specimen type in his gift, blushing more and more as he does so.
+o "I can make tea blends with some of these..."
+y "I'm glad you like them!"
+y "I like you both so it's the least I can do to show my appreciation."
+Somehow I created a warm but also awkward atmosphere with my gesture.
+Ollie is the most grateful for my gift, since now he has something to clutch in his arms, instead of his usual papers.
+un "Pretty sure they're just flustered they just got date gifts all of a sudden."
+You might be right... Still, it was definitely the right move.
+y "Just a second, before we go."
+y "I have a little something for you."
+m "Oh, you really shouldn't have."
+y smug"I insist, you know what they say {i}'at least take me out to dinner first'{/i}."
+Merina's face becomes more and more red, as the contents of the heart shaped box become clearer to her.
+After the initial shock she looks far from upset, but definitely curious.
+m "T-thanks?"
+o "What?"
+o "What is that?"
+She lowers the box and lets the mouse see.
+Instead of red, he turns white.
+I...hope I don't kill him with my flirting attempts.
+He'll need to be much stronger for my next moves I'll pull.
+She chuckles at the mouse's reaction.
+m "Uhm, which one of us is this for, exactly?"
+y "Whichever one wants it most."
+m "My...the confidence."
+m "In that case, I suppose I could-"
+o "I CAN HOLD IT!"
+o "I-I mean, haha, ladies shouldn't carry things around."
+o "Y-you already have your purse and ermm, yeah, I just-"
+m "No need for explanations, here, take it."
+m "I know you like to have something to hold on to."
+o "T-thanks."
+m "Besides, that lubricant is more suited for you, hehe."
+Steam rises from the top of his head, the crisp wind making contact with his hot fur.
+y awkward"We should go before anyone faints."
+m "We really should, after me boys."
+We finally arrive at the actual restaurant, the waves of the ocean can be heard hitting the edge of the cliff far below.
+It is a seafood based restaurant, with an ocean view and marine life decorations.
+Even at first glance, this definitely screams {i}'fancy'{/i}.
+Fancy enough that we aren't even going to enter without somebody to greet us first.
+seb "Good evening miss, sirs."
+A white cat with round spectacles gives the start to our evening.
+seb "I will be your waiter tonight, do not hesitate to let me know if there is anything I can do for you, and please follow me to your reserved seats."
+m "Proper as always Sebastian."
+m "We told you you don't have to bring all that classiness around us, we're friends."
+seb "Miss, if you wish to have fun you're better off going to the {b}Dragon's Burrow{/b}."
+seb "The waiter {b}there{/b} would be happy to act in any way you want."
+o "Self promotion?"
+seb "My father wants more young people in there..."
+seb "Students are too busy nowadays."
+m "Chelsie and Aiden are worth a hundred clients."
+seb "They are scaring away other customers."
+m "That checks out."
+m "Aaanyway."
+m "This is [name], by the way, you two have a lot in common."
+seb "Why, because our fur is white?"
+y surprised "!"
+seb "I expected more from you, miss Merina."
+m "Don't joke like that, he doesn't know your sense of humor."
+seb "Heh, you're right, I apologize."
+seb "Pleased to meet you, [name]."
+y awkward"Pleasure's all mine."
+seb "You'll have a good time with these two, I can guarantee."
+y s"I don't doubt that."
+seb "Here we are and there is the menu."
+Sebastian helps Ollie up on his elevated seat, and I hurry to pull Merina's chair as well.
+A gesture she appreciates with a nod.
+He then does the same to my chair.
+I've never had the chivalry card being played for me before, and this makes me feel nice.
+He places the menu in front of me and lights up the candles.
+seb "I'll be back in a minute."
+Only one menu on the table...
+Everyone waits for someone else to make a move, before Merina's muzzle sprouts a sly grin.
+m "My dear [name], this is your first time here, so why don't you take a look first?"
+m "Then you can order everyone something."
+y awkward"Uhhmmmm, wouldn't it be better if one of {b}you{/b} ordered?"
+y "You know what's good around here."
+o "Everyone's taste buds are different, we don't want your first experience here to be unpleasant because of a failed meal."
+The shy mouse caught up to her teasing as well...
+y "A-alright, I guess I will."
+I open up the menu and look through.
+Crap.
+I don't understand a thing, what is this? French? Where are the pictures?
+m "{i}*cough cough*{/i}."
+m "You're holding it upside down, dear."
+y simple"Oh..."
+Okay, now I can actually get to ordering, just gotta get past my shame real quick.
+I'm running out of time as Sebastian already approaches our table again, as if smelling my anxiety.
+seb "Are you ready to order?"
+Thankfully Merina saves me some time by ordering drinks for the table, a tea for Ollie and some wine for us two.
+But now it's my turn.
+
+--- CHOICES ---
+→ Judging by what I know so far, what would Merina want...?
+→ A satisfying salad.
+→ Sebastian stops writing to give me a strong poker face, then a curious look for Merina.
+→ Surf and Turf Platter.
+→ Grilled fish skewers.
+→ Sebastian looks at Merina for confirmation before writing further.
+→ Seafood pasta.
+--- END CHOICES ---
+
+seb "And for the gentleman?"
+
+--- CHOICES ---
+→ Ollie might want...
+→ Pasta Primavera.
+→ Of course I remember Ollie is vegetarian, I could {b}never{/b} forget that, so I chose a nice, refreshing but filling dish for him.
+→ Honey Roasted Pork.
+→ Sebastian raises an eyebrow at me and looks at Ollie waiting for a response.
+→ Merina suppresses a giggle.
+→ Stuffed mushrooms on mashed potatoes.
+→ Of course I remember Ollie is vegetarian, I could NEVER forget that.
+→ Pizza Margherita.
+→ Of course I remember Ollie is vegetarian, I could NEVER forget that, and since he's hungry as well, this should fill him up nicely.
+--- END CHOICES ---
+
+As for my meal, I kept it simple with a nice steak, medium rare.
+I'm not the biggest fan of seafood, but I can't just NOT order any, we're right next to the ocean for crying out loud, so I settled for a shrimp cocktail as well.
+Sebastian walks away and Merina takes a serious demeanor.
+y simple"Diiid I do something wrong?"
+m "[name]."
+m "At this moment, the Sorcery Shard has not one, but two recommended students in it."
+m "So I just want to make sure I stress this enough."
+m "Do not run around with your head in the sky and chest forward, your title should not be boasted about."
+y simple"I wasn't planning on it."
+y "Unless I did that without realizing?"
+m "No, you did not, that's why I want to congratulate and thank you for it."
+m "We've only known you for a day, and yet, I have a feeling we'll get along far better than expected."
+Her gentle smile comes back.
+m "Excuse me for a moment."
+m "I need to powder my nose."
+She gets up and walks away.
+o "..."
+o "I'm not the only one who dislikes being around people, you know?"
+y simple"Huh?"
+o "Merina is elegant, and beautiful, and royal, but that doesn't mean she's approachable by just anyone."
+o "Not to say she's some kind of snob, far from it."
+o "She likes to make sure people are trustworthy and kind enough to be around her real friends as well as herself."
+y s"Huh."
+y "You speak very confidently about her."
+o "D-do I?"
+y "I can see why you like her."
+o "Y-yea... just no, uhm, not in that way."
+y "Not romantically?"
+o "No no."
+m "What is that about romance I'm hearing?"
+m "Gossiping with the king of tea, are you [name]?"
+y "You came back fast."
+Her black nose has a very thin layer of powder across the whole surface.
+She meant that literally.
+y "Nothing like that, funny thing, I was just asking Ollie here-"
+I glance at him to see if I should perhaps stop talking and not divulge our conversation, but he seems to be okay with it.
+y sadsmile"Asking him if you two have any romantic feelings of some sort, sorry if it's a bit sudden, I might've had the wrong impression at first."
+m "Ah, no big deal, I agree that from the side that might look like it, me being so motherly over him."
+m "But that's how I treat most of my friends."
+m "Ollie is as straight as the fourth of July, after all."
+He rubs the back of his head and chuckles.
+o "Pretty accurate."
+un "I bet he's a freak."
+m "As for me, I'm more fit for the ladies, but I wouldn't say no to any partner that deems themselves worthy."
+y smug"I see, good for you, never settle for less."
+She pops open the wine bottle Sebastian brought.
+Crimson, dark, floral wine.
+Strong alcohol feel, yet very fruity.
+Our orders come one by one as well, and everyone seems satisfied with the meal.
+For half an hour we discuss Shard related things, the life of a new year inside it, to be more precise.
+About other leaders, other friends, teachers etc.
+I remember to ask about my dorm, and Merina gives me my keycard, as well as the lunch and dinner card.
+Not sure why it doesn't cover breakfast either...
+I also remember my things are still inside the academy, so they're going to make Tate bring them to me in the morning.
+I found out Merina can't handle her alcohol at all, so even if we drank only half a wine bottle between the two of us, she is definitely tipsy.
+She even starts to flirt with Sebastian, the server, as he passes by.
+She's frightfully bad at it, having poetic lines such as...
+m "Your skeletal structure must be immaculate because your posture is simply spine-tinglingly perfect! You've got the support of a well-aligned vertebral column and the grace of a ballet dancer. It's anatomically impressive!"
+Thankfully, she's one of the most beautiful women I've even seen, so we all know sexual comments coming from her can not be considered harassment.
+Anyone else would be put on a list.
+Although {i}'sexual'{/i} is a bit of a reach...her words are edging on creepy.
+Ollie is a bit embarrassed about the way she acts, but not concerned, it must be a somewhat normal occurrence.
+Sebastian reassures us that she's always very well behaved, she just gets very attached to anatomy when she's like this.
+In any case, the atmosphere here is far thinner than the moment we sat down, so maybe I can talk about more personal stuff.
+They both told me before about their hobbies outside work and school, so maybe I should occupy one of them by talking about that.
+
+--- CHOICES ---
+→ Who's hobbies should I show an interest in?
+→ Ollie's potion making.
+→ I decide to let the fox do what she wants as long as nobody is bothered by her.
+→ Right now she's busy sucking on some prawn shells.
+→ His ears lean back and he readjusts his glasses.
+→ Unfortunately, there are absolutely countless ways to use those in lewd scenarios, but I better not corrupt the mouse's mind...
+→ I'm not going to force him to tell me every detail of his life, although I could definitely listen to it all...
+→ Merina's art.
+→ Ollie seems to be lost in the steam of his tea that is fogging up his glasses.
+→ Her expression softens as she gets lost in thought.
+→ Instead of disturbing her, I take the silence in as well, living a short, quiet moment.
+--- END CHOICES ---
+
+Our plates and cups now empty, the candles almost burned out and the moons rising higher in the night's sky.
+I'm tired...
+We all agree that it is time to end our little meeting, which at this point, really feels like more than just dinner...
+Merina and Ollie pay for the meal, and I make sure to thank them profoundly for the treat.
+I think they thanked me for my company again? Or perhaps told me to fuck off and get lost.
+It could've been anything, since my mind was not able to focus on words.
+We part ways for the time being, waving goodbye to Sebastian as well.
+The walk to my dorm is a bit of a blur as well, my eyes cloudy and droopy.
+I didn't do much today, except talk and walk, yet, can't say I wouldn't be grateful to finally be close to sleep.

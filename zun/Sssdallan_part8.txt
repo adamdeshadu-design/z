@@ -1,0 +1,746 @@
+?"
+d "Oh…"
+d "I forgot about that part."
+d "But hey!"
+d "He broke the rules!"
+d "He was not supposed to be inside the barrier!"
+d "And tried to kill you at first."
+y determined"Yeah!"
+d "And now…"
+d "Sitting here, with you, and with all that paperwork on the table."
+d "I'm saying…"
+d "FUCK ALL THAT!"
+Y surprised"Woah!"
+d "Yeah, I said it."
+d "I have the right to spend my time cuddled with a friend and enjoy the chilly and quiet night."
+y ec"YOU TELL THEM!"
+Wait cuddled?
+Oh, right, guess this is happening right this moment.
+d "And everyone who treats me like both a child and a God can go to Hell too!"
+d "Ah."
+d "It feels so good saying all this out loud."
+y "I'm glad you finally decided to let it out."
+I can feel Dallan's big arm around my shoulder and my stomach.
+He lays against the wall and I gently fall even deeper into his arms.
+d "Am I the only one who got a little bit hot from our conversation."
+y simple"Same here."
+y simple"Should I let go?"
+d "No."
+d "Let's just get the blankets lower."
+y "That makes more sense."
+d "We're going to fall asleep like this, aren't we?"
+y ec"Yup."
+d "I'm not going to complain."
+d "Good night, [name], again."
+y "Sleep tight."
+y "Do you think this is-"
+y simple"Oh."
+He's already lightly snoring.
+I let out a long breath, the energy remaining inside me from the lamp post goes out with it, and the sleepiness comes back.
+That same energy transformed into light particles, resembling some kind of strange fireflies.
+This is way more comfortable than a bed.
+I am now standing in front of the same door as in my previous dream.
+Except this time, the vines and wood blocking the way are broken, pieces of wood scattered on the ground.
+I have to put some effort into opening it through the vines and greenery, but it finally gives in.
+I can finally go inside as it creaks open.
+The other side of the door contains…
+Nothing?
+No.
+There is a room inside, but it's pitch black.
+I need to find a switch.
+Does it even exist, if you can't see it?
+d "You were too slow."
+Huh?
+d "I should've realized this sooner."
+I don't understand.
+d "How dare you?!"
+Dallan?
+d "Wake up."
+d "Hey, hey [name], wake up."
+My eyes open from a gentle nudge.
+y sleepy"Where am I?"
+d "In my office still."
+d "Sorry to wake you up but you were sliding down…"
+d "Kind of a lot."
+My eyes shoot open as I realize.
+My snout is directly upon Dallan's bulge.
+y surprised"Ah!"
+y awkward"Sorry, sorry, sorry!"
+I sit up and stand at the edge of the windowsill with my hands in my lap.
+d "I-It's fine."
+d "It doesn't… bother me."
+d "W-we should get going."
+d "The headquarters are starting to stir."
+y surprised"Oh no!"
+y "Do we have to call Aiden and Tate again?"
+d "No need, you are a member now, are you not?"
+y ec"Right!"
+y "Almost forgot."
+d "Here."
+He opens a drawer and hands me the defender's badge.
+d "Nobody will question you with this."
+d "Shall we?"
+I open the door.
+d "Oops, forgot my wallet, one sec."
+Too late, I walk out the door and instantly the members come rushing.
+Their faces drop when they see it's not Dallan coming out.
+st "Who the hell are you?"
+st2 "Yeah, where's Dallan?"
+st3 "What were you doing in his office?"
+st4 "Why wasn't I invited?"
+Boy, this was a mistake.
+st "Did he do something to our leader?"
+st3 "Maybe he robbed him!"
+st2 "Let's kill him!"
+st4 "Yeah!"
+What the fuck?
+r "Calm down everyone!"
+r "This is [name]."
+r "The other recommended student."
+st "[name]?"
+st3 "I've heard of you!"
+st "It's the guy with the weird ass name!"
+st2 "Your life shall be spared for now."
+st4 "Our Shard is going to be so strong this year!"
+st "It would be great if the big one would cover herself up more."
+st3 "Someone give her the tailor's number!"
+r "Yyyyeah…"
+r "Let's go to the hall."
+y bored"It would be my pleasure."
+We leave the chattering voices behind as we close the door.
+r "Those people are tiresome."
+y simple "You can say that again."
+r "We didn't get the chance to talk after yesterday's practice."
+r "But I've seen you in action."
+r "You punched that dummy like there's no tomorrow."
+r "Both me and Coal were impressed."
+y ec"Thank you!"
+y "It means a lot."
+y "I've seen you two fight as well."
+y smug"They had to replace the snake from the first round."
+y "Dallan was very excited that you'd be joining the Shard."
+r "Speaking of Dallan, is he in his office still?"
+y "Yeah, he forgot his wallet, should be coming out soon."
+y bored"Although he's usually stuck, having to respond to everyone's questions when he does get out."
+r "I see."
+r "I have to say, I was a bit surprised you already managed to bed a leader."
+r "Guess you got both power and charm on your side."
+r "I'm not judging, I know the feeling."
+y simple"Bed?"
+y blush"W-what do you mean?"
+r "You slept with Dallan last night, isn't that why you were in his office so early?"
+r "I thought I was the first to enter the headquarters this morning then you exited the room."
+y blush"I did sleep there."
+y surprised"Oh!"
+y "You mean-"
+r "Sex?"
+y blush2"No no no no no."
+y "No."
+y "We didn't do that."
+r "Oops, sorry for misunderstanding then."
+r "I suppose Dallan will take a while more to come…"
+r "Too bad, I wanted to speak with him, but I'll be late to a meeting."
+y smileworry"I can pass on a message."
+r "No need."
+r "It's a little private."
+r "I'll see you around, [name]."
+y s"Bye, Rose."
+r "And for the record, I don't think your name is weird, I like it."
+y ec"Thank you!"
+I sit back and wait for the commotion inside to die down.
+As soon as Dallan exits his office, everyone will basically jump in his arms.
+But no loud sounds seemed to start.
+y "Wonder what is taking so long?"
+un bored"Maybe he can't find his wallet."
+un "Or he jumped out the window so he doesn't have to see your face ever again."
+ha. ha.
+y scared3"AH!"
+Three handsome men appear in front of me.
+y surprised"Dallan!"
+y ec"Hey guys!"
+d "Sorry it took so long."
+d "I didn't feel like being suffocated by my members this morning."
+d "So I asked Tate for help."
+a "And I'm here too."
+a "I have to take this one to detention so I have to stick around."
+y s"I'm not complaining."
+t "Come on, [name]."
+t "We're taking you to breakfast."
+t "It's Aiden's treat."
+a "Uhh, first of all, excuse you?"
+a "Second of all, there will be no breakfast for you, we're going to detention right now."
+t "What?"
+t "You're not the boss of me."
+t "I'm going to get waffles with [name]."
+a "I am in fact your boss, Dallan said so."
+a "And you don't need breakfast, you'll be full in no time."
+t "Grrrr."
+t "oh."
+t "Fine."
+Tate was surprisingly quick to agree.
+t "Then we'll see you at today's pair battles."
+a "Cya."
+d "I was actually looking forward to having a full group hangout, oh well, it's just me and you then."
+y awkward"Actually."
+y "I'm afraid I'll have to see you straight at the arena."
+y "I promised Chelsie I'll be helping her this morning."
+d "Heh, I think you've been spending more time with her than I did these past two days."
+d "Are you sure you're not trying to steal my best friend?"
+y ec"I promise I'm not."
+y "She just likes my help."
+y "She has an invention that I have some experience on, so she wants my feedback."
+d "In that case, don't let me stop you."
+d "Having your new and old friends get along with each other is the best outcome you can hope for."
+d "And please don't let her blow you up."
+y "Promise!"
+un tease"Maybe not 'up', but some kind of 'blowing' will be happening, hahaha."
+I would love to punch you right now.
+un tease"Then hurry up and give me a material body."
+un bored"Bitch."
+pass
+This morning was surprisingly tame.
+A lot of mixed emotions are still in the air from last night.
+At least for me.
+Were we perhaps acting too intimate too fast?
+Are we like a thing now?
+Neither of us actually said anything official about it.
+So silence is mandatory.
+But Dallan seemed to still enjoy himself in the silence for once.
+Today's breakfast was a quick one as well.
+y "Dallan, are you ok?"
+y "You didn't eat much."
+d "Hmm?"
+d "No."
+d "I mean yeah."
+d "Yes, I'm fine."
+d "Just don't feel like eating."
+y smileworry"Do you want to go for a walk?"
+d "I would love that."
+y s"Are you nervous for today's team battles?"
+y smileworry"I wouldn't blame you."
+y "The power contrast here is a bit laughable…"
+d "Heh."
+d "You have a quick switch from optimistic to pessimistic."
+d "You know that?"
+y ec"I like to think of it as a fun random quirk I possess."
+d "But no, the battle is not bothering me."
+d "I just have some stuff on my mind."
+y "As long as that 'stuff' is not work related, I'm fine with it."
+y "So, what would you like to do?"
+d "I want to do what you want."
+y "That's not a good enough response."
+d "Is it not?"
+d "I want to spend time with my friends and also make you happy."
+d "So doing what you want will give me more enjoyment than you think."
+y "Alright, in that case."
+y "Will you teach me how to fight in a hand to hand combat?"
+d "I absolutely can!"
+d "It will pair well with that strength and speed boosts of yours."
+d "Let's find an empty combat classroom."
+We walk through the hallways, passing numerous doors.
+Another feeling of nostalgia rushes over me, even if we were in a similar situation only two days ago.
+Dallan seems to be literally sniffing after the best one we can use.
+y "How about this one?"
+d "No… the floor is too hard in that one."
+y "Here?"
+d "Too many people got injured in there, might bring bad luck."
+y "That one?"
+d "Hmmm."
+d "Yes, that one will do."
+d "After you."
+He holds the door open for me and I enter for the first time in one of these specially enforced fighting rooms.
+The room is bright but there are no windows in sight.
+Magic light!
+Or lightbulbs...
+Most of the space was empty except for some sitting spaces, probably for the rest of the class when two students duke it out.
+un simple"I must say, I'm surprised you took the initiative and asked to be trained."
+un "This isn't that much different than regular workout, of which you whined about so much."
+A mischievous grin crosses my face.
+un bored"It's because the wolf has to touch you in this scenario, isn't it?"
+un "Maybe I just found a way to make you want to become stronger through effort after all."
+un "Thank you mister big, dumb wolf man!"
+d "Starting off, [name], what kind of fighting technique do you practice?"
+y s"I like kicking."
+d "Uhm, ok, but…"
+d "What kind of style, exactly?"
+d "For example I specialize mostly in Savate."
+d "A bare-fisted style that uses punches at its core, but I also use simple wrestling as a last resort."
+d "Your turn."
+y pf"I…"
+y "grab their fur and don't let go?"
+y smug"And kick them in the balls as a last resort."
+d "Ouch."
+d "Let's hope we don't pull out our last resorts then."
+d "So I'm getting you don't have any fighting experience?"
+d "Not even self defense?"
+y "I was a straight A student, math is my weapon."
+d "So was I."
+y simple"oh."
+d "But it's fine, let's start with the basics then."
+He covers his eyes with the scarf around his waist.
+y pf"Hey, you don't need to literally handicap yourself…"
+y "Maybe tie your hands and legs up next?"
+d "Trust me, this makes me stronger."
+d "It's the only way I know how to fight."
+d "The scarf has magic in it, it highly amplifies all my senses and boosts perception."
+d "It was a gift from one of my brothers."
+d "Sorry if you think it's unfair."
+d "So please, come at me with all you've got."
+y "You asked for it."
+un bored"Dear diary."
+un "Wednesday of.. whatever year it is now."
+un "10AM."
+un "Right this moment continues a sequence of the idiot named [name], getting his ass pounded."
+un "And no, I don't mean sex."
+un "He just really sucks at fighting big opponents."
+un "The much larger wolf opponent is in possession some kind of low grade healing magic."
+un "Enough to make bruises and trauma based body pain disappear."
+un "So the result is quite gruesome."
+un "As for me, I have retreated to the back of his mind, after he ate the first punch."
+un "I'm not going to feel the pain of his failures."
+un "Even so, he refuses to give up or make his opponent be more gentle."
+un "At first I thought he was getting off on the fact that his crush was touching him, the little pervert."
+un "But it seems he is content with doing his best at defeating the wolf."
+un "Which, although I'm not sure what happens now on the surface, I doubt will happen."
+un "I will be coming back to the outside world when the clock is close to hitting noon, as that is when the so called 'pair battles' will commence."
+un "By the time I do, I expect the physical touch combined with the adrenaline, will make these two mammals have the roughest sex of their lives, and the asshole of this vessel will, how they like to say, 'hurt like a bitch'."
+un "The only way for that not to happen, would be for the feline to somehow mess the interaction up."
+un "But I doubt even he can do that."
+un "This concludes today's journal entry."
+…
+un bored"Aaaand I'm back, what did I miss?"
+un "Are the battles starting yet?"
+Scribbles!
+There you are.
+We are just on our way to the arena.
+un suspicious"What's happening?"
+un "Our ass doesn't hurt and your brain didn't release any oxytocin yet."
+un "Why?"
+W-why would any of that happen?
+un eyeroll"Ughhh, never mind."
+un squint"Fucking loser."
+Wow, ok.
+I think I preferred the quiet you.
+I arrive at the arena again.
+With Dallan shortly behind.
+He looks a little moody still, but more content.
+Tate and Aiden show up behind him.
+t "Great!"
+t "The gang is all here!"
+Me and Tate do a double high five in the air as he jumps in excitement.
+a "I can't wait to unleash my claws on some first years."
+t "[name]!"
+t "Got a partner for today's battle?"
+t "It's ok if you don't."
+t "First years usually don't but that doesn't mean you're the biggest loser on the block or anything."
+d "*Cough Cough*"
+Dallan puts his hands on my shoulders.
+d "Actually, he does!"
+He smiles widely!
+Finally!
+I already missed those big, white teeth!
+t "Woah!"
+a "Dallan will fight with you?"
+t "That's great!"
+t "Then me and Aiden won't have to hold back!"
+a "I never agreed to this."
+t "What?!"
+t "I thought you said yes!"
+a "No… I said 'yeah, when dragons soar the sky'."
+t "But they do!"
+a "Dragons don't exist anymore..."
+t "What?!"
+t "Is that true?!"
+Me and Dallan reluctantly nod.
+d "For about a thousand years now."
+t "Oh.."
+t "Well, then, who's your current partner?"
+a "Shit…"
+a "I knew I forgot something."
+Aiden looks around, most people are standing in pairs.
+And he is reluctant to approach ones that are not.
+In the next seconds, Merina starts the announcements.
+a "Ugh… fine."
+a "It's my fault I forgot."
+a "I guess we're partners now."
+t "Yey!"
+t "Let's go register against these two."
+a "No need, I'll just text Merina, I don't want to miss the first battle."
+We watch the first pairs enter the arena.
+d "Is that the new guy from the Sorcery Shard?"
+y "Coal."
+a "Yep, and the vice leader."
+y surprised"Ollie will fight?"
+y "He doesn't seem like the type…"
+t "He's a small menace."
+d "A vice leader for a reason."
+Their opponents were a first year from the Slayer's Shard, and a Summoner that looked to be a bit older.
+The four of them step in the circle.
+The fight began and ended by the time Aiden took to text Merina his request.
+a "Are you kidding me?!"
+a "What happened?"
+t "That Coal guy shot a laser at the Summoner guy, destroying him and his summoned Nightfallen in one hit!"
+y "And the Slayer just got turned into a goose and ran out."
+Coal tries to go for a high five.
+But Ollie ducks and covers his head.
+Poor guy.
+m "WHAT A FIGHT!"
+m "OR SHOULD WE CALL IT A 'SHOW OF STRENGTH'."
+m "ISN'T THAT RIGHT, HEADMASTER ARGUS?"
+y surprised"The Headmaster?"
+y "What's he doing here?"
+The four of us look up at the commentator's tower and see the large figure of a golden lion sitting next to Merina.
+Watching more like a hawk.
+h "That's right."
+h "We have talented new individuals this year, but the leaders and vice leaders are holding on strong to their renowned seats."
+We aren't the only ones confused by his presence, half the arena was looking up at the commentator's tower.
+Noticing the silence Merina continued.
+m "The Headmaster is here out of sheer curiosity."
+m "Do not worry, this will not be affecting your performance throughout the year."
+m "As always, the battles before classes start are only for our own entertainment."
+Most people calmed down at this point.
+y "Does the Headmaster not usually attend?"
+a "Why would he?"
+a "You heard Merina, it's OUR thing."
+t "Yeah, he should mind his business."
+a "The bitch really needs to stick his fat nose everywhere."
+It seems like Aiden has some things to say about the Headmaster.
+The harsh words almost make Dallan jump.
+d "That's not fair."
+d "I think it's great that he wants to see what he's working with."
+d "It's his first year as the Headmaster too."
+y simple"Dallan has a point."
+a "Perhaps…"
+a "But it still doesn't sit right with me."
+m "NEXT UP, WE HAVE ANOTHER FIRST YEAR THAT SHOCKED THE CROWD AT PRACTICE YESTERDAY!"
+m "ALONG WITH HER SHARD'S VICE LEADER, GIVE IT UP FOOOR-"
+m "ROSE AND CHELSIE!"
+The crowd goes nuts around us, Dallan and I being the loudest.
+d "GO BESTIE!"
+y determined "CRUSH THEM GIRLS!"
+t "GIRL BOSS ALL OVER THEIR ASSES!"
+a "woohoo..."
+m "UP AGAINST THE INFAMOUS SENIOR TWINS-"
+m "TIM AND BUR POWALSKY!"
+They are up against two twin bear brothers from the Sorcery Shard!
+And considering how the first fight went, a good part of the crowd is cheering for them as well.
+a "Hopefully I'll have some time to blink this time."
+As the fight starts.
+t "I love seeing Chelsie fight, even if she has no magic."
+d "Neither of them do actually, right?"
+y simple"I believe Rose has some kind of super strong enchantments, actually."
+d "I see."
+As soon as the bell rings, Rose dashes in the twins' faces.
+Attempting to end the fight quickly.
+But they have the reflexes to dodge and set up barriers.
+y "They look tanky."
+t "Barrier users."
+t "I hate them."
+t "Not you Dallan, yours are sexy."
+d "Aww, thanks."
+One of the bears focuses on defending them both, while the other switches focus to Chelsie, who looks defenseless.
+But her flying boots have something to say about that.
+From the air she throws different gadgets.
+A net, spiked bomb traps and even mechanical snakes.
+Rose appears to be countered by the barrier, but it only takes her one swing to crack it, and another to break it.
+The lightning bolt sent in her direction was a clean hit, but it doesn't affect her greatly.
+She dropped her weapon, picked up the bear and threw him with all her might.
+Which was enough for him to leave the arena.
+Chelsie isn't in any danger, but her attacks are all getting blocked.
+y simple"Chelsie looks angry."
+a "She's boiling over there."
+d "Oh no."
+r "Chelsie?"
+r "Need some help?"
+ch "No thanks, I got this."
+She lands on the ground.
+ch "PARRY THIS YOU FILTHY CASUAL!"
+She pulled out a glock?!
+ch "AAAAAAAAAAAAAHHHHHH!"
+The crowd is not as alarmed as I am.
+y worried"Is that allowed?"
+y simple"Is he gonna be ok?"
+She shoots until her magazine is empty.
+d "Y-yeah, I know, it sounds scary and loud."
+d "But those are just taser bolts."
+d "It's hard even for me to get used to it."
+The bear could parry the tech she threw at him, but the bullets are too fast, and he falls back shaking.
+m "THIS MARKS OUR SECOND VICTORY OF THE DAY!"
+We all cheered once again.
+They deserved it, even if I almost got traumatized.
+m "NEXT UP, YET ANOTHER FIRST YEAR AND VICE LEADER PAIRING!"
+m "THIS APPEARS TO BE A VERY POPULAR CHOICE, UNTIL WE RUN OUT OF VICE LEADERS, OF COURSE."
+m "TATE OF THE SORCERY SHARD AND AIDEN OF THE SLAYERS."
+m "AGAINST [name], THE FIRST YEAR, RECOMMENDED STUDENT FROM THE DEFENDER'S SHARD, ALONG WITH HIS LEADER, DALLAN!"
+y surprised"We are already up?!"
+y "How?"
+y "We got here late!"
+a "Apparently a lot of people got cold feet and pulled out their registration after the first battle."
+d "It must've scared them."
+t "Ha, their loss."
+t "Let's go!"
+t "We're so gonna crush you."
+t "Sorry if you end up crying."
+t "I can't control my immense power."
+We jump down into the arena and wait for the bell to ring.
+d "I need to tell you something."
+y "About?"
+d "You know how I'm immune to magic?"
+y smug"Yeah, lucky you."
+d "Well, I'm not anymore."
+d "I gave my daily protective barrier to you today."
+y shoked2"Huh?"
+y shoked"Why would you let down your strongest move?!"
+d "You underestimate me, if you think THAT is my biggest move."
+d "But the truth is, I don't want to see you get hurt."
+d "And Aiden can make quick work of anyone without strong defense."
+y simple"Then I guess it's up to me to defeat him?"
+d "No."
+d "You'll be fighting Tate."
+d "He's a little silly, but he's still strong."
+d "Plus, Aiden doesn't know I'm no longer immune to magic."
+d "So I should be fine for a while at least."
+y "And if I can't win?"
+d "You will, I believe in you."
+His kind words fill me with hope.
+This will be hard… for both of us.
+But we have to do our best!
+un "Alright."
+un "Do you want some advice or will you pull a protagonist strategy out of your ass?"
+I'll take some advice.
+un "Here's the deal, as soon as you get there, put a lot of speed enchantments on yourself."
+un eyeroll"And forget about the wolf!"
+un "I can feel your mind buzzing while thinking about him."
+un "It is irritating."
+un bored"He's the leader of a Shard, he'll be fine."
+But he has no barrier.
+un "So?"
+un "That doesn't make him useless."
+un squint"Unlike you."
+un bored"So, next you'll run at the cat."
+un "Dodging any projectile he might throw at you."
+Won't he just teleport away?
+un "If he's smart."
+un "But he said that teleporting too much makes him dizzy, so you should be fine if you're fast enough."
+un "Plus, that barrier will protect you from getting teleported in the air or whatever trick he might have up his sleeves."
+un "He can teleport people and objects by touching them, if you're immune to magic, that's a great surprise card."
+un "Then, when you get close, that's where I come in!"
+un "Or the medallion I gave you."
+un "You're going to want to absorb as much magic from him as possible."
+But if I touch him, and teleportation doesn't work on me, doesn't that mean he'll just run away without me?
+So I can't touch him for long.
+un "Then here's another idea."
+un "You'll absorb magic from your own barrier."
+un "Enough for me to cast a spell."
+un "I'm going to make his spells cost more magic to cast, thus, he'll get tired without anyone being suspicious of you."
+Isn't that…
+un ang "WHAT?"
+un "IS IT WHAT?"
+un "I SWEAR IF YOU SAY CHEATING I'LL COME INTO THE PHYSICAL WORLD AND BEAT YOUR ASS."
+un "STOP BEING SUCH A PUSSY."
+un "IF YOU'RE SO WEAK ALL YOU CAN DO IS CHEAT."
+I was going to ask if that will deteriorate my barrier…
+I kinda need it.
+un simple"Oh…"
+un bored"Only slightly."
+I'm kind of sad now.
+un sad"I'm sorry, shouldn't have said all that."
+un "The outburst was unnecessary on my part."
+I'll get over it.
+But it really hurts.
+un bored"I'll make it up to you later."
+Alright.
+un tease"Now let's absorb some magic, get there and kill-"
+un suspicious"I mean."
+un tease"Defeat that cat."
+The bell rings after what feels like ages.
+I don't waste a beat and absorb some magic.
+This… this feels amazing.
+It's like having an orgasm all over my body.
+un suspicious"Ok."
+un "Don't cum in your pants now."
+d "Good luck, don't let the cat bite."
+y "You too, keep away from the tiger's claws."
+t "I knew we'd end up this way."
+t "Friends to enemies to lovers."
+y bored"We aren't lovers."
+t "Not yet!"
+t "Come at me, enemy!"
+y "If you say so."
+I run at max speed towards him.
+All I have to do is grab him and it's game over.
+Easy.
+un "Now I'm in range for my spell."
+un "So if he teleports, he'll get extra tired."
+Just a few feet aaand-
+y determined"Ha, gotcha!"
+For less than a second my hand touches his shoulder.
+Then he grabs my arm, slides underneath my stomach and lifts my body up.
+Slamming me down on the other side.
+t "You thought."
+y hurt"What the hell?"
+y "Ow."
+y "You know martial arts?"
+un squint"Anyone but you, apparently."
+t "I am full of surprises."
+y hurt"It won't happen again."
+Tate gets into what I'd call a movie fighting stance.
+He's kind of cool looking, but also silly, standing on one leg.
+I enchant my abilities then jump him again.
+This time, I'm more cautious.
+So I manage to hit a blow right in his face, which makes him teleport away in panic.
+t "Woah."
+t "I'm already dizzy?"
+t "That quick?"
+un tease"Hehehehe, sucker."
+un "Now you just have to touch him a bunch of times, if you can't grab him."
+un "And suck him off real good."
+un "Drain all his magic!"
+In the meantime...
+a "[name] is holding his own pretty well."
+a "That stupid cat already used most of his energy teleporting around, it seems."
+d "It's just a skill issue between partners."
+d "Wouldn't you say?"
+a "You are…"
+a "Most certainly right."
+a "Unfortunately."
+a "Well, even if I doubt I can beat you myself, I might as well try."
+Aiden throws a mixture of regular and magic daggers at Dallan.
+He blocks them with shields.
+a "Curious."
+a "Why are using shields to block my magic daggers?"
+a "Aren't you completely immune to magic?"
+d "..."
+a "Don't tell me..."
+He looks towards me.
+Standing confidently against Tate's overpowered teleportation spells.
+a "Ha!"
+a "You gave your barrier to [name] today."
+a "That was a mistake, big boy."
+a "You don't think you can actually win against me without that, do you?"
+a "Ohoh!"
+a "How the turn tables!"
+Aiden makes more and more light weapons appear and surround Dallan, he blocks them all with shields, but has no time to counter attack.
+a "Don't mind me, since you're so busy with those, I'll lend my idiot partner a hand."
+d "Grrr."
+He runs towards Tate.
+y worried"Oh no… is he going to help him?"
+a "Here little man, won't even need to teleport with this."
+He snaps in his face, and in a moment Tate turns invisible.
+t "Oh! cool!"
+t "Thanks!"
+a "Sorry [name], no hard feelings?"
+y angry"Very hard feelings actually!"
+He runs back to Dallan, that is now done with the attacks.
+How much magic do those two have to use so many attacks and defenses?
+Aiden seems to have picked up more speed, and is now engaging in close combat with Dallan.
+t "Hey."
+t "Eyes here buddy."
+t "I know you can't see me, but I'm still a threat."
+t "A bigger one in fact! Hahahaha!"
+t "Oh!"
+t "I'm over here."
+t "Now I'm over here!"
+t "Where is he going to attack from?!"
+t "Heuheuhue"
+My heart was not letting me tell him that the sand kind of gave away most of his moves.
+He comes to attack.
+I'm ready.
+un "Go for his legs!"
+un "You know where those are."
+I do a leg sweep and knock him down.
+t "Agh!"
+t "How did you-"
+I slump down on top of him, holding him by his wrists.
+Don't mind me, just stealing all your remaining magic.
+He fires a teleportation spell that I was not prepared for.
+Luckily, because of Dallan's barrier, the spell disappears!
+t "What the hell?"
+t "Are you immune to magic like Dallan?"
+y simple"Uhm.. yeah?"
+He teleports himself away this time.
+t "Ok, obviously I can't win against you, so I give up."
+t "I also don't think I can teleport another time."
+t "I'm suuuper tired."
+t "I am going to surrender now!"
+y simple"Tate?…"
+t "I knew this was a bad idea from the start, you are just way too powerful."
+y bored"Tate…"
+t "All that is left for me to do is shout out my surrender."
+y bored "Tate, I can see your footprints coming closer to me…"
+t "…"
+t "No you don't."
+y bored"Yes, I do."
+t "…"
+He jumps and tackles me, exactly as planned.
+I suck off all the magic he has left.
+Making him pass out on top of me.
+Or more like fall asleep.
+y "Sleep tight, little rascal."
+His body reappears.
+Everyone falls silent, Dallan and Aiden stop fighting to look at us.
+Positioning him with his face up, so he doesn't choke on sand.
+I look up at Merina, she seems surprised, and the Headmaster pleased.
+m "IT APPEARS LIKE WE HAVE OUR FIRST VICTORY OF THE MATCH!"
+m "POINT TO [name] AND DALLAN."
+m "LET'S SEE IF AIDEN CAN PULL THE WEIGHT OF THE TEAM BY HIMSELF."
+I pet his little head then stand up.
+Two students come up and take his sleeping body away.
+a "Damn it, useless cat."
+a "I knew I should've helped him more."
+y smug"Now we remain 2 v 1."
+y "It's my turn to help your partner."
+a "Shit."
+Aiden creates a smoke wall between him and us.
+When it goes down, we are faced by dozens of Aiden's.
+y surprised"Woah!"
+y "Clone jutsu!"
+d "Careful, only one of them is real, but all of them can hurt you."
+d "If I find the real one, do you think you can do what you did to Tate back there?"
+y simple"Uhm.."
+Can I?
+un simple"Yeah, it might take a little while longer, that guy is pretty powerful."
+y determined"Yes, I believe so, I just need to get close to him."
+d "Say no more!"
+Dallan, takes off his jacket and shirt.
+y "W-what are you doing?"
+d "You'll see."
+He takes off the piece of fabric he had attached to his side and wraps it around his eyes.
+His fur is growing, no, not only his fur, his muscles as well!
+Un suspicious"So that's not just a fashion choice, huh?"
+d "A little speed and strength, if you may?"
+I take a second to enchant him, focused on the new, bigger, fluffier chest he had.
+He starts running, at a particular clone in the ocean of clones.
+Does… does he know where the real one is?
+As the clones attack him, he takes them out easily.
+Punching them square in the face, with enough force to kill a man.
+That must either confirm my theory that he knows, or he simply doesn't care if he kills Aiden.
+But that gentle giant would never hurt somebody so ruthlessly.
+Seeing how defending the real Aiden is no use, the rest of the clones divert their attention to me.
+y "Oh no…"
+un "It's fine, clones can't use magic, so just try not to get punched."
+y "Easy to say…"
+Meanwhile, Dallan managed to get to Aiden.
+He panics and makes himself invisible, but that doesn't work on Dallan's keen senses.
+He manages to grab him from the waist and topple him over
+The two are now interlocked and wrestling.
+a "Get off of me, you oversized bear trap!"
+a "You're not getting me to surrender this way."
+a "You're just wasting your time and mine!"
+d "I don't need to win."
+d "I'm just stalling for time."
+Aiden looks over to me, seeing how I take care of his clones one by one.
+He chuckles and conjures a light dagger aimed at my chest.
+It bounces off.
+a "Fuck, stupid barrier."
+d "Magic won't work and I'm not letting you go."
+d "This is over."
+a "Aghh."
+a "You're pressing your dick on my fucking balls!"
+d "I can't help you decided to fall with your legs in the air mate press style!"
+a "At least let me readjust!"
+d "No way, I'm not letting you move a muscle."
+a "Fucking hell."
+a "Alright you asked for it."
+a "Without your barrier, I can just do this then."
+His attacks are easily stopped by Dallan's shields

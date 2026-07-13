@@ -1,0 +1,564 @@
+...instead of hiding like a coward..."
+ra "This is my fault."
+eu "Don't say that...you didn't let the final arrow go."
+ra "But they can't be blamed for that, they were born and bred to follow his commands...even in death."
+eu "At least he's no more."
+eu "We got out from under his madness."
+eu "We're finally free, Ragnar!"
+ra "{size=60}SHUT UP!{/size}" with hpunch
+ra "Don't you get it?!"
+ra "We KILLED one of their own."
+eu "That's not true, {b}we{/b} didn't do anything the Chief was the one-"
+ra "Do you honestly think they'll march in our camp and ask us who did it?"
+ra "As early as tomorrow morning, our tribe will be massacred."
+ra "My brother will tell the story, and we'll be punished for what we did."
+eu "I thought their rules didn't let them kill our kind."
+ra "That is only if we stay out of their business..."
+ra "Killing one of them is definitely a hole in the rules."
+ra "That's what we've been trying to avoid the most, it was just a matter of time until he caught on that our missions to kill their kind were not just failures...but planned to fail."
+eu "We will defend ourselves then, they can't just do that."
+ra "The reason we were powerless against our father was because he had very weak magic at his side, their kind make HIS magic look like a JOKE!"
+ra "Yes, we can kill some of them with some luck, but that would only make them angrier."
+ra "So you're coming with me, to survive."
+eu "We can't just leave our people behind, what about the children?"
+ra "The more people know, the faster the panic sets."
+ra "Should've made a higher effort of saving [name], if we wanted to save everyone..."
+ra "So?"
+ra "Last call, love."
+eu "..."
+eu "All of a sudden, a dragon God sounds like a nice thing to have right now..."
+eu "I'm coming..."
+When a voice stops him, whispering, calm and pleading...
+c "Ku'sani, please think about us."
+The cat does not turn around, but despite all odds, despite the adrenaline, he stops and listens while breathing heavily.
+After all, judging by the particles of ash flying gently his way, the voice's body will become nothing more than a gem any second.
+c "This man is a traitor to you, a liar, a deceiver."
+c "He brought you only sorrow."
+c "He left you, again and again, while promising he is a friend."
+c "He would build you up, and betray you in the end."
+c "Going off to breed with your friends, rather than spend time helping you."
+c "I see you have no more magic, if you take him with you, you might even die."
+c "Why risk yourself with someone like this?"
+c "You got your revenge on me, spare your brethren, and let the ceremony commence."
+The cat's gaze turns to sadness over anger.
+Whatever is going on inside his head, it does not look too promising for the leopard's fate.
+Tears stream down his cheeks, a last look at his once friend, before a bright flash of blue takes him away.
+un scared"What--"
+un "What just happened?"
+wf "Cat gone!"
+wf "Arrows back ready!"
+un "No..."
+un "The- the cat, he was supposed to-"
+un "He was suppsoed to save-"
+wf "Set!"
+un "[name], wake up..."
+wf "Fire!"
+eu "{b}NO!{/b}"
+un scared"!"
+un "[name]?"
+un sad2"[name]...there's no way, you can't leave-"
+un "..."
+un sidee"Hold on."
+un "This heart..."
+un surprised"This heart still beats."
+un "We're still breathing."
+un "What's happening?"
+un suspicious"Brrrr, it's cold."
+The forest all around the lonely leopard turns to ice in an instant.
+Every arrow shattered into a million pieces before they can reach their target, every Nightfallen's feet unmoving, stuck to the ground.
+A graceful white fox with pink hair takes slow elegant steps towards the ex-sacrifice.
+Her expression full of anger.
+She creates a sharp icicle above each Wild Fur's head, but decides to stop her spell when her eyes meet the bloodied, full of arrows body of the once Chief, which turns to ash before her eyes.
+The fox cuts the leopard's ropes with two clean swoops, holding him gently in her arms.
+Nobody dares make a sound, for all they know, God herself descended to save their sacrifice, and damned be the ones that look her in the eyes with anything other than fear.
+And if this {i}'God'{/i} wasn't fearful of the law, no witnesses would've been spared, mark her words..
+A wave of snow carries the leopard's clothes.
+A blue light can be seen inside one of the pockets, matching the one the fox carries around her neck.
+The stone proved useful sooner than expected.
+pause 2
+Our leopard remembers nothing of what happened, and neither does the little voice inside his head.
+He made a full recovery the following day, such are the miracles of healing magic.
+He is even still determined to ace whatever test the Headmaster throws at him.
+But no matter how much blissful ignorance he lives in, one thing he can not shake.
+Why does the cat avoid him like the plague?
+He might've been more concerned with finding out why, but he made friends in others, such as Merina, and Oliver, and Coal, Aiden, Dallan, Rose and more.
+He needs not the cat, so he decides to let go of the few days of memories they shared.
+Faint memories...
+That night's sleep, although in the hospital room, it was peaceful and restful.
+The following day he and the friends he gathered along the way, showed up in town's square, where the Headmaster is about to give start to the test.
+And who am I? So vested in the leopard's life?
+Some might say I'm someone he loved.
+Some might say I'm a nameless individual, looking for my place in the world.
+Some might say I'm the devil.
+Ironically, the leopard is the only one who would respond positively to all of the above.
+And the only one who would respond positively to ANY of the above.
+Everybody should hate me, yet nobody does, because the truth is kept by me and me alone.
+Nobody knows what happened, but the fox's gaze is no longer soft when her eyes meet mine.
+I'd lie if I said it doesn't eat me from the inside out, but it's not much different than how it was before we met, so I can cope.
+In the end, I'm just a cat, a stupid, flawed, sad kitty-cat.
+Anyway, if you've been here before, you know the drill.
+It's almost time.
+The Headmaster gives the starting speech and wishes his good luck.
+The leopard and the other students are teleported inside a forest.
+In the sky, appears a countdown.
+5
+4
+3
+2
+1
+The test begins.
+When a voice stops him, whispering, calm and pleading...
+c "Ku'sani, please think about us."
+The cat does not turn around, but despite all odds, despite the adrenaline, he stops and listens while breathing heavily.
+After all, judging by the particles of ash flying gently his way, the voice's body will become nothing more than a gem any second.
+c "This man is a traitor to you, a liar, a deceiver."
+c "He brought you only sorrow."
+c "He left you, again and again, while promising he is a friend."
+c "He would build you up, and betray you in the end."
+c "Going off to breed with your friends, rather than spend time helping you."
+c "I see you have no more magic, if you take him with you, you might even die."
+c "Why risk yourself with someone like this?"
+c "You got your revenge on me, spare your brethren, and let the ceremony commence."
+The cat's gaze turns from anger to rage, with a scornful look and a wrinkled snout, he turns to look at the mangled, withering body.
+tt "If there is Nightfallen Hell, I hope I sent you there successfully."
+The wild Furs around start to snap out of the initial shock, cowering in fear at their Chief's killer.
+Eureka's sad ears disappear behind some trees, while Ruth sinks to his knees, looking at the ground.
+Thankfully, the cat has bigger problems on his plate than to deliver vengeance.
+With his path blocked by no other soul, he touches his friend's wounded face gently, disappearing together in a flash of blue light.
+A dying voice attempts to call his name for the last time.
+Unfortunately for whoever that is, the nameless cat is in no mood to listen to whatever nonsense any Nightfallen has to spit.
+Twice kidnappers, attempted murderers, betrayers...
+He pushes further without looking back, with no intention of stopping, or listen to anyone.
+With nobody else daring to interfere after their Chief's fate, he touches his friend's wounded face gently, disappearing together in a flash of blue light.
+pause 1
+Birds are singing, daisies are still in full bloom.
+Daisy...the flower of innocence, of purity, of new beginnings.
+The fading rays of evening sunshine gently caress the two sleeping felines, casting a warm glow upon their peaceful forms.
+The leopard still remains under the lingering influence of the drug, while the cat has exhausted his magical reserves completely.
+Not only did he exceed the limits of teleportation, but he also employed a potent spell fueled by intense emotions, further straining his fragile body.
+Against all odds, he mustered the last vestiges of his power to race to the side of his ailing companion.
+With tender eyes, he gazes upon his friend, relieved to find that the once visible wounds have vanished without a trace.
+Whatever the mysterious cause may be, a sense of contentment washes over him, filling his heart with gratitude.
+And with a final smile adorning his weary face, he allows his eyelids to close, embracing the well-deserved respite.
+He was warned before, that magic will be his doom.
+Yet, he can not bring himself to hate magic for his own recklessness, the same way you don't hate a knife for self-inflicted wounds.
+tt "You'll be okay, you're home now..."
+tt "Don't worry about me, I was never afraid of death..."
+tt "It's just...{i}*yaaaawn*{/i} sleeping, but longer."
+tt "..."
+tt "..."
+tt"..."
+As the last flicker of magic fades, the remnants of birdsong and rustling wind subsides as well, leaving behind serene silence.
+...
+Soft fur tickles his ears.
+Warm fingers caress the back of his head.
+The wind runs chill through his body again.
+x naked"Good morning, sleepyhead."
+tt"..."
+The sweet embrace of death played tricks on him, or perhaps he simply overreacted.
+The only things he knows for sure...is that the light at the end of his tunnel is smiling warmly at him on a flowery hill.
+tt "Hi."
+...
+{i}A couple of minutes prior.{/i}
+un scared"You're out!"
+un "WE're out!"
+un surprised"He saved us!"
+un "THE CAT SAVED US!"
+un "[name]! Wake up!"
+Mhhhmm....ten more minutes.
+un ang"YOU WERE DRUGGED AND YOUR LIFE WAS ON KNIFE'S EDGE!"
+Five more minutes?
+un bored"Ughh, you're still under the influence."
+un "Do you have the mind to tell me to heal you?"
+Huh?
+un "Say this, {i}'Scribbles, heal me'{/i}."
+Hmmm...
+Scribbles...heal me?
+un eyeroll"THANK YOU!"
+un "I'm not much of a healer, but I can remove some poison, wounds and stabilize a person."
+un bored"There."
+y nakedsurprised"!"
+My eyes shoot open in a panicked state as I try to get up.
+y "I WAS KIDNAPPED!"
+un "Too late."
+un "You're okay now."
+I look around me.
+Instead of the dark forest, I see a vast blue sky going pink to settle for the evening.
+The green and gold hill of white flowers, with grass soft as a mattress.
+The evening wind flutters through my half naked body, the fur doing little to stop it.
+Memories slowly coming back.
+To my side I see my hero.
+Peacefully sleeping tuxedo cat, innocent and pure, cute and beautiful.
+y nakedss"He looks alright, I hope he didn't go through too much trouble to get me."
+un bored"He's not breathing."
+y nakedsurprised"WHAT?!"
+un "He's not-"
+y nakedangry"THEN DO SOMETHING!"
+un suspicious"His wounds are not physical you idiot, he's not only out of magic, he went sub zero."
+y "You have to have something to give his magic back."
+un squint"I do, it's the medallion, why did I ever give it to you if you can't remember to fucking use it."
+y nakedbored"You mean the medallion that was in the pocket of my jeans?!"
+un bored"..."
+un eyeroll"UUUUGHHHHH, fiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiine."
+un "I'll save the day again."
+un bored"Pray they didn't lock it in a safe or underground or something."
+I rush to my friend's side and place his head on my lap.
+Please please be okay.
+You have to be okay.
+My life is not worth yours.
+A pair of pants hit me in the face all of a sudden.
+un "Welp, here it is."
+I take the medallion out in a hurry, and use it immediately to pump magic into him.
+un suspicious"Oi! Slow down!"
+un "Don't kill yourself in the process!"
+I stop when fatigue takes over my body.
+I watch nervously, Scribbles watches, the whole world is watching, hearts racing.
+Then...
+The cat's eyes open.
+A truck of relief hits me at that moment.
+All I can say is something stupid, something goofy that nobody should ever say in a situation like this...
+y naked"Good morning, sleepyhead."
+tt "..."
+tt "Hi."
+tt "..."
+tt "You're the most beautiful person I've ever met."
+y nakedsmug"Is that really the first thing you're going to say?"
+tt "I told you I like honesty above all else, and there is nothing more true I can think about."
+y "I did mention I missed your teasing at one point...didn't I?"
+tt "Yup."
+His eyes sparkle with sincerity and admiration.
+While mine shine because of the tears that wish to drop for him.
+He will never know, but I almost lost him, the same way he almost lost me.
+tt "Your thighs are nice, I like them."
+y nakedbored"That is totally something normal to say."
+tt "Heh, I just want to make sure I speak out my mind before I die."
+tt "It can happen any day, you know?"
+tt "Cats don't actually have nine lives."
+y nakedss"I know..."
+y "Can you move?"
+tt "Am I making your lap too hot? Too bad, I like it here."
+y "No, I mean literally, can you move, like at all?"
+tt "Oh, uhmm..."
+tt "I think I can a little bit, but I barely feel my legs."
+tt "I am not walking anywhere before some rest, and I'm deeeefinitely not using magic any time soon."
+y nakedsimple"Same with me."
+y nakedss"Although, do you mind if I put my clothes back on? It's getting chilly up here."
+tt "Yeah, sure."
+He raises his head with a bit of struggle, and I get up just enough to slide my pants, shirt and tie back on.
+tt "Where did you get your clothes from?"
+y awkward"They...were just here when I woke up."
+tt "Perhaps my spell brought them here."
+tt "Oh! Speaking of, did you see how cool I was?"
+y sadsmile"Sorry, I don't remember much after I was made unconscious."
+y "You'll need to catch me up on that."
+tt "Is there a better time than now?"
+tt"Neither of us can go anywhere."
+tt "Unless you want to play {i}'I spy with my little eye'{/i} or something, I see nothing else."
+y simple"Tell me..."
+y determined"EVERYTHING."
+tt "O-ok, wow, you're excited, here I go then."
+tt "{i}*cough cough*{/i}"
+The cat starts off from the moment he ran away from the Wild Furs that kept asking for teleportation rides.
+Their whole purpose was to drain him of magic, but because of me, he managed to restrain himself and conserve some.
+He speaks of the Chief's stories, and hints of madness.
+tt "He was evil...but he was also broken by us, hunters."
+y sad "His deeds can't be excused, but they can be understood."
+He tells me about our ex-friends' lies about my whereabouts and the only reason he got to me on time.
+y simple"A Mysterious Nightfallen with a mask on? Inside the barrier?"
+y "That is troubling."
+tt "It's because of him I managed to get to you in time, so I'm not going hunting for him, he's obviously not a threat."
+tt "And if he is, I'd defend him."
+He continues with his step-father's speech, about the ceremony, and his past, as well as the huge mind powered spell he managed to pull at the last second, even if it almost cost him his life.
+tt "I'm sorry...it's me they wanted, not you."
+tt "They should've attacked me instead."
+y surprised"Never mind that, you KILLED him?"
+tt "Not intentionally!"
+tt "The spell just acted on emotions...and my emotions were of hate towards him, and desperation for your safety."
+tt "I don't regret it though."
+tt "They were raising me like cattle..."
+tt "I don't consider them family anymore."
+tt "I know they didn't have much of a choice under that madman's rule, but still..."
+y simple"What about...the wyvern?"
+tt "Eeh, I hope he grows up and eats them all."
+y "Ragnar says he killed a wyvern with his bare hands once."
+tt "Huh, so they're stronger than they look."
+tt "In any case, I got over him a long time ago."
+tt "I was being irrational because of my fear of being alone."
+tt "But I don't have to fear that now, do I?"
+We look at each other with smirks growing wider.
+y smug"If I ever betray you again, shoot me."
+tt "Will do!"
+y simple"Wait no, don't actually."
+We both laugh, hard enough to fall back over, laying on the grass side by side again.
+y "So...is this a happy ending?"
+tt "So far, it looks like it."
+tt "Still a lot of questions unanswered."
+y simple"Like how did the Chief and Ragnar get their hands on magic...?"
+tt "And how did he manage to use THAT specific spell on me...?"
+y "And who was the masked Nightfallen that helped you...?"
+tt "And why do you look so good in a loincloth...?"
+y blush"Oh, shush you."
+We spend the next hour or so watching the few clouds still present in the sky.
+It is peaceful, quiet, stress-free.
+tt "That one looks like a penis."
+y confused"What kind of messed up penis did you had the displeasure of seeing?"
+tt "I'm telling you."
+y bored"You don't even know what a penis other than yours looks like, do you?"
+tt "Maybe you should show me."
+y simple"I-"
+y blush"Shut up."
+y smug"Before I take you seriously..."
+tt "Heh."
+tt "Are you able to walk now?"
+y s"Yeah."
+tt "Do you want to stay here a little longer?"
+y sadsmile"..."
+y "Yeah."
+Why ruin a beautiful moment with something as trivial as walking?
+Laying next to a loved one in a field of flowers in the evening is the ultimate form of tranquility.
+Until your pants start to buzz.
+Intensely.
+tt "Vibrator?"
+y bored"Phone."
+tt "Boring."
+It's an unknown number.
+Why not? A prank can't bring me down at this moment.
+I put it on speaker.
+y simple"Hello?"
+ch "{i}[name]?{/i}"
+y "Ye-"
+ch "{i}{size=50}OMG IT'S YOU!{/size}{/i}"
+My head hurts and my ears feel like they're bleeding.
+ch "{i}DALLAN! DALLAN HE PICKED UP!{/i}"
+Heavy hurried steps run to the phone.
+d "{i}[name]?{/i}"
+d "{i}Thank goodness you're alright.{/i}"
+d "{i}Is Tate with you?!{/i}"
+The cat recoils slightly.
+y "Yeah, he's right here."
+d "{i}Where are you?{/i}"
+ch "{i}I SEE THEM!{/i}"
+ch "{i}ON THE FIELD IN THE NORTH EAST, BETWEEN THE FOREST AND THE OCEAN!{/i}"
+d "{i}Stay right there, we're coming.{/i}"
+{i}*click*{/i}
+tt "We?"
+y simple"And how does Chelsie see us?"
+y surprised"Oh, another call, this one's from Aiden."
+tt "You'll want to keep that a bit further away from your ear."
+y simple"Why's that?"
+a "{i}{size=65}WHERE THE FUCK HAVE YOU TWO IDIOTS BEEN?!{/size}{/i}" with hpunch
+a "{i}WE'VE BEEN SO FUCKING WORRIED FOR YOU!{/i}"
+y simple"Nice to hear you too?"
+a "{i}Aghhh, wait for us.{/i}"
+{i}*click*{/i}
+tt "That's what we were going to do."
+y worried"Do you think we're in trouble?"
+tt "Is that what you're concerned about?"
+tt "Those nerds?"
+tt "We're too badass to get in trouble."
+y smug"That's true, we are, after all, the infamous troublemakers."
+tt "The purple and white demons."
+y simple"Oh, I hear people running up the hill."
+tt "I bet there are three of them."
+y "I bet there are four."
+With heavy steps and heavy breaths, three bodies appear over the hill.
+Me and my friend, the two lazy cats, struggle to get off the grass to face our visitors, not because we can't but because we don't feel like it.
+They look kind of angry.
+ttt smug "Sup?"
+d "Is that all you have to say for yourselves?"
+a "I thought we made it clear to stay out of trouble."
+y simple"how'd you know where we are?"
+y "Chelsie said she {i}'saw'{/i} us."
+m "She's on top of the academy, looking around with a telescope for the two of you."
+a "For the past three hours..."
+d "Together with Oliver..."
+a "That mouse is deathly afraid of heights too."
+y "Oh..."
+ttt bored "I'm sorry, but I still don't get it, what's the big deal here?"
+ttt "Why are you all so riled up?"
+ttt simple "I've been missing before."
+d "Yeah, for like, two hours, and under supervision most of the time."
+a "The PROBLEM now, is that you dragged [name] into this as well, two first years that nobody has seen since the battles."
+d "And we know you like to venture outside the barrier often."
+m "Theory confirmed when we kept calling [name]'s phone and it was outside the area of reach."
+m "And after exiting the barrier, your phone still didn't have signal."
+d "So we got worried, obviously."
+a "Especially since tomorrow we have a big, important test."
+a "We can't have you skip it so willy-nilly."
+y "I'm sorry we worried you, we should've come home earlier..."
+ttt simple "Yep...that would've been for the best..."
+d "Well, at least you're owning up to your mistakes."
+m "But will you explain where exactly you've been the whole day?"
+m "And why do you look so...defeated?"
+ttt bored "It's a long story."
+a "At least have the courtesy to get up when your leaders are talking."
+ttt "I literally can't."
+d "Why is that?"
+ttt simple "Our {i}legs don't work like they used to before.{/i}"
+They look surprised and skeptical, casting me a glance of confirmation.
+y simple"Well, we can use our legs, but we don't have the energy to stand much."
+a "And that's because..."
+y bored"As he said, long story."
+d "We got time, tell us all about it."
+ttt "Will you carry us if we do?"
+a "Ughhh."
+And so, Dallan picks up the cat, and Aiden takes me on his back.
+We walk through the familiar streets, which are now starting to get illuminated by the energy lamps.
+On the way, we tell them that we picked a fight with some Nightfallen, and that although we won, we lost a lot of magic, and didn't even get to collect our bounty.
+d "What kind of Nightfallen?"
+y "Oh you know...regular ones."
+a "Very descriptive."
+Obviously we left out any mention of Wild Furs, or wyverns, or sacrifices etc.
+Still, the story seemed to impress, scare and satisfy our escorts in the end, after the cat perfected the lie.
+They all unanimously decided they should take us to the nurse's office, despite our protests.
+m "I'm just happy I didn't lose two new members and friends on the same day."
+d "I'm sorry you went through that, it must've been very scary."
+ttt smug "You have no idea."
+a "They got in that mess by misbehaving, I'd say it's deserved."
+a "Maybe next time they'll let somebody know where they're going."
+ttt bored "We're not children..."
+m "No, you're not, because children are far less reckless."
+You know you messed up when Merina is upset at your actions.
+Oliver, Chelsie, Coal and Rose are already waiting for us in the nurse's office.
+Personally, I'm just happy I made so many friends that care about me so quickly.
+They express their joy, but it's hard to focus on them, when I still have so much to say to this amazing cat, I just need some time with him alone.
+The nurse said the same thing we said, the problem is that we're out of magic and the remedy is to eat and rest...
+d "Well, it seems like you'll be okay."
+ttt smug "We'll survive? Thank you Lord!"
+m "You two must be starving, why don't we go grab a bite?"
+m "Dinner time is almost over."
+d "You read my mind, m'lady!"
+m "Then after you, m'lord."
+a "At least I won't have to put up with those two now that you're back."
+a "Let's go, you heard the nurse."
+a "You gotta eat."
+Everyone in the room heads for the door and we follow without complaining.
+Aiden and Merina both speak as if on the edge of bursting with anger at any comments we make, so it's better we shut up...
+Our friends push multiple tables together making a large one instead.
+We sit down and drink, some people prefer booze, some juice, others tea, as we wait for new food to be made for us.
+All the girls are gathered together talking about preferred weapon types, a discussion in which Dallan was quick to join.
+Oliver and Coal seem to get along surprisingly well, considering how shy the little mouse is, and Aiden is more than interested in Coal's magic device.
+a "Ten thousand."
+co "It's...not for sale, sorry."
+a "Twenty."
+co "{i}*sigh*{/i}"
+It's hard to join a group, since I don't feel like socializing at the moment.
+And frankly, after some time, I realize I want to be somewhere else, somewhere specific.
+That I want to be WITH someone else, alone.
+I love these people, but I love this one person a bit more...and I can't simply stand by idly.
+I whisper part of my idea into the cat's ear and he happily agrees.
+y sadsmile"Uhm, hey guys."
+y "Thanks for everything, but we have some plans we have to get to."
+a "Plans?"
+d "What kind of plans?"
+y "We want to celebrate our little victories against the Nightfallen alone, up on the hill."
+m "A group picnic perhaps?"
+d "That sounds amazing actually."
+y awkward"N-no no, just the two of us."
+Everyone in earshot saddens for a moment, before something clicks in all of their brains, at the same time.
+d "Of course, you two, together, alone, I have nothing against it."
+m "Let me prepare a dinner basket for you."
+a "Just make sure to use protectio-I meaaan...hey Merina, need some help over there?"
+d "Although....hmmmm."
+d "Chelsie?"
+ch "At your service."
+d "Can you put some kind of tracker device on [name]'s phone?"
+ch "If he lets me."
+y "Uhmmm, what for?"
+d "I think you know exactly what for."
+y "Yeah..I do, here."
+ch "Alright, just a minute."
+Merina comes back with a bunch of food arranged neatly inside a basket that she hands to us.
+Chelsie comes back with my phone, that looks exactly the same, that is a bit scary to think about, I could have a tracker on me at all times and not even know about it.
+d "Tate, I think you should accept a phone as well at some point, it's going to be useful."
+ttt simple"..."
+The cat cringes and recoils, not at the thought of owning a phone, but at the dead name being used.
+I decide to intervene for the first time, now that all of our friends are in one place.
+y simple"Dallan, Merina, Aiden, everyone, please don't call him Tate anymore, that is not the name that defines him."
+Everybody looks at me either curious or surprised, but my cat friend is the only one blushing.
+d "Just what happened in that adventure of yours?"
+y sadsmile"A mixture of emotions were churned and decisions were made."
+a "What should we call you then?"
+ttt sad "I...I'm not sure yet."
+y "We don't have time to explain every detail."
+d "Well, little buddy, when you do decide, let us know!"
+a "As long as it's not {i}'Tartarus'{/i}."
+ttt sadsmile "It won't be, I learned my lesson."
+m "Why didn't you say anything sooner?"
+m "We could've helped."
+ch "We thought your name tagging was just for fun."
+ttt sad"Well...it was at the time, I guess."
+ttt "I just didn't think anyone would take me seriously."
+d "We will from now on, it's safe to say that much."
+d "Isn't that right guys?"
+m "Absolutely."
+ch "Count on me."
+a "Sure."
+ttt sadsmile "Thanks..."
+m "Be on your way now, you don't want to waste the little daylight you have left."
+y sadsmile"Thank you so much for the food, and for your worries, and for your kindness."
+d "If we don't see each other before tomorrow morning, then I'll say it now, good luck on the test!"
+d "And other endeavors you might get yourself in."
+He winks at me.
+a "Yeah, good luck, you little twerps."
+a "Although I'm sure you'll be fine if today's battles were any indication."
+m "May luck be on your side."
+ch "Wishing you the best!"
+o "I've got my fingers crossed for all of us."
+r "Fortune be with you!"
+co "Stay safe and winning!"
+This is enough to make a grown man cry, but I suck it up and resist!
+Seeing our friends come together like this after what we went through today.
+I can't believe we were close to never seeing their smiles again.
+We thank them again, looking back at the gathering of people we're leaving behind.
+The crisp air hits my lungs as soon as we step back outside.
+These two cats are holding hands, swinging them back and forth playfully, because why should we be embarrassed about something so trivial after everything we've been through?
+y sadsmile"I hope we don't regret leaving them there, we might be missing out on some fun."
+ttt smug "I made a point that I hate being lonely in the past few days."
+ttt "But that doesn't always mean the more the merrier."
+ttt "I'd much rather watch the sunset with someone like you, than a whole room of people I simply like."
+y "If I am more than {i}'someone you simply like'{/i} what does that make me?"
+ttt smug"Hey now, the turns have not reversed, you're not supposed to tease me."
+Daisy petals fly past us, carried by the wind along with their faint perfume as we walk towards the highest point of the hill.
+We find the steepest slope around to sit down on, watching the sun go down slowly, almost disappearing over the horizon.
+We take out some sandwiches from the basket Merina prepared and eat in silence for a while.
+ttt sadsmile "Thank you, for defending my name earlier, or the absence of a name."
+y "That's what friends are for."
+tt"Weeell, no, friends are there to laugh at you, you are much nicer to me than a friend."
+Speaking of friends, Scribbles, how did it make you feel, that I almost died?
+un "Obviously that would've been...less than ideal."
+un "I don't want to lose my host."
+un "One of the only people who can take me."
+I can smell excuses.
+You like me, don't you?
+un "You're ok, for a mortal."
+un "Wouldn't say {i}'like'{/i}, just tolerate."
+That's progress, still.
+y sadsmile"It's a pity...the tribe turned out a bit insane."
+ttt "You kind of miss them too then, huh?"
+y "Is it weird if we do?"
+ttt "Nah, they deserved all our kindness up to the moment of religious kidnapping and murder."
+ttt "Hopefully they can leave peacefully now that their crazy Chief is gone."
+y "You were making progress with Ruth, he really liked you."
+ttt smug "Not as much as he liked your tail."
+y smug"Can you blame him?"
+ttt "Not even a little bit."
+y sadsmile"You said he was one of the guards holding you back... do you hold anything against him now?"
+ttt "The only actual evil is dead and gone."
+ttt "Reduced to a crystal."
+ttt "So no, I still like Ruth, he's a sweetheart."
+y smug"How much do you think he'd be worth?"
+ttt simple"Dude!"
+y sadsmile"What? I know that's your step dad, but I'm curious."
+ttt "Me too, actually."
+ttt smug"He was pretty old, so probably a fair amount."
+ttt "But it's illegal to sell Wild Fur crystals anyway, so it doesn't matter."
+y "What do you think will happen to their tribe now?"
+ttt "Ragnar will take over, most likely."
+y simple"Do you think he's a good fit?"
+ttt "I mean, he knows the difference between a wyvern and a dragon...at least there's that."
+y "He does?"
+y "Why didn't he do anything to stop his father then?"
+ttt bored"I assume because he was his father's anchor, his magic was always in the Chief's hands, so it's hard to do anything against someone with magic while you're powerless."
+y simple "That's true."
+ttt "But Ragnar is smart and cautious

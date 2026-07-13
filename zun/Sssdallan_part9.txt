@@ -1,0 +1,782 @@
+.
+d "You forget I'm still a leader."
+d "Barrier or not, I'm superior to you in power."
+d "The only way to get out would be to get naked!"
+d "And we know how you feel about that."
+a "You underestimate how much I want to win against you…"
+Aiden's body starts to transmute into smoke.
+but stops before his clothes can fall off.
+a "It's not worth embarrassing myself in front of the Headmaster on top of the whole academy."
+a "But if [name] can't get here by the time the clock hits ten minutes, which is very soon."
+a "We will tie."
+y smug"What was that?"
+y "Mister missionary man?"
+I stand behind Aiden on my belly, with my head right above his.
+a "H-how did-"
+y "How did I get here so fast?"
+y "The simple answer is that you underestimated me."
+In truth, I finally realized that even though the clones don't have magic, they have energy that can still be drained.
+So I got rid of them faster than usual.
+y "Boop."
+I place my finger on Aiden's nose.
+Confusion appeared in his eyes, until slowly he falls asleep.
+y "And another one bites the dust."
+d "Is… is he asleep?"
+d "Did we win?"
+y "Let him go and let's find out."
+The crowd is dead silent.
+Dallan get's up.
+A limp, slowly breathing tiger lays on the ground.
+y "Looks like victory is ours."
+The arena is filled with happy screams.
+m "LADIES, GENTLEMEN AND ESTEEMED FRIENDS, WE HAVE OUR WINNERS!"
+d "You did it!"
+y ec"WE did it!"
+t "VICTORY HUUUG!"
+Tate appears out of nowhere embracing us both.
+y surprised"Tate!"
+y "You're fine already?"
+t "I had an energy drink and I'm all up and running."
+t "Shouldn't have teleported so much."
+d "Aren't you upset you lost?"
+t "I'm happy that I have such awesome friends!"
+t "Plus I knew we'd lose."
+t "Aiden is kind of useless."
+a "You asshole…"
+Our second victim is finally up.
+a "Good match, you did good, [name]."
+y ec"T-thank you, I did my best."
+a "Although I expected more from you, leader."
+d "oh."
+d "In my defense I didn't want to hurt you."
+a "Of course you didn't."
+a "And in MY defense, having a partner with a brain would have granted me the victory as well."
+t "..."
+a "Let's go, the girls are on the side lines, waiting to congratulate you, probably."
+d "I could hear their voices shouting for most of the match."
+d "And your name came up the most, [name]."
+d "Got some admirers."
+y blush2"Admirers? Me?"
+y "Then we don't want to keep them waiting."
+a "You two go ahead."
+a "I need to take this one back to detention."
+t "Yep, we gotta go."
+I give them a sly smile and a wink.
+t "You know, you could join us sometime, [name]."
+a "We do more than just trauma-dump in there."
+t "More as in we have actualy fun, not sex..."
+I shoot a glance at Dallan, who is waving at the crowd oblivious.
+y "I'm sure."
+y "You two have fun."
+y ec"But not too much fun."
+t "I'm kinda glad you found out"
+t "Now I can tell you all about it later."
+y ec"Can't wait to hear teh tea."
+t "Let's go, stud!"
+a "Not in public, stupid."
+Whoosh.
+They're gone the next second.
+They teleport away the next second without warning.
+y simple"Ok, bye?"
+How come Tate was so easy to convince?
+Me and Dallan stroll over to our original places, where Chelsie and Rose were waiting.
+Coal runs in with the energy of a thousand suns before they can get a word in.
+co "You two were so cool, the best match of the day, I doubt anything can compare!"
+co "I'm in a rush just wanted to congratulate you, byenowseeyoulater!"
+r "Aaand he's gone."
+ch "This just means I have more time to congratulate my two best friends here."
+ch "Come here!"
+She gives us a tight hug.
+y hurt3"Care to join Rose?"
+r "Me?"
+y hurt3"I already can't breath, some crushed bones won't matter."
+She seems excited for a hug.
+But it might've been a mistake, as she picks the three of us up.
+d "Woah!"
+d "I bet you can protect so many people with these arms."
+r "They make a great stew as well."
+d "Oh my."
+ch "Alright, I don't like the energy we've created."
+y pf"Me neither…"
+ch "[name], do you have any plans on taking the title of vice leader from me in the future?"
+ch "Because you totally could, so I'd have to kill you before you do."
+y "N-no, I don't want the responsibility."
+y "I'm good with being a student."
+ch "Phew."
+ch "Then congrats on the victory again, you can go now."
+She pushes me and Dallan towards the exit.
+ch "Go have fun you two."
+d "You sure you don't want to tag along?"
+ch "Nope."
+She gives me a wink.
+Thank you, Chelsie!
+You're the best!
+Of course, I say that with my eyes only.
+I turn around as I'm being pushed to wave a final goodbye to Rose.
+The trip to the exit was hard, as more people tried to congratulate and talk to us.
+But we politely ignore them all.
+As we climbed back to our seats, Chelsie was nowhere to be found.
+r "Hey!"
+r "Good job out there."
+r "You crushed it."
+d "Thank you!"
+d "Where is Chelsie?"
+d "We heard you two cheer."
+d "It meant a lot!"
+r "Yeah…"
+r "She…"
+Rose glances at me apologetically.
+r "Had to go."
+r "But she sends her good wishes."
+d "Hmm, it's not like her to disappear like that after a fight."
+un "Haa, she hates you and didn't want to see your face."
+un "Bet that's it."
+r "You two should go."
+r "Don't read too much into it."
+r "Go have fun!"
+d "Alright, we will."
+d "After all, we have the whole day for ourselves."
+He gives me the biggest, sweetest grin, and all the world's worries go away.
+y smug"Yes."
+y "The whole day."
+y "Can't wait."
+The trip to the exit was hard, as more people tried to congratulate and talk to us.
+But we politely ignore them all.
+And just like that, we're outside.
+Having the rest of the day free.
+Free for me to do whatever I want with Dallan.
+What more could I possibly want?
+Somehow, the outside world is brighter.
+Either because the clouds no longer cover the sun.
+Or because Dallan took my paw in his so nonchalantly that It took me some time to realize where the heat in my palm was coming from.
+y "Do you have an idea of where you want to go this time?"
+d "Actually… after yesterday's night encounter."
+d "I stayed up a little late, just listening to you breathe."
+un squint"Not sure if that's hot or creepy."
+d "And I planned the whole day ahead, so we don't miss a single moment."
+y ec"So I should just lay back and relax?"
+d "And I'll do all the work, yes."
+y "Where to first?"
+d "You know how you said I should stop working and do stuff I love?"
+y "aha."
+d "But then I said I don't have many hobbies to choose from?"
+d "Because I've been too focused on work?"
+y smug"Yeees?"
+d "Well, I've never been to an arcade before…"
+y ec"SAY NO MORE!"
+d "I think I should at least say something about its location."
+y simple"Yeah, that would be a good idea."
+d "Aaafter we have lunch, that is."
+d "But I don't want pizza."
+d "Or burgers."
+d "Or any kind of fast food."
+d "I haven't had a healthy, home cooked meal in so long…"
+d "But I can't really cook."
+d "As embarrassing as that is for someone my age."
+Ughh, why did I have to focus on math instead of learning how to cook in high school.
+Scribbles, PLEASE tell me you know how to cook.
+un bored"I do."
+YOU'RE A SAVIOR!
+un "But not mortal food."
+Fuck.
+un simple"I could, however, guide you through a recipe."
+un "You have an entire folder in your brain about different food."
+Do I?
+I don't remember any of it.
+un "It's part of your mindless scrolling through this 'intern at'."
+That explains it.
+Then let's do it!
+Y ec"I might be able to help with that."
+y "I can cook for you, that is"
+d "You'd really do that for me?"
+y "Yeah!"
+y "And you can help me."
+y "We'll do it together."
+Y determined"Let me just turn on the montage music."
+d "The what?"
+y smug"That's better."
+y determined"Let's go."
+y determined"First off we gotta get rid of these uniforms, then straight to the market!"
+d"Your clothes are in my dorm, and it's close by!"
+y ec"Perfect!"
+Right after I take the confused but happy wolf by the bicep and drag him into the market.
+un simple"Remember, he had almost nothing in his fridge or pantry when you were there last time."
+un "So buy everything I tell you to!"
+Un "First off, vegetables!"
+Dallan guides me through the vendors he deems the worthiest, with the freshest products and pays for them, while I tell him what we need.
+I'd say this is a fair team.
+d "Where next?"
+y determined"Fruit!"
+D "Right over there!"
+y "Next, noodles, oil and sauces!"
+d "This grocery store is run by the cutest old couple!"
+y "Beef!"
+d "Right here!"
+He flexes his muscles.
+y ec"The quality is too high! I need cheaper cuts!"
+d "Hah!"
+d "There's a butcher down the road."
+un "Hey, that was pretty smooth, you're learning."
+y s"And last but not least, wine and a baguette!"
+d "I got it!"
+y smug"Nuh-uh, I'll pay for this one."
+d "If you say so."
+And so, with the grocery bags full and the stomachs empty, we go to Dallan's dorm.
+We are ready for the fun.
+It's all you now, Scribbles!
+un "I got it!"
+un "Woo! I'm actually hyped up for once!"
+un "First recipe!"
+un tease"Ratatouille!"
+Ironic.
+un "Preheat the oven for 375˚F!"
+y determined"Preheating!"
+un suspicious"Put that guy to work!"
+y "Dallan, sauté the onions while I slice the vegetables!"
+d "On it!"
+un "I figured your date wouldn't be satiated with only one course, so we're doing three dishes and a dessert!"
+That's too much!
+un ang"Shut up and get to work!"
+Yes chef!
+un "Now arrange everything, drizzle the aromatic oil and throw it in the oven!"
+y "Next on the list!"
+un tease"SOUUUUUUUP!"
+y ec"Soup!"
+d "What kind?"
+un "FRENCH ONION!"
+HELL YEAH!
+y "French onion soup!"
+y determined"Get those onions back in!"
+y "But quadruple, no, octuple the amount!"
+y "Then add the stock when they're golden brown."
+y "Neeext!"
+un simple"Beef Stir Fry Noodles!"
+y "Dallan, make the sauce with all the ingredients in this bag!"
+y "Just pour everything together and don't forget a pinch of sugar!"
+d "Yes sir!"
+un "Watch your wrist movements when stirring!"
+What am I? An amateur?
+I feel like a master at work, as all the aromas come together in harmony.
+I add a splash of wine, from the bottle we two have been slowly going through while munching on the baguette.
+We weren't about to starve waiting to cook all the food.
+d "The stir fry is done and plated, what now?"
+un "Dessert!"
+y ec"DESSERT!"
+y "5 minute fruit mousse."
+d "Woah!"
+y "Get the blender out and I'll throw all the fruit with these ingredients inside."
+y "You make the cream and we'll pour it in these jar like containers!"
+Me and Dallan continue to mess around in the kitchen for about half an hour.
+With a total of two hours, we made a three course meal and dessert.
+d "I'd say we did pretty good."
+y "We didn't even forget to take the ratatouille out of the oven, high five!"
+We celebrate in our messy victory.
+y "So all we have to do now is taste-test?"
+d "Taste?"
+d "I'm going to fill up like there's no tomorrow."
+d "Oooh, get that cheese stretch on the onion soup."
+y smug"Get those perfect veggie layers on the ratatouille."
+un "Bon appétit."
+un "I have to say, I'm quite proud of myself."
+un "I managed to do something I've never done before, it felt good."
+Me and Dallan do a cross arm bite of our chosen dishes.
+Flavors exploded in my mouth as soon as the soup hit my tongue.
+It's the perfect temperature.
+I look at Dallan to see his reaction, and yes, just as I thought.
+Same response.
+His eyes are watering and he's left speechless.
+d "[name]…"
+y ec"Yeah?"
+d "This is…"
+d "This home cooked meal is..."
+y "The worst thing you've ever put in your mouth?"
+d "That is exactly it."
+We both start laughing while running for a trash can and the toilet.
+d "How did I burn the tomatoes and undercooked everything else?"
+y smileworry"How did I pick up expired beef stock?"
+d "How did I forget the salt?"
+d "That's LITERALLY the only seasoning I had in my pantry."
+y "And did I really burn noodles?"
+y "How?"
+d "I'm guessing you didn't mean to LITERALLY throw all the ingredients in that bag to create the sauce?"
+d "I'm afraid we'll have to order takeout."
+The doorbell rings.
+y smug"I knew this would happen."
+y "So I did that ahead of time."
+d "My hero!"
+un cry"*sniff sniff*"
+Scribbles?
+Are you crying too?
+un cry"OF COURSE I'M CRYING!"
+un "You ruined my perfectly good instructions."
+un "And made a fool out of me."
+un "I will never cook again!"
+It's not your fault, me and Dallan just suck.
+Plus, this fruit mousse still looks good.
+un "Well yeah, you two are slightly bigger failures than me."
+un "I never doubted that."
+un "But I'll need a minute to recover."
+un "Excuse me."
+y "Might as well try this."
+Me and Dallan share one of the dessert jars.
+d "Yum, this is actually pretty good!"
+d "Dessert is my favorite anyway."
+y "At least we didn't fuck something up."
+For the next half an hour, we lay on the ground, eating pizza, drinking wine and eating fruit mousse and giggling at our failure.
+y s"This pizza is really good."
+d "Did you order from that place with the wood oven?"
+y "I don't know, I just picked the closest one I could find on the map."
+d "Then we were lucky."
+y smug"One lucky thing today."
+y "Sorry for the mess, by the way."
+d "It's fine, I like cleaning."
+y ec"I'll help."
+y smileworry"I just wish I could've delivered on that home cooked meal I promised."
+d "…"
+d "This is still a great outcome."
+d "Maybe better even."
+y "How so?"
+y "We made food for strays."
+d "This was the most fun I had since my early academy years!"
+y "For real?"
+d "Yeah!"
+d "It was totally awesome."
+d "I get to have good pizza with my…"
+d "With a special person."
+d "And the fact that the house is not filled with the blackest of smokes?"
+d "I call this an absolute win!"
+No longer a friend… now I'm a special person.
+y ec"I think I was filled with more adrenaline while cooking than while fighting."
+d "I know, right!?"
+y "Hehe."
+d "Ha."
+y simple"..."
+y "I'm full."
+d "I'll take the rest, don't mind me."
+y determined"Next time, I'm not going to mess it up."
+y "I'll make you my mom's chicken noodle soup."
+d "That excites me, because it means we'll do this again."
+y "Where should we go next?"
+y s"Maybe the arcade?"
+d "I can barely wait."
+d "Should we go right now?"
+y ec"Yes, right now!"
+I rush out the door, making Dallan hurry after me, remembering to lock the door.
+He has a pizza slice in his mouth.
+un bored"What a dork."
+Hey, you didn't call him an idiot this time!
+un eyeroll "Well, I guess some strange habits aren't always a sign of stupidity."
+My handsome dork...
+As we get there, Dallan begins to look less excited.
+y smug"Nervous?"
+d "I've never done this before, [name]."
+d "What do you even do there?"
+y ec"Just have fun."
+y "And the fun part is that you can disconnect your brain."
+y smug"Something you really need."
+d "Alright, I'm ready."
+The inside of the arcade was exactly what I imagined.
+A big, dark, neon room.
+Full of games and gambling machines.
+Somehow there aren't any kids around, not even teens.
+But I'm forgetting this is technically a school day.
+Dallan's 'go to' games were the carnival, hands on type games.
+Basketball, shoot the duck and others.
+And the truth is.
+He sucks at all of them…
+d "Grr."
+d "Am I not getting it in the hole?"
+y awkward"You're getting close."
+y "Kinda."
+y "You've never been to an arcade before, so take your time."
+d "But you said you've never been to one either."
+I'm standing behind Dallan with two armfuls of tickets.
+y "Erm, beginners luck."
+d "But-"
+Dallan was cut off by two people approaching us.
+b "Hey guys, how was your shower?"
+d "Hi Bean!"
+y bored"You mean the one from yesterday?"
+b "Woah, you did it so fast."
+b "Oh right, you don't wait for your clothes to dry in the shower."
+y bored"Anyway."
+y "More importantly."
+y pf"Why is Unknown in public with you?"
+unk "Sup?"
+b "Dallan doesn't mind."
+y "Dallan, do you-"
+He's too focused on getting the ball in the hoop.
+y angry"For crying out loud."
+I take the ball and score a perfect one hundred, winning him the jackpot.
+b "Wohooo!"
+b "Way to go Dallan!"
+He gets a big penguin with the winning tickets.
+That he's very happy with.
+d "Thank you [name]!"
+d "What were we talking about?"
+Y bored"Unknown is here."
+d "oh."
+d "Why?"
+b "Chill out, nobody knows he's… you know."
+d "A Nightfallen?"
+b "Gay."
+b "He needed to get some fresh air so we decided to hang out here."
+y bored"And you're not set on killing me anymore?"
+unk "You mean rape and kidnap you?"
+unk "Nah."
+unk "I'm free from my master."
+d "What did your master say when you came empty handed?"
+unk "He did this."
+y scared3"HOLY SHI-"
+I cover my mouth before I attract too much attention.
+d "That's horrible."
+unk "It's not as bad as it looks."
+unk "I'm slowly regenerating."
+unk "By the way, I found out that 'Unknown' is not my real name."
+unk "Master called me dumb for even thinking that."
+unk "So Bean gave me a new name."
+b "He's Jerry."
+je "I'm Jerry now."
+d "Nice to meet you again, Jerry."
+y pf "Is... is Jerry wearing a Versaci vest?"
+b "Yeah, I know, out of season, I wanted to get him something better, but he didn't want to cover up his battle scars."
+je "They are a symbol of my pride and accomplishments."
+So he really is loaded...
+b "I started carrying honey with me, for revenge."
+y simple"What do you mean?"
+b "Jerry said his master is allergic to bees."
+b "But I can't carry a bee around, insects freak me out."
+And a live Nightfallen doesn't…
+b "So honey."
+y "I don't think it has the same effect as a bee sting."
+b "Whatever dude, you shower naked."
+b "Your opinion isn't the most valid."
+d "Can I go back to the elephant in the room and ask, are you going to be alright, Jerry?"
+d "That wound looked nasty."
+je "Yeah, my energy levels are kept high."
+je "Bean is helping me."
+b "That's what bros are for."
+y pf"Are you saying you two… have sex together?"
+b "Yeah, but like, no homo, you know?"
+je "There's nothing homosexual about helping a bro out."
+je "Bean said so."
+je "Bean is teaching me a lot of new things."
+je "I am forever grateful."
+b "Now come ooon."
+b "Do the thing I told you to do."
+je "Now?"
+b "Yes."
+Jerry sighs and starts to slide down the cloth that's covering his crotch.
+b "No dude, not that."
+b "We do that in private."
+b "I was talking about apologizing."
+je "oh."
+je "In that case, Dallan."
+b "[name]."
+b "The hot one is Dallan."
+je "In that case, [name]…"
+je "Really, that's your name?"
+b "I know, It took me a while to get over it as well."
+y simple"What's wrong with my name?"
+je "Anyway, I realized I never apologized for drugging and stealing your wallet."
+y "Rape and kidnap."
+d "Actually it was attempted murder, I believe."
+b "It was a combination of crimes."
+je "Whatever it was, I want to apologize."
+je "I promise I will never harm anything that's not a Nightfallen again."
+je "Because if I do, Bean will never do that thing with his tongue that really gets me-"
+b "I think that's enough, he gets it."
+y s"Apologies accepted."
+y simple"But what's wrong with my name?"
+je "Accepted?"
+je "You can deny them as well?"
+y simple"Pretty much."
+je "What happens then?"
+y "We remain enemies."
+je "So… if you accepted."
+b "It means you are now buddies."
+b "Nice."
+je "Two friends in two days…"
+d "Don't forget me!"
+je "Three friends…"
+je "I didn't cry having a hole blasted though part of my body, but this…"
+je "This makes me shed a tear."
+b "Awww, let's go powder your mask in the bathroom."
+b "We'll meet you guys at the entrance, we can hang out some more after that."
+d "Those two are a thing, huh?"
+y simple"They say they're not."
+d "I think there is no better definition of 'friends with benefits' than that."
+y smug"I don't know, it kinda looks like true love to me."
+d "Heh."
+y simple"But I still want to know what's wrong with my name..."
+Our day continues.
+We play more games in the meantime, Dallan is getting slightly better, and even managed to win a keychain with a baby dragon on it.
+Together with his massive penguin we walk towards the entrance.
+Bean and Jerry meet us there, and we go on a double date.
+Of course, me and Dallan are not officially a thing and those two say they're also not romantic with each other.
+So the date is all in my mind.
+We go for ice cream and Jerry eats thirteen cones.
+Apparently, if you have a mask on your face, nobody will question your species.
+After all, we're inside the barrier, nobody would think a Nightfallen was right in front of them, eating a frozen dessert.
+Somehow, even after so much ice cream, I still have no idea how he eats.
+We stop to listen to a street performer singing some jazz with his saxophone, to which both Dallan and Jerry started moving and dancing to.
+Bean ventures to the nearby fountain and tries to make a wish.
+But he wanted the coin back so he leaned in to take it.
+Ends up falling in the fountain, and Dallan rescues him.
+The water was less than two feet deep, but he almost drowned, and he ended up needing chest compressions.
+New fact, Jerry is afraid of water, and almost had a heart attack seeing Bean get wet.
+Jerry takes him home for the day, with a final warning from Dallan to not compromise Jerry's identity, under any circumstance.
+Overall, since we've won the battle, I've seen nothing but smiles and laughter on Dallan's face.
+So this was a big success in my book.
+And I got enough happy memories in one day, to give me dopamine for months.
+d "I hope those two are happy together."
+d "Despite their weird relationship."
+y simple"Might have to check on them from time to time."
+d "We really should."
+d "Good news."
+d "I have one last stop I want to visit."
+y smileworry"Awww, that's not good news at all."
+y "I want more!"
+d "The sun will start to go down soon, I doubt we have time for more."
+d "But you'll love it, I'm sure of it."
+d "Uhm."
+d "But first, I want to bring mister penguin and dragon back to my dorm."
+d "If you don't mind."
+We leave his prizes at home, then I follow Dallan back into the street.
+d "Alright, ready to go?"
+y ec"Sure."
+y s"Where though?"
+d "Pretty far away actually."
+d "Into the forest."
+y smileworry"You mean outside the barrier?"
+d "Yes, why?"
+d "Scared?"
+y awkward"N-no."
+y "I have a Nightfallen friend."
+d "You don't have to worry about a thing."
+d "I promise no harm will come to you."
+d "Not to mention you're protected by my ability still."
+y s"That does ease my worries."
+y simple"But wouldn't that be… super far away?"
+d "Ah."
+d "Now, you will get to experience one of Lakonia's greatest and most popular activities."
+d "Bike riding!"
+y s"I haven't done that in years."
+y "Where do we even get bikes?"
+d "There are bike rentals all over town."
+d "The closest one should be right behind the corner."
+d "I'll get them and we can ride to our destination in less than ten minutes."
+He comes back with two red bicycles.
+y bored"No helmets?"
+y "I expected more from a rule obsessed guy like you."
+d "Heh, I'm the Defender's leader."
+d "If I can't protect two heads from a fall, what use do I have?"
+y "You do make a good pillow."
+A blush crosses his cheeks.
+We get on our seats and start our little journey.
+I make sure to stay a couple of feet behind Dallan.
+Both because I don't know the way, and because he likes to sit up from his bike with every leg movement.
+And I'm not going to miss the view of those shorts stretching.
+His thighs moving and jiggling.
+If I crash in a random bush, so be it.
+d "How do you feel, riding for the first time in a long while?"
+y ec"Like a free bird!"
+y "I forgot how nice the wind can feel in your fur."
+d "We are about to exit the barrier, eyes and ears out."
+The forest path we're taking is beautiful, but somewhat dark.
+The forest is dense and the sound of birds can be heard all around.
+y s"Are you going to tell me what this place we're going to is?"
+d "Can't you hear it?"
+y confused"Hear?"
+y "I-"
+y shoked"Wait."
+As we go further into the forest, a distant thunderous sound hits my ears.
+y "What is that?"
+The noise gets louder and louder, until the trees slowly disappear and reveal a grand waterfall.
+y "Woah."
+d "Isn't it cool?"
+The waterfall is aquarium-blue.
+A small part was split to the side, drizzling onto the rocks below.
+The larger waterfall was pounding in the crystal clear pool below with an ear splitting roar.
+It looked like a wall of blue satin threaded with silver, in front of which a bright rainbow was visible.
+The flowers next to it are gently splashed by the droplets.
+The many blue butterflies flying about, trying to find a way to get to them without getting wet.
+y surprised"It's beautiful."
+d "WHAT?"
+y laugh"I SAID IT'S BEAUTIFUL, I LIKE IT!"
+d "I'M ASSUMING BY YOUR ANGRY FACE AND SHOUTS THAT YOU WANT TO GO!"
+d "LET'S GO!"
+y surprised"WHERE ARE YOU GOING?!"
+Un suspicious"Getting close to a waterfall is all fun and games until your eardrums are getting violated."
+I follow Dallan further away from the sound source.
+d "I might've overestimated our hearing capabilities when close to that thing."
+y s"I was shouting that I love how it looks."
+y "I come from the city, so natural beauties like that are not found at the grocery store or the skate park."
+d "I'm so happy you like it."
+d "The sound always calms me down."
+d "Although I never get too close."
+d "Sensitive ears, you know?"
+y "I get it."
+y "Do you come here often?"
+d "No, that's why I wanted to take you here."
+d "It's getting boring on my own pretty quick."
+d "The few times I did come I was doing homework under the trees."
+d "But today, I want to spend some time in your company, while under some shade."
+d "Come, this way."
+y "More surprises?"
+d "Ta-da!"
+As Dallan pushes some bushes aside.
+I see a large picnic cloth lying on the soft grass.
+A basket of goodies and drinks on top.
+y surprised"Food, nature, company."
+y "Yep, that has you written all over it."
+y "But when did you have the time to prepare it?"
+d "I had a little help."
+d "Our friends were nice enough to hand me some time off of their busy schedule."
+d "So, let me make this official."
+d "[name] [name2]."
+d "Will you give me the honor of accompanying me, in this little hobby of mine?"
+y ec"Absolutely."
+y "Is it weird that I'm actually kind of hungry already?"
+d "Only natural, if you're hanging out with me."
+We sit down, with the sound of the waterfall in the background.
+Blue butterflies dance around us, taking a particular interest in Dallan's snout.
+We eat, drink and talk like we didn't just meet two days ago.
+Nightfallen, future classes and the mysterious test were the main topics.
+All of which slowly started to bring the mood down.
+d "So as I was saying, the new Headmaster is already making a great-"
+y simple"Do you want to play kiss, marry, kill?"
+d "Huh?"
+y smileworry"Sorry, I just thought we could change the conversation to something with less meaning, but more fun."
+d "I know your intention, but don't you mean FUCK, marry kill?"
+y "I thought it would be improper to use that."
+d "HA!"
+d "Who do you think I am?"
+d "You don't think just because I follow rules, I don't have game, do you, [name]?"
+y awkward"noooo, obviously not."
+You're too hot to not have game...
+d "Then let's play."
+We lost track of time as the game got more and more heated.
+We started off easy, with candidates like: the secretary and the twin bear brothers.
+Or strangers we've met while hanging out, at the arcade, market or the park.
+y worried"Can't believe you'd kill poor mister Shaszu."
+y "He sold you the juiciest tomatoes."
+d "He's almost ninety!"
+d "I'm not going to take the life of that nice couple that gave us their phone number for a foursome."
+d "Besides, they'd be easy to convince."
+y pf"But they were so creepy…"
+d "Anyway, my turn."
+d "What about, between Rose, Coal aaaand…"
+d "Bean with Jerry."
+y bored"That's four people."
+d "I know, but Bean and Jerry make such a good pair, you can't not include them both in you choice."
+y s"That's fair."
+y "In that case."
+menu kill1:
+The person I would Kill is-
+d "Really?"
+d "How so?"
+y simple"I don't know."
+y "I think I just find the others more attractive."
+d "I can see that."
+d "Next?"
+d "You already chose Rose."
+y "Oh, sorry."
+d "Really?"
+d "How so?"
+y simple"I don't know."
+y "I think I just find the others more attractive."
+d "I can see that."
+d "Next?"
+d "You already chose Coal."
+y "Oh, sorry."
+d "Awwww, not Bean and Jerry!"
+d "How so?"
+y simple"I don't know."
+y "I think I just find the others more attractive."
+d "I suppose can see that."
+d "Next?"
+d "You already chose Bean and Jerry."
+y "Oh, sorry."
+menu fuck1:
+The person I would fuck is
+d "That's interesting."
+d "Any particular reason?"
+y smug"She's hot?"
+y "What other reason is there?"
+d "Understandable."
+d "Next in line?"
+d "You already chose Rose."
+y "Oh, oops."
+d "That's interesting."
+d "Any particular reason?"
+y smug"He's hot?"
+y "What other reason is there?"
+d "Understandable."
+d "Next in line?"
+d "You already chose Coal."
+y "Oh, oops."
+d "That's interesting."
+d "Any particular reason?"
+y simple"I feel bad about double homicide, and I do not want to spend the rest of my life with them either."
+d "That is very fair."
+d "Next in line?"
+d "You already chose them once."
+d "Think of someone else."
+menu marry1:
+The person I would Marry is
+d "How come?"
+y smug"I like strong people."
+y "And spending the rest of my life between a pair of strong thighs is the dream."
+He blushes.
+d "h-ha ha, yeah, I get what you're saying."
+d "You already chose Rose."
+y "Sorry."
+d "How come?"
+y s"He has a certain calm and friendly charm."
+y "I wouldn't mind spending my life with someone like that."
+He blushes.
+d "h-ha ha, yeah, I get what you're saying."
+d "You already chose Coal."
+y "Oh, oops."
+d "How come?"
+y bored"Honestly man, I have no idea."
+y "I might be drunk off sandwiches or something."
+d "You already chose them."
+y simple"Oh, oops."
+d "Interesting choices."
+y smug"Finally, my turn."
+d "Hit me."
+y smug"Fuck, marry, kill between…"
+y "Chelsie."
+d "Oh boy."
+y "Headmaster Argus."
+d "No no no…"
+y "And…"
+y blush"Me?"
+He looks stunned for a moment.
+d "Come on, you can't put yourself in here."
+y smug"Why not?"
+y "It's just a game."
+y "I won't be mad if you want to kill me."
+d "…"
+d "In that case… I suppose I would."
+d "Hmm."
+d "This is hard."
+d "As much as I love what Headmaster Argus does, I have to put my friends first."
+d "So I would have to kill him."
+d "Then I would.."
+d "Fuck."
+d "And marry you."
+d "And I would let Chelsie go, thatsmyfinalanswerletscontinue."
+It is my turn to be shocked.
+y shoked"You didn't respect the rules, for the second time in a row."
+d "I suppose when the rules are dumb, it is fine to break them."
+d "Chelsie is my best friend, so I would never sleep with her."
+d "And marrying her would be a kind of a joke…"
+d "But I wouldn't mind."
+d "Errm."
+d "Doing the other stuff with you."
+My tail curls in excitement, I smile and look away embarrassed.
+We sit there without a word, engulfed by the sound of water and birds.
+d "I know that my thanks are starting to feel a little dry, because of the frequency at which they come out of my mouth

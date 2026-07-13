@@ -1,0 +1,544 @@
+longdissolve = Dissolve(2.0)
+llongdissolve = Dissolve(1.5)
+extralongdissolve = Dissolve(6.0)
+longfade = Fade(2.0)
+xalign 0.10
+xalign 0.95
+xalign 0.5
+xalign 0.20
+xalign 0.30
+xalign 0.40
+xalign 0.00
+xalign 0.80
+xalign 0.99
+xalign 0.95
+yalign 0.60
+zoom 0.5 #adjust as required
+frieren1
+pause 1.0
+frieren2
+pause 1.0
+repeat
+pause 3.0
+pause 3.0
+repeat
+alvy menu0
+pause 2.0
+alvy menu00
+pause 2.0
+repeat
+pause 1.0
+pause 1.0
+repeat
+alvy no
+pause 0.3
+alvy nono
+pause 0.3
+repeat
+alvy no
+pause 0.2
+alvy nono
+pause 0.2
+repeat
+hornyjail1
+pause 1.5
+hornyjail2
+pause 1.5
+repeat
+pause 2
+pause 2
+repeat
+pause 0.75
+pause 0.75
+repeat
+pause 3
+pause 0.2
+tatehood
+pause 0.1
+pause 0.2
+tatehood
+pause 4
+pause 0.5
+pause 20
+repeat
+pause 3
+pause 0.2
+tatehood2
+pause 0.1
+pause 0.2
+tatehood2
+pause 4
+pause 0.5
+pause 20
+repeat
+tateeye1
+pause 0.1
+tateeye2
+pause 0.1
+repeat
+pause 1.25
+pause 1.75
+repeat
+pause 0.5
+pause 0.75
+repeat
+windowhang3
+pause 0.75
+pause 0.75
+pause 0.5
+black
+pause 0.5
+windowhang4
+xalign 0.5
+yalign 0.0       # keep top of image aligned with top of screen
+zoom 0.5         # start fully zoomed out
+linear 15.0 zoom 1.0
+xalign 0.5
+ypos 0
+zoom 1.0                # start fully zoomed in
+linear 15.0 zoom 0.5
+xalign 0.5        # center horizontally
+ypos 0       # show bottom half first
+xalign 0.5
+ypos -1080         # show bottom half first
+pause 10.0
+linear 15.0 ypos 0 # pan up to top half
+xalign 1.5 yalign 0.5
+linear 6.0 xalign 0.8
+repeat 1
+xalign 0.5
+ypos -1080             # start one screen height above
+linear 8.0 ypos 0      # slide down until aligned with top of screen
+xalign 0.5
+ypos 1080
+linear 8.0 ypos 0      # end aligned with top of screen (centered objects show)
+screen center_text_line(msg):
+text msg at truecenter slow_cps 30
+pause 3.0
+pause 4.0
+pause 3.0
+pause 1.0
+pause 5.0
+rep"I am currently in front of Elphedor High, where reports are coming in about a devastating explosion that has left twelve injured."
+rep "Six remain in stable condition at the hospital, but one individual has suffered serious injuries – The Sophomore teacher of Class 2-B, who was reportedly closest to the blast's epicenter. His condition is still unknown."
+rep "Most of the children seem to be alive with minor injuries."
+rep"Thankfully, we have an eyewitness who escaped the tragedy unscathed."
+rep "Some would call it a miracle, others pure luck."
+rep "But a question everyone will be asking in no time is: {i}Who shall pay for such a horrific mishap?{/i}"
+rep "Sir, could you give us any information on the matter?"
+yyy "…" with llongdissolve
+rep "Sir?"
+rep "The explosion?"
+yyy "{i}{size=*0.5}Why am I here…?{/size}{/i}{w=3}{nw}" with longdissolve
+rep "The paramedics would like to know where his arm flew, before it’s too late to be reattached."
+rep"Any guesses on its whereabouts?"
+yyy "..." with llongdissolve
+rep "Did you have anything to do with it?"
+yyy "I-{w=0.4}{nw}"
+rep "Ooof, I’m afraid you’re too slow. You lose today’s game of- repeat after me: {b}{i}Wake Up Before It’s Too Late!{/i}{/b}"
+rep "Unfortunately, it is time for capital punishment."
+pause 2.0
+pause 3.0
+yyy "You got to be kidd-{w=0.8}{nw}"
+pause 0.1
+pause 0.2
+pause 3.0
+pause 4.0
+yyyy "…"
+yyyy "Well..."
+yyyy "That sure was something."
+yyyy "What was he saying about the- uhmm, about..."
+yyyy "Not even five seconds awake, and I already forgot my dream. Hate when that happens."
+yyyy "My forehead hurts; I feel like I was struck with a hammer. It could also be the usual Monday effect."
+yyyy "Or I dropped my phone on my face while falling asleep. I did promise myself not to do that anymore… but I’m not great with promises, especially to myself."
+yyyy "How much longer do I have to sleep? It’s-"
+yyyy "{i}35:97…{/i}"
+yyyy "That sure is a number of all time, but not one that should be on the clock, which meaaans-"
+yyyy "Yup, I'm still dreaming."
+yyyy "Not only do I have to dream about terrorist attacks in the midst of a cold war… I also have to deal with you so often-"
+yyyy "With that thought at least some vague memories of the dream came back. That’s good, wouldn’t you agree?"
+pause 1.0
+pause 4.0
+un3 "…"
+yyyy "…"
+yyyy "Are you the one giving me these nightmares? Be honest."
+un3 "…"
+yyyy "I’ll forgive you if you are, just tell me."
+un3 "…"
+yyyy "Careful, I’m not bound by law or a justice system. In my eyes, you’re guilty until proven innocent."
+yyyy "Can't you- I dunno, let me dream of hot, naked men for once? Something normal?"
+un3 "…"
+yyyy"{i}Sigh{/i}"
+yyyy "I’d be satisfied with just you alone, but you’re the shyest hunk of meat I’ve ever met, and I thought I was the socially anxious one."
+yyyy "If you're gonna make me suffer every night with these nightmares and false memories, you could at least let me touch you once."
+un3 "…"
+yyyy "Or at least say something back..."
+un3 "…"
+yyyy "Even a plain '{i}no{/i}' would be great."
+un3 "..."
+yyyy "Figures."
+yyyy "Hmm-"
+yyyy "Flying books? Random flowers? Some blood as well, because why not? You really took my last comments to heart, huh?"
+yyyy "Didn’t mean to be rude by complaining about your empty void, but us alone in here was starting to be quite boring, especially with your refusal to collaborate in any way, shape, or form."
+yyyy "You’re lucky I like talking to myself so much. I’ve grown used to it."
+yyyy "But I can’t touch myself- well, I could, but y’know… it’s not- I mean, it’s not the same- aghh, this is so awkward."
+un3 "…"
+yyyy "Would’ve been funny if you nodded for the first time ever after that. You should take some lessons in comedy from me."
+yyyy "I’ve been told I’m quite the clown many times."
+un3 "…"
+yyyy "You’re right, that was sad."
+yyyy "Sooo, can I touch you just this once? It's a special day, you know?"
+yyyy"I’m going to a shiny new academy today. You might’ve heard of it - pretty cool place for the hottest and smartest people."
+yyyy "I’ll finally be able to use my magic for something useful while having lots of fun, surely. They call it Lakonia."
+The man jolts, just a little.
+yyyy "Ha! I saw that!"
+yyyy "Geez, the biggest reaction I’ve ever gotten from you, and it was to basically insult me."
+yyyy"Alright, fine, maybe I can’t comment on my looks or compete with supermodels, but I {i}am{/i} smart."
+yyyy"My grades are very much the only reason I got in."
+yyyy"That place is, like, literally a sex school. Though they don’t love it when you call it that, especially when you pitch the idea to your family. Learned that the hard way."
+yyyy "Bringing up the {i}fighting{/i} and becoming a {i}millionaire{/i} aspects is a much better convincing plan."
+yyyy "Thankfully, the Headmaster was smitten by all my other wonderful qualities and put in a good word for me!"
+yyyy "Heh, not only is there a very limited number of recommended students, but I got in with a personal nod from the Headmaster himself!"
+yyyy "It’s not every day students are recommended directly by him."
+yyyy"I've been dreaming of this place my whole life!"
+yyyy"Okay, fine, not my whole life - since four years ago, when I found out I had magic."
+yyyy"I’m the only one in the family with it. My sister’s not exactly thrilled about that."
+yyyy "I’m also not exactly sure if my father had any, but I’m not about to meet him any time soon anyway."
+yyyy "Thinking about it, I wouldn’t be surprised if she messed with my alarm just to make me late…"
+yyyy "Are you going to wake me up as usual, or do I have to figure out what time '35:97' is supposed to be?"
+un3 "…"
+yyyy "Still giving me the silent treatment, huh?"
+yyyy "At least I found a topic I know you’re somewhat interested in."
+yyyy "Also learned that you can, in fact, hear me."
+yyyy "Well, you know what that means…"
+yyyy "Time for my nightly attempt to see what’s under those garments."
+I unveil the sheets, jump out of bed and kneel in front of the man, as I have been doing almost every night for months.
+yyyy "Yeah yeah, keep your dramataic horror sound effects to yourself, I'm about to have the time of my life here."
+yyyy "Maybe even {i}your{/i} life."
+yyyy "All you must do is tell me to back off, or perhaps keep going, because that blush does not seem to be a refusal."
+Every night is the same: I talk with him for a while, it’s always a one sided conversation, obviously, then I make my move trying to seduce him.
+I can’t let a body like that slip through my fingers; it’s quite literally the {i}body of my dreams{/i}, ha, get it?
+You can take the dick out of the leopard but you can’t… I’ll stop before I embarrass myself further. Even if it’s just in my mind.
+yyyy "What the-"
+yyyy "You really are shy, huh?"
+yyyy "But usually you would’ve stopped the dream by this point, unless… you can’t?"
+yyyy "Or even better, you {i}want{/i} me to continue."
+yyyy "WELL, missy! If you so insist, my good paralysis Demon friend."
+yyyy "This is what happens when you forget the paralysis part around me."
+yyyy "Let- me just- get these, big, muscular… LEGS!-"
+yyyy "{size=*1.4}OPENED!{/size}"
+yyyy "Well, that was a workout."
+yyyy "You got some strong muscles down here."
+yyyy "Keep them open baby boy, mama’s about to have a feast-"
+yyyy "Exciting, isn’t it? No need to tremble, I’ll take good care of your goods."
+yyyy "This is the farthest I’ve ever gotten; even a single quick touch would be lucky on most nights."
+Although just a dream, everything feels so lucid. His rough scales against my paws as he’s trying to close his thighs again, the light heat radiating from the front, inviting my muzzle closer…
+My nose almost touching the massive growing bulge my eyes are targeting.
+yyyy "Glad to see you’re equally excited."
+I let go of his knees with one hand, and now he has a choice: either squish my head like a watermelon, or keep those legs opened.
+yyyy "Both very good and welcomed outcomes."
+yyyy "It is checkmate, old friend."
+yyyy "Now let’s take a peek at what we’re working with juuust under this-"
+yyyy "Huh?"
+yyyy "What’s that?"
+yyyy "A letter for me?"
+yyyy "Happy… birthday…"
+yyyy "Holy… you… actually know?"
+yyyy "Did you write this?"
+yyyy "So you know my birthday was yesterday. I didn’t think there was any connection between this and… well, thank you, in any case."
+yyyy "Also where do you keep the pen?"
+yyyy "Doesn’t matter."
+yyyy "Uhmm, let’s see."
+yyyy "Is this some kind of code?"
+yyyy "Left, right, left, front…"
+yyyy "Do I end with an Alt F4? What is this?"
+yyyy "It was a great opportunity for you to appear fully wrapped with birthday ribbons, just saying."
+yyyy "Would’ve been less of a hassle."
+yyyy "Anyway, back to business-"
+pause 2.0
+yyyy "…"
+yyyy "{i}Sigh.{/i}"
+Y nakedbored"Of course. Of course I’d wake up now. I {b}always{/b} wake up right before any kind of fun actually starts."
+Y "These dreams are so stupid."
+Y nakedangry"{i}'They’re gonna stop after a while.'{/i} HOW LONG IS A WHILE?!"
+Y nakedbored"I told them a therapist wasn't going to cut it..."
+Alarm going off, knocks on the door, birds outside chirping their little beaks off and a random ringing in my ear. I love mornings.
+Y nakedpf"Did my birthday present just cuck me…?"
+sis "WOULD YOU WAKE UP ALREADY!?"
+sis "THAT ALARM’S BEEN RINGING FOR TWENTY MINUTES!"
+Y nakedsurprised"WHAT?!"
+Y "Damn it, how come I didn’t wake up when it started?"
+Y nakedangry"WHY DIDN’T YOU TRY HARDER TO WAKE ME?!"
+sis "I’VE BEEN KNOCKING AND SCREAMING FOR AT LEAST THE PAST SEVEN MINUTES, BE SO FUCKING FOR REAL RIGHT NOW!"
+Y nakedbored"So that’s where the ear ringing is from… and my head still hurts from the phone, but-"
+Y nakedconfused"Huh?"
+Y "The hot lizard's present?"
+sis "I’M NOT ENTERING THAT CAR IF YOU DON’T GET TIME TO SHOWER, JUST SO YOU KNOW!"
+Y nakedangry"FINE! I’M GOING! Geez."
+sis "AND HURRY UP!"
+Y nakedbored"Of course I’m gonna hurry. If I don’t listen to all of Mom’s worries before we step out the door the car ride will be a looooong one."
+Y nakedpf"I’ll just think about you later, mysterious piece of dream paper."
+Y "You just… stay right there and don’t follow me, m’kay?"
+I put my slippers on while doing a big stretch.
+Y nakedhurt2"Damn, I’m too young for my bones to be cracking like this."
+Opening the door, I look around for a certain noisy sister, and after making sure the way is clear- I rush to the bathroom in my underwear and a big towel over my shoulder.
+The boring, mundane bits follow: brushing my teeth, turning on the water, you get the gist. I doubt you need me to narrate this part.
+But all epic stories must start somewhere.
+While my mind drifts away and my hands instinctively rub the shampoo into my fur- I can’t help but think about tonight’s dream.
+Y nakedbored"I mean, duh, it literally manifested in real life, it would be stupid to not give it some thought."
+Y nakedsimple"But even more stupid to bring it up to my family…"
+Y "In any case-"
+Y "Was I being a bit much back there?"
+Y nakedpf"Maybe I went too far with my personal fantasies."
+Y nakedsimple"I mean, at the end of the day, it was just a dream, the same one I’ve been having for months…"
+Y "It’s the only place I feel comfortable enough to show my true colors, so to speak."
+Y "Being a little perverted isn’t really a personality, but still- I’m supposed to be…"
+Y nakedsad"A little innocent angel…"
+Y nakedsimple"That guy, man, thing, was the only one to kind of get me - not that he ever said or did anything aside from listen to me, but maybe that’s good?"
+Y "I don’t know."
+Y nakedsmug"I can’t wait to be on my own. I’ll be sleeping with so many people, just as hot as him, if not hotter. I swear it, or my name isn’t-"
+y nakedsimple"[name]."
+y nakedsimple"[NAME]."
+Y nakedblush"Did I really just forget my own name?"
+Y nakedsimple"That tends to happen when my emotions get a little heated."
+Y "Hopefully it doesn’t happen at the academy, when I meet potential new friends."
+Y naked"Hmm, the academy, finally, my little quirks are actually going to be useful for once."
+Y nakedsimple"They better be, when the whole world kind of revolves around magic, and lust, and- wait, I feel like this part of the exposition should be said later-"
+Y nakedpf"What else can I monologue about while drenched in hot water?"
+Y naked"My super unique energy manipulation abilities?"
+Y "More thoughts on those weird dreams?"
+Y nakedpf"Maybe more about my wretched sister-"
+sis "GET OUT ALREADY!"
+Y nakedbored"Speak of the devil."
+Y nakedangry"I’VE BEEN HERE FOR LIKE FIVE MINUTES!"
+sis "FIFTEEN ACTUALLY!"
+Y nakedsimple"Oh, must’ve lost track of time again."
+Y "ALRIGHT! I’M COMING!"
+I step out of the shower and use the fur dryer with one single, silly worry remaining.
+Y nakedasleep"Please please PLEASE let it be a good fur day; I don’t want to meet people looking like a big ball of fluffy white mess."
+With eyes tightly shut and towel wrapped around the waist, I hurry back to my bedroom.
+Shoot. What’s the underwear situation?
+I prepared my whole outfit two days ago, planned everything head to toe, but this…
+Think [name], sexy? Comfy? Do I even care what they look like? Will other people care? Will other people even see them ever? Well, I hope so. Maybe not on the first day though, so surely it doesn’t matter.
+Y nakedsmug"Yes! That is my final decision: a simple, modest pair. Logical decision, very smart, very big brained of me."
+Y "Didn’t even need a whole choice menu for it, surely there’s no other reason I came to such a fast conclusion."
+Y nakedasleep"Now for the fur reveal-"
+Y naked"…"
+Y nakedblush"Woah-wee!"
+Y "You know what?"
+Y nakedsmug"Maybe I really am good looking."
+Y "At least cute, almost… dangerously cute."
+Y "Huh, did I always look like this?"
+Y "I think that mysterious dream guy raised my self-confidence subconsciously."
+Y naked"I lost weight in the past two years as well, that’s a big plus."
+Y "I need to look good and feel good in my fur if I am to become a hunter."
+Y nakedsimple"Unfortunately I did give up putting on actual muscle mass, but who needs that anyway when you can learn strength and agility spells off the internet."
+Y nakedbored"Well, I can. Support-oriented affinity, yeeey…"
+Y nakedsmug"And what do you know? Luck is finally on my side, at least in the fur department."
+Y "Smooth. Sleek. Like I just stepped out of a drama-free romance novel."
+Y "Oh, how I wish I was the Mary Sue of my own life."
+Y "I’ll have to be content with this small win for now."
+Y "Yup. Looking sneplicious, you outdone yourself."
+Y "All you need now is a partner to enjoy the fruits of your labor."
+Y naked"I wonder what they’ll look like."
+Y nakedss"A gentle giant? Maybe a himbo? A bad boy? A twink even smaller than me? Perhaps not even a man, the possibilities are-"
+sis "HOLY MOTHER OF GOD! WHAT ARE YOU STILL DOING IN THERE?!"
+Y nakedangry"I’M GETTING READY!"
+sis "If you need help with your makeup, you should’ve said so."
+Y "HA-HA. I’ll be down in five."
+Y nakedbored"Right. Only three people in this house yet not a single minute alone with my thoughts."
+Y "Kind of wish I was back in my dream right about now."
+Y naked"In any case."
+I look towards the neatly arranged clothes on the table. My new uniform that I’ve been ironing everyday for the past week.
+It’s simple, just custom jeans, white shirt, and tie, with the mandatory insignia of the Academy.
+Y nakedec"And a little pin I made myself! For good luck!"
+As promised, I hurry to put on the uniform, which fits like a glove. Not like I tested that multiple times over the last few days, or anything like that…
+And lastly… I look at the piece of paper still on my bed…
+I fold it neatly and place it in my back pocket.
+Y simple"It would be more stupid to leave it here than take it with, besides, it's a birthday gift, it would be rude to leave it."
+I grab my bags and run out before that goblin can return with another ear-piercing scream.
+On my way downstairs, an entire story wafts up into my nose. Hurriedly sprayed perfume, greasy fried bacon and slightly burned eggs.
+Y ec"Gooood morning everybody!"
+mom "There you are!"
+mom "Oh thank God you’re all covered."
+mom "Sit down and eat, you’re not going anywhere on an empty stomach."
+Y pf"Wow, crazy, lots of words, and none of them are {i}‘good morning’{/i} from anyone."
+sis "I exchanged enough words with you for the day."
+Y ec"Couldn’t agree more."
+mom "Sorry, I just have so many worries on my mind; I know I’m overthinking the whole ordeal but still… it’s hard to think you’ll be gone for so long."
+Y simple"We’re not opening that can of worms again. You know I’ll be fine."
+mom "I was {i}convinced{/i} into believing you’ll be fine, that is NOT a guarantee; I’m just willing to be trustful."
+Y pf"Yeah, ok, all cool with that but… what did you mean by {i}‘all covered’{/i}?"
+mom "A-ah, w-well, you see, I’ve been researching the dress code at the Academy and a lot of them are… very revealing."
+sis "An understatement, the beach has more clothes on it."
+Y pf"You told her."
+sis "Won’t deny it."
+mom "I was just hoping you wouldn’t take any risks on the first day, you know?"
+Y simple"Duh, I won’t ruin my uniform so soon."
+Y "Besides, it’s an exaggeration. Students are allowed to make any modifications to the uniforms but there are still limits."
+sis "The clothes are the least of your worries."
+Y scream"Can we PLEASE change the subject, like why are you making pancake batter? Don’t we have to leave in like ten minutes?"
+mom "Right! Good news about that. My friend, Jessie, from work. You know, big guy, bigger heart, always confused about lemons?"
+Y simple"Oh yeah, remember him."
+sis "{size=*0.4}Jessie’s a guy?{/size}"
+mom "Well, his cousin works at the main portal gates on the East Side, so I convinced him to open one for us around 8 AM, so I have time for pancakes."
+Y confused"The East Side? But those only go up to the nearest city."
+mom "Better than nothing. Turns our 5-hour rushed car ride into a chill, three-and-a-half-hour family road trip!"
+Y "Why didn’t you tell her that earlier so she didn’t yell at me to hurry up and get ready? Four times?"
+mom "I totally lost track of what I need to do and remember. It’s getting better, slowly."
+Y simple"The batter is dripping from the whisk."
+mom "Oops."
+sis "I bet all the other students went there a day before to be ready."
+Y bored"Well, other students don’t have their birthdays a day before the academic year starts…"
+mom "Don’t eat all of the strawberries!"
+sis "[name] isn’t eating any of the cake anyway, he can’t even look in its direction."
+Y hurt2"I should not have eaten four whole slices… death stared me in the face."
+Y "Death by cake…"
+Y simple"What’s the fatal amount of cake?"
+mom "All sugar is death."
+mom "I was going to bring Jessie some of it as thanks."
+sis "Ughhh… fine."
+sis "Bring the death to your feminine coworker."
+sis "Hey, [name], so when you come back are you gonna buy me a car?"
+Y confused"Me and what money?"
+sis "Aren’t all hunters, like, millionaires?"
+Y "That’s after I graduate, and get signed up, and start to actually work."
+sis "So in like ten years…"
+mom "Doctors don’t need to be ‘{i}signed up{/i}’…"
+Y bored"Not again, I’m literally at the doorstep ready to leave."
+mom "Just saying! At least you wouldn’t have such a high chance of getting hurt."
+Y "But countless chances to get sued."
+Y simple"Besides, I’d have to work extra hard because I have no healing magic."
+sis "Unlike your phone charging powers, that will be sooo useful for a hunter, speaking of, do you mind-?"
+Y angry"ENERGY MANIPULATION IS MORE THAN CHARGING PHONES!"
+Y simple"{size=*0.4}…here.{/size}{w=0.5}{nw}"
+sis "{size=*0.4}Thanks.{/size}{w=0.5}{nw}"
+Y determined"I’ll be able to do all sorts of things by the time I graduate!"
+Y "Lighting, healing, burning, supporting, you name it!"
+mom "There is still time to enroll you into a university."
+mom "With your grades it will be easy!"
+Y simple"And give up the opportunity of a lifetime? This is a pretty weak last attempt at convincing."
+mom "{i}Sigh{/i}… I know, I just never thought about… you in this field, you know? I’m proud! I swear, just a bit on the edge."
+sis "I’m not."
+sis "I know his talents."
+Y blushmad"SHUSH!"
+mom "What kind of talents?"
+Y awkward"AAAHH-HA! LOOK! THE MORNING NEWS!"
+blur 25
+rep "{i}Good morning and welcome back to {b}Rapid-Fire News{/b}, I’m your host, Clark Barkson.{/i}"
+rep"{i}We begin this day’s broadcast with breaking developments in the ongoing battle against the Nightfallen. Another city has successfully erected a barrier, ensuring safety for its residents against the relentless threats of the dark and lustful.{/i}"
+rep "{i}{b}Flamecraven{/b}, a city that has faced months of unyielding attacks. Thanks to the tireless efforts of elite hunters, the threat has been repelled once more, with not much blood spilled, but many holes stretched.{/i}"
+mom "Why did he have to say it like thaaat?"
+Y "It’s {b}Rapid-Fire{/b}, that’s what they do."
+sis "Isn’t that Uncle’s hometown?"
+Y determined"They deserve the barrier, those Nightfallen have REALLY wanted to get in that town for some time now."
+y "There were, like, over a hundred high ranking Defenders around the borders."
+mom "Timothy was complaining that their taxes increased because of all the needed Hunters."
+sis "He was throwing hints he wants to come live with us last month... hopefully the barrier makes him change his mind."
+rep "{i}And speaking of hunters, leading the charge was none other than the {b}Fire Witch{/b} herself, whose swift and devastating tactics ensured that the demon’s rampage was halted.{/i}"
+rep "{i}However, reports confirm that the creature was not slain — only driven back into the shadows. A temporary victory, but a victory nonetheless.{/i}"
+mom "My goodness."
+Y surprised"A Demon? No wonder the Fire Witch is on the front page, they had to get the big guns out."
+sis "They didn’t even kill it."
+Y bored"I’d like to see {b}you{/b} try to kill a Demon."
+sis "Good thing I have a heroic Hunter big brother to protect me then!"
+mom "Awww."
+Y angry"Don’t {i}‘aww’{/i}, she’s mocking my very being!"
+rep "{i}Meanwhile, tensions continue to rise in neighboring territories, with conflict displacing thousands and sending waves of refugees toward {b}Arcanvale{/b}’s borders.{/i}"
+rep "{i}Humanitarian aid efforts are underway, though the strain on resources has begun to spark political debates within the Council. Could {b}Fossil Fuels{/b} ever make a comeback in the age of {b}Lust Energy{/b}? Are other nations going to continue allowing {b}Arcanvale{/b} to be the sole user of this power?{/i}"
+mom "These politics have recently been getting on my nerves; world leaders should just kiss and make up."
+rep "{i}Some would say these leaders should kiss and play with each other’s butts.{/i}"
+mom "That’s NOT what I said!"
+Y smug"Ha, they got you this time. Classic Clark."
+mom "Let’s watch something more relevant…"
+rep "{i}Next up, the Whoroscope-{/i}"
+pause 1.0
+rep "{i}Mister Argus, what kind of relations will the Academy keep with neighboring countries’ Hunters Academies?{/i}"
+Y surprised"Woah, is that the new Headmaster of Lakonia?"
+rep "{i}Sir, can you spare any more details on the new test for the young hunters this year?{/i}"
+rep "{i}Were there any other people involved in its making?{/i}"
+rep "{i}What was your relationship with Mr. Mandrake? Were you secret lovers?{/i}"
+h "{i}All will be answered in good time.{/i}"
+h "{i}Except for that last part. I’ll answer now. {b}No{/b}.{/i}"
+mom "This isn’t the man that recommended you, is it?"
+Y simple"No, that was the {i}old{/i} Headmaster."
+Y "I heard he retired this summer, right after accepting the new recommended students."
+mom "I can’t believe they changed the Headmaster all of a sudden."
+mom "This is throwing many of my plans off."
+mom "No, don’t panic, it’s gonna be fine, just a minor inconvenience for your son."
+Y bored"I literally don’t care, and if there’s anything to have a panic attack over it’s those burning pancakes."
+mom "{size=*1.4}SHOOT!{/size}"
+H "{i}I take this responsibility very seriously and will do anything and everything to ensure our Academy creates the best hunters there can be.{/i}"
+pause 1.0
+mom "All good! They’re just extra crispy."
+mom "Now that I think of it, I suppose you lucked out in that interview; doubt this man would’ve been very kind."
+Y simple"Are you saying it because of the new {i}‘test’{/i} he’s implementing?"
+Y smug"It will be fine. There is no test I can’t at least pass, even if not with full marks."
+mom "That lion is not the kind to accept mediocrity."
+Y confused"How would you know that?"
+sis "Look at the bright side, Mom - when he fails, he can come back and continue to serve a greater purpose."
+mom "Like getting a degree in magic medicine and work across the street at the potion shop? Close to me? Great idea!"
+sis "Yeah, or be our personal phone charger, just a thought."
+Y pf"You’re encouraging her by ignoring her, you know that?"
+mom "It worked for all these years, didn't it?"
+Y bored"Barely."
+Y angry"And no! Even if you want me to sell potions, I still need to go to a magic academy, and oh! Look! The best one in the country is begging me to join them!"
+sis "Humble yourself."
+Y pf"Ok, they’re {i}accepting{/i} me. But that’s much more than any other institution."
+Y bored"I bet most colleges, universities, and Academies have a {i}'don’t let [name] in under any circumstance'{/i} pasted on the first page of the rule book."
+mom "The accident wasn’t your fault, Mr. Reymond assured us of that. So if they were to do something like that, we would have grounds to sue."
+Y simple"That’s not how- {i}sigh{/i}. "
+Y sadsmile"Maybe we should just get going a little earlier?"
+Y "I was supposed to be there yesterday anyway; if I get to the afternoon speech earlier, it won’t be the end of the world."
+mom "Are you sure?"
+Y bored"Why? Do you have even more questions you need to ask for the sixth time?"
+mom "I’m not nagging that much, am I?"
+Y pf"Not enough to drive me nuts, but we’re slowly getting there."
+mom "Did you double check your bags?"
+Y ec"Yup."
+mom "Triple check?"
+Y pf"Slooowly getting there."
+Y simple"I checked them like seven times."
+mom "Did you eat your fill?"
+Y s"I ate enough to not be sick on the road."
+mom "In that case: Forward, my little goblins!"
+mom "Don’t forget-"
+Y bored"My bags? Seriously, I’m not that stupid, there are only two."
+mom "Your backpack is on the chair…"
+Y simple"Oh."
+Y awkward"Was wondering why they seemed lighter on the shoulders."
+sis "Are they heavy?"
+Y sadsmile"Yeah, quite heavy."
+sis "Cool.{w=0.5}{nw}"
+With that, she walks out the door browsing her Stripify playlist.
+Y pf"{size=*0.7}You wench.{/size}{w=0.5}{nw}"
+pause 0.5
+pause 1.0
+The car ride starts like any other; I get the front seat so my sister can act like the cool, unbothered queen she thinks she is.
+Mom is tapping the steering wheel restlessly and humming nervously.
+blur 30
+Y sadsmile"Are there any more questions I can answer that would ease your worries?"
+mom "No, no, I’m {i}totally chill like that, on God. Period.{/i}"
+mom "I’m kind of getting used to the idea."
+Y pf"Lying is a sin, and so is… every word you just said."
+mom "You know what? Why don't we listen to some music?"
+sis "Can I choose it?"
+mom "No I already have the perfect one in mind."
+y worried"Oh come on! Not that one!"
+mom "Why?! It's lovely?"
+y simple"It just feels a bit cliche..."
+mom "Cliches are only bad if they're forced or happening in fiction, this is real life."
+mom "Worried you're gonna cry?"
+y bored"You're only trying to avoid your true feelings."
+mom "Okay, fine. I'm VERY worried."
+mom "And yes, I do have SOME questions, but I’m ready to let you go on your own."
+mom "I'm very serious."
+mom "You're an adult, you need to live your life and I know that better than anyone."
+mom "Besides, me and your sister will have a lot of fun together."
+Although my sister has her headphones on and eyes glued to the screen, her twitching ears betray that she’s somewhat listening.
+Y smug"Then come on, shoot your questions so I can at least ease the worries."
+mom "{i}Phew{/i}, okay-"
+mom "Why the hell don’t cell service and internet work in there? What’s up with that? How am I supposed to keep in touch with my kid?"
+Y simple"Well I’m an adult so…"
+She shoots me a mean look from the side of her sunglasses.
+Y awkward"I-I mean, I told you before, the barrier works different from ours. There are a lot more Nightfallen looking to get in, so the extra power interferes with signals

@@ -1,0 +1,534 @@
+?"
+t "We trap Nightfallen, kill them, exchange the crystals they drop for money, then buy meat."
+t "We are Nightfallen hunters, after all."
+t "And stop calling him {i}'it'{/i}."
+y "Sorry."
+I follow Tate inside the tent and he hands me different equipment, including rope, a shovel, dirt anchors and... men's perfume?
+y simple"Why the perfume?"
+t "A lot of Nightfallen like the scent of people, so they associate different unnatural perfumes with people, since you can't find these in nature without a person around."
+y "I didn't know that, you really are pretty experienced for someone so young."
+t "Experienced in many ways."
+He winks.
+We walk out of the clearing, and the first trap he places is right in front of the vine entrance.
+A magic trap that does no damage but alerts the person that sets it up whenever someone passes.
+y "Did you buy these at the store?"
+t "Nah, Chelsie made them."
+t "At my request."
+y "Chelsie seems like such a big help, I'd love to spend time with her in the future and get to know her."
+t "She's Dallan's best friend, a little nuts at times, but you'd love her."
+t "There, all done."
+t "Let's place the rest around the hideout."
+I don't know much about traps, so I mostly do what he tells me.
+Most of the time I need to use strength enchantments to actually be able to do what he needs me to do.
+Setting traps is hard work...
+Hey, Scribbles, you there?
+un "Hmm?"
+un "Yeah, what's up?"
+You've been quiet for some time, everything alright?
+un bored"Yeah, I just didn't feel like talking much."
+un sidee "I had some stuff on my mind."
+un bored"Plus, I'm watching some of this {i}'tee vee'{/i} in your head."
+un eyeroll"Since CLEARLY you don't have time to pay attention to my comments, because of all your cool new friends and hot twink cat."
+Ah, so that's it.
+You're jealous.
+un suspicious"What?"
+un "What is there to be jealous about?"
+un sidee"YOU?"
+un tease"HAHA!"
+It must pain you that you don't have friends like I do, considering you think I'm so much more inferior to you.
+un simple"Ah... jealous of that, huh?"
+un bored"Uhm, yeah, sure, I'm jealous."
+I'm sure whenever you get a new body, and don't have to put up with me anymore, you'll go and make a lot of wonderful friends.
+un sidee"Yes... when I go..."
+un "And never see your... your ugly ass again..."
+Ouch, rude.
+Fine, go back to your {i}'Tee Vee'{/i}.
+un sidee"..."
+I've made it clear I'm not going to start digging, so I cheer Tate from the sidelines as he does, because he just can't help himself, and needs to make at least one pitfall trap.
+When it comes to our tree net traps... let's just say things are going to take a bit of a turn.
+t "Here we go, I'm going to climb that tree and you'll throw me the rope."
+y simple"Can't I just throw the rope over that branch so you don't have to climb?"
+t "No, I need to fixate it with a pulley for extra friction and power."
+y "Can't you just fly there if-"
+t "I WANT TO CLIMB A TREE! OK?!"
+y simple"..."
+y smug"You're cute when you're angry."
+t "You're cute when you're a dumbass..."
+t "Come on, hoist me to the nearest branch."
+I squat down and let him place his foot on my intertwined hands, and with some force, I get him high enough to reach the lowest branch.
+I am a mature man so I will not make any comments about his crotch practically rubbing against my snout, no sir.
+He gets in the tree.
+I would explain what he does there, but as I said before, I know nothing about this sort of thing.
+He, uhm, nails the pulley there, throws the rope around it, then uses some thingies to test it? No, to fix it in place better.
+y simple"Hey, Tate?"
+t "Yeah?"
+y "The bushes and leaves are rustling."
+t "No shit, we're in a forest."
+y worried"They're louder than usual!"
+t "Probably squirrels, it's Fall, so they're more lively."
+t "Hey!"
+t "Try to pull the rope a little bit!"
+y "Is this good?"
+t "Yeah, it's perfect, I'm coming down now!"
+y "Careful."
+t "It's not the first time I've climbed a tree."
+t "I know how to-"
+t "Wo-wWHhoOAA!"
+y smug"Told you..."
+He tried to show off after my comment, jumping from where he was to the lowest branch, but the bark was too slippery for his shoes, so he slipped and fell in the bushes that surround the tree.
+y "Lucky for those bushes."
+y "Fell hard enough to learn a lesson but not hard enough to injure yourself."
+y "I suppose I should help you up, even if you kind of-"
+y simple"Huh?"
+I try to take a step towards Tate, but I'm stopped.
+Thick vines suddenly tighten around my leg, quickly wrapping up to my torso and incapacitating my hands.
+y worried"What the-"
+y "Uhmm."
+y "Tate?"
+y "Not to underline my own problems over yours, but I think I'm in trouble."
+t "I'm pretty sure my peril is still greater."
+The bushes start to move out of the way, as Tate's body is getting raised up, held by the same vines holding me, except that his were smaller and looked softer, compared to my thick, with an almost wooden like density.
+y worried"D-don't tell me, this is a..."
+t "Nightfallen?"
+t "Yep."
+t "The plant kind, but that was probably pretty obvious."
+t "My damn shoes fell as well."
+t "Kids, don't climb trees in school provided shoes...they buy you a size too big as always."
+y worried"You're pretty calm for someone suspended in the air by one of these plants."
+t "I'm assessing my situation."
+t "I can always teleport away, but I don't really want to use my energy like that."
+y "How did we not see it coming?"
+t "Because it didn't {i}'come'{/i} from anywhere."
+t "It was probably dormant right here, under this tree."
+t "I already hunted most of the Nightfallen around this part, but I missed this guy."
+The plant seems to be somewhat intelligent, or at least more intelligent than I'd give a plant credit for.
+It uses its tentacle-like vines to spread Tate's legs, and some more spawn up towards his mouth and other orifices.
+y blush2"Uhmmm."
+t "Yeah, this guy doesn't waste any time, it's probably really hungry for lust after sleeping for so long."
+t "I don't feel like having an audience for this, so I'll just get away."
+y "Probably for the best."
+pl "..."
+t "..."
+y simple"..."
+un "..."
+y bored"You're still there."
+t "..."
+t "It canceled my teleportation..."
+y scared4"WHAT?!"
+y angry"WHY DID YOU LET IT DO THAT?!"
+t "I DIDN'T LET IT DO ANYTHING!"
+t "IT'S NOT MY FAULT EVERYBODY AND THEIR MOTHER KNOWS HOW TO CANCEL TELEPORTATION SPELLS NOWADAYS!"
+y "IT'S PROBABLY BECAUSE IT'S SUCH A GOOD SPELL PEOPLE AND NIGHTFALLEN NEEDED TO EVOLVE WAYS TO COUNTER IT!"
+t "I DON'T NEED YOUR LOGIC RIGHT NOW, DO SOMETHING!"
+The Nightfallen slows down hearing our argument, it seems to enjoy Tate's struggles which are in vain, his limbs barely moving against the plant's tight grip.
+Scribbles, are these things smart?
+Is it teasing Tate's inability to escape?
+un "I wouldn't say {i}'smart'{/i}, but it probably realized he's defenseless, since why else would its prey struggle so much?"
+un "Nightfallen like foreplay as well."
+The Nightfallen rubs Tate's behind, grinding the vine where his hole would be underneath the clothes.
+t "WAIT WAIT WAIT!"
+t "Mister plant please, can you at least turn me around so my friend doesn't have to see this?"
+The plant's head blooms from the ground, standing above Tate, shaking its corolla at him.
+y worried"I think it wants me to watch."
+t "Stupid pervert plant!"
+t "Screw you and your voyeurism kink!"
+y blushmad"Don't kink shame it, you'll make it mad!"
+t "Oh shut up, I'm about to be used for Lust!"
+t "Do something!"
+Scribbles, do something!
+un curious"Me?"
+un "You have the spell I taught you, did you forget already?"
+Oh, right!
+Turns out we weren't in any danger after all.
+I follow the instructions Scribbles taught me yesterday, and snap my fingers.
+This should do it.
+
+--- CHOICES ---
+→ Should I tell him the good news right now?
+→ Let Tate know.
+→ Tate doesn't waste much time thinking this over, even if my wording was a bit weird, it was worth it for him to try.
+→ The next second he's right beside me.
+→ He touches me and takes me out of the wooden vines.
+→ Wait a minute...
+→ I know... I just...
+→ ...perhaps.
+→ I do not have to wait too long, as the plant slowly slides Tate's pants down.
+→ His round cheeks covering just enough from this angle that nothing explicit is actually visible.
+→ With a final pull, and what looks like a big grin on the plant's supposed face, Tate's pants are down to his knees, and his face goes red.
+→ It shows me just enough to mock me...
+→ Well, there wasn't much reward in my action, so I guess I'll just end this.
+→ The teleportation works and he appears next to me.
+→ He gets me out of the hardened vines with an eye roll and a smirk.
+→ What can I do to help? If I make too many bad choices, it might end up badly...
+→ Try to get out of the plant's grip.
+→ If I even want to get to his heart, I want to deserve it, I want to protect him on my own.
+→ I might be covered in wooden vines, but these won't stop me!
+→ I pump magic strength enchantments on myself and try to free my hands first, then my legs.
+→ Fun fact, wood is MUCH stronger than one might think, so my efforts are doing literally nothing.
+→ I've wasted time with my failed attempt, but this isn't a turn based RPG, so the plant doesn't wait for me to finish.
+→ As my eyes assess the situation, they're met with Tate's {i}'pantless'{/i} and {i}'underwearless'{/i} ass.
+→ Thankfully, for now, the only one bleeding in here is my nose, so let's try something else.
+→ If I don't get Tate free soon, I doubt he'll be too happy with me...
+→ Ask Scribbles for help.
+→ Scribbles!
+→ I doubt I'll be able to get out on my own, please help him!
+→ Well I don't know how!
+→ Let us argue later, we don't have much time!
+→ Anything!
+→ As my eyes assess the situation, they're met with Tate's {i}'pantless'{/i} and {i}'underwearless'{/i} ass.
+→ Thankfully the only one bleeding in here is my nose, so far.
+→ If I don't get Tate free soon, I doubt he'll be too happy with me...
+
+--- CHOICES ---
+→ I need to give Scribbles specific instructions...
+→ Use electric powers to shock the plant.
+→ Can you shock its roots so it lets go of Tate?
+→ Tate remains somewhat calm, as the plant begins planning what to do with him next.
+→ Before anything happens, I feel my feet letting off a powerful magic current, which travels through the ground.
+→ It first hits the wooden vines restraining me, getting them loose, then arriving at the plant's roots.
+→ It screeches in pain and starts shaking.
+→ The shock was not enough to affect Tate, but enough to burn some roots.
+→ The tentacle vines start to retract, giving the cat his mouth back and letting go of his limbs.
+→ He pulls his pants back up and runs to me.
+→ He slaps his own ass.
+→ He directs his attention back to the plant, the electricity was not enough to kill it, but it can't move much anymore.
+→ Cut all the vines off with wind blades.
+→ Can you use some kind of wind blades?
+→ Then cut all the vine-tentacles things off!
+→ We managed to waste more time, so the plant makes its next move.
+→ It shakes its head.
+→ The Nightfallen took advantage of Tate's shouts to stick its tentacle down his throat.
+→ Using thrusting movements to mimic a blowjob.
+→ I can feel the attitude even without words.
+→ Somehow I'm making all the wrong choices here...
+→ Scribbles, can you try shocking its roots to make the tentacles loosen up?
+→ DO IT ALREADY AND SHUT UP!
+→ A second tentacle forces its way inside his mouth, filling up his throat.
+→ Not my boyfriend, yet.
+→ W-well, I'm kind of hopping...you know, maybe not {b}that{/b} far ahead, but possibly...
+→ I-I mean, if everything is-
+→ Wait.
+→ YOU'RE TRYING TO DISTRACT ME SO THE NIGHTFALLEN GOES FURTHER!
+→ Now the plant spawns a cock out of its flower, covering the poor cat's butt, which is a sentence I never thought I'd say.
+→ Tate's panic expression was a good hint that he's not looking too forward to having it shoved inside him.
+→ Shut up and do what I told you to do, NOW!
+→ Before any of insertion can happen, I feel my feet letting off a powerful magic current, which travels through the ground.
+→ It first hits the wooden vines restraining me, getting them loose, then arriving at the plant's roots.
+→ It screeches in pain and starts shaking.
+→ The shock was not enough to affect Tate, but enough to burn some roots.
+→ The tentacle vines start to retract, giving the cat his mouth back and letting go of his limbs.
+→ He pulls his pants back up and runs to me.
+→ He slaps his own ass.
+→ He directs his attention back to the plant, the electricity was not enough to kill it, but it can't move much anymore.
+→ What's plan B?
+→ Get Scribbles to help.
+→ Scribbles, shock its roots.
+→ As Scribbles prepares a high amount of electricity, the plant has some ideas in mind...
+→ It uses its tentacles to open up Tate's mouth and shove another one inside.
+→ Tate's dazed expression was a good hint that he's not too excited to have them inside him.
+→ At last, I feel my feet letting off a powerful magic current, which travels through the ground.
+→ It first hits the wooden vines restraining me, getting them loose, then arriving at the plant's roots.
+→ It screeches in pain and starts shaking.
+→ The shock was not enough to affect Tate, but enough to burn some roots.
+→ The tentacle vines start to retract, giving the cat his mouth back and letting go of his limbs.
+→ He pulls his pants back up and runs to me.
+→ He slaps his own ass, making one of the cheeks jiggle and leaving a palm print on his baggy pants.
+→ He directs his attention back to the plant, the electricity was not enough to kill it, but it can't move much anymore.
+→ Use my powers to try and break free.
+→ Raw strength didn't help much, so let's try some actual magic.
+→ I conjure an energy orb the size of a tennis ball and aim it at the Nightfallen's head.
+→ I fire it, and watch as its momentum gets lost, missing the Nightfallen completely.
+→ Although I did no damage, at least I attracted the Nightfallen's attention.
+→ The flower bud which I'm calling its {i}'head'{/i} has no eyes, and the mouth is barely a mouth, but I can still see annoyance on it.
+→ It slowly comes closer, standing now inches from my snout.
+→ I thought this meant it's going to ignore Tate and focus on me, but no.
+→ It uses its tentacles to open up Tate's mouth and shove another one inside.
+→ I now realize it came closer just to say {i}'that was a mistake, buddy.'{/i} Even if it can't speak.
+→ Scribbles, shock its roots.
+→ The plant spawns a cock out of its flower covering the poor cat's butt, which is a sentence I never thought I'd say.
+→ Tate's panic expression was a good hint that he's not looking too forward to having it shoved inside him.
+→ It is teasingly rubbing it in between his cheeks, knowing the cat can't do anything about it.
+→ The plant seems to get bored of foreplay, and points the tip of its makeshift cock directly towards his victim's hole, ready to penetrate.
+→ Before any of that can happen, I feel my feet letting off a powerful magic current, which travels through the ground.
+→ It first hits the wooden vines restraining me, getting them loose, then arriving at the plant's roots.
+→ It screeches in pain and starts shaking.
+→ The shock was not enough to affect Tate, but enough to burn some roots.
+→ The tentacle vines start to retract, giving the cat his mouth back and letting go of his limbs.
+→ He pulls his pants back up and runs to me.
+→ He slaps his own ass, making one of the cheeks giggle and leaving a palm print on his baggy pants.
+→ He directs his attention back to the plant, the electricity was not enough to kill it, but it can't move much anymore.
+--- END CHOICES ---
+
+With Tate now by my side, and the Nightfallen dozens of feet away, I can finally breathe.
+y sadsmile"Are you ok?"
+t "I am now."
+t "That sure was an adrenaline rush, almost lost my virginity back there, haha."
+t "And to a plant Nightfallen, of all things."
+t "One of the only species that can't move."
+t "Well, other than it's vines."
+t "The hunter became the prey!"
+y simple"You're a virgin?"
+t "Huh?"
+y sadsmile"Sorry, weird thing to focus on from all you just said."
+t "Curious now, are we?"
+y awkward"Y-you just brought it up and..."
+t "Oh, don't strain your little head."
+t "I know it's surprising for someone like me to not have a body count in triple digits by now, but it's true, I'm pure as fresh snow."
+y simple"Didn't you hunt a bunch of Nightfallen before?"
+t "Yeah, but I didn't let them do anything to me, I just killed them."
+t "I know, I could've gotten A LOT more money if I got rid of their lust first..."
+t "And I'm not against that overall, it's just..."
+t "I kinda want to do it for the first time with a special person, you know?"
+t "After that I can focus on milking these Nightfallen dry."
+t "Literally."
+y s"I understand completely."
+t "What about you?"
+y sadsmile"Me?"
+t "Yeah, did anyone get their hands in that ol' honey jar?"
+t "Did anyone shove the string in your sewing needle yet?"
+t "Popped your cherry? Glazed the donut?"
+y pf"Ok, stop, I got it."
+y blush"N-no, I've never done it before either."
+t "Awww, that's soooo cute."
+y bored"That feels condescending."
+y "I'm literally just like you!"
+t "Yeah, except that I have guys lined up to get with me."
+y simple"I have guys that like me too."
+t "Name one."
+y pf"I don't want to..."
+t "Heh, liar, liar, cats for hire."
+y "You should be more grateful to someone who saved your ass."
+t "You're right."
+t "Today, you can officially say you destroyed negative one asses."
+t "Huehuehue...he."
+y bored"..."
+t "Fun."
+t "Anyway, I might not look like it, but I'm super pissed off, so I'm gonna get revenge on this plant."
+y simple"What do you have in mi-"
+He teleports away...
+Only to come back a second later with a molotov cocktail in hand.
+He lights it up, and throws it at the Nightfallen's roots with no hesitation or warning.
+y surprised"Holy shit!"
+t "HAHAHA, YES, {b}DIE!{/b}"
+The fire makes quick work of the plant, and as soon as it stops moving, I help Tate extinguish the rest of the flames.
+He brought two fire extinguishers, so it wasn't a big deal, just a scare for me.
+y angry"This could've started a forest fire!"
+t "Nah, Merina can stop a forest fire from miles away with a flick of her wrist."
+y simple"Wow."
+y "She's that powerful, huh?"
+t "Yep, she's the complete opposite of her mom, fire and ice, tomboy and princess, both scary..."
+t "But enough about other people, we still have things to do."
+y "Did the plant drop any crystals?"
+t "Ah, I forgot to check."
+t "Let's see."
+He searches through the ashes, and digs up a small, dimly glowing crystal.
+t "It's a blue one, kind of small, but we actually charged it a little bit, even if it didn't get to fuck me properly."
+t "It should be enough to get some meat for the dragon."
+y simple"Wyvern."
+t "My {b}friend{/b}."
+We fly through the woods, keeping an eye for any traps that might've been activated, and we actually spot our first catch.
+A hare was hanging upside down in a rope trap we set up earlier.
+Tate uses his sharp claws to cut the rope, letting it go free.
+As we mentioned before, neither of us want to kill animals, these traps are only for Nightfallen, so we'll just buy meat from the market.
+This is my first time seeing the market, and it's huge.
+The hubbub is intense in this part of town.
+I couldn't pay much attention to all the merchants, since Tate really wanted to beeline to the meat section and get back to the wyvern.
+He presents the energy crystal to an exchange center, and exchanges them for money, which he uses to buy meat for the wyvern.
+He even got a discount on the meat for being {i}'supercalifragilisticexpialidocious'{/i}.
+Nobody makes an effort to call {i}me{/i} a super complicated sweet nickname...
+I did get some winks from people my age, so there's that.
+And a lot of invitations from very friendly escorts, way too friendly...
+But I have to ignore everyone and everything for the sake of my friend!
+We hurry back, and I'm proud to say that I am now completely used to flying, even at high speeds.
+Everything is exactly as we left it, even the sleeping wyvern in it's burrow.
+y simple"Remember, don't wake him up."
+y "Just store the meat somewhere cool and wait."
+t "I know how to raise my own kid, thanks."
+t "But you're right."
+t "I just want a liiiittle peek at him."
+t "He's really cute when he's asleep."
+t "Hey there my little ange-"
+t "Hello?"
+t "..."
+t "He's not here."
+y shoked2"What?"
+t "HE'S NOT HERE!"
+t "HE DISAPPEARED!"
+t "HE'S DEAD!"
+t "OH GOD, WHAT AM I GOING TO D - oh - there he is."
+As Tate started wailing at the sky, he sees the wyvern up in the tree.
+Spotting us and the food, it climbs down like a cat, falling on its back at the end.
+Not as graceful as a feline, are you now?
+t "Aww you're hungry little buddy?"
+I learned my lesson already, and throw the meat down when I see it coming at me.
+It instantly jumps at the bag and tears it open, eating every last morsel in less than two minutes.
+Then goes inside its burrow and coils back to sleep.
+y bored"Your {i}'son'{/i} sleeps and eats all day."
+y "I don't think he's a great investment."
+t "He was literally born today, he'll be more active in the near future."
+y pf"Hopefully not in a murderous kind of active way."
+t "You are very pessimistic..."
+t "You can make yourself useful and tell me the time."
+y simple"It's..."
+y "11:55 AM."
+t "Shit."
+t "We're supposed to be there by noon..."
+t "Hold on, I'll teleport us there."
+t "Hopefully I'll have enough magic to actually pass the auditions."
+y sad"Sorry, you wouldn't need to use so much magic if you didn't have to bring me too."
+t "Don't be sorry, I love having you with me, I do not regret bringing you around wherever I go."
+His words sound sincere, and frankly, I enjoy my time around him as well.
+Today is a big day, fact hinted by the buzz all around the arena.
+Voices can be heard even before we step foot inside.
+The peaceful background of the forest turned into a busy, loud and lively town.
+Everyone is getting ready to start the practice session.
+Our friendly neighborhood tiger is waiting for us at the main entrance, with two friends at his side, one of which is Coal.
+a "Hey, [name], cat."
+y s"Hi, Aiden."
+t "Where's Dallan?"
+t "You know, the actual important one of the friend group."
+a "I'll pretend I didn't hear that."
+a "Dallan is getting ready to start the announcements, and I'll be joining him soon."
+t "He convinced you to help?"
+a "Not him... the Headmaster..."
+a "Dallan did ask me to greet you when you finally decide to show up."
+a "Honestly, I started to think this cat convinced you to skip your audition, or even worse, run away with him and get married in a foreign country."
+t "I should be taking notes here."
+y awkward"S-sorry, we lost track of time."
+a "Whatever the case, he also asked me to introduce you to Rose and Coal, although I believe you met Coal already."
+y ec"We sure did!"
+a "You two can take it from here, I need to get to Dallan before we start."
+a "Today's practice and auditions will be spectated by the Headmaster, for whatever reason."
+t "We heard..."
+a "You four make sure not to {i}'lose track of time'{/i} again."
+y sadsmile"We won't!"
+y awkward"I mean, we will."
+y "I mean we won't lose track of time."
+a "..."
+a "Yeah, ok, see ya later, [name]."
+What did I get so flustered for?
+r "Phew, finally, I thought he'd never stop talking."
+t "He's very vocal for someone so grumpy."
+co "You can say that again."
+co "Since I seem to be the new bridge here, allow me to make the introductions."
+co "So, as Aiden mentioned, this lovely lady here is Rose."
+r "Pleased to meet you, fellow recommended student."
+co "And these two troublemakers are [name], the other recommended one, and Tate, my new Shard colleague."
+t "Anticlimactic title, but ok."
+y "Nice to meet you, we're only missing one now."
+co "We tried to find the last guy, but we didn't have much luck."
+r "Slippery, that one, I heard he joined the summoners."
+r "I personally found my place with the defenders."
+y s"We've heard, Dallan was very excited to have you there."
+t "You're large."
+y angry"Tate!"
+y pf"You don't call people {i}'large'{/i}."
+r "Haha, it's alright."
+r "I AM large, actually, I would prefer the word massive."
+r "The ability to hug someone to death comes with hard work!"
+y s"A fun way to die."
+r "Ah, I heard you two and Coal have auditions today, to join the sorcerers, is that right?"
+t "Yep, it's going to be much more fun than any regular practice."
+co "For you maybe..."
+y worried"Oh... I forgot."
+y "Your device didn't come back up, did it?"
+co "Nope, about two hours left."
+co "I'm going to sit this one out, at least at the start."
+y "Tate, does that mean-"
+t "Detention is back on the table... yeah."
+r "You have detention already?"
+r "Man, Coal did not exaggerate the word {i}'troublemakers'{/i}, huh?"
+y sadsmile"We're not that bad, promise."
+r "I believe you, the first impression is the most important, and so far, I can not imagine either of you doing anything worthy of detention, at least nothing malicious."
+t "It doesn't matter, I needed to get out of detention yesterday."
+t "If I have to stay in a room for a couple of hours now, it's whatever."
+y "And you'll have me for company as well!"
+t "Maybe our two new friends here would want to join as well?"
+r "I... think I'll pass."
+co "Yeah, same here."
+t "Your loss."
+pass
+r "Do you hear that? I think my leader is starting the practice."
+un "With those ears, I'm not surprised."
+co "I believe you're right, we should get going."
+t "Yeah, [name], I believe the auditions are held first, so we should really hurry."
+y ec"It's been nice meeting you Rose, and seeing you again Coal!"
+r "Good luck on the auditions!"
+r "And don't be a stranger around me when we meet again, alright?"
+We both give her two thumbs up.
+y "Good luck on showing off at practice!"
+r "Will dedicate my victory to you!"
+co "See ya later."
+We go our separate ways for now, and as soon as they leave, Tate takes my hand in his, nonchalantly.
+I didn't even notice it happening until he started to swing both our arms as we walked.
+t "Those two are weird."
+y simple"Why do you think that? They seemed normal to me."
+y bored"Even more normal than anyone I met so far, actually."
+t "That's the thing...they're {i}too{/i} normal, the vibes are just off."
+He shrugs.
+un "He's probably not used to being around regular people."
+We find some empty seats and wait patiently for Dallan's announcements.
+In the distance I spot Merina and Ollie, standing by the edge of the arena, deep in conversation.
+I greeted all of my friends today, except for them...
+
+--- CHOICES ---
+→ Should I approach them?
+→ Yes.
+→ He thinks for a minute.
+--- END CHOICES ---
+
+I leave the sulking cat alone and make my way towards Merina and Ollie.
+un sidee"Man, what a child that one is."
+He just likes me enough to not want me to leave.
+un "Separation anxiety, if you ask me."
+Well, I didn't ask.
+They notice me approaching and signal me to come over.
+Now I have confirmation they don't mind seeing me.
+Great, one more worry gone.
+m "Hi [name], we were looking all over for you."
+y simple"You were?"
+o "Yes, well, we were mostly worried since we thought Tate might make you be late."
+m "But it seems our worries were in vain."
+y s"We had a busy morning, but teleporting sure is handy."
+y "Are you going to watch us perform?"
+m "We'll be part of the jury, so it would be strange not to be present."
+y pf"Oh, right, the judges, that makes sense."
+y confused"Wait, {i}'part'{/i}?"
+y "Who else is on the jury?"
+o "The Headmaster wants to partake in the final vote."
+o "As a {i}'tiebreaker'{/i}."
+m "Even though me and Ollie never disagreed on an audition..."
+y simple"Should I be worri-"
+My question was cut short by Dallan's voice suddenly ringing through the whole arena, and our heads turn towards the announcements tower.
+Aiden's silhouette can be seen to his left, and the Headmaster's to his right.
+d "GOOD AFTERNOON LADIES AND GENTLEMEN."
+d "WELCOME TO THIS YEAR'S PRACTICE SESSION!"
+Cheers erupt throughout the whole place as he continues.
+d "YOU MIGHT BE HAPPY, OR AT LEAST SURPRISED TO FIND OUT WE'VE MADE SOME SMALL CHANGES TO THIS PARTICULAR SESSION."
+d "FIRST AND FOREMOST, I'D LIKE TO PRESENT TO YOU, HEADMASTER ARGUS, WHO WILL BE WATCHING OVER AND ASSESSING THE STUDENTS."
+h "GOOD AFTERNOON EVERYONE, I TRUST WE'LL HAVE A FAIR AND ENTERTAINING PRACTICE SESSION, I'M LOOKING FORWARD TO SEEING THE AMAZING TALENTS THIS ACADEMY HAS TO OFFER."
+Murmurs of confusion and protest can be heard following that statement.
+m "I knew that would be the general reaction, glad I'm not the one making the announcements."
+Noticing the discomfort created, Aiden intervenes.
+a "OF COURSE, HIS PRESENCE HERE IS PURELY PERSONAL."
+a "YOUR PERFORMANCE TODAY WILL NOT AFFECT YOUR GRADES OR OVERALL YEARLY PERFORMANCE."
+d "Y-YES, THAT'S RIGHT, THANK YOU AIDEN."
+d "AS FOR THE SECOND SMALL BUT EXCITING CHANGE, BEFORE THE REGULAR PRACTICE STARTS, THE FIRST YEARS OF THE SORCERY AND SUMMONING SHARDS WILL HOLD THEIR AUDITIONS IN FRONT OF EVERYONE, INSTEAD OF IT BEING A PRIVATE SHOWCASE LIKE USUAL."
+y s"So the summoners will audition too?"
+m "Yes, before you, in fact."
+o "Their audition is a bit different."
+y simple"Different how?"
+o "Well, for starters, they don't have to fig-"
+Merina covers his mouth.
+m "Shh, don't tell him yet, you'll ruin the surprise."
+I don't like the sound of that.
+m "Summoners have to show their summoner abilities in front of the practice opponent, that's all you need to know."
+d "LET US START WITH THE FIRST AUDITION PARTICIPANT IN THE LIST."
+d "WITHOUT FURTHER ADO, AIDEN, IF YOU MAY."
+a "AGHEM, PLEASE GIVE IT UP FOR, ALVY, AUDITIONING FOR THE SUMMONERS."
+The crowd cheers as a small but clearly confident dog with a neutral, unimpressed expression makes his way in front of the arena.
+d "THIS YEAR'S OPPONENTS WILL BE SOME CLEVERLY DESIGNED SNAKE DUMMIES, CONSTRUCTED BY NONE OTHER THAN THE DEFENDER'S VICE LEADER, CHELSIE!"
+d "SHE IS ALSO LOOKING FOR A NEW WORK ASSISTANT, IF YOU'RE INTO INVENTIONS AND ARE WILLING TO WORK FOR A SUB-MINIMUM AMOUNT, GIVE HER A CALL!"
+d "YOU MUST ALSO BE OKAY WITH THE FOLLOWING POSSIBLE CASUALTIES, AND PLEASE KNOW THAT SHE IS NOT RESPONSIBLE FOR ANY HARM THAT WILL COME TO YOU, SUCH AS: FIRE BURNS, ACID BURNS, FRICTION BURNS, HEAD TRAUMA, LOSS OF LIMBS, LOSS OF TEETH, LOSS OF FUR, FROSTBITE...this list is long..."
+I try to ignore Dallan's extensive list, and focus instead on the last recommended student I haven't personally met yet.
+He is faced with the dummy, that is way more intimidating when there's a regular person to compare its size with

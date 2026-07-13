@@ -1,0 +1,445 @@
+?"
+un3 "{color=#b51919}Centuries?"
+Y "Lower."
+un3 "{color=#b51919}Decades…?"
+Y simple"Nearly two."
+un3 "{color=#b51919}So… you weren’t lying about energy manipulation then."
+Y shoked"How do you know about my powers?"
+un3 "{color=#b51919}{size=*0.7}I was not expecting all those things to be truthful…{/size}"
+un3 "{color=#b51919}Hmm."
+un3 "{color=#b51919}You truly are… unusual."
+Y simple"In a good way?"
+un3 "{color=#b51919}You can think that."
+un3 "{color=#b51919}But I do indeed like you, that is no lie."
+un3 "{color=#b51919}So young, so fresh, with a hint of uncertainty in every step. A true gamble on my part. I just hope it pays out, he’ll just have to forgive me."
+Y confused"What the hell are you bumbling about?"
+un3 "{color=#b51919}I’d like to bond with you further, if you don’t mind."
+Y bored"I mind so much that my head might start to expand from so much mind."
+un3 "{color=#b51919}Heh, funny play on words there."
+un3 "{color=#b51919}And can I blame you?"
+un3"{color=#b51919}It is a strange encounter, I admit."
+un3"{color=#b51919}And yet, hearing those words truly hurts."
+un3"{color=#b51919}I want to make this attraction of curiosity I’m feeling mutual, and because you impressed me, I will make you a deal you can’t refuse."
+un3 "{color=#b51919}For the low low price of…"
+un3"{color=#b51919}A body, your body, to be more exact, just in case your infinite wisdom misinterprets what I mean."
+Y "Usually people tell their offers before setting the price, but what can I expect from a talking rock?"
+un3 "{color=#b51919}I’M NOT- grrr…"
+un3 "{color=#b51919}Say, you do actually know who, or what I am, you’re just toying with me, aren’t you?"
+Y simple"Swear to God I’m not."
+un3 "{color=#b51919}Hmm, I thought for sure you’d realize from the hints, but no matter, in short I am a-"
+un3 "{color=#b51919}…"
+un3 "{color=#b51919}A Demon."
+Y simple"…"
+un3 "{color=#b51919}…"
+Y s"Seriously?"
+un3 "{color=#b51919}Absolutely."
+un3 "{color=#b51919}You… you look happy about that information. Happier than any normal person would. Did you finally realize?"
+Y ec"Yup."
+un3 "{color=#b51919}Great, and you’re taking it better than I imag-"
+Y smug"Demons are cursed with truth, they physically cannot lie, and if somehow they do, they will suffer major consequences."
+y "Which means I have a major upper hand here."
+un3 "{color=#b51919}My, you really did do your homework. That is very much true."
+un3 "{color=#b51919}{size=*0.7}Although it wasn’t what I was referring to…{/size}"
+un3 "{color=#b51919}So then you will know if the deal I’m about to make is true to its core."
+un3 "{color=#b51919}..."
+un3 "{color=#b51919}What’s happening? You’re visibly getting more and more excited by the second."
+Y ec"It also means… you can rate me, and it will be one hundred percent true!"
+un3 "{color=#b51919}Are you kidding me? You’re still thinking about that?"
+Y smug"I’m self-conscious but also confident that I’m above a five, so getting a Demon’s opinion on it would be so cool."
+un3 "{color=#b51919}I overestimated your IQ."
+Y sadsmile"Come oooon, please? Just a number, one through ten."
+un3 "{color=#b51919}…"
+un3 "{color=#b51919}Eight."
+Y laugh"YES!"
+Y determined"I did it, I’m above average."
+un3 "{color=#b51919}That’s just my opinion, not a fact. There are still people that will find you very unattractive."
+Y "Tasteless people."
+un3 "{color=#b51919}Can we go back to our deal…?"
+un3 "{color=#b51919}I hope I scored some empathy points after that."
+Y pf"We’ll see, what can you offer me, and what did you mean by {i}‘your body’{/i}?"
+un3 "{color=#b51919}Glad you asked, at last, so-"
+Y simple"Hold on, I need to change the music back real quick."
+un3 "{color=#b51919}The what?"
+Y determined"There, speak your truth, Demon."
+un3 "{color=#b51919}Okay?"
+un3 "{color=#b51919}So-"
+Y determined"Not so fast."
+un3 "{color=#b51919}COME OOOON, KID!"
+Y "To make sure you aren’t lying, I’ll be the one asking questions."
+un3 "{color=#b51919}Sure, just make it quick."
+He wants my body and will give me stuff in exchange. What would be the best questions to ask a Demon in this situation…?
+Y confused"First off, what are you going to gain from this deal?"
+un3 "{color=#b51919}Hmm, putting the safety of the world before your own desires with this first one, ey? Not bad, I respect it."
+un3 "{color=#b51919}As I said, all I want is your body to be my host."
+Y simple"That’s a big ask."
+un3 "{color=#b51919}Not as big as it seems."
+un3 "{color=#b51919}Part of my conscious being will simply live inside you, and another part will remain here in this gem."
+un3 "{color=#b51919}Most of my feelings and part of my magic will go to you in the process."
+un3 "{color=#b51919}I will be able to feel everything you feel, see what you see, smell what you smell, and so on."
+un3 "{color=#b51919}In short, I gain a fraction of my freedom back."
+un3 "{color=#b51919}I haven’t felt the outside world in so long… I miss it."
+Y "What are you going to do with my body if you do get access to it?"
+un3 "{color=#b51919}Quite literally nothing to hurt anyone. See? I’m not lying."
+un3 "{color=#b51919}Without your consent, I will not be able to do much of anything, you’ll still be in complete control."
+Y "Huh. So you really just want to regain your senses."
+un3 "{color=#b51919}Precisely. Inside this gem I can’t even breathe. I’m eternally suffocating but without the pain. Like wanting to yawn but never getting it out."
+Y "That does seem like a bother."
+Y bored"Next up, what do I get from it?"
+un3 "{color=#b51919}A lot of fun, my dear new friend."
+un3 "{color=#b51919}My magic is vast. Of course you can’t use any of it yourself, but if you command me to cast magic, I could very much do so. With some limitations, like your magic and energy pools."
+Y surprised"What kind of magic?"
+un3 "{color=#b51919}Any kind of destruction that comes to mind, I can create."
+Y simple"That is one aspect I’m missing… seems like a sweet deal so far."
+un3 "{color=#b51919}So we sign the contract?"
+Y "Not yet, still got questions."
+Y pf"Like: are you evil?"
+un3"{color=#b51919}What are you asking?"
+y simple"If I accept your offer, will something bad happen to me or anyone else, at any point?"
+un3 "{color=#b51919}No."
+y "Simple, straightforward answer, not sure what else I expected."
+Y "Were you {i}ever{/i} evil?"
+un3 "{color=#b51919}Heh."
+un3 "{color=#b51919}I suppose by your standards, yes, I was."
+un3 "{color=#b51919}I’ve done a lot of things your kind would frown upon, to say the least."
+Y "But you’ll never do it again?"
+un3 "{color=#b51919}I’ve learned my lesson, I’m not a fan of eternal prisons."
+Y confused"Next up, what are you doing in here? On school grounds."
+un3 "{color=#b51919}…"
+un3 "{color=#b51919}Pass."
+Y bored"The first one you refuse to answer, can’t even find a way to twist the truth, Demon?"
+un3 "{color=#b51919}I prefer not to answer, that’s all."
+Y "And I prefer not to gamble with demons. Good day."
+I turn around and start walking away.
+un3 "{color=#b51919}W-WAIT!"
+Y smug"Yeees?"
+I don’t even know how to get out of here yet, but my little bluff worked better than expected.
+un3 "{color=#b51919}You’re a smart one, you surely figured I’m the one powering the Academy."
+Y simple"Yeah, but I need more details."
+un3 "{color=#b51919}Thousands of years ago, I was defeated and imprisoned in my own gem. It is being kept in this special room because of my powers that reach beyond my shackles."
+un3 "{color=#b51919}About a hundred years back, they found a way to harness my energy."
+un3 "{color=#b51919}Usually, there is someone to keep an eye on my door, but they seem to have left their post for a while, for whatever reason."
+un3 "{color=#b51919}In the meantime, I took the opportunity to lure you here, to hopefully get you to accept my offer. Before anyone comes."
+un3 "{color=#b51919}Satisfied?"
+y worried"So someone might be watching?"
+un3 "{color=#b51919}I'm positive they're not doing it now. But they could be very soon."
+Y simple"So we're both working on borrowed time?"
+un3 "{color=#b51919}Very much so, that’s why I’d like to be done with these questions already."
+Y "Fine, one last question then."
+Y "What is your end goal?"
+un3 "{color=#b51919}As much as I’d just LOOOVE to be the little toy of an inferior species, and that’s sarcasm not a lie, I want-"
+un3 "{color=#b51919}To be fully summoned again."
+Y worried"You… want your body back? At full strength?"
+un3 "{color=#b51919}Does that come as a surprise?"
+Y simple"Not really, the more I think about it."
+un3 "{color=#b51919}I already promised not to be evil or hurt anyone, even if I’m summoned. I just want to live."
+Y sad"But what do you want me to do about it?"
+Y "I can barely charge a phone with my powers, there’s no way I’m summoning a Demon."
+un3 "{color=#b51919}You’ll learn. I didn’t say you have to do it today or tomorrow."
+un3 "{color=#b51919}Are you satisfied with my answers?"
+Y s"I believe so, let’s recap:"
+Y "You’re an ancient Demon, thousands of years old with immense power, who was defeated and imprisoned here."
+Y "You gave up on your evil ways after a long self-reflecting session, and now you want nothing more than to feel something again."
+Y "You’re going to inhabit my body and help me on my journey with whatever I need, as long as I’m strong enough to handle your spells and will not act on your own otherwise."
+Y "When I’m strong enough, I’ll attempt to summon you, and if I manage to do it you won’t pose a threat to people in any way, and we’ll part ways."
+Y "Did I miss anything?"
+un3 "{color=#b51919}You… that was pretty much perfect, yeah. That would deserve a small clap, but… you know, I’m a rock."
+Y ec"Let’s change that."
+un3 "{color=#b51919}Are you serious? Are we really doing it?"
+Y sadsmile"Well, yeah, besides your convincing argument, I know listening to a Demon would be risky, but I have some demons in my mind that I’m fighting at the moment… and maybe you’ll be able to help."
+Y "I’m supposed to be enrolled in this super cool Academy for hunters, quite literally the best one in the country, if not the world."
+Y sad"And I don’t think I’m good enough to be here…"
+Y "Sure, the Headmaster saw something in me, I suppose, so that’s why I got recommended, but I’m sure I’m subpar compared to others."
+Y determined"So I’ll need ALL the help I can get, even if it’s from an evil Demon."
+un3 "{color=#b51919}Formerly* evil."
+Y sadsmile"That does ease my worries a bit."
+Y s"So what do I do? Sign a contract in blood?"
+un3 "{color=#b51919}Something like that. Just touch the gem and I’ll bond us together."
+un3 "{color=#b51919}That way, if you evict me from your body before I’m summoned, the shackles will rupture and you’ll die. Same thing if I disobey your orders for too long."
+Y "Seems reasonable enough."
+At last, I take a deep breath and look at the glowing crystal in front of me.
+Is… is it starting to glow brighter?
+As if showing emotions of restlessness.
+The voice does not dare speak with all this tension in the air.
+Tension created by me, since I'm still a tiny bit on the fence about it.
+Is it safe? Is it wise? Is it necessary?
+No, no, and yes.
+So obviously, I continue on.
+The glow gets ever so intense while the tip of my claw grazes its surface, and then-
+Before I realize what I'm feeling or what's happening around me, my body gets hit with a wave of hot air that pierces my heart.
+For a moment I feel heavy, tied down or chained to the earth beneath me, after that-
+Relief.
+un3"{color=#b51919}Oh, man!"
+un3"{color=#b51919}This is already so amazing."
+un3"{color=#b51919}Hey, can you take some deep, and I mean DEEP breaths for me?"
+I find it weird, but I do just that.
+It's not like it's hurting me.
+un3"{color=#b51919}That's the stuff..."
+un3"{color=#b51919}Hmm."
+un3"{color=#b51919}I can see now what you meant by {i}'the music'{/i} earlier."
+un3"{color=#b51919}Is this always playing in the back of your head?"
+y simple"Pretty much."
+un3"{color=#b51919}Fascinating."
+Hoy.
+Can you hear me?
+un3"{color=#b51919}..."
+un3"{color=#b51919}Yes... yes I can."
+un3"{color=#b51919}Are you listening to me?"
+So you can read my thoughts?
+un3"{color=#b51919}Technically."
+Can you read ALL my thoughts?
+un3"{color=#b51919}Not all of them, no."
+un3"{color=#b51919}Just the ones you're not guarding."
+That's sinister, and awesome!
+Can I see your face now?
+un3"{color=#b51919}What?"
+un3"{color=#b51919}No."
+un3"{color=#b51919}What's wrong with you?"
+un3"{color=#b51919}You can't just ask a Demon to show their face."
+un3"{color=#b51919}Not so suddenly at least..."
+Sorry, I just have a thing for seeing faces because of some dreams, long story.
+Maybe after we get to know each other better?
+un3"{color=#b51919}That's an acceptable compromise, maybe one day."
+y ec"Whenever you’re ready, I’ll be waiting."
+Y smug"For now, I’m just glad there are no side effects to this deal."
+un3 "{color=#b51919}About that-"
+Y angs"Oh COME ON!"
+Y "Couldn’t you tell me earlier?"
+un3 "{color=#b51919}Calm your tits, it’s nothing too serious. I just didn’t want to ruin my chances."
+Y angry"What’s gonna happen? My head explodes if I don’t have gay sex five times a day?"
+un3 "{color=#b51919}A less ironic form of that."
+Y simple"What?"
+un3 "{color=#b51919}My presence will sometimes amplify your Lust levels, making you… a bit hot in the head in already intense situations, so to speak."
+Y confused"Why? How does that even work?"
+un3 "{color=#b51919}Look, because I have no body, that would mean all of my usual needs and feelings would transfer to you. Since I’m a Demon, I don’t feel hunger, don’t need sleep and don’t feel much pain, but I sure do need some action from time to time."
+un3 "{color=#b51919}My own Lust will be amplifying yours at times. I can’t say how much or how often that will happen."
+Y simple"And that’s all?"
+un3 "{color=#b51919}Yes, that would be all."
+Y "Ok, I can live with that."
+un3 "{color=#b51919}Now, I’ll make the door reappear, I believe you have a gathering to get to. I’ll guide you to-"
+un3 "{color=#b51919}You’re not moving. What’s on your mind?"
+Y simpleblush"Oh, uhmm, I was just thinking…"
+Y "Earlier, when you said that you’ll {i}‘need my body’{/i} I had something else in mind, not gonna lie."
+un3 "{color=#b51919}You were probably thinking of some painful possession, especially since this deal is so incredibly in your favor, but no, you lucked out."
+
+--- CHOICES ---
+→ You’re right, let’s just get going.
+→ The Demon snaps his fingers, and the original room replaces the void.
+→ I’d like to meet you in person.
+→ This is it, I’m going to see a Demon for the first time.
+→ Even on the news, on the rare occasion hunters fight a Demon, no camera survives the encounter.
+→ I wonder what kind he is.
+→ Incubus? Devourer? Devil? Ghoul? Furry? Scalie? Maybe even feral?
+→ My eyes get blurry, and the gem in front of me fazes out, being replaced by darkness.
+→ Moments later, the {b}Demon{/b} appears...
+→ Is he blushing? You don't see a Demon do THAT every day, heh.
+→ Excitedly, I get closer, a feeling of familiarity rushing over me. Even if he’s a Demon, it’s nice knowing he’s someone I’ve technically met before.
+→ It looks like he’s serious about the offer, although I can’t see his face beyond the scribbles, he’s definitely confident.
+→ I’m not going to lose my chance, here I go!
+→ He laughs like a billionaire on a golfing course.
+→ The Demon leans closer, whispering in a new seductive, deeper tone.
+→ He looks down at my crotch where I’m kneeling.
+→ The Demon snaps his fingers, and the original room replaces the void.
+--- END CHOICES ---
+
+I walk out the highlighted door, and to my surprise, the room I exit is just a regular classroom, a normal door on the wall, where doors belong.
+un3 "{color=#b51919}I feel your sadness growing, why’s that?"
+Y sad"I probably missed the whole gathering by now… with all our talking."
+un3 "{color=#b51919}I wouldn’t be so sure."
+I take out my phone and check the time, this day is truly full of surprises, only about three minutes have passed since I entered the strange room.
+Y surprised"That means I can still make it!"
+Y "But where is it?"
+un3 "{color=#b51919}May I create a marker for you?"
+Y "You know where it is?"
+un3 "{color=#b51919}I’ve been projecting all over this place while stuck in the gem, I know almost all the ins and outs, I was here when it was first constructed."
+Y happy1"Then yes!"
+Y simple"Thank you! Let’s go!"
+y"Hey so, what’s your name? I didn’t even think to ask."
+un3 "{color=#b51919}You just don’t learn, do you? No, I can’t show you my face and no, I can’t tell you my name. That’s Demonkind for you."
+y"I don’t need your {i}real{/i} name; I just need something to call you."
+un3 "{color=#b51919}Just Demon is fine, I take pride in what I am."
+y pf"No, that’s boring."
+un3 "{color=#b51919}Are… are you calling my whole species boring?"
+Y s"How about Scribbles?"
+Y ec"Get it? Because of your scribbled face? I’ve connected the dots."
+un3 "{color=#b51919}You haven’t connected shit."
+Y s"I’ve connected them."
+un3 "{color=#b51919}It’s a humiliating name; it sounds like a pet."
+Y "Think of it as a familiar’s name."
+un3 "{color=#b51919}Tomayto Tomahto."
+Y "If you don’t tell me your real name, then you’ll have to be okay with what I come up with."
+un3 "{color=#b51919}…"
+Y ec"Scribbles it is then!"
+Y "And I’m [name], but you already knew that."
+Un "Sure did, nice to formally meet you."
+As I continue running, a small cloud of floating Scribbles appears near me. It’s quite funny looking, but cute.
+y surprised"Woah! Is that you, Scribbles?"
+Un sidee"Ughh, yeah, I suppose. I appear as you imagine me."
+Un "As embarrassing as the form takes."
+un bored"I'm already missing the eternal suffocation."
+un"I wonder if breathing is worth this torture and humiliation."
+Y simple"Your voice changed a lot too."
+un suspicious"I still have my sexy man voice, don't I? Please tell me that's the case..."
+y pf"It's more like a squirrel that smoked too many cigarettes..."
+un ang"WHY WOULD YOU IMAGINE ME LIKE THAT?"
+y sadsmile"Hey! It’s endearing, in a way, you don’t sound annoying or anything, so far. I like it."
+Y "The man voice went well with your other body."
+un bored"Fucking hell..."
+y ec"I hear them! There’s a crowd in that room there!"
+un "The one with the huge door that can fit twenty twinks your size lined up? Couldn’t have imagined."
+Y s"If they’re so loud that means they must’ve not started yet! Just my luck!"
+Un curious"Wait wait wait, are you going to be seen like THAT?"
+Y simple"What’s wrong with how I- oh, right. I forgot I’m still dirty from the hole."
+Un "Hole?"
+Y bored"Long story."
+Y worried"But where can I change? I have spares in my luggage but-"
+Un simple"I could clean you."
+Y shoked"You can do that?"
+Un "I can do lots of things, destruction is just my absolute specialty."
+The little Demon did not know how much this was going to cost him in the future.
+Un suspicious"Huh? What the fuck do you mean?"
+Y simple"Sorry, don’t know what that was, an intrusive thought I guess, ignore it."
+Un "Hmmm."
+Un bored"So yeah, do I have permission to clean you?"
+Y "With a spell?"
+un eyeroll"No, with my tongue… of course a spell."
+un bored"I need your permission to cast it."
+Y ec"Then don’t let me stop you! Lick me up!"
+The next second, a gust of wind goes through my clothes and fur, and suddenly, no more sticky feeling.
+Actually, I think I'm cleaner than I was before falling in the hole...
+Y ec"Thanks a lot!"
+Un bored"Don’t mention it. It’s just part of our deal."
+Now let me just sneak in real quick...
+I open the door very...
+very...
+slowly...
+pause 4.0
+y pf"Stupid door…"
+The door creaks all the way, loud enough to stop some of the hubbub going on and turn a few heads.
+Particularly, a large wolf surrounded by… fans? No. I think those are his Shardmates, hugging, touching, and looking up at him with adoring eyes.
+He holds my gaze for an uncomfortable amount of time, enough for me to look away and land on a tiger with an even more intense glare.
+He looks like he wants to make me dinner… his dinner, but shakes himself off and turns away, while his fur bristles and ears twitch.
+My presence didn’t necessarily spark joy in him.
+Y awkward"{i}Gulp{/i}, hope he’s a nice kitty."
+Last and certainly not least, the weird cat I met in the woods! What was his name… Tar…tar…sauce? Oh yeah, Tartarus. He’s gleefully floating about. Being so small and in the back, he sure needs it if he wants to see anything above the crowd.
+He smirks and waves immediately as he sees me.
+I really hope he stayed quiet about our incident.
+I don't need the whole Academy to know I fell down a hole.
+I'm glad there is someone I at least recognize, even if he's probably the weird guy of the Academy.
+Although, looking around, most other people have quite eccentric clothing as well, he’s not alone, some very revealing, some just straight up bad, like, 'call the fashion police' kind of bad.
+And some of them are borderline wearing lingerie with bells and whistles.
+Summer just ended, so it is still pretty hot outside, but that's definitely cutting it close to the dress code limit!
+The cat floats slowly towards me and lands gracefully on his tippy toes.
+s"Hey there hole guy. Lucky you, they delayed the gathering, the headmaster got here just as late as you did."
+s"Although I doubt he fell in a hole as well."
+y bored"Hey crop top. Your trap did leave me a little raggedy, you know that?"
+s"You look fine to me. Good thing you brought spares."
+y awkward"Yeah, I sure did, that's what happened."
+y"I just changed."
+I already forgot I got cleaned up...
+un suspicious"Unappreciative bunch."
+It's not every day a Demon puts spells on me, ok?!
+s "I’ll make it up to you in a big way for it, just after the gathering."
+Y ec"Oh, wow, thanks."
+s "We can talk about that later, for now, I’m really curious what this new guy has in store for us."
+Y simple"Oh yeah, it’s his first gathering too - probably why he was late."
+s "Pff, Mr. Sebil was never late."
+Y "That’s the old Headmaster, right? I remember-"
+s "Shhh! He’s starting! I need to know what the deal is with the new ‘test’."
+s "Let’s go closer."
+I'm cut short by some loud music, and the grand figure of a lion.
+He's... huge.
+Seeing him was my main motivation to get here early.
+Deathly silence envelops the room as his heavy steps echo on the stage.
+I wonder if Mr. Mandrake commanded as much respect with his presence.
+I wonder why he retired. He seemed very healthy for his age, and very into his job.
+Un bored"It’s very possible the higher ups wanted a lion over a rabbit to be the symbol of the most important establishment in the country."
+That would be so racist if true.
+Un "You creatures are a strange and simple-minded kind like that."
+h "Good afternoon, distinguished guests, dear teachers, and beloved students."
+h "My name is {i}Argus Kiraman{/i}, and it is my pleasure to welcome you to a new year at our prestigious academy."
+h "This will be my first year as Headmaster. Taking this shared experience into account, I do hope that both myself and the fresh talent present here today will get along well."
+h "I would like to extend my gratitude to the {i}Student Council{/i} and {i}Shard Leaders{/i} for their continued dedication."
+h "For handling the day-to-day challenges and assisting our newest arrivals in their new and magical journey."
+h "To the Teachers' Council and staff members, for their loyalty and tireless work."
+h "I hope that during my time in this position, we can all work together in harmony."
+He seems very well-spoken for his first gathering.
+h "With that said, it is time to go over the academy's general rules and a brief history of Lakonia."
+Some groans ripple through the audience as he says that.
+I suppose this is the same speech every year. Most of the first years don’t seem too bothered, aside from my new cat friend.
+The Headmaster pulls out a massive book, its cover adorned with gold—or some other yellow metal. It looks expensive but also ancient.
+y simple"Well, this is gonna take a while…"
+He goes on about various rules - conduct expectations, disciplinary measures, and more - for about twenty minutes.
+Detention is a popular punishment choice, although at its mention, many seem to chuckle to themselves and shoot some quick glances in this direction.
+Even the headmaster almost slipped a laugh.
+Since we’re all adults here, detention must be just a customary thing.
+Another, more serious punishment is mandatory work around the city, essentially community service.
+For a town so tied in its community that doesn’t sound too bad.
+H "You will receive various levels of punishment for misbehaving, being late to class, not doing your duties, and failing to meet a certain academic standard."
+H "Once you’re admitted into Lakonia, getting expelled is not an easy thing to accomplish, so you better be ready to pay for your mistakes up to your graduation."
+Huh, that’s very interesting, although he didn’t seem too pleased saying that.
+Everything else is fairly standard.
+Your usual {i}'don’t bully others'{/i}, {i}'don’t destroy academy property'{/i}, and so on.
+Public displays are forbidden as well, good to know, but behind closed doors relations are encouraged.
+Now there’s something to get my full attention.
+Despite everyone’s clear boredom, the cat, {i}'Tartarus'{/i} is beaming with excitement.
+We look about the same age, so I’m guessing this is his first year too.
+At last, the rules reading comes to a halt.
+Everyone around us looks relieved, aside from the wolf from earlier whose ears drop, but who quickly gets a dozen hands petting his back to comfort him.
+s "The Shards! The Shards! He’s gonna talk about the Shards! Listen closely!"
+s "Especially to the one Shard that starts with ‘{i}So{/i}’ and rhymes with ‘{i}Forcery{/i}’."
+h "The first principle of sorting."
+h "As all of you must know by now, Lakonia Academy does not use the standard class system you are all accustomed to."
+h "Instead, we use a structure known as the 'Shard System.'"
+Y ec"Many Shards make a gem."
+s "Holy moly, I never thought of that!"
+He looks quite awestruck at the small revelation.
+h "Our country focuses on four different Shards, each with their own unique properties, classes, rules, and goals to be achieved within them."
+h "Slayer’s Shard."
+h "Their role is to eliminate Nightfallen threats swiftly and discreetly."
+h "They are also responsible for ensuring our protective barriers remain intact."
+H "They’re mainly dispatched alone or in small groups."
+H "Students are taught how to harvest the energy with utmost success from Nightfallen and refine their one-on-one."
+Y pf"As in… fighting ooor-"
+The serious tiger from before actually smiles smugly, hmm, unexpected.
+h "Sorcerer’s Shard."
+h "They are typically assigned to work alongside Slayers or Defenders during missions."
+h "Their magic is highly versatile and applicable in many situations, though only a select few possess the raw ability to become true sorcerers."
+H "Through the years, the students will be working on improving whatever magical abilities they possess and find use for them in combat and daily lives."
+The cat side-eyes me with a contained smirk, not very discreetly.
+h "Defender’s Shard."
+h "They are deployed in areas where protective barriers have yet to be established."
+Like my uncle’s town just days ago!
+h "Defenders serve as guardians, escorting travelers safely between barriers and ensuring security in high-risk zones."
+H "They are our healers, our peacekeepers, and protectors."
+H "You will learn to be empathetic, save lives, and do whatever is necessary for the sake of the world!"
+The wolf from earlier sheds a tear. Geez, is it that serious?
+h "And last but not least, Summoner’s Shard."
+h "Summoners harness the power of defeated foes, binding them to gemstones and henceforth commanding them in battle."
+h"Their summons are invaluable assets in combat, hazardous tasks, and, most importantly-"
+h "A Summoner can learn to extract and manipulate a gem’s energy to power modern machinery, households, and even our protective barriers."
+H "Students do require a magic pool, but their magic skills are not as important - you’ll learn to expand upon that pool to share with the Nightfallen gemstones."
+h"First years will have to make their choice between one of these Shards, depending on their capabilities."
+h"Choose carefully, as this will dictate the rest of your life at Lakonia."
+h"Switching Shards is not unheard of, but heed my warning; something like that will be heavily frowned upon."
+h"Details about your selected Shard's activity will be in the brochures you'll get at the end of the gathering from our Shard leaders, vice-leaders, and volunteers."
+h"Although I believe that if you got this far, you must already have set your minds on a Shard."
+Suuuuure.
+I certainly won’t make this decision on the spot based on vague emotions or anything, haha.
+Un sidee"Sometimes I wish it was impossible for others to lie as well."
+h"Getting in used to be the real challenge, and graduating has turned from a privilege to a commodity in recent years. But as I take on my new position, I do bring with me some slight changes."
+Y worried"I don’t like the sound of that."
+Nor did anyone else, judging by the murmurs. As the lights get dimmed.
+A projector screen comes down on stage, and a video starts playing.
+h"Allow me to paint you the main picture."
+h"Long, long ago, our world, being rich with magic, found itself in a conundrum."
+Y s"Story time? Well, I don’t mind some history."
+h"Demons, monsters, Nightfallen started to spawn all around the globe, in every country, on water and on land. Although weaker in magic, greater in number and physically stronger than us."
+h"With the sole objective of stealing mankind's power source and degrading our bodies, war enveloped every continent."
+Un eyeroll"Pff, {i}‘yours’{/i}."
+h"And-"
+h"To satisfy their desire for lust."
+h"Their leader, the almighty Dragon of Calamity, was by far the biggest threat of them all."
+h"Luckily, mankind used its superior wits to defeat the dragon, thus weakening all demons and Nightfallen, and victory was finally achieved."
+H "Lakonia was created as a symbol of peace and justice, which forges our country’s protectors and energy suppliers every year."
+h"Some monsters remain in our world to this day, known as Nightfallen."
+h"Most of them are near harmless, or, better said, not a danger to your life

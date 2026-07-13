@@ -1,0 +1,634 @@
+
+→ I should probably not get another one of these.
+→ I'm craving the softness of a bagel, with some nice cream cheese spread all over.
+→ The fish, avocado and chives are a big plus as well.
+→ Just heaven.
+→ The server hands me the plate and it gets me confused.
+→ I'm pretty sure I asked for one, yet there are two on the plate.
+→ I don't want to waste money, so I should say something...
+→ To my right there's a small cardboard cutout, {i}'Two For the Price of One During Bagel Week!'{/i}
+→ oh...
+→ Thanks, Scribbles.
+→ Guess now I have two bagels.
+→ That's it.
+→ I look down at my tray after getting my food.
+→ I...
+→ Might've used my stomach to make these decisions, not my brain.
+→ I've never eaten so much in the morning.
+→ It's too late for changes now.
+→ I look down at my tray aaand... it's empty...
+→ Nothing out there really tickled my fancy.
+→ Or at least nothing that made me justify paying for.
+→ I look down at my tray aaand-
+→ Yep.
+→ A totally normal amount of food.
+→ I did something normal for once.
+→ Hooray me.
+--- END CHOICES ---
+
+When we're done, we all make our way to our literally reserved AND paid table.
+But we're met with a little surprise, when we see Tate's broom thrown on the floor nearby.
+t "MY BABY!"
+A familiar figure standing on a chair, leaned back like he owns the place, with his legs occupying three other seats.
+Browsing his phone.
+Everyone is a little surprised, except for Aiden.
+He has fury in his red fiery eyes, but is trying his best to keep calm for now, since it's probably just a misunderstanding.
+a "Excuse me, I think you're in our spot."
+Connor looks around, under the table and the back of the chair, then delivers a hard blow with one deadpan line.
+con "I don't see a name on it."
+t "Oooooff."
+I lightly hit Tate with my elbow, since I don't think out loud comments and reactions are necessary at the moment...
+Alright, now the tiger's visibly fuming.
+a "They were {b}obviously{/b} reserved."
+He gestures to the broom, now in Tate's hand, as he's stroking it's head like a baby.
+con "That's a broom."
+t "It's a MAGIC broom."
+a "It's his belonging, so it counts towards reserving seats."
+con "And I got magic dust that reserved all the seats in the cafeteria."
+Dallan is having some demons to fight on his own while this intense showdown is taking place.
+d "{i}*Heavy breathing*{/i}"
+d "I-I can't... I-I need... food."
+His hands are too full to eat standing up.
+Tate takes an apple from his own tray and shoves it in Dallan's mouth, calming him for the time being.
+a "We {b}paid{/b} for these seats."
+con "Oh shit, was the Headmaster here?"
+a "No-"
+con "I don't think anyone else can sell these seats legally."
+a "No, we paid the previous people to piss off."
+a "Something you need to do before {b}I'm{/b} getting pissed off."
+con "How much?"
+a "What?"
+con "How much did you pay them?"
+a "..."
+a "Twenty each."
+con "Here."
+He takes out his wallet, picks out a couple of bills, folds them into each other so they hold some weight-
+And throws them right between Aiden's eyes.
+un s"Bullseye! Or... tigerseye."
+That was not a smart move... and everyone that witnessed it can agree with me.
+He comes closer to Connor and talks slowly, which is always a bad sign from an angry person.
+a "Do you have any idea who this guy is?"
+Aiden points at Dallan, with the apple still in his teeth, but half eaten.
+a "That's the leader of the Defender's Shard."
+con "Is that supposed to intimidate me?"
+a "No, it should reassure you."
+a "Because the only reason you still have arms to throw money around with, is because he'll stop me from ripping them off."
+Indeed, Dallan looks like a cute goofy goober right now, with all the food in his hands and mouth, but his eyes are hard fixated on any and all of Aiden's movements.
+This does get a quick worried reaction out of Connor, but not enough to make him move.
+t "What do you even need this table for?"
+t "You're alone!"
+Before he can answer, five people come through the door as if summoned by Tate's words.
+He lights up as he sees them, and I almost facepalm myself.
+Somehow, people we already met give us the most trouble, I'm not sure if that's good or bad.
+Let's call it fate.
+It's the five nerds we convinced to sign our list.
+They smile as well when they notice me and Tate around the table.
+One of them in particular, is the happiest, the little dog, I think his name was... Benjie?
+t "Nerds!"
+ben "Hey guys!"
+ben "I see you've already met my new boyfriend."
+con "Hey Bennie."
+They smooch each other on the lips, and all of us are a bit shocked, for different reasons.
+t "You got a boyfriend already, Big Ben?"
+y pf"You got {i}him{/i} as your boyfriend?"
+a "You know one another?"
+d "Does that mean we don't get the table after all?"
+ben "I must thank you mister Tate, I followed your advice, and as soon as I entered the Sorcery Shard's room, I met Connor and we hit it off."
+con "He was just too cute to pass up..."
+ben "The others are super excited and supportive as well."
+goo "Hell yeah we are!"
+cal "It was supposed to be me..."
+t "Good for you!"
+t "Aren't you so glad I found you in time?"
+I was honestly expecting to have a hoard of nerds coming for our heads after realizing we played with their feelings back then, but this is a far better outcome.
+For the first time, something more than apathy shows on Connor's face, as his eyes meet mine.
+Panic, or just pure fear?
+Realization must've hit him as hard as it hit me just now.
+I have the power to destroy his relationship.
+I give him a sly smirk, and he understands the message.
+How would his brand new boyfriend feel about his new partner getting his cock sucked hours, or minutes before meeting him?
+To be fair, I don't think it would bother him too much, Benjie seems too desperate for love to care.
+But Connor doesn't know that.
+How would his brand new boyfriend feel about his new partner telling another guy to suck his cock just hours, maybe minutes before meeting him?
+Then accepting money when he was denied.
+To be fair, I don't think it would bother him too much, Benjie seems too desperate for love to care.
+But Connor doesn't know that.
+con"Uhm, Benjie, honey, why don't we go eat outside?"
+con"It's a beautiful sunny day, I want fresh air."
+ben "But then why did you come to catch a table if-"
+con "No buts, let's go."
+con "Been a pleasure meeting you all."
+con "Come on nerdy friends, outside we go."
+con "We could all use touching some grass."
+They are all first years aside from Cal, but Connor is much stronger than all of them, and manages to push them back towards the door, while they mumble confused goodbyes.
+a "What the hell just happened?"
+d "I don't know but we got our table, finally."
+Dallan places his trays, yes, multiple, on the table and starts eating almost immediately, while me and Tate wave from behind.
+t "Aww, we didn't even get to properly introduce Dallan and Aiden to them."
+a "At least I got my money back."
+a "Breakfast is on me today, I guess."
+t "Woohoo!"
+a "I swear, these first years get cockier and bolder each year..."
+d "You're the most pleasant first year to be around, [name], and that's not an exaggeration."
+a "That's true."
+y ec"Thanks, I appreciate it."
+t "What about me?"
+They ignore his question.
+t "Bitches..."
+The situation was a little heated until now, but as the waters calmed, everyone got to actually look at what I was carrying.
+t "WOW!"
+a "Are you Dallan's brother from another mother, [name]?"
+t "You are going to get at least twice as big after putting this inside you."
+d "Hey, stop teasing our friend's perfectly normal decision!"
+d "Don't you two have Sorcery auditions today?"
+d "That will require a lot of energy, even more than regular practice, which is already pretty exhausting for first years."
+a "Energy or a food coma?"
+y scream"I was hungry, ok?!"
+y pf"I mean, I still am, but now that you brought it up, I can see it's too much."
+y "Hmm, you and Tate didn't buy that much, so maybe you could help?"
+Aiden got a portion of eggs benedict, very sophisticated, and Tate has pancakes, which is not a lot.
+t "That's a good compromise."
+t "You are so considerate, dear friend."
+t "Don't mind if I do."
+He takes a pancake and uses it as a big spoon to scoop up some food.
+Aiden is more reluctant to accept the offer but gives in after his own meal disappears in two bites.
+The situation was a little heated until now, but as the waters calmed, everyone got to actually look at what I was carrying.
+And I have basically nothing.
+t "Hey, [name], where's your breakfast?"
+a "That bitch stole it, didn't he, I knew-"
+y awkward"No, it's fine, I didn't get anything, I'm just not that hungry."
+y "I might be a bit nervous."
+y sadsmile"I'm just glad to be here."
+d "Nonsense!"
+d "You need energy, don't you and Tate have auditions today at practice?"
+d "You need food!"
+Dallan had multiple plates around him, so it was no brainer from him to hand me some.
+I'm not even sure if some of these are considered {i}'breakfast items'{/i}.
+t "Yeah, silly, I can't let my hunter partner fail the auditions."
+He picks some pancakes from his tray and places them on one of the plates from Dallan.
+a "Honestly, I paid over a hundred dollars to get this table for us, even if I got them back, I'll find it offensive if you don't eat."
+He takes some of his food and gives it to me as well.
+And so, the empty space in front of me fills up... it might be a bit much.
+un eyeroll"Of course EVeRybOdY wants to fill up your spotted hole."
+un sidee"Lucky bastard."
+y smug"Eating disorders would be impossible around you guys."
+y "I appreciate the gesture."
+t "The least we can do for the only {i}'non annoying first year around'{/i}."
+We sit down and enjoy our meal.
+Me, Aiden and Tate having a totally normal amount of plates on our trays, while Dallan... Well, he's a growing boy.
+y sadsmile"I don't want to be the killjoy in the room, but can we talk about this {i}'practice'{/i} session and these 'auditions'?"
+t "Why would you be a killjoy for that?"
+t "It's LITERALLY the BEST part of the year!"
+t "Maybe the second best."
+t "I LOVE talking about it."
+y "I just thought you wouldn't like to talk about school stuff."
+t "I LOVE talking about school stuff."
+d "Only when it involves blowing stuff up."
+a "Or if there's sex involved."
+t "I'm a simple guy with simple needs."
+y simple"So..."
+t "Right, practice."
+t "Basically, Chelsie makes these super cool dummies for first years to fight each year, and every time there is a twist to them."
+d "Last year they had to fight a Volley Of Incomprehensible Darkness."
+d "Or V.O.I.D."
+y "What did it do?"
+a "It was just a hologram made by a small device hidden somewhere in the arena."
+t "A scary hologram."
+a "You had to find the device and destroy it, all while the hologram messed with your sensory abilities."
+d "It would've been a nightmare for me to fight, thank goodness I'm not a first year."
+a "A surprising amount of first years failed to even figure out what to do."
+t "And two years ago, they had to fight an alligator."
+y "Like.. a robot?"
+a "No... just a wild alligator."
+d "I thought they were crocodiles."
+a "No, she WANTED crocodiles, but the Headmaster didn't let her use any."
+And alligators are so much better?
+y "So in other words, I should prepare myself for the worst..."
+d "Who knows what the auditions will hold."
+t "Don't worry, as a recommended student you will have no problem, I'm sure."
+y awkward"Ha ha, yeah... easy."
+I should change the subject before they talk more about how {i}'awesome'{/i} I am.
+y sadsmile"I've been thinking, uhm, do you guys wanna exchange phone numbers?"
+y "We can still text inside the barrier, as far as I remember, right?"
+a "Certainly."
+a "Dallan, do you mind?"
+d "I'm all for it!"
+I hand Aiden my phone and he inputs both his and Dallan's numbers.
+d "If you ever need to reach me, you should call, don't bother texting, I don't check those, you know why, right?"
+y smug"Of course, I wouldn't bother checking my inbox either if I were you."
+I'm nobody special and my emails are always filled, I can't even imagine what someone as important and popular as Dallan has to deal with when it comes to messages.
+t "Aghem!"
+y simple"Yees?"
+t "What about me?"
+a "You don't have a phone."
+t "Correct, so now I feel left out."
+t "Thank you guys, what great friends I have."
+a "We hate you with our whole being."
+d "I like you, Tate."
+t "And I {i}LOVE{/i} you, my big strong puppy."
+Dallan was not as weirded out by the comment as me and Aiden, in fact, he starts wagging his tail.
+I take a piece of paper from my backpack and a pen.
+I write my number on it, drawing a little heart near it as well, and hand it to Tate.
+y s"Here, you might not have a phone."
+y "But if you ever really need me, you can borrow it from someone, or use a public phone, and give me a call."
+I didn't think much about what I just did, I just wanted him to not throw a fit, even if I know he's joking most of the time.
+But my gesture might've been a bit more powerful than I thought.
+No, he didn't start to ugly cry, no, he didn't jump in my arms and hug me with the strength of a hundred horses, but he did show genuine surprise in his contemplating eyes, before stuffing the paper in his crop top's pocket.
+t "Thanks..."
+y simple"Speaking of which, why don't you have a phone?"
+un squint"Why the fuck would you ask that?!"
+un suspicious"He's fucking poor."
+un "He's adopted."
+un "He basically lives in the woods."
+un "Have you no room reading abilities?"
+un "That's it, from now on, you bring every question you want to ask these idiots by me first."
+I admit it is a bit forward, but depending on the answer, it's not as bad as it seems.
+t "I had people offer to buy me one."
+t "But those monstrosities are expensive as HECK!"
+t "I'd rather just send letters for a dime."
+a "We could never convince him, so you won't either, most likely."
+t "I don't like Mister and Misses Mandrate buying things for me, let alone my FRIENDS!"
+t "I rely on the money I get from hunting Nightfallen, like a REAL hunter!"
+t "It's what everyone should do, in my humble opinion."
+y s"That's an interesting and respectable view on life."
+d "Speaking of things to do, what are your plans for today, [name]?"
+d "We could all do something together, I heard there is a sauna that-"
+a "Wait wait wait, {i}YOU{/i} want to hang out?"
+t "Yeah, what happened to all your work?"
+d "It turns out, not having to waste time with Tate's detention made me very productive."
+d "So now I don't have anything to do."
+t "Sorry Dallan, we'd love to participate in your cliché sauna episode, I'm sure [name] would love to see you both naked and wet-"
+y blush2"N-no I wouldn't!"
+With all my being, actually...
+t "But me and [name] have plans."
+y simple"It's true."
+d "Awww..."
+I can't leave Tate alone with a wyvern, even if it's just a baby.
+a "I wouldn't be able to accompany you anyway."
+a "I have to visit my ex in the hospital, he is expecting to wake from his coma before the big test begins."
+y worried"Oh no, what happened to him?"
+a "Something, something Chelsie and her inventions."
+a "Not too sure."
+d "I keep telling her to not injure her assistants..."
+d "If you two are so busy, then I'll come with you, Aiden."
+a "Uhm, n-no, no need, I'll be fine on my own."
+a "I need to, uhm, cry at his bedside, or something."
+d "I'm not letting you unplug his life support..."
+a "Damn it."
+He REALLY hates whoever that is.
+a "Then plan's changed, we could just go drinking with Chelsie instead."
+d "That's an idea I can get behind!"
+d "The hanging out with Chelsie, I mean."
+d "I would never drink on a school day."
+t "I never drink, period."
+a "Cowards."
+They turn to look at me, expectantly.
+
+--- CHOICES ---
+→ What's my relationship with alcohol?
+→ Bring the booze in!
+→ Aiden seemed to like that.
+→ On occasion.
+→ Dallan seemed to like that.
+→ Hell nah.
+→ Tate seemed to like that.
+→ He glares at the plate that held the salmon bagels before...
+--- END CHOICES ---
+
+With that last question, we get up from the table, letting the next party sit down.
+We got a couple of ugly glares from people around since we occupied a table for six even if we're only four, but a table for four would not be able to hold all the food Dallan got, so we made the right choice.
+We cleaned up after ourselves and got a move on, Aiden and Dallan going towards the academy waving at us goodbye.
+y s"Where to now, chief?"
+t "To the library!"
+I almost forgot Tate had a bag of books with him.
+y simple"You just had them floating outside this whole time?"
+t "Yep, I can pump magic into things and people and make them float, it's not very magic consuming, so it's fine."
+t "What's a better anti-theft mechanism than gravity?"
+y s"I admit, it's pretty smart."
+t "Care for another broom ride?"
+t "The library tower is not far, but we just ate."
+y "I feel like flying is worse than walking right after you eat."
+t "Not for me!"
+t "Legs are good only to clutch a broom and to cradle a loved one's head."
+y sadsmile"Saying no to you is hard, so... please don't go too high."
+y "Or too fast."
+t "Promise."
+I hop on and we take flight.
+As promised, Tate flies with a speed slightly faster than walking, and only high enough so the tip of our shoes don't scrape the ground.
+The lack of cars makes the atmosphere peaceful and quiet.
+Townsfolk wave at Tate and greet him as we fly by.
+st1 "Good morning little Tate!"
+st2 "Tate, your father's suit is ready, make sure to let him know, alright?"
+kid1 "Mister Tate! Mister Tate!"
+kid2 "Can we fly on your broom?"
+t "I'm a little busy right now, let's reschedule."
+kid2 "Who is that?"
+kid1 "Is this your Booooyfriend~?"
+These kids have no filter.
+kid1 "Look, he's getting red!"
+kid2 "Mister, are you a chameleon?"
+T "Hey now, don't you have cartoons to go watch, or something?"
+kid1 "{i}*Le Gasp*{/i}"
+kid2 "Isn't today when Barbarosa's first episode comes out?"
+kid1 "I think it is!"
+kid2 "THEN GO GO GO!"
+They run away screaming and enter a house.
+y s"A lot of people know you around here."
+t "I'm kind of a local celebrity, one might say."
+y "Could it be because your father was the Headmaster?"
+t "No!"
+t "This is my own hard earned popularity!"
+y ec"I'm just teasing."
+y s"Hey, Is that the library?"
+A grand tower, adjacent to the academy stands tall before us.
+t "Yep."
+y "Wouldn't have guessed it's a library from the looks of it."
+y "Maybe a wizard's tower."
+t "I wish."
+t "It has only books inside."
+y "I take it you're not a big reader?"
+t "I am, actually."
+y surprised"Really?"
+t "Why are you so surprised?"
+t "I'm smart!"
+t "Just because I don't wear glasses or hang around with boring nerds all day doesn't mean I'm stupid."
+y simple"I never thought you were stupid."
+y pf"You just seem more witty and sly than wise and intelligent."
+t "Hmmm, yeah, I like that assumption."
+t "You can call me, {i}Sly the Wit{/i}!"
+y s"I will literally never call you that."
+t "Worth a try."
+We walk inside, being greeted by a small corridor that opens up in the actual library.
+y surprised"I was expecting this to have multiple floors, not a spiral straight to heaven."
+y "I can barely see the roof!"
+t "Unfortunately the librarian usually doesn't let first years climb the stairs too much, in case they're dumb and fall."
+y simple"Not even you?"
+t "Nope."
+y "But you can literally fly, float and teleport."
+t "That's what I'm saying!"
+t "But Mister Sebil was always worried..."
+t "Let's get this over with, I don't want to talk to this old witch more than I have too."
+y "Is she an actual witch or are you insulting her?"
+t "Just an insult, she can be a big pain sometimes..."
+I hate mean people.
+I never understood why some people have to be such assholes to complete strangers.
+I'll get ready for the worst...
+t "Damn it, my books are kinda filthy, hopefully she won't notice..."
+We walk up to the librarian's grand table, surrounded by papers, stacked books waiting to be placed on their shelves, a computer and a ton of drawers.
+Somebody was making a bit of a ruckus behind the counter. We approach and Tate rings the bell very lightly.
+The sounds stop.
+st "Visitors!"
+st "One sec."
+st "{b}Get- in- there{/b}, {i}phew{/i}, okay."
+t "That doesn't sound like..."
+Instead of an old witch, we're met with a short, red panda with a questionable fashion sense just like a certain cat I know, but in the exact opposite direction sexually.
+un "The first person in this goddamn place not completely sexually charged when it comes to clothing."
+We read his name tag he keeps backwards on the desk.
+.neaB
+...
+Bean.
+Huh.
+b "Hi."
+b "Welcome to.. the library."
+b "How can I help you?"
+t "Yeah... hi."
+t "Where's the witch?"
+b "The what?"
+t "The ugly woman with a giant snout, perfect to get in everyone's business."
+b "You mean my aunt?"
+b "That sounds like her."
+b "She's unavailable."
+b "I'm taking her place for the time being."
+y simple"What happened to her?"
+b "Oh hi, welcome to the library, how can I help you?"
+y pf"I... I was here from the beginning, hi."
+b "You were?"
+b "I was a bit distracted by your friend's six pack."
+b "How'd you get these gains my dude?"
+t "Digging holes mostly."
+b "Siiiiick."
+t "So really, what happened to her?"
+b "To whom?"
+t "Your aunt."
+b "How do you know my aunt?"
+y "You just mentioned her."
+b "Oh, hi, welcome to the li-"
+y angry"{b}I was here from the beginning!{/b}" with hpunch
+t "Chill out [name]."
+t "He's just a little guy."
+t "It's probably his first job."
+t "Isn't that right, little Beannie?"
+b "I'm thirty two."
+t "Oh."
+t "Never me mind."
+b "Haha, I'm just kidding, nobody is thirty two."
+b "You can't live that long, it's insane."
+b "I'm twenty four."
+t "You're weird, Bean."
+b "Thanks."
+b "I moisturize."
+t "What?"
+y bored"Can we please do what we came here to do?"
+b "Oh hi, welco-"
+y angry"I'M NOT NEW YOU FUCKI-"
+Tate has to hold me back with both arms as I try to jump the counter.
+Bean has no reaction, he just smiles as always.
+Damn, he really is stronger than he looks.
+If Tate decides to pin me down, I don't have a chance of getting free unless I use some strength enchantments.
+b "Riiight, sorry dude, I was once again hypnotized by his abs."
+t "You wanna touch them?"
+b "Hell yeah dude."
+Jealousy envelops me as I see Bean reach over and start caressing Tate's belly, feeling every muscle and sticking his finger tips through every dimple in there.
+b "Damn."
+b "I should hit the gym, or start digging holes."
+t "Yeah, you could have this too."
+b "Do you have any tips?"
+t "Never eat fish."
+b "Got it."
+b "What about lobster?"
+t "That's also a fish."
+b "No it's not, it's like a sea spider."
+t "I'm pretty sure those are still fish."
+b "I don't know, I've never seen a fish with that many legs."
+t "Hey, [name], are lobsters fish?"
+y bored"I'm going to kill both of you."
+t "We don't have time for your dark humor."
+y asleep"{i}*Inhale*{/i}"
+y asleep"{i}*Exhale*{/i}"
+y bored"They're crustaceans."
+b "Sweet, I was right."
+y "No, you said spider, that's an arachnid."
+b "Who are you again?"
+y pf"{size=20}A third wheel apparently.{/size}"
+y angry"And would you PLEASE stop feeling my partner up?"
+b "Oh, sorry, didn't know he was your boyfriend."
+y blush2"H-he's not..."
+b "Then why did you make that face when I touched him?"
+y blushmad"WE CAME HERE TO RETURN SOME BOOKS PLEASE!"
+b "Why?"
+t "People take books then they bring them back."
+y bored"That's how a library works."
+b "Ooooohh, I thought people were just stealing them, so I got some anti theft precautions."
+He takes out a shotgun from under the counter.
+t "What the fuck?"
+y angry"YOU'RE NOT ALLOWED WITH FIREARMS INSIDE LAKONIA!"
+b "Chillax dude, it's got taser bullets."
+b "I was just reloading it when you came in."
+y pf"You were gonna shoot us?"
+b "Only if you stole books without paying."
+y angry"YOU DON'T HAVE TO PAY AT A LIBRARY!"
+b "Well I know that now."
+t "Where did you get that thing?"
+b "A raccoon girl with huge boobs, and I mean MASSIVE honkers came by, and offered it for free if she could test it on me."
+t "Did it hurt?"
+b "Oh I passed out from the pain."
+b "But it was worth it."
+b "She woke me up with a slap."
+y simple"Why did you take this job if you know nothing about libraries?"
+b "Mostly to meet women, I heard there are a lot of cool, half naked women here."
+t "What about half naked men?"
+b "Gross."
+t "Wha-"
+t "But I-"
+t "I thought you were sexually attracted to me."
+b "Ah, nah dude, you're cute for a guy but not enough to catch me slippin'."
+y pf"So you were flirting with him on purpose?"
+t "Perhaps?"
+t "More like teasing."
+t "Well now that I know you're not really into it, I want you so much more!"
+t "How about a quick kiss?"
+b "No thanks."
+t "Just a little one?"
+b "I'd rather not."
+t "A little hug?"
+b "You're gonna rub your dick on me."
+t "You're gonna like it."
+b "Please stop."
+y angry"Tate!"
+y "Stop sexually harassing the librarian!"
+t "Fine, let's get down to business."
+b "I said no, dude."
+y "He means returning the books."
+b "Oh, ok, let's see them."
+Tate hands over all the books on different animals, five in total.
+b "They're a little filthy."
+t "That's how I got them."
+b "Uhm, I'm not sure I trust you dude."
+b "You did say you like to dig holes, so it makes sense you'd dirty the books."
+t "Oh, so NOW you're a genius investigator, huh?"
+b "I'll believe if your friend says this is how you got them."
+t "Say yes."
+t "[name], say yes."
+b "Yeah, you could just say yes, I'd believe you, I need confirmation, not proof."
+
+--- CHOICES ---
+→ Is this how he got them?
+→ Yes. (Lie)
+→ Tate gives me a side eye, but keeps quiet and smiles on.
+→ He says through gritted teeth.
+→ No. (Truth)
+→ He hits me with a side-eye for almost ruining his plans.
+→ I can't help it!
+→ I had to be honest!
+→ Yes. (Truth)
+→ No. (Lie)
+→ Tate has his mouth wide open and is left speechless.
+→ This interaction ended with Tate giving me a BOMBASTIC side eye, as Bean takes the books from his hands.
+--- END CHOICES ---
+
+b "I think you have to sign here now."
+t "Oki."
+y simple"..."
+y pf"Why'd you sign as {i}'Memento Mori'{/i}?"
+t "So the witch can't trace it back to me."
+t "Duh."
+t "Plus, it's a cool name."
+b "Can I do anything else for you?"
+t "Do you have any books on dragons?"
+b "Yeah, in the children's section."
+b "The last floor."
+t "Uhm, I meant more like, actual books, like historic, or encyclopedias?"
+b "I'm not sure what those words mean, but I think you can find something different about dragons on the third floor."
+y "Actually, we need some on wyverns."
+t "He's not a fucking wyvern."
+b "Yeah, I'm a red panda, I thought that was pretty clear."
+b "Boy, and you were mad I didn't notice you standing all the way over there."
+y bored"Let's get one or two books, just in case."
+t "...fine."
+t "Where can we find books on wyverns?"
+b "I think those are on the second from the last floor, something like that."
+b "As long as you're not first years, you are free to go there."
+y simple"Oh, well, we-"
+t "Yep, not first years, we're seniors."
+t "See ya in a bit, Bean."
+b "Awesome."
+b "..."
+b "Seniors..."
+b "They look way younger than my grandma."
+b "I should moisturize even more to catch up."
+We climb up the stairs, and oh man, there are a lot of stairs, all going in a spiral straight up.
+Knowing that dragon books were on 'the third floor' was not very helpful, since there are thousands upon thousands of books on this floor alone!
+Luckily there are a lot of signs guiding towards different parts of the floor, and we manage to find the 'mythical creatures' and 'Nightfallen' categories in a matter of minutes.
+Our luck ends when we find exactly zero real books on dragons.
+There are fairy tales, and folklore written books and some fantasy novels about dragons, but no information books.
+y simple"I don't think these will be too useful."
+t "It's worth a try, I'll get one of each."
+t "Maybe they'll have SOME truth to them."
+t "Man, I thought dragons were pretty common knowledge since they existed at some point, where are all the books!?"
+y pf"Maybe it's just this particular library that doesn't have them, maybe it's dragon-racist."
+t "Nonsense, it's the biggest library in the country..."
+t "We should go, I want to visit my baby, he must be awake by now."
+y bored"Hold on, we're getting that wyvern book, at least."
+t "Ughhh!"
+t "Alriiiight, but turn the trip there and the search into a short narration."
+I decide to abide by Tate's rules, we walk up a loooot more stairs until we reach one of the top floors.
+This time, the books we were looking for were easy to find, since wyverns actually exist...
+Then we make our way down to deal with Bean again.
+t "We got everything, sign these up in my name."
+b "Ok, little dude."
+t "You're the little one..."
+y "Are we free to go now?"
+b "You were always free to go."
+t "Thanks, Bean!"
+t "Byeee, see you later!"
+b "Good day."
+y "Hope your aunt gets better."
+b "Haha, oh she has no chance."
+What?
+b "I'll be waiting for those books back!"
+As soon as we get outside Tate starts a celebratory dance.
+t "I can't believe that wretched witch is no more!"
+t "Now I can come to the library more often!"
+y pf"I'm not sure {i}'Bean'{/i} is such a good replacement."
+t "Are you kidding me?"
+t "He's perfect!"
+t "He doesn't even care if I dirty the books!"
+t "Take my hand."
+t "I'll teleport us back to my tent."
+y "Are you sure you want to waste the energy?"
+t "Yes! We need to hurry!"
+I touch the excited cat's hand and a bright light instantly covers my eyes. The next moment, the green forest was under my feet and all around us.
+Tate hurries to the cub's burrow, and finds it still sleeping away in the deep end.
+t "He's still asleep."
+t "He's not sick, is he?"
+y s"That's why we have information books, to find out."
+t "Check the fantasy one about dragons!"
+y pf"Yeahhh, that one, one second."
+I place the book about wyverns inside the dragon one and start looking through the pages.
+y simple"It says here that wyv- I mean, dragons sleep for twenty hours a day the first month of their hatching, decreasing over time, usually on high alert for predators, unleashing sharp claws and fangs upon whoever is unfortunate enough to wake one up, even a parent or sibling."
+y "In other words, don't touch it until it wakes up on its own."
+t "That's great actually!"
+t "This way we have time to set traps!"
+y confused"Traps?"
+t "Yes, like the one you fell into!"
+y bored"I'm not digging holes."
+t "Not every trap is a hole, [name]..."
+t "We can put up magic traps, rope traps, explosive traps."
+t "All sorts of things."
+y simple"And what if a wild animal gets caught?"
+t "We just release it."
+y "Wouldn't it be a good idea to feed it to the baby?"
+t "Are YOU going to butcher wild animals?"
+t "Cuz I sure won't."
+t "And I'm not watching my baby rip an animal to shreds."
+y "Good point, but where are we going to get the meat for it

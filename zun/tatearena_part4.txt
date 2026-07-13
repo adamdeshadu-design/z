@@ -1,0 +1,502 @@
+.
+t "Looks like a fashion item a toddler pitched."
+un squint"He's the one talking about fashion..."
+t "{i}*Yaaawn*{/i}"
+t "I hate to be the killjoy, but considering you're not letting me touch anything else, and we don't have any other business here, can we go?"
+t "We'll be too tired in the morning otherwise."
+y s"You're right, thanks again for flying me here in the middle of the night."
+t "Thanks for not lying to me and showing me this cool place."
+t "I'll have WAAAY more questions about this night tomorrow."
+y awkward"Can't wait to explain myself tomorrow..."
+un bored"I can help with that."
+How so?
+un "I'll erase his memories for tonight, and make it all seem like a dream."
+Nope, nah, ney, naha, no chance.
+un curious"Why not? It will solve all your problems."
+It just feels... wrong.
+un bored"No offense, but you have a very bad sense of morality."
+Look who's talking, mister 'Evil demon imprisoned for war crimes and people devourer'.
+un suspicious"Yes, I was doing atrocious things in the past, but I always knew what I did was bad, I just didn't care, because I was too high on my horse and nobody could stop me."
+un "Unlike you, who lie to yourself whenever you do anything bad, attempting to manipulate the narrative to portray yourself as the hero, but only in your own eyes."
+un "Running from the truth just to feel better."
+un bored"Conviction."
+un "That is the difference between a villain and a coward."
+Here is a piece of conviction for ya.
+I'm not messing with my friend's mind.
+un squint"LISTEN to me..."
+un "Mortals are stupid, I know, I know that veeeery well, you all think with your hearts and dicks."
+un "If you put a single brain cell worth of thought into this, you'd agree in no time."
+un suspicious"If I were a harsher demon, and you a smarter mortal, you'd be on your knees begging me to do this for you."
+And why is that? Please enlighten me.
+un "Alright, here are all the reasons:"
+un "{i}*Inhaaaaaales*{/i}."
+un "{size=27}There is absolutely no way for him or anyone else to ever know you were the one that messed with his memory, not that there's a way to realize ANYONE messed with it, if we don't do this he could teleport inside my secret lair any time and steal whatever he wants, you know how troublemaking he is, you will not have to come up with an excuse for every single thing that happened tonight, my sound canceling field, waking him up in the middle of the night, the lair, the medallion, the sword, the rings-{/size}"
+Fine fine fine!
+I get it...
+You're right, I do feel with my heart, and that's because if I ever did tell him I let a demon mess with his head, he'd not take it too well.
+But on the other hand, every point you make is valid, and it plays into everyone's hands perfectly.
+un simple"Sooo?"
+So as much as I hate the idea, I'm allowing you to make it all seem like a dream to him.
+un relaxed"Thank goodness."
+Can you do that effectively?
+un bored"Mind controlling is my specialty, that's why I can possess you in the first place."
+un "A dream is how we first met, was it not?"
+I guess you do have the expertise.
+un "I'll do it as soon as he goes back to sleep."
+And let us never speak of this again.
+un "You got it boss."
+We make our way out of the dark abyss, guided by my energy powered light.
+The passageway starts to close as soon as our feet leave the last step of the stairs.
+After that, our ears regain their hearing as the anti-sound barrier Scribbles made pops like a soap bubble.
+We get back on the broom, sleepiness creeping up again when the thoughts of a warm bed and blanket appear almost like a hallucination.
+I thank him again for helping me, and for not asking too many questions.
+t "I have my own share of secrets I'm taking to my grave."
+t "Before you go, remember."
+t "6 AM SHARP!"
+t "I'll wait for you in the lobby."
+I bid him goodnight, and walk towards my dorm, almost forgetting which way it is for a moment.
+I look back where I left my cat, at the beginning of the corridor, and I see his tail disappear towards the staircase.
+This is it, finally I can sleep, even if it's only for an hour or two...
+I close my eyes and drift to sleep instantly.
+I'm not even sure when I got to my dorm, maybe I teleported, wouldn't that be a useful power to have?
+I close my eyes and drift to sleep, clutching my pillow like someone's warm body...
+I look back where I left the cat, and see him just standing there... fidgeting with his fingers and feet, looking in my direction.
+I already know the problem, and the solution starts by taking a few steps back towards him.
+y sadsmile"What's the matter?"
+t "Well, I know I wanted to be alone tonight and just be left with my thoughts... but now..."
+y smug"Yes?"
+t "Oh come on, you know what I wanna say."
+y "I still want you to say it, you can never be too sure."
+y "Plus, since when are you finding it hard to say what you think?"
+t "..."
+t "Can I spend the rest of the night with you?"
+t "I mean... there's only like an hour left for us to sleep, but this way, we won't miss the start of our journey in the morning."
+y ec"I'd be crazy to say no."
+He smiles warmly, sincerely at me, his crooked canine showing, clearly overlapping his lip.
+t "Oh shut up, you perfectly sexy twink."
+y simple"Ouch."
+y pf"The feral, out of control cat, punches me in the arm with all his might, leaving a gushing red wound on his-"
+t "Stop narrating nonsense and come on!"
+t "I need my beauty sleep!"
+y ec"Coming!"
+y "..."
+y simple"Seriously... that hurt."
+t "I barely touched you."
+y bored"You're stronger than you look."
+t "You mean I DON'T look like a seven foot bodybuilding bear?"
+We jog towards my dorm, since it's the closest, and because I realized I forgot to lock it.
+He lays there in my bed in his silly, but comfortable looking pajamas.
+Faint snores can be heard the moment his head makes contact with the edge of my pillow.
+We not only share a bed, but the same pillow as well, since the academy is too stingy to afford a second one.
+But for tonight, this is perfect.
+For the first time I see him not as a friend, not as a lost child in a store, not as a victim or a troublemaker, but as...
+Someone special to me.
+Someone dear, and not in a lustful way.
+There's no way I can lust over those pajamas, sorry not sorry.
+I just want him to be safe and sound near me, just like this.
+How I wish I could fall asleep as fast as him.
+Instead, I have to have an entire internal monologue about the person sleeping next to me...
+{i}Meanwhile, in a dream.{/i}
+...
+un "..."
+un "While my vessel practices being unconscious, I walk around in the cat's mind."
+un "It's a very chaotic and downright scary place, but I manage to locate some of tonight's memories and replace them with similar ones, but in dream form."
+un "I'm sure a certain someone would be pretty pissed off if I played around more, so I'll abstain myself for now."
+un "I don't have any time for more dreams, which I have to admit is a bit disappointing, since I was getting invested in the story."
+un "Now all I have to do is wait for morning to come."
+un "I have a feeling today will be a very interesting day."
+I wake up with rays of sunshine stabbing my eyelids.
+More tired than I've ever been.
+Last night's events slowly come back in my memory.
+Maybe sex after midnight followed by an underground expedition is not the best thing in the world, since now I'm quite literally functioning on one hour of sleep.
+un "Two, actually."
+y bored"Good morning to you {i}two{/i}."
+y "Can't believe the first thing you say in the day is a lie."
+y "What does that say about your character?"
+un "It's not a lie, look at the time."
+y "I have three alarms so there is no way-"
+{i}7:07 AM.{/i}
+y simple"..."
+y scared4"I WAS SUPPOSED TO MEET HIM AT 6 AM!" with hpunch
+un "See? Wasn't a lie."
+y scream"WHY DIDN'T YOU WAKE ME UP?" with hpunch
+un suspicious"I was busy erasing the cat's memories."
+un"It's not my fault you decided to fool around after midnight instead of sleeping."
+For fuck's sake.
+y worried"Why didn't my alarms go off?"
+y "Shit, they did, but I slept through all of them."
+un bored"Your body didn't want to wake up after a single hour of sleep."
+I jump out of bed and begin to search for my clothes before remembering I slept in them.
+Then book it out the door after grabbing my backpack, but at least remember to lock the door first.
+un "You always remember the most important things."
+y angry"Shut up."
+The hallways and the stairs run past me in a blur, I need to get to the lobby.
+y worried"Please be there, please be there, please be-"
+y "there..."
+And there he is.
+Although my desperate prayers were answered, I'm not even sure if it's a good thing anymore.
+Overwhelming guilt rushes over me, not only did I ditch him numerous times the past few days, but I'm late to the most significant adventure of his life yet.
+But the worst part... is that he's here, waiting for me, over an hour later.
+Hands in his lap, sitting on a couch, alone.
+The adrenaline leaves my body, replaced by worry and disappointment.
+I approach him with my tail between my legs, he turns his head slowly towards me, with a smile on.
+t "Good morning sleepyhead, slept well?"
+y awkward"H-heey, sorry, I actually didn't sleep well last night, didn't have much time, not counting our little escapade."
+t "Of course you didn't, you were too busy chasing ass, or tits, or dick, I don't really know which but I don't care."
+y "R-right... you know about that, I forgot."
+t "I'd be insulted if you were to forget that {b}and{/b} end up forgetting me as well..."
+t "At least someone must've woken up today not disappointed."
+t "Why do you keep pretending to care?"
+y simple"What?"
+y worried"N-no, I'm not pretending, I do ca-"
+t "STOP LYING!" with hpunch
+t "I told you before I like honesty over white lies."
+t "You just keep throwing me to the side like a used rag, then come back just to butter me up again."
+t "You're the definition of {i}'building up just to knock back down'{/i}."
+t "Saying you're {i}'sorry'{/i}, or that you {i}'care'{/i}."
+y "I-"
+t "Why would you do that?" with llongdissolve
+t "Why did you ever even try to hang out with me in the first place?"
+t "Why would you help me?"
+t "Why would you join our Shard out of the blue for me?"
+t "Just to get closer to the {i}'popular kids'{/i}?"
+t "You PROMISED to help me, you PROMISED you care."
+t "But I get it... you have to be totally {b}mad{/b} to come to the school for sluts and make {b}friends{/b} instead of running around collecting bodies."
+I want to try to argue, but what can I possibly say? My fire power when it comes to comebacks is inferior to his.
+Because anything I can say is just wrong.
+All I can do is try to deflect, or take the bullet.
+y sad"I-I'm sorry, I really am."
+t "Is that it?"
+y sad"..."
+y "Why..."
+y worried"Why are you here?"
+y "Why did you not wake me up?"
+t "You can't possibly be blaming me right now, right?"
+y "I'm not-"
+t "You do realize this isn't about being early or late."
+t "It's about TRUST!"
+t "It's about empathy, it's about being a good friend."
+t "I could've knocked on your door, I could've teleported on top of your bed and dragged you out."
+t "Hell, I could've just gone there alone, to get Seraph back myself."
+y "You could've gotten yourself hurt, or killed that way."
+t "Oh like you care sooo much about me."
+t "The only real reason I'm still here, testing your... loyalty, if that's even something you ever had."
+t "Is because... I have this feeling that he's safe."
+t "Safe and... happy."
+t "He can wait an extra hour...I hope."
+The dream...
+y sad"I know I'm selfish, and that I messed up big time..."
+y "But do you think I could have another chance?"
+y "One last one?"
+y worried"I KNOW I'm garbage, I'm a trash person with a trash sense of morality."
+y "A coward."
+y "I can give a lot of excuses for my actions, but right now, all I want is to show you that I do care."
+t "..."
+t "I really don't want to go alone."
+t "And you're the only one that knows about Seraph other than me... so alright."
+t "I do hold grudges, but I also forgive."
+y sadsmile"Thank you so much."
+t "Now let's get a move on, it's still early, but we want to be back before the battles start."
+I get woken up in the morning by thin, wiggling whiskers invading my snout.
+My eyes slowly open, meeting eye to eye, literally, with the cutest, most handsome cat in the world.
+His black-purple fur glistening in the rays of sunshine coming through my blindless window.
+Even with our night adventure, I feel surprisingly well rested.
+Rested enough that I'd rather lay here awake, watching his steady breathing.
+un "Creep."
+Look who's here, good morning to you too.
+un "Sure."
+un "Mission accomplished, by the way."
+un "He will wake up and think it was all a dream."
+Yeah... good job.
+I turn around and check my phone sitting on the nightstand.
+5:58 AM.
+Two more minutes for the alarm to go off, might as well cancel it.
+I reluctantly get out of bed, go for some water and end up brushing my teeth as well, while I'm at it.
+For some reason, I have this warm feeling inside, like my whole life is amazing and stress free.
+Might be the effects of a certain new person in my life.
+This man falls asleep in seconds but it takes a level seven earthquake to wake him up.
+Let's see... how should I go about it?
+
+--- CHOICES ---
+→ Time to wake Sleeping Beauty up.
+→ Violently.
+→ We're friends, and as we all know, friends torture each other for fun.
+→ He walked the whole night with sleepers on, which are now sitting at the foot of the bed, beneath his bare feet sticking out from underneath the blanket.
+→ We had to use the blanket's short side so we both could fit.
+→ I'm about to give this cat a taste of his own medicine, and maybe add my own twist to it as well.
+→ I grab his ankles firmly, taking a last look at the innocent, sleeping cat.
+→ Then drag them with all my might, until his whole body leaves the bed and hits the floor.
+→ He's now laying on the cold, hard ground.
+→ Still asleep.
+→ I help him up and arrange his wrinkled pajamas, putting the hat back on.
+→ Lovingly.
+→ Time to serve this cat his own medicine.
+→ He's not the only one that can flirt.
+→ I climb on the bed, positioning myself on top of him.
+→ I intertwine our hands and pin them above his head, arching my back and bringing my face closer to his with a smirk.
+→ I blow gently in his face, making his nose twitch, until his eyes slowly crack open.
+→ I really thought his murder mittens were the only things I have to pin down, but his leg alone raised my body and threw me off the bed.
+→ As soon as he sees me on the floor he looks at me curiously.
+→ He hides his crotch with his tail as he gets up from bed, a bit embarrassed.
+→ Innocently.
+→ I already know he's a heavy sleeper, but that doesn't mean I have to throw a bucket of ice water on him, or throw him off the bed.
+→ I take out my phone and play some nature sounds, morning birds singing, cicadas screaming and wind blowing through the leaves.
+→ I uncover the window to let the early morning light shine in his face as well.
+→ Then take a seat at the side of his bed, caressing his arm gently until his eyes crack open.
+→ He scans his surroundings, looking lost, before his gaze catches me and smiles.
+→ He blushes heavily.
+--- END CHOICES ---
+
+y "That's what you get for almost sleeping in on the day we're supposed to save Seraph."
+t "Ughh, you're right, I-"
+t "Wait."
+t "How do you know his name?"
+Oops.
+un "He did not, in fact, ever mention his name, save for last night, but in his mind it was just a dream."
+y awkward"You... uhm, said it in your sleep."
+t "Ah... that explains a lot actually."
+un "Nice save."
+He looks down, contemplating for a second before returning his smile.
+t "The good news is that I have a hunch about where to start."
+y s"Is that so?"
+y ec"Then what are we waiting for?!"
+t "I kind of want to get dressed first."
+y determined"Then we go by your dorm and fly out the window to our destination!"
+t "Look at you, being more excited about this than me."
+t "I really appreciate that."
+y ec"Anytime!"
+y "This will be our first real, serious mission together."
+t "That nobody is allowed to find out about until it's over."
+We walk up the stairs to his room, I walk in first and he locks the door behind.
+y "This is my first time seeing your dorm, isn't it?"
+t "Yup, bask in its glory."
+It looks awfully similar to mine, except with more stuffed animals stacked in the corner and the bed.
+The cat wastes no time, sliding off his pajamas right in front of me, before even finding his usual clothes.
+y blush2"U-uhm, ok, you're naked."
+t "I'm not naked, I have a jockstrap on."
+t "I told you before that I'm not shy, you're the one making a fuss about naked people."
+y "It's normal to be surprised by someone taking their clothes off in front of you."
+t "Yet your eyes are stuck to my ass."
+y bored"..."
+y pf"I said surprised not repulsed..."
+t "Ah, here they are."
+y "Do you wear the same outfit everyday?"
+He raises an eyebrow eyeing me up and down.
+y blush"Hey! Mine look the same, but they're different clothes everyday."
+y sadsmile"I just didn't know how far I can go with customizing the uniform."
+t "Well, I have a bunch of copies of the pants and cropped shirt as well."
+t "Merina helped me sow them."
+t "But the hoodie is unique."
+y simple"Seems pretty easy to make."
+t "It doesn't matter if they can make it or not."
+t "Because it was the first gift I got for my birthday ever, from Mrs. Mandrate."
+y "How old were you then?"
+t "Six."
+y "A weird gift for a toddler."
+t "Hey! She had pure intentions."
+t "She saw the cropped bit and thought it would suit me perfectly."
+t "But didn't realize the sleeves and hood were normal sized..."
+t "I loved wiggling them around and running with them flowing in the wind, so I didn't let her cut them down."
+y simple"The cropped clothes are a trap for the older generations."
+y smug"Now I can't stop imagining you with your baby face and baby arms and baby feet, standing proud in front of them with your new gift."
+t "I was six! Not a baby."
+t "I was just... small."
+t "And hey, I grew into it, didn't I?"
+He takes his broom from its designated corner, and two soft looking pillows with leather straps attached to them, which he locks to the broom.
+t "Here we go, all done and ready."
+t "This ride might be a bit longer, so your balls will be thanking me."
+y smug"They started thanking you the moment they saw those pillows."
+I jump on behind him, wrapping my arms around his belly like always.
+No claws this time, I'm used to flying by now.
+We get out through the window and he closes it behind, before flying off.
+The morning's fresh, but cold, air is hitting my fur harder than the night before, since this time, we need speed, not stealth.
+The cushioned seats the cat decided to add for today's journey proved to be a fantastic addition before we even left the barrier.
+The streets of the town are almost empty, and the few people that are unfortunate enough to have to wake up this early, are visibly tired with sluggish movements.
+As for us, we don't get to be tired.
+The emotions are a tad too strong to brush aside, plus that we're flying at high speed.
+The more I think about that wyvern, the less I pay attention to my cold hands grasping the cat's soft, warm belly.
+He flies with confidence in a straight line, with a destination in mind.
+Although I know how that destination got in his mind, as far as he is concerned, it was all a dream, so I should probably act more curious on the topic.
+That is easier said than done, any words escaping my mouth would need to be shouted pretty loud for him to hear through all the wind resistance.
+Which means it's time for a long, silent ride.
+At least the view is definitely something to write home about.
+We fly for over two hours, with small breaks along the way, long enough to take a sip of water and check the map, no small talk or big talk or any kind of talk.
+Passing forests, lakes and hills, until the trees slowly become larger and larger, signaling our arrival in the region we saw in the crystal ball.
+Indeed, trees five times taller and thicker than the ones around the academy.
+If these trees fell in the woods and there was no one around, you can rest assured everyone would still hear them in a ten mile radius.
+The cat seems excited to arrive at the edge of the new forest, as we land for the last time, and begin our rest of the journey on foot.
+He scans every tree, every animal and every other plant, seemingly trying to remember what they all look like.
+Hopefully my questions now won't be too distracting.
+y simple"Hey."
+y "May I ask, how are you so sure this is the right way?"
+y "Why didn't we fly in the exact opposite direction?"
+t "I... I just know."
+y "Just like that?"
+t "I had a dream about the general area he's in."
+t "I KNOW!"
+t "I know, it sounds stupid, but to me, it felt real."
+t "I have this strong feeling that I can't explain."
+y smug"I'm not the one to question the master hunter, expert survivor, experienced adventurer."
+y "If you say it's instinct, or dreams or whatever it might be, I believe you."
+He turns his head just enough to see me with the side of his eye, and smiles warmly.
+t "Thanks."
+y s"You are also in a pretty good mood, I mean, we're going pretty fast but not as fast as I thought you'd be going."
+y "You're not holding off because of me, are you?"
+t "No, again, I just have this feeling that... he's safe."
+y "Safe?"
+t "Yeah, and happy where he is."
+y simple"If you think he's happy, why bother coming here?"
+t "They're Wild Furs, they're wild."
+t "I don't know their intentions, I don't know where my friend even is, I want to know that much at least."
+t "Not to mention, as I said, I'm basing everything off a dream, so not really the most reliable source."
+t "And if he really is happy..."
+y sadsmile"You want to at least say goodbye."
+He nods slowly.
+t "I took care of him for so long, thinking I'll finally have a friend of my own, and someone I can brag about."
+y "What about Dallan and Aiden?"
+t "Dallan is {i}'everyone's'{/i} friend..."
+t "It's not much of an accomplishment to be considered his friend, and Chelsie is the only one with the title of best friend."
+t "While Aiden, you heard him, he doesn't consider me a friend."
+Y "I think Aiden likes you, deep inside, he's just the kind of guy that doesn't know how to express his emotions."
+t "If you realized that last part about him in just two days, then that man has serious issues."
+y smug"Don't we all?"
+t "Heh, right on that."
+t "..."
+t "They used to babysit me."
+y simple"Who, Dallan and Aiden?"
+t "Yep."
+t "Well, they said they were just {i}'hanging out'{/i} with me, but I know they had to keep an eye on me."
+t "Aiden was forced to do so by his father, while Dallan just kind of needed the job, since he wasn't a leader at the time and didn't want to depend on his family for money."
+t "They would also help Mr and Mrs Mandrate with chores around the house, because they were both super busy and pretty old."
+t "I would terrorize the hell out of Aiden, ha."
+t "..."
+t "That might be the reason he dislikes me so."
+y "That might be it, yeah."
+t "I'm spilling too many beans here."
+t "I barely even paid attention where we're walking for the past minute."
+y "What are we looking for exactly?"
+y "Will we find Seraph just randomly in the woods?"
+t "Doubt it."
+t "We should be looking for a Wild Fur settlement."
+t "They usually live in tribes or at least groups."
+t "If we find some signs of them, we find them all."
+y "Could there be multiple clans in the same region?"
+t "Nah, they're way too territorial, if there is one tribe in this forest, there is no other."
+t "Here, hold my hand."
+t "This way I can teleport us both out of danger instantly."
+y smug"You don't need excuses to hold my hand."
+t "You can hit on me when we get back, now focus!"
+y "I wasn't-"
+y "Eh, ok."
+A genius idea comes into our minds, and that is to shut the fuck up because we're in unfamiliar territory and don't know where a Nightfallen might lurk.
+The cat brought some sleep poison antidotes, made by Oliver, just in case.
+Soon, yet another genius idea hits us, to fly on the broom just above ground, so our steps don't make noise.
+That was something we should've done from the start, one might say.
+But we're both stupid.
+So cut two idiots some slack.
+The more we advance, the more stressed we get.
+It is quiet.
+Too quiet.
+t "There is... nothing around here."
+y simple"Yeah... no mammals, no birds, no Nightfallen..."
+y "Keep your eyes open."
+t "Oh really? I was thinking about taking a nap right about here and now."
+y bored"Don't get an attitude with m-"
+t "Shhh!"
+t "Look."
+Finally, between the trees, a man-made structure rises, two of them, actually.
+It's something resembling a totem, or perhaps a weird road sign.
+Animal skulls on wooden pillars, surrounded by feathers and cloth, guard what looks like a naturally made path further in the dark forest.
+Like gargoyles, staring at us with dark, empty eyes.
+t "That is as good as a sign we could get that we're on the right path."
+I study the skulls a bit closer, to make sure they once belonged to wild animals, and not people.
+A sigh of relief escapes my mouth, as the biology matches the one of a typical forest deer and the other one, a stag.
+t "This explains the lack of wildlife in the area."
+We change our course and start walking, or levitating on the new path we found.
+More signs, such as temporary leather tents in the trees, made for scouting, appear on our way.
+But no living being, so far.
+y simple"At least no more skulls in sight."
+At last, a large fence made of regular sized logs, obtained either from far away, or from baby giant trees, comes into view, above which the tops of multiple huts can be seen.
+The perimeter is unguarded, but the hubbub behind the fence makes it clear there are people there.
+We fly low around the fence, until we find a big enough crack to see what's going on.
+Inside, we are met with a very large clearing, surrounded by those huts, in different sizes, colors and materials, mostly consisting of wood and leather.
+Some of them on the ground, others suspended in trees.
+People-
+No-
+Nightfallen, Wild Furs, to be more specific, are walking around living their daily lives.
+Some are descaling and cleaning fish, preparing them to be made a meal out of in a nearby pot.
+Others are washing pieces of cloth, which I assume are supposed to be clothes in a narrow creek that rushes through part of the camp.
+Clothes might be an overstatement, since they're all mostly naked, wearing the bare minimum with. the exception of two or three individuals.
+No matter how lively, busy or interesting the image is, the cat's eyes are fixed on one thing and one thing alone.
+A large pillar in the middle of it all, surrounded by flower offerings.
+Soft bedding lies at the foot of it, elevated from the ground, with a makeshift tent of leaves and sticks on top.
+Inside which, a small, indigo snout can be seen.
+t "{size=20}Seraph...{/size}"
+y surprised"{size=20}There he is!{/size}"
+We whisper.
+y "Why don't you just teleport there and get him?"
+y "This is our chance!"
+t "Are you out of your mind?"
+t "Don't you remember the pool of blood he created because those dumbasses woke him up?"
+y simple"Ah, yeah, that would be bad."
+t "Besides..."
+t "I don't want to waste my magic before the battles."
+y bored"Are you serious?"
+y "That's your second excuse?"
+t "Yes I'm serious, look at him, he's completely fine over there."
+t "I told you I'm not going to sabotage our life at the academy for my sake."
+t "Plus, we need a plan."
+t "We can't just bring him back to the same place, they're just going to come back."
+y "And since he's still a Nightfallen, he can't get inside the barrier..."
+t "Yeah..."
+y "Then what do you propose?"
+t "There is only one answer for now."
+t "I say we-"
+st "Hello there."
+Our eyes widen immediately, and we remain unmoving.
+A deep but smooth voice makes its appearance right next to our ears, followed at the same moment by a cold, hard and thin object, pressed against my throat.
+I dare not speak, or move, but my pupil has to turn towards my friend.
+He has the same reaction as me, but his surprise turns quickly to anger and annoyance.
+un "He was pretty sneaky, impressive ambush."
+You could make yourself useful and protect us.
+A barrier for our necks would be nice, in case he tries anything.
+un "Sure, let a demon of destruction, lust and chaos use protection magic."
+un "I could kill him before he can react, if you want."
+No, just make sure we don't die.
+un eyeroll"Fine, your death would definitely be an inconvenience to me."
+Because he's touching us both, there is no way we can teleport away and be safe at the same time.
+A spotted snout gets closer, from in between our heads, making it easier to see with the side of my eye.
+st "I apologize for the rude welcome, I just wanted to make sure not to startle you, so you don't immediately blink away."
+t "I'd say you startled us more this way than with a regular greeting."
+st "But it worked, didn't it?"
+st "You're still here."
+t "It's not like we have a choice."
+st "That is true, but I do."
+st "And now that both your lives are in my hands, and I can end them at any moment-"
+y bored"Very welcoming indeed."
+st "Will you promise not to run away when I let go?"
+st "It should be proof enough we don't want to bring you any harm, since there won't be a better opportunity than this to do so."
+t "Yeah yeah, we get it."
+The cat lets go of my hand, with a little resistance on my part.
+st "Thank you very much."
+The knives are removed, together with a small fur patch, cleanly cut by the blades.
+The man takes a few steps back, as we both turn to face him.
+My friend beside me is still clinging to his sour expression, he clearly didn't like being taken by surprise.
+st "I once again apologize for my threat, I hope you can find it in your hearts to forgive me."
+He bows to us deeply.
+To be fair, although my heart was racing when he first appeared, it's true that I don't feel even a tiny bit threatened, since what's deadlier around here than having a knife pressed against your neck?
+Not to mention he has a very calm, polite and even joyful attitude.
+Ignoring his well defined muscles and size, I feel safe around him.
+t "I don't think so."
+y angry"Don't antagonize him please!"
+st "That is a shame to hear."
+He looks genuinely sad.
+y awkward"I-I forgive you."
+My response was automatic, but at least it made him light up a little.
+Can't say the same about the cat's needle-like stare directed towards me.
+st "I know why you're here."
+y "You do?"
+t "Then you know we have problems to solve here."
+He nods.
+Unlike the other Nightfallen we fought before, this one has no mask, and speaks fluently.
+pass
